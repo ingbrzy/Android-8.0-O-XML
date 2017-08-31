@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d doppelte Kontakte</item>
+        <item quantity="one">1 doppelter Kontakt</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d kürzliche Anrufe • Zuletzt am %2$s</item>
+        <item quantity="one">%1$d kürzlicher Anruf • Zuletzt am %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">%d Kontakt</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d Kontakte · %2$s</item>
+        <item quantity="one">%1$d Kontakt · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakte gelöscht</item>
+        <item quantity="one">Kontakt gelöscht</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d Kontakte</item>
+        <item quantity="one">1 Kontakt</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 Kontakte • ^2</item>
+        <item quantity="one">^1 Kontakt • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Von SIM-Karten importieren</item>
+        <item quantity="one">Von SIM-Karte importieren</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d Kontakte</item>
+        <item quantity="one">1 Kontakt</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-Kontakte importiert</item>
+        <item quantity="one">1 SIM-Kontakt importiert</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Kontakte teilen über</item>
+        <item quantity="one">Kontakt teilen über</item>
+    </plurals>
+</resources>

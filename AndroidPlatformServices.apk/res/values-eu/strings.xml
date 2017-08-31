@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">Kontua blokeatu da</string>
+    <string name="account_level_title">Kontuan zerbait egin behar da</string>
+    <string name="account_removed_notification_text">%1$s kontua kendu da, ez delako osatu gailuaren kudeaketa-prozesua</string>
+    <string name="account_removed_notification_title">Kontua kendu da</string>
+    <string name="android_privacy_policy_title">Pribatutasun-gidalerro gehigarriak</string>
+    <string name="app_has_in_app_purchases">Aplikazioko erosketak</string>
+    <string name="app_has_permissions">Baimenak: %s</string>
+    <string name="app_has_runtime_permissions">Baimenak eskatuko ditu aplikazioak</string>
+    <string name="app_level_title">Saioa hasteko eskaera</string>
+    <string name="app_level_title_secondary">Saioa hasteko eskaera (%s)</string>
+    <string name="app_picker_app_already_installed_toast">Instalatuta dago aplikazioa dagoeneko</string>
+    <string name="app_picker_loading">Erabilgarri dauden aplikazioak bilatzen…</string>
+    <string name="app_picker_loading_toast">Laster kargatuko dira erabilgarri dauden aplikazioak</string>
+    <string name="app_picker_no_apps">Ez da hautatu aplikaziorik</string>
+    <string name="app_picker_no_apps_found">Ez da aurkitu aplikaziorik</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Aplikazioko erosketak ez dira transferituko ^1 gailura.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Aplikazioko erosketa batzuk agian ez dira transferituko ^1 gailura.</string>
+    <string name="apps_permissions_described_v2">"Doako iOS® aplikazio ezagunak soilik bat etorraraz daitezke Android aplikazioekin. Aplikazioetako erosketa gehienak ez dira transferituko. Play Store-n aplikazio gehiago aurkituko dituzu konfigurazioa amaitu ondoren.
+
+Agian aplikazioei aldez aurreko baimena eman beharko diezu gailuko zenbait gaitasun edo datu zehatz atzitzeko. Taldetan daude antolatuta baimen horiek. Aplikazioak instalatzea hautatzen baduzu, talde bakoitzeko baimen guztiak onartuko dituzu. Hemen behean dituzu baimen talde bakoitzaren azalpenak.
+
+Aplikazio batzuek ez dute aldez aurreko baimenik eskatuko; haiek erabiltzen dituzunean, banaka onar edo bazter dezakezu baimen bakoitza, aplikazioak datu horiek erabili aurretik.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Aplikazioak instalatzearekin bakoitzari dagozkion baimenak onartzen dituzula adierazten duzu. <annotation id="apps_permissions_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="audience_selection_done">Eginda</string>
+    <string name="auth_account_already_has_gmail">Kontuak badauka Gmail dagoeneko.</string>
+    <string name="auth_account_content_provider_label">Google kontuko datuak</string>
+    <string name="auth_account_removed_default_description">Ez da osatu gailu-kudeaketa. Joan hasierara eta hasi saioa berriro.</string>
+    <string name="auth_account_removed_default_title">Bertan behera utzi da konfigurazioa</string>
+    <string name="auth_account_removed_dm_bad_result_description">Ezin izan da osatu gailu-kudeaketa. Joan hasierara eta hasi saioa berriro.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Zure domeinuak gailu mugikorrak kudeatzea eskatzen du, baina gailuak ez du halakorik onartzen. Erabili beste kontu bat.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Ez da onartzen gailu-kudeaketa</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Ez da instalatu behar bezala gailu-kudeaketa. Joan hasierara eta hasi saioa berriro.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Ezin da instalatu</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Ez da osatu gailu-kudeaketa. Joan hasierara eta hasi saioa berriro.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Utzi egin da konfigurazioa</string>
+    <string name="auth_account_settings_title">Kontuaren ezarpenak</string>
+    <string name="auth_account_setup_title">Google kontua</string>
+    <string name="auth_account_state_sync_title">Kontuaren egoeraren sinkronizazioa</string>
+    <string name="auth_allow_button_label">Baimendu</string>
+    <string name="auth_allow_external_site_access">Izan %s zerbitzuan dituzun datuetarako etengabeko sarbidea</string>
+    <string name="auth_app_permission_ok_footnote">Jarraituz gero, aplikazioari eta Google-ri informazio hori erabiltzea baimentzen diezu, bakoitzari dagozkion zerbitzu-baldintzen eta pribatutasun-gidalerroen arabera.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Baimendu saioa hastea</string>
+    <string name="auth_authzen_allow_reset_button_text">Baimendu pasahitza berrezartzea</string>
+    <string name="auth_authzen_google_logo_label">Google logotipoa</string>
+    <string name="auth_authzen_login_challenge_approved_text">Saioa hastea onartu da</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Saioa hastea bertan behera utzi da</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Baimendu saioa hastea</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s ingurutik ari zara saioa hasten?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Saioa hasteko saiakera geldiarazi du Google-k.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Zenbakia ez da zuzena</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Ukitu beste pantailako zenbakia. Zure ordenagailuan saioa hasiko duzu.</string>
+    <string name="auth_authzen_login_challenge_title_text">Saioa hasten saiatzen ari zara?</string>
+    <string name="auth_authzen_profile_picture_label">Profileko argazkia</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Aukera saioa hasteko erabili nahi duzun aplikazioa:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Saioa hasten saiatzen ari zara?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Ez da aurkitu saio-hasieren jakinarazpenik.</string>
+    <string name="auth_authzen_pull_offline_error">Barneko errorea</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Ordenagailuan, sakatu \"Badaukazu kodea?\" eta, ondoren, idatzi:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Google-n saioa hasten saiatu zara?</string>
+    <string name="auth_authzen_recovery_approved_text">Pasahitza berrezartzeko eskaera onartu da</string>
+    <string name="auth_authzen_recovery_canceled_text">Pasahitza berrezartzeko eskaera bertan behera utzi da</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%s kokapenetik pasahitza berrezartzea baimendu nahi duzu?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Berretsi egin behar duzu</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Pasahitza berrezartzeko saiakera geldiarazi du Google-k.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Zenbakia ez da zuzena</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Ukitu beste pantailako zenbakia. Horrela, pasahitza berrezarriko da.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Baimendu pasahitza berrezartzeko aukera</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Norbaitek Google kontuaren pasahitza berrezartzea eskatu du. Pasahitza berrezartzeko saiakera geldiarazi du Google-k.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Pasahitza berrezartzea ekidin da</string>
+    <string name="auth_authzen_recovery_verification_desc_text">%s kokapenetik pasahitza berrezartzea eskatu duzu?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Pasahitza berrezartzen saiatu zara?</string>
+    <string name="auth_authzen_secure_account_button_text">Babestu kontua</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Saio-hasieren jakinarazpenen bila…</string>
+    <string name="auth_back_button_label">Atzera</string>
+    <string name="auth_cant_add_work_account_message">Zure erakundeak kudeatzen ditu mota honetako kontuak.</string>
+    <string name="auth_captcha_instructions">Idatzi hemen ikusten duzun testua:</string>
+    <string name="auth_captcha_title">CAPTCHA irudiko testua idatzi behar duzu</string>
+    <string name="auth_common_next_button">Hurrengoa</string>
+    <string name="auth_common_skip">Saltatu</string>
+    <string name="auth_common_switch_accounts">Aldatu kontua</string>
+    <string name="auth_communicating_message">Gailua Google-rekin harremanetan jartzen ari da kontuan informazioa gordetzeko. 5 minutura arte luza daiteke prozesua.</string>
+    <string name="auth_confirm_creds_sync_title">Kredentzialen egoera</string>
+    <string name="auth_d2d_source_alert_title">Sakatu eta listo</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Blokeatu eta egiaztatu</string>
+    <string name="auth_d2d_source_copy_notice">Kontuak eta datuak beste gailuan kopiatu nahi dituzu?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Egiaztatu ondoren, Bluetooth konexioa aktibatuko da gailuak elkarren artean komunika daitezen.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Egiaztatu ondoren, gailuak Bluetooth bidez konektatuko dira.</string>
+    <string name="auth_d2d_source_lock_notice">Jarraitzeko, pantaila blokeatu egingo da eta desblokeatu egin beharko duzu egiaztatzeko.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Ezin da erabili \"Sakatu eta listo\" ez dagoelako konturik gailuan.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Ezin da erabili \"Sakatu eta listo\" Bluetooth konexioa ez dagoelako erabilgarri gailuan.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth konexioa aktibatuko da gailuak elkarren artean komunika daitezen.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Bluetooth konexioa darabil.</string>
+    <string name="auth_d2d_source_notification_title">Osatu da \"Sakatu eta listo\"</string>
+    <string name="auth_d2d_source_restricted_user_toast">Erabiltzaile-profil mugatuek ezin dute \"Sakatu eta leheneratu\" eginbidea erabili.</string>
+    <string name="auth_d2d_source_title">Leheneratu kontuak</string>
+    <string name="auth_d2d_source_unknown_device_name">Gailu ezezaguna</string>
+    <string name="auth_d2d_target_sorry_alert">Arazo bat izan da</string>
+    <string name="auth_d2d_target_tap_progress_message">Aurrera egiteko, sakatu \"Ados\" botoia beste gailuan</string>
+    <string name="auth_d2d_target_title">Ukitu eta listo</string>
+    <string name="auth_d2d_target_unlock_progress_message">Begiratu beste gailuan</string>
+    <string name="auth_d2d_target_wait_progress_message">Kontuak eta datuak lortzen…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Baztertu</string>
+    <string name="auth_device_management_download_app_icon">%s aplikazioaren ikonoa</string>
+    <string name="auth_device_management_download_description">Kontu honek gailu mugikorrak kudeatzea eskatzen du. Kontuak behar dituen segurtasun-gidalerroak aplikatzeko, instalatu ^1.</string>
+    <string name="auth_device_management_download_description_kids">Gailuan kontua gehitzeko, lehendabizi, instalatu <b>^1</b>". Haurrarentzat gailua konfiguratuko duzu 
+
+^1 aplikazioarekin."</string>
+    <string name="auth_device_management_download_failed_message">Aplikazio hau erabili gabe ere jarrai dezakezu konfiguratzen</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Ezin izan da instalatu gailuak kudeatzeko aplikazioa. Kendu egingo da kontua. Saiatu berriro geroago.</string>
+    <string name="auth_device_management_download_failed_title">Ezin da deskargatu aplikazioa</string>
+    <string name="auth_device_management_download_not_updated_message">Uneko bertsioarekin ere jarrai dezakezu konfiguratzen</string>
+    <string name="auth_device_management_download_paused">Pausatuta</string>
+    <string name="auth_device_management_download_progress">Deskargatzen…</string>
+    <string name="auth_device_management_download_skip_message">Kontua erabiltzeko, gailu-kudeaketa konfiguratu behar da. Kudeaketarik gabe jarraitu nahi duzu?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Gailuak kudeatzeko aplikazioa behar du kontuak. Berriro hasi nahi duzu beste kontu batekin?</string>
+    <string name="auth_device_management_go_back">Itzuli</string>
+    <string name="auth_device_management_screenlock_description">Gailu honen bidez laneko kontuan sartu nahi baduzu, pantaila blokeatzeko aukera bat konfiguratu beharko duzu. Erakundeak gailu mugikorrak erabiltzeko xedatutako gidalerroa da hori.</string>
+    <string name="auth_device_management_screenlock_skip_message">Pantaila blokeatzeko aukera erabili behar da kontu honekin. Berriro hasi nahi duzu beste kontu batekin?</string>
+    <string name="auth_device_management_start_description">Kontu honek gailu mugikorrak kudeatzea eskatzen du. \"Hurrengoa\" sakatzen duzunean, kontuak behar dituen segurtasun-gidalerroak aplikatu ahalko dituzu ^1 aplikazioaren bidez.</string>
+    <string name="auth_device_management_start_description_kids">Gailuan kontua gehitzeko, erabili <b>^1</b>". Haurrarentzat gailua konfiguratuko duzu 
+
+^1 aplikazioarekin."</string>
+    <string name="auth_device_management_title">Gailu-kudeaketa</string>
+    <string name="auth_device_management_update_description">Kontu honek gailu mugikorrak kudeatzea eskatzen du. Kontuak behar dituen segurtasun-gidalerroak gordetzeko, ^1 aplikazioaren bertsio berriagoa instalatu behar duzu.</string>
+    <string name="auth_device_management_update_description_kids">Gailuan kontua gehitzeko, lehendabizi, instalatu <b>^1</b>" aplikazioaren bertsiorik berriena. Haurrarentzat gailua konfiguratuko duzu 
+
+^1 aplikazioarekin."</string>
+    <string name="auth_dismiss_button_label">Baztertu</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> kontuak ez du Gmail erabiltzen.</string>
+    <string name="auth_error_account_disabled">"Kontua desgaitu egin da. 
+
+(Xehetasunak lortzeko, joan http://google.com/accounts orrira web-arakatzaile baten bidez)."</string>
+    <string name="auth_error_account_not_verified">"Ez da kontua egiaztatu. Kontua egiaztatzeko, begiratu postontzia eta erabili bidali dizugun esteka. 
+
+(Kontuaren informazioa berreskuratzeko, joan http://www.google.com/accounts/recovery orrira ordenagailuaren bidez)"</string>
+    <string name="auth_error_bad_password">Ez da batere segurua pasahitza edo balio ez duten karaktereak ditu. Saiatu berriro.</string>
+    <string name="auth_error_bad_username">Erabiltzaile-izen baliogabea.</string>
+    <string name="auth_error_generic_server_error">"Arazo bat izan da Google zerbitzarietara konektatzean. 
+
+Saiatu berriro geroago."</string>
+    <string name="auth_error_invalid_second_factor">Erabili aplikazioaren berariazko pasahitza zure kontuko ohiko pasahitzaren ordez.</string>
+    <string name="auth_error_login_failed">"Erabiltzaile-izena eta pasahitza ez datoz bat. Saiatu berriro.
+
+Kontuko informazioa berreskuratzeko, joan google.com/accounts/recovery/ orrira."</string>
+    <string name="auth_error_needs_browser">Kontua atzitzeko, saioa hasi behar duzu Interneten. Arakatzailean saioa hasteko, sakatu Hurrengoa.</string>
+    <string name="auth_error_no_network">"Ez zaude sarera konektatuta. 
+
+Aldi baterako arazoa izan liteke. Saiatu berriro edo konektatu beste Wi-Fi sare batera."</string>
+    <string name="auth_error_not_logged_in">Erabiltzaileak ez du hasi saioa.</string>
+    <string name="auth_error_username_unavailable">Erabiltzaile-izena ez dago erabilgarri.</string>
+    <string name="auth_existing_account_error_text">^1 kontua lehendik dago Android gailu honetan.</string>
+    <string name="auth_existing_account_error_title">Kontua lehendik dago</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Ezin izan da hasi saioa gailuan, pasahitza duela gutxi aldatu delako. Saiatu berriro saioa hasten pasahitza aldatu zenetik 24 ordutara.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Gailua babesteko eginbideek funtzionatzeari utziko diote.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Gailuan gelditzen den azken Google kontua profil pertsonaletik ateratzen baduzu, gailuaren lapurretaren aurkako eginbideak desgaituko dira. Eginbide horiek berriro gehitzeko geroago, beste kontu bat gehitu beharko duzu gailuan.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Ziur hori egin nahi duzula?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Laneko profilera eraman nahi duzu kontua?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Ezin da hasi saioa gailuan, errore ezezagun bat gertatu delako. Erabili beste kontu bat edo saiatu berriro 24 orduren buruan.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Hasi saioa jabeak gailu honetan dituen kontuetako bat erabilita</string>
+    <string name="auth_field_cant_be_blank">Eremua ezin da hutsik utzi.</string>
+    <string name="auth_frp_add_account_no">Ez</string>
+    <string name="auth_frp_add_account_prompt">^1 gehitu nahi duzu gailuan? Beste konturik baduzu, geroago gehi dezakezu.</string>
+    <string name="auth_frp_add_account_yes">Bai</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Ezin izan da atzitu kontua. Ziurtatu gailuak erakundearen segurtasun-gidalerroak gordetzen dituela. Errore hau ikusten jarraitzen baduzu, jarri erakundeko administratzailearekin harremanetan.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Kontuaren errorea</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Zure domeinuak gailu mugikorrak kudeatzea eskatzen du.  "<b>^1</b> erabiltzailearen kontuak eskatzen dituen segurtasun-gidalerroak gordearazteko, instalatu \"Google Apps gailuen gidalerroak\" aplikazioa.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Deskargatu</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" eremuan hizkiak,
+zenbakiak eta puntuak soilik erabil daitezke."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> erabiltzaile-izenak ez dauka hizkirik.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> erabiltzaile-izenak 6 karaktere baino gutxiago edo 30 baino gehiago ditu.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> erabiltzaile-izena ez dago erabilgarri.</string>
+    <string name="auth_gls_name_checking_info_title">Informazioa egiaztatzen…</string>
+    <string name="auth_gls_sync_item_title">Sinkronizatu %s</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> kontua zure erakundeak kudeatzen duen gailu edo laneko profil batean gehitu behar da. Horretarako, jarraitu IKT administratzaileak emandako argibideei.</string>
+    <string name="auth_google_title_logo">Google logotipoa</string>
+    <string name="auth_invalid_login_character">Karaktere baliogabea. 0 eta 9 arteko zenbakiak, hizki minuskulak nahiz maiuskulak eta puntuak onartzen dira soilik.</string>
+    <string name="auth_invalid_password_character">Pasahitzak karaktere baliogabea du.</string>
+    <string name="auth_invalid_username">Idatzi duzun testua ez da baliozko erabiltzaile-izena.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Aurrera eginez gero, onartu egingo duzu agian gailuak ere automatikoki deskargatu eta instalatuko dituela Google-ren, operadorearen edo fabrikatzailearen eguneratzeak eta aplikazioak, beharbada datu-konexioa erabilita. Baliteke aplikazio horietako batzuetan erosketak egin ahal izatea. Edonoiz ken ditzakezu aplikazio horiek.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Egin tokia gailuaren memoria ia beteta duzunean.</b> Horretarako, kendu datu batzuk gailutik (adibidez, babeskopiak dituzten argazkiak eta bideoak).</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Gorde gailuko datuen babeskopiak automatikoki</b> (adibidez, Wi-Fi sareetako pasahitzenak eta deien historiarena), baita aplikazioen datuenak ere (adibidez, aplikazioek gordetako ezarpenenak eta fitxategienak) haurraren Google Drive-n.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Babeskopiak automatikoki egiteko aukera aktibatzen badituzu, noizean behin gailuen eta aplikazioen datuak haurraren Google Drive-ko karpeta pribatu batean gordeko dira. Aplikazioen datuak aplikazioek gordetako edozein datu izan daitezke (garatzaileen ezarpenen arabera), eta isilpekoa izan litekeen informazioa ere sar liteke (adibidez, kontaktuak, mezuak eta argazkiak).
+
+Datu horien babeskopiek ez dute eraginik izango haurraren Drive biltegiratze-kuotan. Fitxategiak handiak badira edo garatzaileek zerbitzutik nahita baztertu badituzte, ez da haien babeskopiarik egingo."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Gorde gailuko datuen babeskopiak automatikoki</b> (adibidez, Wi-Fi sareetako pasahitzenak, SMS mezuenak eta deien historiarena), baita aplikazioen datuenak ere (adibidez, aplikazioek gordetako ezarpenenak eta fitxategienak) haurraren Google Drive-n.</string>
+    <string name="auth_kids_setup_wizard_services_description">Guraso gisa, edonoiz aktiba edo desaktiba ditzakezu zerbitzu hauek haurraren kontuan. Google-ren <annotation link="google_privacy">gidalerroen</annotation>" arabera erabiliko dira datuak.
+
+Informazio gehiago lortu nahi baduzu, sakatu zerbitzu bakoitza."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Erabili Google-ren kokapen-zerbitzua</b> aplikazioei haurraren kokapena zehazten laguntzeko. Kokapen-datu anonimoak Google-ra bidaliko dira gailua piztuta dagoenean.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Google-ren kokapen-zerbitzuak Wi-Fi sareak eta sare mugikorrak erabiltzen ditu gailuaren kokapena bizkorrago eta zehatzago kalkulatzeko. Gailuan Kokapena ezarpena, eta kokapena kalkulatzeko Wi-Fi sareak edo sare mugikorrak erabiltzen dituen moduetako bat (adibidez, Zehaztasun handia edo Bateria aurreztea) aktibatuta badaude, aktibo egongo da zerbitzu hori.
+
+Zerbitzua desaktibatzeko:
+
+"<li>Desaktibatu gailuaren Kokapena ezarpen nagusia.</li>"
+
+"<li>Utzi Kokapena ezarpen nagusia aktibatuta eta hautatu GPS sistema soilik darabilen modua (normalean \"Gailua soilik\" izenekoa).</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Lagundu Android esperientzia hobetzen</b>, diagnostikoak eta gailu eta aplikazioen erabilerari buruzko datuak Google-ra automatikoki bidalita. Informazio hori ez da erabiliko haurra identifikatzeko eta lagungarria izango da, besteak beste, bateriaren iraupena, aplikazioen errendimendua eta sareko konexioa hobetzeko.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Gailuari eta haren erabilerari buruzko informazio orokorra da hori (besteak beste, bateria-maila, aplikazioen erabilera eta sareko konexioak aipatzen dira), eta Google-ren produktuak eta zerbitzuak guztiontzat hobetzeko erabiliko da. Datu bateratu horietako batzuekin, gure bazkideek (adibidez, Android garatzaileek) euren aplikazioak eta produktuak hobetuko dituzte gainera.
+
+Eginbidea desaktibatuta ere, gailuak beharrezko informazioa bidaltzen jarraitu ahal izango du funtsezko zerbitzuak jasotzeko, hala nola sistemaren eguneratzeak eta segurtasuna."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Gailuari buruzko informazio orokorra da hau, baita haren erabilerari buruzkoa ere (esaterako, bateria-maila, aplikazioen erabilera eta sareko konexioa aipatzen dira). Google-ren produktuak eta zerbitzuak guztiontzat hobetzeko erabiliko da informazioa. Datu orokorrak erabilita, gure bazkideek (adibidez Android garatzaileek) euren aplikazioak eta produktuak ere hobetuko dituzte.
+
+Eginbidea desaktibatuta ere, gailuak beharrezko informazioa bidaltzen jarraitu ahal izango du funtsezko zerbitzuak jasotzeko, hala nola sistemaren eguneratzeak eta segurtasun-neurriak.
+
+Eginbide hori kontrolatzeko, zoaz Ezarpenak > Google atalera. Menuan, hautatu Erabilera eta diagnostikoak."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Pasahitz okerra idatzi duzu edo kontua aldatu egin da. Idatzi berriro pasahitza. Pasahitza ahaztu baduzu eta kontua berreskuratu behar baduzu, egin klik <annotation id="help_url">hemen</annotation>.</string>
+    <string name="auth_login_activity_task_title">Saioa hasten…</string>
+    <string name="auth_login_activity_title">Hasi saioa</string>
+    <string name="auth_login_task_title">Saio hasiera</string>
+    <string name="auth_login_title">Idatzi helbide elektronikoa eta pasahitza</string>
+    <string name="auth_minutemaid_ssl_error">"Arazo bat izan da  %s ostalarira konektatzean."</string>
+    <string name="auth_network_unreliable_help">Aldi baterako arazoa izan daiteke edo baliteke Android gailuak datu-zerbitzuen hornikuntzarik ez izatea. Arazoa konpontzen ez bada, deitu bezeroarentzako arreta-zerbitzura.</string>
+    <string name="auth_next_button_label">Hurrengoa</string>
+    <string name="auth_no_network">Ez duzu sareko konexiorik.</string>
+    <string name="auth_no_network_help">Aldi baterako arazoa izan daiteke edo baliteke Android gailuak datu-zerbitzuen hornikuntzarik ez izatea. Saiatu berriro sare mugikor batera konektatuta zaudenean edo konektatu Wi-Fi sare batera.</string>
+    <string name="auth_no_network_help_wifi_only">Aldi baterako arazoa izan daiteke. Saiatu berriro edo konektatu beste Wi-Fi sare batera.</string>
+    <string name="auth_otp_error">Arazo bat izan da segurtasun-kodea sortzean.</string>
+    <string name="auth_otp_explained_paragraph">Pasahitza ahazten bazaizu edo aldaketaren bat hautematen bada zure kontuan saioa hasteko ohiko moduan, segurtasun-kode bat eskatuko dizu Google-k kontua babesteko neurri gisa. Erabil ezazu orain edo itzuli ona beste bat behar duzunean.</string>
+    <string name="auth_otp_header_message">Kode hau noiz erabili behar den saioa hasteko</string>
+    <string name="auth_otp_help">Laguntza eta iritziak</string>
+    <string name="auth_otp_no_accounts_available_message">Gailuan ez dago konturik konfiguratuta.</string>
+    <string name="auth_otp_progress_dialog_message">Segurtasun-kodea sortzen.</string>
+    <string name="auth_password">Pasahitza</string>
+    <string name="auth_plus_audience_selection_description_acl">PARTEKATU HAUEKIN</string>
+    <string name="auth_plus_failure_new_account_text">Google kontua sortu duzu, baina Google+ profila sortzeko eskaerak ez du aurrera egin. Saiatu geroago plus.google.com bisitatzen edozein web-arakatzaileren bidez.</string>
+    <string name="auth_plus_failure_text">Google+en erregistratzeko egin duzun eskaera ez da aurrera eraman. Saiatu geroago plus.google.com gunera joaten edozein web-arakatzaileren bidez.</string>
+    <string name="auth_plus_failure_title">Sortu Google+ profila geroago</string>
+    <string name="auth_plus_info_fragment_app_name">%s aplikazioak hau egin nahi du:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s gailuko %s aplikazioak hau egin nahiko luke:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Zirkulu hedatuak</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Hautatutako zirkuluak</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Zu bakarrik</string>
+    <string name="auth_plus_scope_fragment_public_label">Sareko edonor</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Zure zirkuluak</string>
+    <string name="auth_relogin_activity_title">Idatzi pasahitza berriro</string>
+    <string name="auth_remove_account_start_over">Hasi berriro</string>
+    <string name="auth_scope_more_details">Informazio gehiago</string>
+    <string name="auth_server_error">Arazo bat izan da Google zerbitzariekin komunikatzean.</string>
+    <string name="auth_server_error_help">Saiatu berriro geroago.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Gehitu da kontua</string>
+    <string name="auth_setup_wizard_account_added_description">Gehitu da kontua. Orain, hautatu Google zerbitzuen aukerak.</string>
+    <string name="auth_setup_wizard_back_button_label">Atzera</string>
+    <string name="auth_setup_wizard_next_button_label">Hurrengoa</string>
+    <string name="auth_setup_wizard_services_activity_title">Google zerbitzuak</string>
+    <string name="auth_setup_wizard_services_agreement">Aurrera eginez gero, onartu egingo duzu agian gailuak ere automatikoki deskargatu eta instalatuko dituela Google-ren, operadorearen edo fabrikatzailearen eguneratzeak eta aplikazioak, beharbada datu-konexioa erabilita. Baliteke aplikazio horietako batzuetan erosketak egin ahal izatea. Edonoiz ken ditzakezu aplikazio horiek.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Aplikazioak kentzeko, zoaz Ezarpenak > Aplikazioak edo Aplikazioen kudeatzailea atalera. Sakatu desinstalatu nahi duzun aplikazioa (baliteke hatza eskuinera edo ezkerrera pasatu behar izatea hura aurkitzeko) eta, ondoren, sakatu Desinstalatu edo Desgaitu.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Honen bidez, onespena eta baimena ematen dizkiezu aurrez kargatutako Google aplikazioei gailuko informazioa eta funtzioak atzitzeko. Baimen horien erabilerari buruzko informazio gehiago lortzeko, ikusi <annotation link="app_permissions">orri hau</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Instalatu eguneratzeak eta aplikazioak</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Telefonoaren memoria ia beteta badago, kendu datu batzuk (adibidez, babeskopiak dituzten argazkiak eta bideoak) tokia egiteko.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Konektatuta zaudenean ere atzi ditzakezu datuak. Eginbide hori eta kentzen diren elementuak kontrolatzeko, zoaz Ezarpenak > Memoria > Memoria adimenduna atalera.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Egin tokia</string>
+    <string name="auth_setup_wizard_services_backup">Berrezarri telefonoaren jatorrizko datuak edo aldatu telefonoz edonoiz. Aplikazioak, aplikazioen datuak eta gailuaren ezarpenak (Wi-Fi sareen pasahitzak barne) sartzen dira babeskopietan.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Garatzaileen ezarpenetan oinarrituta, aplikazioek gordetako edozein datu sartzen da aplikazioen datuetan. Haien artean, badaude kontuzkoak izan daitezkeen datuak ere (adibidez, kontaktuak, mezuak eta argazkiak).
+
+Babeskopiek ez dute tokirik hartzen Drive-n.
+
+Zerbitzu hau desaktibatzeko, joan Ezarpenak atalera."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Aplikazioek (garatzaileen ezarpenen arabera) gordetako datu guztiak sartzen dira aplikazioen datuetan. Horien artean, badaude kontuzkoak izan daitezkeen datuak ere (adibidez, kontaktuak, mezuak eta argazkiak).
+
+Gailu honetako argazkiak eta bideoak Google Argazkiak zerbitzuarekin sinkronizatzen dira, beste gailu batzuetatik bilatu, editatu, ezabatu eta partekatu ahal izateko. Lehenespenez, bereizmen osoko argazkiak eta bideoak kargatzen dira.
+
+Babeskopiek ez dute tokirik hartzen Drive-n.
+
+Zerbitzu hau desaktibatzeko, joan Ezarpenak atalera."</string>
+    <string name="auth_setup_wizard_services_backup_title">Egin babeskopia Google Drive-n</string>
+    <string name="auth_setup_wizard_services_backup_v23">Berrezarri telefonoaren jatorrizko datuak edo aldatu telefonoa edonoiz. Aplikazioak, aplikazioen datuak, deien historia, kontaktuak eta gailuaren ezarpenak (Wi-Fi sareen pasahitzak eta baimenak barne) sartzen dira babeskopietan.</string>
+    <string name="auth_setup_wizard_services_backup_v26">Berrezarri telefonoaren jatorrizko datuak edo aldatu telefonoa edonoiz. Aplikazioak, aplikazioen datuak, deien historia, kontaktuak, gailuaren ezarpenak (Wi-Fi sareen pasahitzak eta baimenak barne) eta SMS mezuak sartzen dira babeskopietan.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Berrezarri telefonoaren jatorrizko datuak edo aldatu telefonoa edonoiz. Aplikazioak, aplikazioen datuak, deien historia, kontaktuak, gailuaren ezarpenak (Wi-Fi sareen pasahitzak eta baimenak barne), argazkiak, bideoak eta SMS mezuak sartzen dira babeskopietan. Argazkiak eta bideoak Google kontuarekin sinkronizatzen dira eta hainbat zerbitzutan erabil daitezke.</string>
+    <string name="auth_setup_wizard_services_description">Zerbitzu bakoitzari buruzko informazio gehiago lortzeko (esaterako, geroago nola aktibatu edo desaktibatu jakiteko), sakatu hau. Google <annotation link="google_privacy">Pribatutasun-gidalerroak</annotation> gordeta erabiliko dira datuak.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Play Store dendan dituzu aplikazioaren xehetasunak (aplikazioko erosketei buruzkoak barne). Aplikazioen datuak eta ezarpenak Google kontuarekin saioa hasita duten gailuekin sinkronizatuko dira. 
+
+"<a href="https://play.google.com/about/play-terms.html">Google Zerbitzu-baldintzak</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Lortu informazio gehiago</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Esteka bat sakatzen duzunean, Google Play-k zuzeneko aplikaziorik baden begiratzen du, ezer instalatu gabe exekutatu ahal izateko. Zuzeneko aplikazioak aldi baterako geratzen dira gailuan.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Erabili aplikazioak zuzenean, instalatu beharrik gabe</string>
+    <string name="auth_setup_wizard_services_location_sharing">Erabili Google-ren kokapen-zerbitzua aplikazioei zure kokapena zehazten laguntzeko. Kokapen-datu anonimoak Google-ra bidaliko dira gailua piztuta duzunean.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Google-ren kokapen-zerbitzuak Wi-Fi sareak eta sare mugikorrak erabiltzen ditu gailuaren kokapena bizkorrago eta zehatzago kalkulatzeko. Gailuan Kokapena ezarpena, eta kokapena kalkulatzeko Wi-Fi sareak edo sare mugikorrak erabiltzen dituen moduetako bat (adibidez, Zehaztasun handia edo Bateria aurreztea) aktibatuta badaude, aktibo egongo da zerbitzu hori.
+
+Zerbitzua desaktibatzeko:
+
+"<li>Desaktibatu gailuaren Kokapena ezarpen nagusia.</li>"
+
+"<li>Utzi Kokapena ezarpen nagusia aktibatuta eta hautatu GPS sistema soilik darabilen modua (normalean \"Gailua soilik\" izenekoa).</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Lagundu aplikazioei kokapena bilatzen</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Baimendu aplikazioei eta zerbitzuei Wi‑Fi bidezko konexioak bilatzea, baita Wi-Fi konexioa desaktibatuta dagoenean ere.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Kokapen-ezarpenetan desaktiba dezakezu.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Hobetu kokapenaren zehaztasuna</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Baimendu aplikazioei eta zerbitzuei Wi‑Fi eta Bluetooth bidezko konexioak bilatzea, baita ezarpen horiek desaktibatuta daudenean ere.</string>
+    <string name="auth_setup_wizard_services_play">Eman Google Play-ko azken albisteen eta eskaintzen berri.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Babeskopiak eta memoria</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Gailuaren mantentze-lanak</string>
+    <string name="auth_setup_wizard_services_section_location">Kokapena</string>
+    <string name="auth_setup_wizard_services_tos">Aurrera eginez gero, <annotation link="tos">Google Zerbitzu-baldintzak</annotation> ere onartuko dituzu.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Gailua erabiltzen duzunean, <annotation link="google_privacy">Pribatutasun-gidalerroak</annotation> eta <annotation link="tos">gainerako baldintza aplikagarriak</annotation> gordeko ditugu.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Bidali diagnostikoak, eta gailu eta aplikazioen erabilerari buruzko datuak Google-ra automatikoki Android hobetzen laguntzeko. Datu horiei esker, besteak beste, bateriaren iraupena, aplikazioen egonkortasuna eta sareko konexioak hobetu ahalko ditugu. Sareko eta aplikazioetako beste jarduera batzuk ere aktibatu badituzu, zure kontuan gordeko da informazio hori, Nire jarduerak atalean kudea dezazun.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Gailuari eta haren erabilerari buruzko informazio orokorra da hori (besteak beste, bateria-maila, aplikazioen erabilera eta sareko konexioak aipatzen dira), eta Google-ren produktuak eta zerbitzuak guztiontzat hobetzeko erabiliko da. Datu bateratu horietako batzuekin, gure bazkideek (adibidez, Android garatzaileek) euren aplikazioak eta produktuak hobetuko dituzte gainera.
+
+Eginbidea desaktibatuta ere, gailuak beharrezko informazioa bidaltzen jarraitu ahal izango du funtsezko zerbitzuak jasotzeko, hala nola sistemaren eguneratzeak eta segurtasuna."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Nire jarduerak ataleko ezarpenak eguneratzeko, joan myactivity.google.com helbidera.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Eginbidea kontrolatzeko, joan Google Ezarpenak atalera. Menuan, hautatu Erabilera eta diagnostikoak.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Eginbidea kontrolatzeko, joan Ezarpenak > Google atalera. Menuan, hautatu Erabilera eta diagnostikoak.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Bidali sistemaren datuak</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Baimendu Google Horma-paper dinamikoak kokapenaren arabera doitzea Google-ren kokapen-zerbitzuaren bidez.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Horma-paper dinamikoei Google-ren kokapen-zerbitzurako sarbidea emateko edo kentzeko, sakatu Ezarpenak > Aplikazioak eta jakinarazpenak > Aplikazioaren informazioa. Menuaren luzapenean, sakatu Erakutsi sistema > Datu dinamikoen horma-paperak edo Lurraren horma-paper dinamikoak > Baimenak.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Utzi kokapena erabiltzen horma-paperei</string>
+    <string name="auth_setup_wizard_title">Konfigurazio-morroia</string>
+    <string name="auth_show_error_activity_title">Ezin izan da saioa hasi</string>
+    <string name="auth_show_error_title">Errorea</string>
+    <string name="auth_sign_in_agreement">Saioa hasiz gero, <annotation id="google_privacy">Google</annotation> Pribatutasun-gidalerroak onartzen dituzu, baita Pribatutasun-gidalerro <annotation id="android_privacy">gehigarriak</annotation> ere.</string>
+    <string name="auth_sign_in_browser">Arakatzailearen saioa hasteko pantaila</string>
+    <string name="auth_sign_in_button_label">Hasi saioa</string>
+    <string name="auth_sign_in_with_google_account_short">Hasi saioa Google kontuarekin:</string>
+    <string name="auth_skip_button_label">Saltatu</string>
+    <string name="auth_submission_error_text">Errore bat gertatu da. Saiatu berriro.</string>
+    <string name="auth_submission_title">Errore bat gertatu da…</string>
+    <string name="auth_try_again_button_label">Saiatu berriro</string>
+    <string name="auth_ui_activity_authenticating">Autentifikatzen…</string>
+    <string name="auth_ui_activity_title">Google saio-hasiera</string>
+    <string name="auth_ui_activity_title_browser_signin">Saio-hasiera</string>
+    <string name="auth_ui_add_account_title">Kontuaren konfigurazioa</string>
+    <string name="auth_uncertified_notification_content">Gailuak ez dauka fabrikatzailearen ziurtagiria</string>
+    <string name="auth_uncertified_notification_description">"Gailu honen fabrikatzailea Google aplikazioak erabiltzen ari da, baina Google-k ez du ziurtatu gailua.
+
+Baliteke ziurtatu gabeko gailuak seguruak ez izatea eta sistemaren edo aplikazioen eguneratzeak ez jasotzea. Gainera, baliteke aplikazio eta eginbideek (adibidez, fitxategien eta argazkien babeskopiak) behar bezala ez funtzionatzea.
+
+Arazoa konpontzeko, jarri gailuaren fabrikatzailearekin harremanetan.
+
+Google ziurtagiridun bazkideei buruzko informazio gehiago lortzeko, zoaz %s helbidera."</string>
+    <string name="auth_uncertified_notification_learn_more">Lortu informazio gehiago</string>
+    <string name="auth_uncertified_notification_title">Abisua: gailua ez dago ziurtatuta</string>
+    <string name="auth_username">Helbide elektronikoa</string>
+    <string name="auth_work_authenticator_label">Kontu kudeatua</string>
+    <string name="authorization_dialog">Baimena emateko leihoa</string>
+    <string name="auto_restore_summary">Aplikazioak berriro instalatzean, leheneratu babeskopia duten ezarpenak eta datuak</string>
+    <string name="auto_restore_title">Leheneratze automatikoa</string>
+    <string name="autofill_dataset_password">Erabili kontu honen pasahitza: <b>^1</b></string>
+    <string name="autofill_datatype_address">Helbideak</string>
+    <string name="autofill_datatype_password">Gordetako pasahitzak</string>
+    <string name="autofill_datatype_payment">Kreditu-txartelak</string>
+    <string name="autofill_datatype_profile">Informazio pertsonala</string>
+    <string name="autofill_label">Bete automatikoki Google-rekin</string>
+    <string name="autofill_optin_line1"><b>Sakatu hau Google-ri zure partez betetzen uzteko</b></string>
+    <string name="autofill_optin_line2">Chrome-ren betetze automatikoan gordetako informazioarekin</string>
+    <string name="autofill_setup_points">"• Google-k pantailan dagoena erabiltzen du automatikoki zer bete dezakeen erabakitzeko. 
+• Ezarpenak atalean ikus eta kudea ditzakezu betetze automatikoak erabilgarri dituen datuak."</string>
+    <string name="autofill_setup_summary">Ukitu bakarrarekin, eman pasahitzak, helbideak, kreditu-txartelak eta kontuan gordeta dituzun beste hainbat datu.</string>
+    <string name="autofill_setup_summary_single_account">Ukitu bakarrarekin, eman pasahitzak, helbideak, kreditu-txartelak eta kontuan (<b>^1</b>) gordeta dituzun beste hainbat datu.</string>
+    <string name="backup_configure_account_default_summary">Ez dago datuen babeskopiak gordetzen dituen aplikaziorik</string>
+    <string name="backup_configure_account_title">Babeskopien kontua</string>
+    <string name="backup_data_summary">Egin aplikazioetako datuen, Wi-Fi pasahitzen eta gainerako ezarpenen babeskopiak eta gorde Google Drive-n</string>
+    <string name="backup_data_summary_full">"Egin babeskopiak automatikoki urrunetik, bai gailuetako datuenak (esaterako, Wi-Fi sareetako pasahitzak eta deien historia), bai aplikazioetako datuenak (esaterako, ezarpenak eta aplikazioek gordetako fitxategiak).
+
+Babeskopiak automatikoki egiteko aukera aktibatzean, gailuko eta aplikazioetako datuak urrunetik gordetzen dira aldizka. Aplikazioetako datuak aplikazioek gordetako edozein datu izan daitezke (garatzailearen ezarpenen arabera), eta isilpekoa izan litekeen informazioa ere sar daiteke (adibidez, kontaktuak, mezuak eta argazkiak)."</string>
+    <string name="backup_data_title">Egin babeskopia Google Drive-n</string>
+    <string name="backup_erase_dialog_message">Wi-Fi pasahitzen, laster-marken, bestelako ezarpenen eta aplikazioetako datuen babeskopiak egiteari utzi eta Google Drive-ko kopia guztiak ezabatu nahi dituzu?</string>
+    <string name="backup_erase_dialog_message_full">Babeskopiak, bai gailuetako datuenak (esaterako, Wi-Fi pasahitzak eta deien historia), bai aplikazioetako datuenak (esaterako, ezarpenak eta aplikazioek gordetako fitxategiak), egiteari utzi eta Google Drive-ko kopia guztiak ezabatu nahi dituzu?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Errore bat gertatu da argazkien ezarpenak irekitzean</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Babeskopiak automatikoki egiteko aukera aktibatuz gero:
+
+ ● Gailuaren ezarpenak eta aplikazioen datuak Google Drive-ko karpeta pribatu batean gordetzen dira aldizka. Aplikazioen datuen artean askotariko datuak aurki daitezke (garatzaileen ezarpenen arabera aplikazioak gorde duen edozer), kontuzko informazioa izan dezaketenak barne, hala nola kontaktuak, mezuak eta argazkiak.
+
+ Ez dira sartuko babeskopietan ez fitxategi handiak, ez garatzaileek zerbitzu honetatik kanpo uzteko konfiguratu dituztenak.
+
+ ● Gailuarekin ateratako eta grabatutako argazkiak eta bideoak Google Argazkiak zerbitzuarekin sinkronizatuko dira, haren bidez bila, edita eta ezaba ditzazun, esku artean duzun gailua edozein dela ere.
+
+ Modu lehenetsian, bereizmen osoan kargatzen dira argazkiak eta bideoak, eta ez dute tokirik hartzen Drive-n.
+
+ ● Kontaktuak eta gailu honetan duzun haiei buruzko informazioa Google Kontaktuak zerbitzuarekin sinkronizatzen dira. Google Kontaktuak aplikazioa erabil dezakezu kontaktuak edozein gailuren bidez bilatzeko, editatzeko, ezabatzeko eta partekatzeko.
+
+ ● Egutegiko sarrerak eta gailu honetan duzun haiei buruzko informazioa Google Calendar zerbitzuarekin sinkronizatzen dira. Google Calendar aplikazioa erabil dezakezu egutegiko edukia edozein gailuren bidez bilatzeko, editatzeko, ezabatzeko eta partekatzeko.
+
+ Babeskopiek ez dute tokirik hartzen Drive-n."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Babeskopia automatikoak aktibatzen dituzunean:
+
+ ● Gailuaren ezarpenak eta aplikazioen datuak Google Drive-ko karpeta pribatu batean gordeko dira aldizka. Aplikazioen datuen artean askotariko datuak aurki daitezke (garatzaileen ezarpenen arabera aplikazioak gorde duen edozer), kontuzko informazioa izan dezaketenak barne, hala nola kontaktuak, mezuak eta argazkiak.
+
+ Babeskopietan ez dira sartuko ez fitxategi handiak, ez garatzaileek zerbitzu honetatik kanpo uzteko konfiguratu dituztenak.
+
+ ● Gailu honetan dituzun kontaktuak eta haiei buruzko informazioa Google Kontaktuak zerbitzuarekin sinkronizatuko dira. Kontaktuak edozein gailuren bidez bilatzeko, editatzeko, ezabatzeko eta partekatzeko, Google Kontaktuak aplikazioa erabil dezakezu.
+
+ ● Gailu honetan dituzun Egutegiko sarrerak eta haiei buruzko informazioa Google Calendar zerbitzuarekin sinkronizatuko dira. Egutegiko edukia edozein gailuren bidez bilatzeko, editatzeko, ezabatzeko eta partekatzeko erabil dezakezu Google Calendar aplikazioa.
+
+ Babeskopiek ez dute tokirik hartzen Drive-n."</string>
+    <string name="backup_opt_in_backup_description_extra">Egutegia, kontaktuak, argazkiak eta bideoak Google kontuarekin sinkronizatuta dauzkazu eta Google zerbitzu guztietan dituzu erabilgarri.</string>
+    <string name="backup_opt_in_backup_description_v2">Babeskopia automatikoak erabiliz gero edonoiz leheneratu ahal izango dituzu datuak, telefono berean nahiz berri batean. <annotation id="backup_opt_in_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Datu hauen babeskopiak egiteari utziko zaio:
+
+Aplikazioak eta haien datuak.
+Deien historia.
+Gailuaren ezarpenak.
+Argazkiak eta bideoak.
+SMS mezuak.
+
+Egutegiak eta kontaktuak, aldiz, Google kontuarekin sinkronizatuta izaten jarraituko duzu. Gailua konfiguratzen amaitu ondoren, beste inoiz sinkronizazio-ezarpenak aldatu nahi izanez gero, joan "<annotation id="backup_opt_in_settings_instructions">Ezarpenak > Kontuak > Google</annotation> atalera.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Babeskopiak desaktibatu nahi dituzu?</string>
+    <string name="backup_opt_in_backup_list">"Aplikazioak eta haien datuak
+Egutegia
+Deien historia
+Kontaktuak
+Gailuaren ezarpenak (Wi-Fi pasahitzak barne)
+Argazkiak eta bideoak
+SMS mezuak"</string>
+    <string name="backup_opt_in_backup_list_header">Hauek gordetzen dira babeskopietan:</string>
+    <string name="backup_opt_in_backup_title">Egin babeskopia Google Drive-n</string>
+    <string name="backup_opt_in_disable_backup">Desaktibatu babeskopiak</string>
+    <string name="backup_photos_update">Eguneratu Google Argazkiak</string>
+    <string name="backup_settings_activity_backup_title">Egin babeskopiak</string>
+    <string name="backup_settings_activity_title">Babeskopiak eta berrezartzea</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Ez kopiatu</string>
+    <string name="chrome_privacy_title">Chrome Pribatutasun-oharra</string>
+    <string name="chrome_tos_title">Chrome Zerbitzu-baldintzak</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$s kontuan dituzun pasahitzak pasaesaldiaren bidez enkriptatu dira. Pasaesaldia ahaztu baduzu, ez jarraitu eta berrezarri sinkronizazioa &lt;a href=%2$s>Google Dashboard&lt;/a> bidez.</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync pasaesaldia</string>
+    <string name="chromesync_enter_passphrase_hint">Idatzi pasaesaldia</string>
+    <string name="chromesync_entered_wrong_passphrase">Pasaesaldia ez da zuzena</string>
+    <string name="chromesync_no_browser_found">Ez da aurkitu esteka ireki dezakeen arakatzailerik</string>
+    <string name="close_button_label">Itxi</string>
+    <string name="cloud_restore_app_picker_button">Leheneratu</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Ez dago aplikaziorik babeskopian</string>
+    <string name="cloud_restore_app_picker_title">Aukeratu leheneratu beharreko aplikazioak</string>
+    <string name="common_accept">Onartu</string>
+    <string name="common_account_chip_add_account_button_label">Erabili beste kontu bat</string>
+    <string name="common_add_account_button_label">Gehitu kontua</string>
+    <string name="common_add_account_label">Gehitu kontu bat</string>
+    <string name="common_ads_settings_title">Iragarkiak</string>
+    <string name="common_agree">Onartu</string>
+    <string name="common_app_name">Google Play zerbitzuak</string>
+    <string name="common_asm_preferences_settings_title">Kontuaren hobespenak</string>
+    <string name="common_asm_privacy_settings_title">Datu pertsonalak/Pribatutasuna</string>
+    <string name="common_asm_security_settings_title">Saio-hasiera eta segurtasuna</string>
+    <string name="common_audience_edit_button_label">Editatu</string>
+    <string name="common_cancel">Utzi</string>
+    <string name="common_cannot_start_hangouts_security_exception">Ezin da Hangouts abiarazi (baimen-errorea).</string>
+    <string name="common_car_permission_desc">Auto-zerbitzurako sarbidea.</string>
+    <string name="common_car_permission_label">Auto-zerbitzua</string>
+    <string name="common_chips_label_empty_circles">Ez dago zirkulurik</string>
+    <string name="common_chips_label_extended_circles">Zirkulu hedatuak</string>
+    <string name="common_chips_label_only_you">Zu bakarrik</string>
+    <string name="common_chips_label_public">Publikoa</string>
+    <string name="common_chips_label_your_circles">Zure zirkuluak</string>
+    <string name="common_choose_account">Aukeratu kontu bat</string>
+    <string name="common_choose_account_for_app_label">Aukeratu kontua %1$s aplikaziorako</string>
+    <string name="common_choose_account_label">Aukeratu kontu bat</string>
+    <string name="common_clear_app_data_menu_item">Garbitu aplikazioen datuak</string>
+    <string name="common_connected">Konektatuta</string>
+    <string name="common_connected_apps_settings_title">Konektatutako aplikazioak</string>
+    <string name="common_connecting">Konektatzen…</string>
+    <string name="common_continue">Egin aurrera</string>
+    <string name="common_disagree">Ez onartu</string>
+    <string name="common_disconnect">Deskonektatu</string>
+    <string name="common_done">Eginda</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Igorlea:</string>
+    <string name="common_games_settings_title">Play Jokoak</string>
+    <string name="common_get_started">Hasi</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Gaitu</string>
+    <string name="common_google_play_services_enable_text">%1$s aplikazioak ez du funtzionatuko Google Play zerbitzuak gaitzen ez badituzu.</string>
+    <string name="common_google_play_services_enable_title">Gaitu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_error_dialog_title">Errorea</string>
+    <string name="common_google_play_services_install_button">Instalatu</string>
+    <string name="common_google_play_services_install_text">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan.</string>
+    <string name="common_google_play_services_install_title">Lortu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_notification_ticker">Google Play zerbitzuen errorea</string>
+    <string name="common_google_play_services_unknown_issue">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria.</string>
+    <string name="common_google_play_services_update_button">Eguneratu</string>
+    <string name="common_google_play_services_update_text">%1$s ez da exekutatuko Google Play zerbitzuak eguneratzen ez badituzu.</string>
+    <string name="common_google_play_services_update_title">Eguneratu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_updating_text">%1$s ez da exekutatuko Google Play zerbitzurik gabe; une honetan eguneratzen ari dira zerbitzuok.</string>
+    <string name="common_google_play_services_updating_title">Google Play zerbitzuak eguneratzen</string>
+    <string name="common_google_play_services_wear_update_text">Google Play zerbitzuen bertsio berria behar da. Berehala eguneratuko da automatikoki.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Okerreko arkitektura duten Google Play zerbitzuak instalatu dira.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Instalatutako Google Play zerbitzuek arkitektura bat dute (%1$s), baina hura ez dator bat gailuaren arkitekturarekin (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Okerreko arkitektura</string>
+    <string name="common_google_settings">Google Ezarpenak</string>
+    <string name="common_google_settings_account">Kontua</string>
+    <string name="common_google_settings_credentials_title">Pasahitzetarako Smart Lock</string>
+    <string name="common_google_settings_developer">Garatzaileak</string>
+    <string name="common_google_settings_services">Zerbitzuak</string>
+    <string name="common_got_it">Ados</string>
+    <string name="common_install">Instalatu</string>
+    <string name="common_learn_more">Lortu informazio gehiago</string>
+    <string name="common_list_apps_menu_help">Laguntza</string>
+    <string name="common_list_apps_menu_help_and_feedback">Laguntza eta iritziak</string>
+    <string name="common_loading">Kargatzen…</string>
+    <string name="common_location_settings_title">Kokapena</string>
+    <string name="common_magictether_settings_title">Konexioaren partekatze bizkorra</string>
+    <string name="common_maps_settings_title">Maps eta Latitude</string>
+    <string name="common_mdm_feature_name">Android gailu-kudeatzailea</string>
+    <string name="common_missing_url_viewer">Kanpoko URL helbidea erakusteko ikustailea falta da.</string>
+    <string name="common_more_options">Aukera gehiago</string>
+    <string name="common_networking_settings_title">Sareak</string>
+    <string name="common_no_browser_for_restricted_url">Sarbide mugatua. Ez da aurkitu arakatzailerik.</string>
+    <string name="common_no_devices_found">Ez da aurkitu gailurik</string>
+    <string name="common_no_network">Ez dago erabilgarri, gailua konexiorik gabe dagoelako</string>
+    <string name="common_no_thanks">Ez, eskerrik asko</string>
+    <string name="common_not_now">Orain ez</string>
+    <string name="common_off">Desaktibatuta</string>
+    <string name="common_ok">Ados</string>
+    <string name="common_on">Aktibatuta</string>
+    <string name="common_open_on_phone">Ireki telefonoan</string>
+    <string name="common_open_source_licenses">Kode irekiko lizentziak</string>
+    <string name="common_people_settings_title">Kontaktuak</string>
+    <string name="common_permissions_enable_in_settings">Gaitu Ezarpenak atalean</string>
+    <string name="common_permissions_missing_end">Jarraitzeko, ireki Ezarpenak > Baimenak, eta baimendu aipatutako elementu guztiak.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Gaitzeko, zoaz 
+Ezarpenak >
+Baimenak >
+Google Play zerbitzuak atalera"</string>
+    <string name="common_permissions_missing_start">Aplikazio honek ez du funtzionatuko Google Play zerbitzuei hauetarako baimena ematen ez badiezu:</string>
+    <string name="common_permissions_open_settings">Ireki Ezarpenak</string>
+    <string name="common_phone">Telefonoa</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Pribatutasun-gidalerroak</string>
+    <string name="common_restore">Leheneratu</string>
+    <string name="common_restricted_no_accounts">Ez dago hauta daitekeen konturik</string>
+    <string name="common_retry">Saiatu berriro</string>
+    <string name="common_search_settings_title">Bilaketa</string>
+    <string name="common_security_ootp_setting_title">Segurtasun-kodea</string>
+    <string name="common_security_settings_title">Segurtasuna</string>
+    <string name="common_send">Bidali</string>
+    <string name="common_sending">Bidaltzen…</string>
+    <string name="common_set_up_nearby_device_settings_title">Konfiguratu inguruko gailua</string>
+    <string name="common_settings">Ezarpenak</string>
+    <string name="common_signin_button_text">Hasi saioa</string>
+    <string name="common_signin_button_text_long">Hasi saioa Google-n</string>
+    <string name="common_something_went_wrong">Arazoren bat izan da</string>
+    <string name="common_system_info">Sistemaren informazioa</string>
+    <string name="common_take_photo_label">Atera argazki bat</string>
+    <string name="common_terms_of_service">Zerbitzu-baldintzak</string>
+    <string name="common_try_again">Saiatu berriro</string>
+    <string name="common_turn_on_bluetooth">Aktibatu Bluetooth konexioa</string>
+    <string name="common_ui_confirm_deleting_button">Ezabatu</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ulertzen dut eta ezabatu egin nahi dut</string>
+    <string name="common_unknown">Ezezaguna</string>
+    <string name="common_update">Eguneratu</string>
+    <string name="common_url_load_unsuccessful_message">Android gailua ez dago datu-zerbitzu batera konektatuta. Informazioa ikusteko, joan %s helbidera web-arakatzaile baten bidez.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android gailua ez dago Wi-Fi sare batera konektatuta. Informazio hau ikusteko, joan %s helbidera web-arakatzaile batean.</string>
+    <string name="common_url_login_notice">Hasi saioa %1$s kontuan</string>
+    <string name="common_usage_and_diagnostics">Erabilera eta diagnostikoak</string>
+    <string name="common_yesterday">Atzo</string>
+    <string name="confirm_copy_button_text">Kopiatu</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud® zerbitzuan, %2$d gailuan</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontaktuak: %1$d iCloud® zerbitzuan, %2$d gailuan</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontaktuak: %1$d SIM txartelean, %2$d gailuan</string>
+    <string name="contacts_number_device_with_google">Google Kontaktuak: %1$d gailuan</string>
+    <string name="contacts_number_icloud_with_google">Google Kontaktuak: %1$d iCloud® zerbitzuan</string>
+    <string name="contacts_number_sim_with_google">Google Kontaktuak: %1$d SIM txartelean</string>
+    <string name="continue_to_login_heading">Hasi saioa.</string>
+    <string name="continue_to_login_text">Kredentzialak zuzenak dira. Hasi saioa lehen gailuan.</string>
+    <string name="copy_confirmation_description">Google kontua, aplikazioak eta bestelako datuak kopiatuko dira</string>
+    <string name="copy_confirmation_title">Telefono berrian kopiatu nahi dituzu datuak?</string>
+    <string name="d2d_app_picker_description_no_apps">Ezin izan dugu aurkitu aplikaziorik</string>
+    <string name="d2d_app_picker_title">Aplikazioak</string>
+    <string name="d2d_migration_canceled_on_source">Utzi egin da kopiatzeko prozesua</string>
+    <string name="data_copied_fragment_description">Kopiatu dira datuak telefono berrira. Kablea deskonekta dezakezu orain.</string>
+    <string name="data_copied_fragment_description_cancel">Kopiatzeko prozesua eten duzu; beraz, ezin izan dira kopiatu datu guztiak telefono berrian.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Kopiatzeko prozesua eten duzu; beraz, ez da ezer kopiatu telefono berrian.</string>
+    <string name="data_copied_fragment_description_error">Arazoren bat izan da eta ezin izan ditugu datu guztiak kopiatu.</string>
+    <string name="data_copied_fragment_description_error_no_data">Arazoren bat izan da eta ezin izan ditugu kopiatu datuak.</string>
+    <string name="data_copied_fragment_no_data_title">Ezin izan dira kopiatu datuak</string>
+    <string name="data_copied_fragment_some_data_title">Datu batzuk kopiatu dira</string>
+    <string name="data_copied_fragment_title">Kopiatu dira datuak</string>
+    <string name="device_backup_title">Gailuaren babeskopia</string>
+    <string name="device_not_supported_fragment_new_device">Telefono berri batera konektatu zara. Aurrera egiteko, konektatu aurreko telefonora.</string>
+    <string name="device_not_supported_fragment_new_device_title">Konektatu aurreko telefonoarekin</string>
+    <string name="device_not_supported_fragment_no_data_cable">Kable honek ezin du transferitu daturik. Konektatu telefonoak beste kable batekin eta saiatu berriro.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Probatu beste kable batekin</string>
+    <string name="device_not_supported_fragment_retry_description">Ziurtatu aurreko telefonoa desblokeatuta dagoela, eta deskonektatu eta konektatu berriro kablea</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Arazoren bat izan da</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® gainbegiratu bat daukazunez, beste modu bat aukeratu beharko duzu datuak kopiatzeko</string>
+    <string name="device_picker_description">Google Drive-n gordetzen dira babeskopiak</string>
+    <string name="device_picker_empty">Ez dago %1$s kontuarekin lotutako babeskopiarik.</string>
+    <string name="device_picker_empty_title">Ez da aurkitu babeskopiarik</string>
+    <string name="device_picker_item">%1$s gailuaren babeskopia</string>
+    <string name="device_picker_last_used">Azken erabilera: ^1</string>
+    <string name="device_picker_skip">Ez leheneratu</string>
+    <string name="device_picker_title">Aukeratu leheneratu nahi duzun babeskopia</string>
+    <string name="disabled_by_admin_summary_text">Administratzaileak kontrolatzen du</string>
+    <string name="download_msg_error_invalid">Deskarga ez zegoen behar bezala konfiguratuta.</string>
+    <string name="download_msg_in_progress">Deskargatzen ari da.</string>
+    <string name="download_msg_not_allowed_space">Ez dago deskargatzeko behar adina toki.</string>
+    <string name="download_msg_pending">Deskargatzeko zain dago.</string>
+    <string name="download_notification_description">%1$s zerbitzuak eskatu du.</string>
+    <string name="download_notification_title">Datu gehiago eskuratzen</string>
+    <string name="drive_backup_account">Babeskopien kontua</string>
+    <string name="drive_backup_apps_in_backup">Babeskopia duten aplikazioen datuak</string>
+    <string name="drive_backup_apps_last_backup">Azken babeskopia</string>
+    <string name="drive_backup_apps_loading">Kargatzen…</string>
+    <string name="drive_backup_apps_screen_title">Aplikazioen datuak</string>
+    <string name="drive_backup_content_apps_title">Aplikazioen datuak</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google Calendar zerbitzuan sortutako gertaerak Google kontuan saioa hasita duten gailu guztiekin sinkronizatuko dira.</string>
+    <string name="drive_backup_content_calendar_title">Google Calendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Babeskopietan, bidalitako eta jasotako deien datak eta hartzaileak sartzen dira.</string>
+    <string name="drive_backup_content_callhistory_title">Deien historia</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google Kontaktuak zerbitzuan sortutako kontaktuak Google kontuan saioa hasita duten gailu guztiekin sinkronizatuko dira.</string>
+    <string name="drive_backup_content_contacts_title">Google Kontaktuak</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Babeskopietan gailuaren konfigurazioa (adibidez, horma-papera), Wi-Fi pasahitzak eta aplikazio lehenetsiak sartzen dira.</string>
+    <string name="drive_backup_content_devicesettings_title">Gailuaren ezarpenak</string>
+    <string name="drive_backup_content_header">Edukia</string>
+    <string name="drive_backup_content_photos_dialog_message">Aldatu egin da babeskopiak egiteko kontu nagusia. Google Argazkiak zerbitzuarena ere alda dezakezu %s izan dadin.</string>
+    <string name="drive_backup_content_photos_dialog_no">BAZTERTU</string>
+    <string name="drive_backup_content_photos_dialog_title">Argazkien eta bideoen babeskopiak egiteko kontua ere aldatu nahi duzu?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ALDATU</string>
+    <string name="drive_backup_content_photos_title">Argazkiak eta bideoak</string>
+    <string name="drive_backup_content_sms_dialog_message">Babeskopietan, bidalitako eta jasotako mezuak sartzen dira, baina ez MMS mezuen multimedia-edukia.</string>
+    <string name="drive_backup_content_sms_title">SMS mezuak</string>
+    <string name="drive_backup_content_status_dolly_action">Ados</string>
+    <string name="drive_backup_content_status_error">Errore bat gertatu da azken sinkronizazio-data eskuratzean</string>
+    <string name="drive_backup_content_status_lastsaved">Azken babeskopiaren data: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Azken sinkronizazioa: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Babeskopia egiteko zain</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Sinkronizazio-ezarpenak</string>
+    <string name="drive_backup_content_status_sync_off">Sinkronizazioa DESAKTIBATUTA dago</string>
+    <string name="drive_backup_content_status_updating">Egoera egiaztatzen…</string>
+    <string name="drive_backup_disabled_backuplist">"Hauen babeskopia egiten da:
+\u0009- Aplikazioak eta aplikazioen datuak.
+\u0009- Deien historia.
+\u0009- Gailuaren ezarpenak (Wi-Fi pasahitzak barne).
+\u0009- Google Calendar.
+\u0009- Google Kontaktuak.
+\u0009- Argazkiak eta bideoak.
+\u0009- SMS mezuak."</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Hauek sartzen dira babeskopian:
+\u0009- Aplikazioak eta aplikazioen datuak.
+\u0009- Deien historia.
+\u0009- Gailuaren ezarpenak (Wi-Fi pasahitzak barne).
+\u0009- Google Calendar.
+\u0009- Google Kontaktuak.
+\u0009- SMS mezuak."</string>
+    <string name="drive_backup_disabled_by_device_owner">Administratzaileak desgaitu du</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Calendar, Google Kontaktuak, argazkiak eta bideoak Google kontuarekin sinkronizatuta daude eta hainbat zerbitzutan erabil daitezke.
+
+Baliteke sinkronizazioa gaituta egotea nahiz eta babeskopiak desaktibatuta egon. Sinkronizazio-ezarpenak aldatzeko, sakatu Ezarpenak > Kontuak > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Calendar eta Google Kontaktuak Google kontuarekin sinkronizatzen dira eta hainbat zerbitzutan erabil daitezke.
+
+Sinkronizazioa gaitu daiteke babeskopiak desaktibatuta badaude ere. Sinkronizazio-ezarpenak aldatzeko, sakatu Ezarpenak > Kontuak > Google."</string>
+    <string name="drive_backup_disabled_introduction">Telefonoa edonoiz leheneratzeko edo telefonoz aldatzeko erabil ditzakezu babeskopia automatikoak.</string>
+    <string name="drive_backup_settings_title">Babeskopiak</string>
+    <string name="drive_backup_state">Egin babeskopia Google Drive-n</string>
+    <string name="drive_backup_state_dialog_message">"Betiko ezabatuko dira gailu honen Google Drive-ko babeskopiak.
+
+Babeskopiak dituzten argazkiak eta bideoak Google Drive-n gordeta geratuko dira.
+
+Google Calendar eta Google Kontaktuak Google kontuarekin sinkronizatzen jarraituko dira. Sinkronizazio-ezarpenak aldatzeko, sakatu Ezarpenak > Kontuak > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Betiko ezabatuko dira Google Drive-n gordetako gailuaren babeskopiak.
+
+Google Calendar eta Google Kontaktuak Google kontuarekin sinkronizatzen jarraituko dira. Sinkronizazio-ezarpenak aldatzeko, sakatu Ezarpenak > Kontuak > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Desaktibatu eta ezabatu</string>
+    <string name="drive_backup_state_dialog_title">Babeskopiak desaktibatu eta ezabatu nahi dituzu?</string>
+    <string name="durationDayHour">%1$d egun eta %2$d ordu</string>
+    <string name="durationDayHours">%1$d egun eta %2$d ordu</string>
+    <string name="durationDays">%1$d egun</string>
+    <string name="durationHourMinute">%1$d ordu eta %2$d minutu</string>
+    <string name="durationHourMinutes">%1$d ordu eta %2$d minutu</string>
+    <string name="durationHours">%1$d ordu</string>
+    <string name="durationMinute">%1$d minutu</string>
+    <string name="durationMinuteSecond">%1$d minutu eta %2$d segundo</string>
+    <string name="durationMinuteSeconds">%1$d minutu eta %2$d segundo</string>
+    <string name="durationMinutes">%1$d minutu</string>
+    <string name="durationSecond">%1$d segundo</string>
+    <string name="durationSeconds">%1$d segundo</string>
+    <string name="encryption_warning_fragment_description">"Babeskopien enkriptatzea aktibatuta duzu iPhone® gailuan. Ez baduzu zuk aktibatu, agian IKT saileko administratzaileak aktibatu dizu.
+
+Argazkiak, musika eta bideoak soilik transferi daitezke. Informazio gehiago lortzeko zoaz "<b>g.co/datatransferhelp</b> helbidera.</string>
+    <string name="encryption_warning_fragment_title">Babeskopien enkriptatzea</string>
+    <string name="fido_begin_button">HASI</string>
+    <string name="fido_ble_device_icon_content_description">Aurkitutako Bluetooth gailua</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Giltza parekatze moduan dagoela ziurtatzeko, eduki sakatuta bere botoia gutxienez bost segundoz</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">Ados</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Arazoren bat izan da</string>
+    <string name="fido_ble_dont_see_your_key_hint">Ez al duzu aurkitzen zure giltza?</string>
+    <string name="fido_ble_enable_body">Gailuaren Bluetooth konexioa aktibatuta dagoenean bakarrik funtzionatzen du segurtasun-giltzak</string>
+    <string name="fido_ble_enable_title">Aktibatu Bluetooth konexioa</string>
+    <string name="fido_ble_enable_turn_on_button">AKTIBATU</string>
+    <string name="fido_ble_instructions_body">Tekla gehienak erabiltzeko, nahikoa izango da botoia sakatzea</string>
+    <string name="fido_ble_instructions_title">Segurtasun-giltza erabiltzea baimendu nahi duzu?</string>
+    <string name="fido_ble_locate_pin_body">Parekatzeko PIN kodeak zenbakizko 4–6 karaktere izan ohi ditu eta giltzaren bizkarrean egon daiteke idatzita. PINa idazteko moduan zaudenean, egin aurrera.</string>
+    <string name="fido_ble_locate_pin_continue_button">AURRERA</string>
+    <string name="fido_ble_locate_pin_title">Bilatu %1$s giltza Bluetooth bidez parekatzeko PIN kodea</string>
+    <string name="fido_ble_pair_device_pairing">Segurtasun-giltza parekatzen…</string>
+    <string name="fido_ble_pair_instructions_body">Parekatu giltza gailu honekin, zure kontuarekin erabili ahal izan dezazun</string>
+    <string name="fido_ble_pair_instructions_title">Segurtasun-giltza parekatzeko prest zaude?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Jarri giltza parekatze moduan berriro</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">SAIATU BERRIRO</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Arazo bat izan da</string>
+    <string name="fido_ble_pairing_mode_body">Eduki sakatuta segurtasun-giltzako botoia gutxienez bost segundoz</string>
+    <string name="fido_ble_pairing_mode_title">Aktibatu parekatze modua</string>
+    <string name="fido_ble_select_device_body">Beheko zerrendan, hautatu zure gailuarekin parekatu nahi duzun segurtasun-giltza. Giltzaren bizkarrean agertu ohi da izena idatzita.</string>
+    <string name="fido_ble_select_device_title">Hautatu zure segurtasun-giltza</string>
+    <string name="fido_cancel_button">Utzi</string>
+    <string name="fido_nfc_enable_body">Gailuan NFC konexioa aktibatuta duzunean bakarrik funtzionatzen du segurtasun-giltzak</string>
+    <string name="fido_nfc_enable_title">Aktibatu NFC konexioa</string>
+    <string name="fido_nfc_enable_turn_on_button">AKTIBATU</string>
+    <string name="fido_nfc_instructions_body">Ezarri giltza gailuaren atzealdean dardara egiteari uzten dion arte</string>
+    <string name="fido_nfc_instructions_title">Segurtasun-giltza erabiltzea baimendu nahi duzu?</string>
+    <string name="fido_pair_another_security_key">Parekatu beste segurtasun-giltza bat</string>
+    <string name="fido_processing">Segurtasun-giltza egiaztatzen…</string>
+    <string name="fido_transport_selection_bluetooth">Erabili segurtasun-giltza Bluetooth bidez</string>
+    <string name="fido_transport_selection_body">Segurtasun-giltzek Bluetooth eta NFC konexioekin funtzionatzen dute. Zehaztu zein erabili nahi duzun.</string>
+    <string name="fido_transport_selection_nfc">Erabili segurtasun-giltza NFC bidez</string>
+    <string name="fido_transport_selection_title">Aukeratu segurtasun-giltza erabiltzeko modua</string>
+    <string name="fido_use_ble_instead">Erabili segurtasun-giltza Bluetooth bidez</string>
+    <string name="fido_use_nfc_instead">Erabili segurtasun-giltza NFC bidez</string>
+    <string name="fido_welcome_body">%1$s gailuarekin segurtasun-giltza erabiltzen baduzu, babestuago izango dituzu datu pribatuak.</string>
+    <string name="fido_welcome_title">Erabili segurtasun-giltza %1$s gailuarekin</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ez dut aurkitzen egokigailua</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Bilatu ^1 gailuaren kaxan zetorren Quick Switch Adapter egokigailua.
+
+Konektatu kablea egokigailura."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Konektatu egokigailua eta kablea</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Desblokeatu telefono zaharra, eta konektatu egokigailua telefono honetara.</string>
+    <string name="fragment_usb_connect_both_phones_title">Konektatu bi telefonoak</string>
+    <string name="fragment_usb_dialog_cancel_description">Kable bat erabiltzen baduzu, eduki gehiena transferitu ahal izango duzu. Kaxan datozen kableak ezin badituzu konektatu telefono zaharrera, saiatu datuak transferitzeko edo telefonoa kargatzeko erabiltzen duzunarekin.</string>
+    <string name="fragment_usb_dialog_cancel_title">Beste nolabait kopiatu nahi dituzu datuak?</string>
+    <string name="fragment_usb_dont_have_cable">Ez daukat kablea</string>
+    <string name="fragment_usb_dont_have_old_phone">Ez daukat telefono zaharra</string>
+    <string name="fragment_usb_find_cable_description">Erabili telefono zaharrera konekta daitekeen kable bat, adibidez, datuak transferitzeko edo telefonoa kargatzeko erabiltzen duzuna.</string>
+    <string name="fragment_usb_find_cable_title">Bilatu kable egokia</string>
+    <string name="fragment_usb_initial_description">Transferitu telefono zaharreko datuak ^1 gailu honetara.</string>
+    <string name="fragment_usb_initial_title">Kopiatu datuak</string>
+    <string name="fragment_usb_legacy_description">"Hori da daturik gehienak ekartzeko modurik bizkorrena.
+
+Hartu kaxan zetorren moldagailua eta konektatu telefonora. Konektatu bi telefonoak kable baten bidez eta desblokeatu telefono zaharra."</string>
+    <string name="fragment_usb_other_ways">Kopiatu kablerik gabe</string>
+    <string name="fragment_usb_plug_cable">Konektatu kablea telefono zaharrera</string>
+    <string name="fragment_waiting_title">Itxaron unetxo batean…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Aplikazioaren baimenak</string>
+    <string name="google_contacts_static_text">Google Kontaktuak sinkronizatuko dira</string>
+    <string name="google_contacts_static_text_off">Google Kontaktuak zerbitzuko kontaktuak sinkronizatzen jarraituko dira</string>
+    <string name="google_legal_title">Google-ren lege-oharrak</string>
+    <string name="google_play_tos_title">Google Play Zerbitzu-baldintzak</string>
+    <string name="google_plus_privacy_policy_title">Google+ pribatutasun-gidalerroak</string>
+    <string name="google_privacy_policy_title">Google Pribatutasun-gidalerroak</string>
+    <string name="google_terms_of_service_title">Google Zerbitzu-baldintzak</string>
+    <string name="header_set_backup_account">Zehaztu babeskopiak gordetzeko erabiliko den kontua</string>
+    <string name="i_message_dialog_message">"iPhone® gailuetatik bidalitako SMS mezuak jasotzen jarraitu nahi baduzu, iMessage® desaktibatu beharko duzu.
+
+Argibideak ikusteko, zoaz "<b>g.co/iMessageHelp</b> helbidera.</string>
+    <string name="instant_apps_settings_title">Zuzeneko aplikazioak</string>
+    <string name="instructions_fragment_title">Jarraitu beste telefonoan</string>
+    <string name="ios_connected_fragment_description">"Hurrengo pantailan, Google kontuan saioa hasi ahal izango duzu edo, halakorik ez baduzu, kontu bat sortzeko aukera emango zaizu.
+
+Google konturik gehitzen ez baduzu, ez dira transferituko iOS Calendar®-eko gertaerak."</string>
+    <string name="ios_message_attachment_explanation">[Google Argazkiak > Gailuko karpetak > Mezuen eranskinak atalean dituzu gordeta eranskinak]</string>
+    <string name="ios_message_attachment_failed_explanation">[Ezin izan dira kopiatu eranskinetako batzuk. Transferitu direnak Google Argazkiak > Gailuko karpetak > Mezuen eranskinak atalean dituzu gordeta]</string>
+    <string name="ios_message_attachment_placeholder">[Hemen gorde da eranskina: Google Argazkiak > Gailuko karpetak > Mezuen eranskinak]</string>
+    <string name="ios_message_attachments_placeholder">[Hemen gorde dira eranskinak: Google Argazkiak > Gailuko karpetak > Mezuen eranskinak]</string>
+    <string name="ios_migration_default_calendar_title">Egutegia</string>
+    <string name="ios_migration_other_contact_relation">Beste bat</string>
+    <string name="ios_photos_dialog_message">"Ezin dira kopiatu iCloud® zerbitzuan gordetako argazkiak.
+
+^1 gailura eramateko argazkiak, instalatu Google Argazkiak aplikazioa iPhone® gailuan, eta itzuli Babeskopiak eta sinkronizazioa atalera. Argibide gehiago behar badituzu, joan "<b>g.co/datatransferhelp</b> helbidera.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Gehitu kontua</string>
+    <string name="lockscreen_smartdevice_action_next">Hurrengoa</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Telefonoa konfiguratzen jarraitzeko, desblokea ezazu</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Segurtasuna bermatzeko, berretsi pantailaren blokeoa konfiguratzen jarraitu aurretik.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Berretsi pantailaren blokeoa</string>
+    <string name="manage_data_label">Google kontua</string>
+    <string name="master_clear_title">Berrezarri jatorrizko datuak</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Sareari buruzko gomendioak</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Wi‑Fi mezuak</string>
+    <string name="notification_channel_network_available">Sare bat erabilgarri dago</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi konexioa aktibatu da</string>
+    <string name="notification_content_text_set_backup_account">Babeskopiak gordetzeko erabiliko den kontua zehaztu behar duzu</string>
+    <string name="notification_content_title_set_backup_account">Babeskopien kontua</string>
+    <string name="notification_ticker">Sarbidea eskatu da</string>
+    <string name="notification_ticker_set_backup_account">Babeskopiak gordetzeko erabiliko den kontua zehaztu behar da</string>
+    <string name="open_in_web_button">Ireki arakatzailean</string>
+    <string name="open_source_activity_prompt_heading">Ireki aplikazioa</string>
+    <string name="open_source_activity_prompt_text">"Telefonoan, ireki SourceResponseActivity autentifikatzeko prozesua amaitzeko. "</string>
+    <string name="opt_in_account_content_description">Hautatu kontu bat. %1$s daukazu hautatuta.</string>
+    <string name="opt_in_account_null_state">Sortu kontua</string>
+    <string name="opt_in_agreement">Aurrera egitearekin adieraziko duzu onartu egiten dituzula <a href="https://play.google.com/about/play-terms.html">Play Zerbitzu-baldintzak</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Lortu informazio gehiago</a></string>
+    <string name="opt_in_confirm">Bai, ados</string>
+    <string name="opt_in_description">"Esteka bat sakatzen duzunean, harekin erlazionatutako zuzeneko aplikaziorik dagoen egiaztatzen du Google Play-k; hala bada, instalatu beharrik gabe exekutatzen du. Aldi baterako soilik gordetzen dira zuzeneko aplikazioak gailuan.
+
+Erabiltzen dituzun heinean eskatzen dituzte baimenak zuzeneko aplikazioek. Google Play dendan daude aplikazioen xehetasunak (adibidez, aplikazioko erosketak eskaintzen diren). Aplikazioen datuak eta ezarpenak sinkronizatu egingo dira kontu honekin saioa hasita duten gailuetan:"</string>
+    <string name="opt_in_description_m_plus">"Esteka bat sakatzen duzunean, harekin erlazionatutako zuzeneko aplikaziorik dagoen egiaztatzen du Google Play-k; hala bada, instalatu beharrik gabe exekutatzen du. Aldi baterako soilik gordetzen dira zuzeneko aplikazioak gailuan.
+
+Google Play dendan daude aplikazioen xehetasunak (adibidez, aplikazioko erosketak eskaintzen diren). Aplikazioen datuak eta ezarpenak sinkronizatu egingo dira kontu honekin saioa hasita duten gailuetan:"</string>
+    <string name="opt_in_subtitle">Erabili aplikazioak zuzenean, instalatu beharrik gabe</string>
+    <string name="opt_in_title">Zuzeneko aplikazioak</string>
+    <string name="permgrouplab_calendar">Egutegia</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontaktuak</string>
+    <string name="permgrouplab_location">Kokapena</string>
+    <string name="permgrouplab_microphone">Mikrofonoa</string>
+    <string name="permgrouplab_phone">Telefonoa</string>
+    <string name="permgrouplab_sensors">Gorputz-sentsoreak</string>
+    <string name="permgrouplab_sms">SMS mezuak</string>
+    <string name="permgrouplab_storage">Memoria</string>
+    <string name="permissions_not_granted_text">Baimentzeko, hasi saioa berriro.</string>
+    <string name="permissions_not_granted_title">Ez da baimenik eman.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ez dago argazkien babeskopiak gordetzen dituen aplikaziorik</string>
+    <string name="photos_backup_title">Argazkien babeskopiak</string>
+    <string name="photos_filtering_option_all">Guztiak</string>
+    <string name="photos_filtering_option_none">Bat ere ez</string>
+    <string name="plus_manage_app_only_you_label">Zu bakarrik</string>
+    <string name="plus_network_unreliable">Ezin da konektatu modu fidagarrian zerbitzarira.</string>
+    <string name="plus_oob_interstitial_loading_text">Minutu batzuk luza daiteke.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopiatutako kontaktuak Google kontuan gordeko dira.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopiatutako kontaktuak eta egutegiak Google kontuan gordeko dira.</string>
+    <string name="restore_choice_data_disclaimer_v2">Datu batzuk agian ez dira kopiatuko ^1 gailuan. <annotation id="restore_choice_data_disclaimer_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="restore_choice_deselect_some_content">Aurrera egiteko, desautatu elementu batzuk</string>
+    <string name="restore_choice_learn_more_android">"Telefono zaharreko datu batzuk ezin dira kopiatu automatikoki:
+
+ ● Deskargak (adibidez, PDF fitxategiak).
+
+ ● Ezkutuko karpetetan gordetako argazkiak, bideoak eta musika.
+
+ ● Testu-mezuetan jasotako argazkiak, bideoak eta musika.
+
+ ● Google Play Store-koak ez diren aplikazioak.
+
+ ● Aplikazioetako datuak (aplikazioak Android Backup Service erabiltzen ez badu).
+
+ ● Gailuaren ezarpen batzuk.
+
+ ● Google-renak ez diren kontuak (eta haiekin lotutako datuak).
+
+ ● Google edo iCloud® ez beste edozein zerbitzurekin sinkronizatutako kontaktuak eta egutegiak.
+
+ ● Dei-tonuak.
+
+ Informazio gehiago lortzeko eta datuok kopiatzeko laguntza eskuratzeko, zoaz g.co/datatransferhelp helbidera."</string>
+    <string name="restore_choice_learn_more_ios">"Telefono zaharreko datu batzuk ezin dira kopiatu automatikoki:
+
+ ● Aplikazioak eta aplikazioen datuak.
+
+ ● Argazkiak, jatorrizko fitxategiak gailuan gordeta ez badituzu (adibidez, memoriaren erabilera optimizatzeko ezarpena aktibatuta badaukazu, jatorrizko argazkiak iCloud® zerbitzuan izango dituzu gordeta).
+
+ ● iCloud® zerbitzuan gordeta dauden fitxategiak eta dokumentuak.
+
+ ● Gailuaren ezarpenak (adibidez, Wi-Fi pasahitzak eta horma-paperak).
+
+ ● DRM (Digital Rights Management) bidez babestutako musika (adibidez, 2009ko apirila baino lehen iTunes® bidez erositako musika edo musika zuzenean erreproduzitzeko aplikazioen bidez konexiorik gabe zaudenean entzuteko deskargatu duzuna).
+
+ ● Google-renak ez diren kontuak (eta haiei lotutako datuak).
+
+ ● Google edo iCloud® ez beste edozein zerbitzurekin sinkronizatutako kontaktuak eta egutegiak.
+
+ ● Safari® arakatzaileko laster-markak.
+
+ iMessage® zerbitzuko eranskinak eskuragarri izango dituzu Google Argazkiak > Gailuko karpetak > Mezuetako eranskinak atalean.
+
+ Informazio gehiago lortzeko eta datuok kopiatzeko laguntza eskuratzeko, zoaz g.co/datatransferhelp helbidera."</string>
+    <string name="restore_choice_not_enough_space">Ez dago behar adina tokirik</string>
+    <string name="restore_choice_total_text">(%1$s dituzu erabilgarri). %2$s inguru iraungo du transferentziak.</string>
+    <string name="restore_error_message">Arazo bat izan da leheneratzean. Barkatu eragozpenak.</string>
+    <string name="restore_instant_apps_notif_text">%1$s kontua derrigorrezkoa da, baina kendu egin da gailutik</string>
+    <string name="restore_instant_apps_notif_title">Leheneratu zuzeneko aplikazioak</string>
+    <string name="restore_item_appdata">Aplikazioen datuak</string>
+    <string name="restore_item_calendar">Egutegia</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar sinkronizatzen jarraituko da</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar sinkronizatuko da</string>
+    <string name="restore_item_call_logs">Deien historia</string>
+    <string name="restore_item_contacts">Kontaktuak</string>
+    <string name="restore_item_device_settings_description">Wi-Fi pasahitzak eta beste</string>
+    <string name="restore_item_downloads">Deskargak</string>
+    <string name="restore_item_email">Posta elektronikoa</string>
+    <string name="restore_item_email_description">Gmail sinkronizatuko da</string>
+    <string name="restore_item_message_attachments">Mezuen eranskinak</string>
+    <string name="restore_item_messages">Mezuak</string>
+    <string name="restore_item_music">Musika</string>
+    <string name="restore_item_photos">Argazkiak eta bideoak</string>
+    <string name="restore_item_settings">Gailuaren ezarpenak</string>
+    <string name="restore_item_sms">SMS mezuak</string>
+    <string name="restore_item_will_be_synced_text">Telefonoarekin sinkronizatuko da</string>
+    <string name="restore_progress_title">Leheneratzen…</string>
+    <string name="restore_supervisor_description">Zuzeneko aplikazioetako estekak irekitzeko, leheneratu %1$s</string>
+    <string name="restore_supervisor_success">Leheneratu dira zuzeneko aplikazioak</string>
+    <string name="restore_supervisor_title">Zuzeneko aplikazioak leheneratu nahi dituzu?</string>
+    <string name="setup_failure_description">Ezin dira konfiguratu Zuzeneko aplikazioak. <a href="https://support.google.com/googleplay/?p=instant_apps">Lortu informazio gehiago</a></string>
+    <string name="setup_failure_title">Ezin da konfiguratu</string>
+    <string name="sharedUserLabel">Google zerbitzuak</string>
+    <string name="sid_lsid_grant_detail">Pasahitzekin gertatzen den bezala, saioaren identifikazioaren (SID) eta tokiko saioaren identifikazioaren (LSID) cookieek zure identitatea arakatzailearen eskaera multzo batekin erlazionatzen dute. Kontuaren datu guztietarako sarbidea baimentzen dute. Arakatzaileek soilik dute cookie horiek erabiltzeko bidezko arrazoia.</string>
+    <string name="sid_lsid_grant_label">Erabili SID eta LSID cookieak Google kontuan dituzun datu guztiak atzitzeko.</string>
+    <string name="small_time_duration">Minutu bat baino gutxiago falta da</string>
+    <string name="smartdevice_action_copy">Kopiatu</string>
+    <string name="smartdevice_action_next">Hurrengoa</string>
+    <string name="smartdevice_action_open_app">Ireki aplikazioa</string>
+    <string name="smartdevice_action_skip">Saltatu</string>
+    <string name="smartdevice_action_try_another_way">Saiatu beste modu batera</string>
+    <string name="smartdevice_action_turn_on_location">Aktibatu kokapen-baimenak</string>
+    <string name="smartdevice_alert_disconnected_message">"Gailua deskonektatu egin da.
+Konfiguratzen jarraitzeko, konekta ezazu eta has zaitez berriro."</string>
+    <string name="smartdevice_alert_disconnected_title">Gailu deskonektatu egin da</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Ezin duzu erabili eginbidea, gailuaren administratzaileak kudeatzen baitu babeskopien kontua.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Eginbidea ez dago erabilgarri</string>
+    <string name="smartdevice_alert_exit_setup_message">Ziur beste gailuaren konfiguraziotik irten nahi duzula?</string>
+    <string name="smartdevice_alert_exit_setup_title">Gailuaren konfiguraziotik irten nahi?</string>
+    <string name="smartdevice_alert_generic_error_title">Arazoren bat izan da</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Arazoren bat izan da</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Gailua konfiguratzeko, Google kontu bat izan behar duzu gutxienez.</string>
+    <string name="smartdevice_alert_no_accounts_text">%s gailua konfiguratzeko, Google kontu bat izan behar duzu gutxienez.</string>
+    <string name="smartdevice_alert_no_accounts_title">Ez dago konturik kopiatzeko</string>
+    <string name="smartdevice_alert_quit_button">Irten</string>
+    <string name="smartdevice_alert_restart_setup_button">Berrabiarazi konfigurazioa</string>
+    <string name="smartdevice_alert_setup_incomplete">Ez da konfiguratzen amaitu</string>
+    <string name="smartdevice_alert_skip_button">Saltatu</string>
+    <string name="smartdevice_alert_start_over_button">Hasi berriro</string>
+    <string name="smartdevice_alert_work_profile_message">Ezin dira oraindik kopiatu laneko kontuak. Gainerako Google kontuak eta datuak kopiatu ondoren, zoaz gailu berriko Ezarpenak atalera laneko kontua gehitzeko.</string>
+    <string name="smartdevice_alert_work_profile_title">Ezin da kopiatu laneko kontua</string>
+    <string name="smartdevice_application_label">Gailuaren konfigurazioa</string>
+    <string name="smartdevice_choose_device">Aukeratu gailua</string>
+    <string name="smartdevice_companion_app_ready">%s instalatuta dago gailuan dagoeneko.</string>
+    <string name="smartdevice_connect_to_wifi">Konektatu gailua</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Gailura konektatzen…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google kontuak, bestelako kontuak, aplikazioak eta datuak kopiatuko dira</string>
+    <string name="smartdevice_d2d_copy_account_text">Google kontuak, aplikazioak eta datuak beste gailuan kopiatu nahi dituzu?</string>
+    <string name="smartdevice_d2d_copy_account_title">Beste gailuan kopiatu?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Ez da ezagutu</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Saiatu pantaila blokeatzeko aukera erabilita</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Segurtasuna babesteko, berretsi hatz-marka. Zure Google kontuak, aplikazioak eta datuak %s gailuan kopiatuko dira.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Gailua konfiguratzen jarraitzeko, desblokea ezazu</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Segurtasuna bermatzeko, berretsi pantailaren blokeoa eta jarraitu konfiguratzen.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Berretsi aurrera egiteko</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Ezin da konfiguratu beste gailua zure gailuak ez duelako Bluetooth konexio erabilgarririk.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Segurtasun-arrazoiengatik, eginbide hori desgaitu egin da. Beste gailuan, sakatu Saltatu, eta jarraitu konfigurazioa gauzatzen.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Konfiguratu gailu berria</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Gailuaren konfigurazioa</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 konfigurazioa</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Berrabiarazi konfigurazioa eta aukeratu zure ^1 gailua Google kontuak, aplikazioak eta datuak gailu egokian kopiatzen dituzula ziurtatzeko.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Ez duzu kodea ikusten?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Ez duzu kodea ikusten?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Ziurtatu kodea gailuan agertzen dela, gailu egokia aukeratu duzula berresteko</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Egiaztatu kodea</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Ezin da konfiguratu beste gailu bat erabiltzaile-profil murriztu batetik.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Amaitu %s gailuan konfiguratzen</string>
+    <string name="smartdevice_d2d_source_setup_success">Ia amaitu dugu!</string>
+    <string name="smartdevice_d2d_target_choice_description">Beste Android gailu bat erabiltzen baduzu, uneko konfigurazioa bizkor kopia dezakezu %s honetan.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Atera etekinik handiena gailu zaharrari, Android bada</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Konfiguratu berri gisa</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopiatu beste Android gailu batetik</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Ez, eskerrik asko</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Ados. Jarraitu urrats hauei gailua konfiguratzeko.</string>
+    <string name="smartdevice_d2d_target_choice_title">Beste gailu bat duzu?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Kopiatu Google kontu, aplikazio eta datuak beste gailutik</string>
+    <string name="smartdevice_d2d_target_continue_description">Jarraitu beste gailuan konfiguratzen.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kontuak kopiatzen…</string>
+    <string name="smartdevice_d2d_target_description">Berriz ere beste gailuan:&lt;br/>&lt;br/> 1. Esan &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> edo idatzi \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" eta sakatu berresteko.&lt;br/>&lt;br/> 2. Zerrendan, ukitu &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> eta jarraitu pantailako argibideei.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Saiatu hau egiten</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Beste gailuan:&lt;br/>&lt;br/> 1. Ireki &lt;b>Google Ezarpenak&lt;/b> aplikazioa. &lt;br/>&lt;br/> 2. Hautatu &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 3. Zerrendan, ukitu &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> eta jarraitu pantailako argibideei.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Ezin dira osatu urratsak</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Erabil dezagun Ezarpenak</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">Beste gailuan:&lt;br/>&lt;br/> 1. Sakatu aplikazio guztien ikonoa eta ireki &lt;b>Ezarpenak aplikazioa&lt;/b>. &lt;br/>&lt;br/> 2. Sakatu &lt;b>Google&lt;/b>. &lt;br/>&lt;br/> 3. Hautatu &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 4. Zerrendan, ukitu &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> eta jarraitu pantailako argibideei.</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Kopiatu beste Android gailu batetik</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Arazoak dituzu?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Ezin duzu aurkitu?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Beste gailuan, ireki Google aplikazioa</string>
+    <string name="smartdevice_d2d_target_instruction_description">Ireki Google aplikazioa</string>
+    <string name="smartdevice_d2d_target_instruction_title">Beste gailuan</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Kopiatzeko: 
+
+1. Ziurtatu beste gailua aktibatuta eta desblokeatuta dagoela 
+
+2. Ezarri bi gailuak atzealdeak bata bestearen aurka dituztela eta, tonua entzuten duzunean, banandu itzazu"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">\"Ukitu eta listo\" eginbideak NFC darabil beste gailutik Google kontuetako aplikazioak eta datuak kopiatzeko. Gailuaren NFC eginbidea aktibatuta dagoela ziurtatzeko, zoaz Ezarpenak atalera.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Arazoak dituzu?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Sakatu eta listo</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google aplikazioa instalatuta dator Android gailu guztietan. Sakatu hasierako pantailako \"Aplikazio guztiak\" aukera eta bilatu goian erakusten den ikonoa.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Kode honek bat etorri behar du beste gailuan duzunarekin:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Ez saltatu</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Konfigurazioak ez ditu gailuan kopiatuko ez kontua ez babeskopia gisa gordeta dituzun aplikazio eta datuak.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Saltatu, halere</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Kontua saltatu nahi duzu?</string>
+    <string name="smartdevice_d2d_target_title">Google aplikazioan</string>
+    <string name="smartdevice_default_device_name">gailua</string>
+    <string name="smartdevice_install_app">Instalatu aplikazioa</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Lortu %s aplikazioa %s gailu berria gailu honetatik kontrolatzeko eta kudeatzeko</string>
+    <string name="smartdevice_install_on_this_device">Instalatu</string>
+    <string name="smartdevice_search_again">Bilatu berriro</string>
+    <string name="smartdevice_searching_for_devices">Gailuak bilatzen</string>
+    <string name="smartdevice_setup_enter_code">Idatzi gailuan dagoen kodea. Eranskailu batean egon beharko luke.</string>
+    <string name="smartdevice_setup_enter_code_hint">Idatzi kodea</string>
+    <string name="smartdevice_setup_enter_pin_4">Idatzi gailuan agertzen zaizun lau digituko kodea</string>
+    <string name="smartdevice_setup_info_installing_app">Aplikazioa instalatzen…</string>
+    <string name="smartdevice_setup_intro_text">Beste gailua konfiguratzeko, telefonoaren Bluetooth konexioa eta Wi-Fi datuak erabiliko dira.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Beste gailua konfiguratzeko, telefonoaren Bluetooth konexioa erabiliko da.</string>
+    <string name="smartdevice_setup_intro_title">Lehen urratsak</string>
+    <string name="smartdevice_setup_password_hint">Idatzi Wi-Fi sarearen pasahitza</string>
+    <string name="smartdevice_setup_show_password">Erakutsi pasahitza</string>
+    <string name="smartdevice_setup_title_verify_code">Egiaztatu kodea</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Sare irekiak eta WPA/WPA2 sareak soilik erabil daitezke gailua konfiguratzeko</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Ezin da erabili Wi-Fi sarea</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Wi-Fi gabe, baliteke gailua behar bezala ez ibiltzea. Konektatu Wi-Fi sarera konfiguratzen jarraitzeko.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Aukeratu Wi-Fi sarea</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi sareak bilatzeko, aktibatu Kokapena.
+
+Aukera hori edonoiz alda dezakezu Ezarpenak atalean."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Ezin dira bilatu Wi-Fi sareak</string>
+    <string name="source_connected_description">Prestatzen…</string>
+    <string name="source_connected_title">%1$s gailura konektatuta</string>
+    <string name="source_copying_description">Aukeratu dituzun datuak kopiatzen ari dira telefono berrian</string>
+    <string name="source_copying_title">Kopiatzen…</string>
+    <string name="source_default_target_device_name">gailu berria</string>
+    <string name="source_notification_device_disconnected">Sartu kablea berriro</string>
+    <string name="source_notification_text">Datuak transferitzen ari dira telefono batetik bestera</string>
+    <string name="source_notification_title">Datu-transferentzia</string>
+    <string name="source_success_description">Amaitu %1$s gailuan konfiguratzen.</string>
+    <string name="source_success_screen_title">Amaitu dugu!</string>
+    <string name="source_unplugged_description">Konektatu berriro %1$s gailua</string>
+    <string name="source_unplugged_title">Deskonektatu egin da kablea</string>
+    <string name="source_waiting_title">Jarraitu %1$s gailuan konfiguratzen</string>
+    <string name="stop_copying_dialog_continue_button">Baztertu</string>
+    <string name="stop_copying_dialog_message_before_transfer">Datuak ez dira kopiatu telefono berrian</string>
+    <string name="stop_copying_dialog_message_during_transfer">Datu batzuk ez dira kopiatu telefono berrian</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Ez kopiatu</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Gelditu</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ez dituzu kopiatu nahi?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopiatzeari utzi nahi diozu?</string>
+    <string name="storage_management_wear_descriptive_text">Aplikazioek gailuko memoria erabiltzen dute gailu eramangarrietan datuen erreplikak egiteko.</string>
+    <string name="storage_management_wear_manage_size_label">Kudeatu gailu eramangarrien memoria</string>
+    <string name="storage_management_wear_size_label">Gailu eramangarrien memoria</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play zerbitzuek erabiltzen dituzten datuen guztizkoa, bilatzailearen datuak eta bestelako datuak barne.</string>
+    <string name="storage_managment_clear_all_data">Garbitu datu guztiak</string>
+    <string name="storage_managment_computing_size">Kalkulatzen…</string>
+    <string name="storage_managment_icing_size_label">Bilaketa-datuak</string>
+    <string name="storage_managment_manage_icing_button">Kudeatu bilaketa-datuak</string>
+    <string name="storage_managment_search_index_descriptive_text">Gailuko bilaketa bizkortzen dugu aplikazioek erabil dezaketen bilatzaile bat emanda.</string>
+    <string name="storage_managment_title">Google Play zerbitzuek erabilitako memoria</string>
+    <string name="storage_managment_total_size_label">Memoria, guztira</string>
+    <string name="supervisor_downloading_description">%1$s deskargatzen</string>
+    <string name="supervisor_downloading_title">Itxaron pixka bat gailua konfiguratzen dugun arte</string>
+    <string name="supervisor_installing_description">%1$s instalatzen</string>
+    <string name="supervisor_title">Zuzeneko aplikazioetarako Google Play zerbitzuak</string>
+    <string name="suw_back_button_label">Atzera</string>
+    <string name="suw_more_button_label">Gehiago</string>
+    <string name="suw_next_button_label">Hurrengoa</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Sakatu informazio gehiago lortzeko</string>
+    <string name="system_update_activity_battery_low_text">Bateria gutxiegi gelditzen da eguneratzea instalatzeko</string>
+    <string name="system_update_activity_name">Sistemaren eguneratzeak</string>
+    <string name="system_update_activity_roaming_text">Ezin dira sistemaren eguneratzeak ibiltaritzan deskargatu.</string>
+    <string name="system_update_activity_roaming_text_glif">Ezin da deskargatu ibiltaritzan zauden bitartean</string>
+    <string name="system_update_android_version_text">Android bertsioa: ^1</string>
+    <string name="system_update_check_now_button_text">Bilatu eguneratzeak</string>
+    <string name="system_update_checking_status_text">Egiaztatzen</string>
+    <string name="system_update_complete_label">Sistemaren eguneratzea</string>
+    <string name="system_update_countdown_cancel_button">Utzi instalatzeari</string>
+    <string name="system_update_countdown_complete">Berrabiarazten…</string>
+    <string name="system_update_download_and_install_button_text">Deskargatu eta instalatu</string>
+    <string name="system_update_download_button_text">Deskargatu</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Ez dago deskargatzeko behar adina toki</string>
+    <string name="system_update_download_failed_no_space_status_text">Ez dago deskargatzeko behar adina toki.</string>
+    <string name="system_update_download_failed_status_text">Ezin izan da deskargatu</string>
+    <string name="system_update_download_manage_storage_button_text">Kudeatu memoria</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Wi-Fi konexioaren zain</string>
+    <string name="system_update_download_paused_title_text">Pasusatu egin da deskarga</string>
+    <string name="system_update_download_retry_button_text">Saiatu berriro deskargatzen</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Eguneratzea automatikoki hasiko da deskargatzen ^1 eta ^2 artean.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Eguneratzea edonoiz deskarga dezakezu Wi-Fi bidez. Zuk egin ezean, automatikoki hasiko da deskargatzen ^1 eta ^2 artean.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Eguneratzea deskargatzeko, lehendabizi aldatu beste SIM txartelera.</string>
+    <string name="system_update_download_waiting_status_text">Deskargatzeko zain</string>
+    <string name="system_update_downloading_status_text">Deskargatzen</string>
+    <string name="system_update_downloading_title_text">Sistemaren eguneratzea deskargatzen…</string>
+    <string name="system_update_downloading_wifi_status2_text">^1 bidez ^2 arte</string>
+    <string name="system_update_file_browser_ok_button">Hautatu</string>
+    <string name="system_update_file_browser_title">Hautatu eguneratze-fitxategia</string>
+    <string name="system_update_free_up_space_button_text">Egin tokia</string>
+    <string name="system_update_from_sd_card_button_and_title">Eguneratu SD txarteletik</string>
+    <string name="system_update_from_sd_card_unknown_status">Egiaztatzen…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Ezin izan da egiaztatu</string>
+    <string name="system_update_from_sd_card_verified_description">Eguneratzea egiaztatuta eta instalatzeko prest dago.</string>
+    <string name="system_update_from_sd_card_verifying_status">Egiaztatzen…</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Wi-Fi sare mugagabea behar da</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Wi-Fi konexioa erabiltzea gomendatzen da</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Eguneratzea ^2 arte bakarrik deskarga daiteke ^1 bidez.
+
+Deskargatzen jarraitzeko, konektatu ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Wi-Fi sarera konektatu behar da</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Daturik ordaindu behar ez izateko, konektatu Wi‑Fi sare mugagabe batera.</string>
+    <string name="system_update_install_button_text">Berrabiarazi eta instalatu</string>
+    <string name="system_update_install_failed_button_qualifier_text">Instalatzeko arazoa</string>
+    <string name="system_update_install_failed_title_text">Ezin izan da eguneratu</string>
+    <string name="system_update_install_steps_text">^1/2 urratsa</string>
+    <string name="system_update_installing_title_text">Sistemaren eguneratzea instalatzen…</string>
+    <string name="system_update_last_checkin">Eguneratzeen azken bilaketa (^1).</string>
+    <string name="system_update_last_checkin_glif">Eguneratzeen azken bilaketa: ^1</string>
+    <string name="system_update_managed_by_policy">Erakundeak eguneratzen du gailu honetako sistemaren softwarea.</string>
+    <string name="system_update_no_update_content_text">Sistema eguneratuta duzu.</string>
+    <string name="system_update_no_update_content_text_glif">Sistema eguneratuta duzu</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Ezin izan da deskargatu sistemaren eguneratzea</string>
+    <string name="system_update_not_owner_text">Sistemaren software-eguneratze bat dago erabilgarri, baina jabeak soilik instala dezake.</string>
+    <string name="system_update_notification_header_name">Android sistemaren eguneratzea</string>
+    <string name="system_update_pause_button_text">Pausatu deskarga</string>
+    <string name="system_update_processing_status_text">Prozesatzen</string>
+    <string name="system_update_requires_restart_status_text">Berrabiaraztea eskatzen du</string>
+    <string name="system_update_restart_to_install_button_text">Instalatzeko, berrabiarazi gailua</string>
+    <string name="system_update_restart_to_update_button_text">Eguneratzeko, berrabiarazi gailua</string>
+    <string name="system_update_resume_button_text">Berrekin</string>
+    <string name="system_update_scheduled_status_text">Antolatua</string>
+    <string name="system_update_security_patch_level_text">Segurtasun-adabakiaren maila: ^1</string>
+    <string name="system_update_security_update_available_title_text">Segurtasun-eguneratze bat dago</string>
+    <string name="system_update_security_update_downloading_title_text">Segurtasun-eguneratzea deskargatzen…</string>
+    <string name="system_update_security_update_installing_title_text">Segurtasun-eguneratzea instalatzen…</string>
+    <string name="system_update_size_label">Eguneratzearen tamaina:</string>
+    <string name="system_update_suw_download_and_install_text">"Minutu batzuk beharko dira eguneratzea deskargatzeko eta instalatzeko.
+
+Deskargatu ondoren, gailua berrabiarazi egingo da automatikoki."</string>
+    <string name="system_update_suw_download_text">"Minutu batzuk beharko dira eguneratzea deskargatzeko.
+
+Deskargatu ondoren, gailua berrabiarazi egingo da automatikoki."</string>
+    <string name="system_update_suw_download_title">Eguneratzea deskargatzen…</string>
+    <string name="system_update_suw_restart_text">Berrabiarazi egingo da gailua, sistemaren eguneratzea instalatu ahal izateko.</string>
+    <string name="system_update_suw_restart_title">Berrabiaraztear da</string>
+    <string name="system_update_suw_wifi_needed">Deskargatzen jarraitzeko, hautatu ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Deskargatzeko, pasatu hatza ezkerrera.</string>
+    <string name="system_update_update_available_notification_message">Sakatu informazio gehiago lortzeko eta deskargatzeko</string>
+    <string name="system_update_update_available_notification_title">Sistemaren eguneratzea erabilgarri dago</string>
+    <string name="system_update_update_available_tap_to_download">Deskargatzeko, sakatu hau</string>
+    <string name="system_update_update_available_title_text">Sistemaren eguneratze bat dago</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Pasusatu egin da deskarga</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Ez dago behar adina toki</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Instalatzeko, pasatu hatza ezkerrera.</string>
+    <string name="system_update_update_downloaded_notification_message">Sakatu informazio gehiago lortzeko eta instalatzeko</string>
+    <string name="system_update_update_downloaded_notification_title">Sistemaren eguneratzea deskargatu da</string>
+    <string name="system_update_update_downloaded_tap_to_install">Instalatzeko, sakatu hau</string>
+    <string name="system_update_verification_failed_text">Egiaztapenak huts egin du</string>
+    <string name="system_update_verified_status_text">Deskargatuta eta egiaztatuta</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Egiaztapen-arazoa</string>
+    <string name="system_update_verifying_status_text">Egiaztatzen</string>
+    <string name="system_update_wearable_countdown_message">%d segundo barru berrabiaraziko da…</string>
+    <string name="target_default_source_device_model">gailu zaharra</string>
+    <string name="target_device_not_supported_cant_continue_description">Beste era batera kopiatu beharko dituzu datuak</string>
+    <string name="target_device_not_supported_cant_continue_title">Beste telefonoa ez da bateragarria</string>
+    <string name="target_device_not_supported_try_restarting_description">"Deskonektatu kablea eta berrabiarazi telefono zaharra. Ondoren, konektatu berriro kablea eta jarraitu Pixel gailuko argibideei.
+
+Errore hau ikusten jarraitzen baduzu, probatu edukia beste modu batean kopiatzen."</string>
+    <string name="target_device_not_supported_try_restarting_title">Baliteke telefonoa bateragarria ez izatea</string>
+    <string name="target_smart_device_timeout_add_account">GEHITU KONTUA</string>
+    <string name="target_smart_device_timeout_description">Nahi izanez gero, eskuz gehi dezakezu kontua</string>
+    <string name="target_smart_device_timeout_dismiss">BAZTERTU</string>
+    <string name="target_smart_device_timeout_title">Arazoak dituzu?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Konektatuta daude telefonoak</string>
+    <string name="toast_reconnect_cable">Sartu kablea berriro</string>
+    <string name="transfer_finished_fragment_title">Azken ukituak ematen…</string>
+    <string name="transfer_summary_copied">Kopiatu dira datuak</string>
+    <string name="transfer_summary_fragment_description">Deskonekta dezakezu kablea.</string>
+    <string name="transfer_summary_fragment_finish">AMAITU</string>
+    <string name="transfer_summary_fragment_title">Ia prest dago telefonoa</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Argazkietako batzuk ez dira kopiatu. <annotation id="transfer_summary_learn_more">Lortu informazio gehiago</annotation></string>
+    <string name="transfer_summary_not_copied">Ez dira kopiatu datuak</string>
+    <string name="transfer_summary_partial">%1$s/%2$s kopiatu dira</string>
+    <string name="transfer_summary_will_sync">Konfiguratu ondoren sinkronizatuko dira datuak</string>
+    <string name="transferring_fragment_calculating_remaining_time">Falta den denbora kalkulatzen…</string>
+    <string name="transferring_fragment_header">Kopiatzen…</string>
+    <string name="transferring_fragment_remaining_time">%1$s geratzen dira</string>
+    <string name="trust_instructions_description">Aurrera egiteko, zoaz iPhone™ gailura eta onartu konektatzea</string>
+    <string name="trust_instructions_trademark_disclaimer">Apple Inc. enpresaren marka komertzialak dira iPhone, iPad, iOS, iMessage, iCloud, Safari eta iTunes, eta AEBn nahiz beste herrialde batzuetan daude erregistratuta.</string>
+    <string name="unmetered_wifi_string">datu-kontsumoa mugatuta ez duen Wi-Fi sare batera</string>
+    <string name="url_load_unsuccessful_message">Android gailu hau ez dago konektatuta datu mugikorren inongo zerbitzutara. Informazio hori orain ikusi nahi baduzu, atzi ezazu %s web-arakatzaile baten bidez.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android gailua ez dago Wi-Fi sare batera konektatuta. Informazioa ikusteko, joan %s helbidera web-arakatzaile baten bidez.</string>
+    <string name="use_nearby_device_heading">Inguruko gailuren bat erabili nahi duzu?</string>
+    <string name="use_nearby_device_text">Inguruko gailuren bat erabili nahi duzu kredentzialak onartzeko?</string>
+    <string name="waiting_for_account_info_text">Kontuaren informazioaren zain…</string>
+    <string name="wifi_available_action_all_networks">Sare guztiak</string>
+    <string name="wifi_available_action_connect">Konektatu</string>
+    <string name="wifi_available_content_failed">Sakatu hau sare guztiak ikusteko</string>
+    <string name="wifi_available_title">Konektatu Wi‑Fi sare irekira</string>
+    <string name="wifi_available_title_connected">Wi‑Fi sare irekira konektatuta</string>
+    <string name="wifi_available_title_connecting">Wi‑Fi sare irekira konektatzen</string>
+    <string name="wifi_available_title_failed">Ezin izan da konektatu Wi-Fi sarera</string>
+    <string name="wifi_string">Wi-Fi sare batera</string>
+    <string name="wifi_wakeup_enabled_notification_context">Gordetako sare honetatik gertu zaude: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Automatikoki aktibatu da Wi‑Fi konexioa</string>
+</resources>

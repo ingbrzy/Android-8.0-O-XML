@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">கணக்கு தடுக்கப்பட்டுள்ளது</string>
+    <string name="account_level_title">கணக்குச் செயல்பாடு தேவை</string>
+    <string name="account_removed_notification_text">சாதன நிர்வாகம் முடியாததால், %1$s அகற்றப்பட்டது</string>
+    <string name="account_removed_notification_title">கணக்கு அகற்றப்பட்டது</string>
+    <string name="android_privacy_policy_title">கூடுதல் தனியுரிமைக் கொள்கை</string>
+    <string name="app_has_in_app_purchases">பயன்பாடு சார்ந்த வாங்குதல்கள்</string>
+    <string name="app_has_permissions">அனுமதிகள்: %s</string>
+    <string name="app_has_runtime_permissions">பயன்பாடானது அனுமதிகளைக் கேட்கும்</string>
+    <string name="app_level_title">உள்நுழைவு கோரிக்கை</string>
+    <string name="app_level_title_secondary">%s இன் உள்நுழைவு கோரிக்கை</string>
+    <string name="app_picker_app_already_installed_toast">இந்தப் பயன்பாடு ஏற்கனவே நிறுவப்பட்டுள்ளது</string>
+    <string name="app_picker_loading">கிடைக்கும் பயன்பாடுகளைக் கண்டறிகிறது…</string>
+    <string name="app_picker_loading_toast">கிடைக்கும் பயன்பாடுகள் விரைவில் ஏற்றப்படும்</string>
+    <string name="app_picker_no_apps">எதுவும் தேர்ந்தெடுக்கப்படவில்லை</string>
+    <string name="app_picker_no_apps_found">பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="apps_in_app_purchases_disclaimer_all">பயன்பாட்டில் வாங்கிய உள்ளடக்கம், உங்கள் ^1க்கு இடமாற்றப்படாது.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">பயன்பாட்டில் வாங்கிய சில உள்ளடக்கத்தை, உங்கள் ^1க்கு இடமாற்ற முடியாமல் போகக்கூடும்.</string>
+    <string name="apps_permissions_described_v2">"பிரபலமான இலவச iOS® பயன்பாடுகள் மட்டுமே Android பயன்பாடுகளுக்குப் பொருந்தும். பயன்பாட்டில் வாங்கிய பெரும்பாலான உள்ளடக்கம் பரிமாற்றப்படாது. அமைவை முடித்ததும், Play ஸ்டோரில் இன்னும் அதிகமான பயன்பாடுகளைப் பார்க்கலாம்.
+
+உங்கள் சாதனத்தில் உள்ள குறிப்பிட்ட திறன்களை அல்லது தகவலை அணுக, சில பயன்பாடுகளுக்கு நீங்கள் முன் அனுமதி வழங்க வேண்டியிருக்கலாம். அனுமதிக் குழுக்களில், அனுமதிகள் ஒழுங்கமைக்கப்படும். இந்தப் பயன்பாடுகளை நிறுவுவதற்குத் தேர்ந்தெடுப்பதன் மூலம், ஒவ்வொரு குழுவிற்குமான அனுமதிகளையும் ஏற்கிறீர்கள். ஒவ்வொரு அனுமதிக் குழுவிற்கான விளக்கமும் கீழே கொடுக்கப்பட்டுள்ளது.
+
+சில பயன்பாடுகளுக்கு முன்பே அனுமதிகளை ஏற்க வேண்டிய அவசியம் இல்லாமல் இருக்கலாம். இந்தப் பயன்பாடுகளில் ஏதேனும் ஒன்றைப் பயன்படுத்தும் போது, பயன்பாடானது அந்த வகையான தரவை உபயோகிப்பதற்கு முன்பே தனிப்பட்ட அனுமதியை நீங்கள் அனுமதிக்கலாம் அல்லது மறுக்கலாம்.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">ஒவ்வொரு பயன்பாட்டையும் நிறுவுவதன் மூலம், அதன் அனுமதிகளை ஏற்கிறீர்கள். <annotation id="apps_permissions_learn_more">மேலும் அறிக</annotation></string>
+    <string name="audience_selection_done">முடிந்தது</string>
+    <string name="auth_account_already_has_gmail">கணக்கில் ஏற்கனவே Gmail உள்ளது.</string>
+    <string name="auth_account_content_provider_label">Google கணக்குகள் பற்றிய தரவு</string>
+    <string name="auth_account_removed_default_description">சாதன நிர்வாகத்தை அமைக்க முடியவில்லை. முதலிலிருந்து தொடங்கி, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_account_removed_default_title">அமைவு ரத்துசெய்யப்பட்டது</string>
+    <string name="auth_account_removed_dm_bad_result_description">சாதன நிர்வாகத்தை அமைப்பதை முடிக்க முடியவில்லை. முதலிலிருந்து தொடங்கி, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_account_removed_dm_not_supported_description">உங்கள் டொமைனுக்கு மொபைல் சாதன நிர்வாகம் தேவை. ஆனால், அது இந்தச் சாதனத்தில் ஆதரிக்கப்படவில்லை. வேறொரு கணக்கைப் பயன்படுத்திப் பார்க்கவும்.</string>
+    <string name="auth_account_removed_dm_not_supported_title">சாதன நிர்வாகம் ஆதரிக்கப்படவில்லை</string>
+    <string name="auth_account_removed_dm_setup_failed_description">சாதன நிர்வாகத்தை சரியாக நிறுவ முடியவில்லை. முதலிலிருந்து தொடங்கி, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">நிறுவுவதில் சிக்கல்</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">சாதன நிர்வாகத்தை அமைக்க முடியவில்லை. முதலிலிருந்து தொடங்கி, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">அமைவு ரத்துசெய்யப்பட்டது</string>
+    <string name="auth_account_settings_title">கணக்கு அமைப்புகள்</string>
+    <string name="auth_account_setup_title">Google கணக்கு</string>
+    <string name="auth_account_state_sync_title">கணக்கு நிலை ஒத்திசைவு</string>
+    <string name="auth_allow_button_label">அனுமதி</string>
+    <string name="auth_allow_external_site_access">%s இல் உள்ள உங்கள் தரவிற்கான செயலில் உள்ள அணுகலைக் கொண்டுள்ளது</string>
+    <string name="auth_app_permission_ok_footnote">தொடர்வதன் மூலம், இந்தப் பயன்பாடு மற்றும் Google அவற்றிற்குரிய சேவை விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கைகளுடன் இணங்கும்வகையில் உங்கள் தகவலைப் பயன்படுத்த அனுமதிக்கிறீர்கள்.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">உள்நுழைவை அனுமதி</string>
+    <string name="auth_authzen_allow_reset_button_text">கடவுச்சொல் மீட்டமைப்பதை அனுமதி</string>
+    <string name="auth_authzen_google_logo_label">Google லோகோ</string>
+    <string name="auth_authzen_login_challenge_approved_text">உள்நுழைவு அனுமதிக்கப்பட்டது</string>
+    <string name="auth_authzen_login_challenge_canceled_text">உள்நுழைவு ரத்து செய்யப்பட்டது</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">உள்நுழைவை அனுமதி</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s இலிருந்து உள்நுழையவா?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google உள்நுழைவைத் தடுத்துள்ளது.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">தவறான எண்</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">வேறொரு திரையில் காட்டப்படும் எண்ணைத் தொடவும். இது உங்களைக் கணினியில் உள்நுழைக்கும்.</string>
+    <string name="auth_authzen_login_challenge_title_text">உள்நுழைய முயற்சிக்கிறீர்களா?</string>
+    <string name="auth_authzen_profile_picture_label">சுயவிவரப் புகைப்படம்</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">உள்நுழைய முயற்சிக்கும் கணக்கைத் தேர்ந்தெடுக்கவும்:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">உள்நுழைய முயற்சிக்கிறீர்களா?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">எந்த உள்நுழைவு அறிவிப்புகளும் இல்லை.</string>
+    <string name="auth_authzen_pull_offline_error">அகப் பிழை</string>
+    <string name="auth_authzen_pull_offline_instructions_text">கணினியில் \"குறியீடு உள்ளதா?\" என்பதைக் கிளிக் செய்து, பிறகு உள்ளிடவும்:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Google இல் உள்நுழைய முயற்சித்தீர்களா?</string>
+    <string name="auth_authzen_recovery_approved_text">கடவுச்சொல்லை மீட்டமைப்பது அனுமதிக்கப்பட்டது</string>
+    <string name="auth_authzen_recovery_canceled_text">கடவுச்சொல்லை மீட்டமைப்பது ரத்துசெய்யப்பட்டது</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%s இலிருந்து கடவுச்சொல் மீட்டமைவை அனுமதிக்கவா?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">உறுதிப்படுத்தவும்</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google கடவுச்சொல் மீட்டமைவைத் தடுத்துள்ளது.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">தவறான எண்</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">வேறொரு திரையில் காட்டப்படும் எண்ணைத் தொடவும். இது கடவுச்சொல்லை மீட்டமைக்கும்.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">கடவுச்சொல் மீட்டமைவை அனுமதி</string>
+    <string name="auth_authzen_recovery_reject_desc_text">யாரோ ஒருவர், உங்கள் Google கணக்கின் கடவுச்சொல்லை மீட்டமைக்கக் கோரியுள்ளார். Google கடவுச்சொல் மீட்டமைவைத் தடுத்துள்ளது.</string>
+    <string name="auth_authzen_recovery_reject_title_text">கடவுச்சொல் மீட்டமைவு தடுக்கப்பட்டது</string>
+    <string name="auth_authzen_recovery_verification_desc_text">%s இலிருந்து கடவுச்சொல்லை மீட்டமைக்கக் கோரினீர்களா?</string>
+    <string name="auth_authzen_recovery_verification_title_text">கடவுச்சொல்லை மீட்டமைக்க முயற்சித்தீர்களா?</string>
+    <string name="auth_authzen_secure_account_button_text">பாதுகாக்கவும்</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">உள்நுழைவு அறிவிப்புகளைத் தேடுகிறது...</string>
+    <string name="auth_back_button_label">பின்செல்</string>
+    <string name="auth_cant_add_work_account_message">இந்தக் கணக்கு வகையை உங்கள் நிறுவனம் நிர்வகிக்கிறது.</string>
+    <string name="auth_captcha_instructions">நீங்கள் பார்க்கும் உரையை இங்கு தட்டச்சு செய்யவும்:</string>
+    <string name="auth_captcha_title">கேப்ட்சாவை உள்ளிட வேண்டும்</string>
+    <string name="auth_common_next_button">அடுத்து</string>
+    <string name="auth_common_skip">தவிர்</string>
+    <string name="auth_common_switch_accounts">கணக்குகளை மாற்று</string>
+    <string name="auth_communicating_message">உங்கள் கணக்கில் தகவலைச் சேமிப்பதற்கு, உங்கள் சாதனம் Google ஐத் தொடர்புகொள்கிறது. இதற்கு 5 நிமிடங்கள் வரை ஆகலாம்.</string>
+    <string name="auth_confirm_creds_sync_title">அனுமதிச் சான்றுகளின் நிலை</string>
+    <string name="auth_d2d_source_alert_title">தட்டிச் செல்லவும்</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">பூட்டி, சரிபார்க்கவும்</string>
+    <string name="auth_d2d_source_copy_notice">உங்கள் பிற சாதனத்திற்கு, கணக்குகளையும் தரவையும் நகலெடுக்கவா?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">சரிபார்த்த பிறகு, புளூடூத் இயக்கப்படும், அதன் மூலம் உங்கள் சாதனங்களை இணைக்கலாம்.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">சரிபார்த்த பிறகு, உங்கள் சாதனங்கள் புளூடூத் மூலம் இணைக்கப்படும்.</string>
+    <string name="auth_d2d_source_lock_notice">தொடர, உங்கள் திரை பூட்டப்படும், சரிபார்ப்பதற்காக அதனை நீங்கள் திறக்க வேண்டும்.</string>
+    <string name="auth_d2d_source_no_accounts_toast">சாதனத்தில் கணக்குகள் இல்லாததால் தட்டிப் பயன்படுத்த முடியாது</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">சாதனத்தில் புளூடூத் இல்லாததால் தட்டிப் பயன்படுத்த முடியாது.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">புளூடூத் இயக்கப்படும், அதன் மூலம் உங்கள் சாதனங்களை இணைக்கலாம்.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">இது புளூடூத்தினைப் பயன்படுத்தும்.</string>
+    <string name="auth_d2d_source_notification_title">தட்டி, முடிக்கவும்</string>
+    <string name="auth_d2d_source_restricted_user_toast">வரம்பிட்ட பயனர் சுயவிவரத்திலிருந்து தட்டி மீட்டெடுக்க முடியாது.</string>
+    <string name="auth_d2d_source_title">கணக்குகளை மீட்டெடு</string>
+    <string name="auth_d2d_source_unknown_device_name">பெயரில்லாத சாதனம்</string>
+    <string name="auth_d2d_target_sorry_alert">ஏதோ தவறு ஏற்பட்டது</string>
+    <string name="auth_d2d_target_tap_progress_message">தொடர, உங்கள் பிற சாதனத்தில் சரி என்பதைத் தட்டவும்</string>
+    <string name="auth_d2d_target_title">தட்டி முடி</string>
+    <string name="auth_d2d_target_unlock_progress_message">பிற சாதனத்தைச் சரிபார்க்கவும்</string>
+    <string name="auth_d2d_target_wait_progress_message">கணக்குகளையும் தரவையும் பெறுகிறது...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">நிராகரி</string>
+    <string name="auth_device_management_download_app_icon">%s பயன்பாட்டு ஐகான்</string>
+    <string name="auth_device_management_download_description">இந்தக் கணக்கிற்கு மொபைல் சாதன நிர்வாகம் தேவை. கணக்கிற்குத் தேவைப்படும் பாதுகாப்புக் கொள்கைகளைச் செயல்படுத்த, ^1 பயன்பாட்டை நிறுவவும்.</string>
+    <string name="auth_device_management_download_description_kids">இந்தச் சாதனத்தில் கணக்கைச் சேர்க்க, முதலில் <b>^1</b>" பயன்பாட்டை நிறுவவும். 
+
+உங்கள் குழந்தை பயன்படுத்தும் வகையில் சாதனத்தை அமைக்க, ^1 உதவும்."</string>
+    <string name="auth_device_management_download_failed_message">இந்தப் பயன்பாடு இல்லாமல், இப்போதும் அமைவைத் தொடரலாம்</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">சாதன மேலாண்மையை நிறுவ முடியவில்லை. இந்தக் கணக்கு அகற்றப்படும். பிறகு முயலவும்.</string>
+    <string name="auth_device_management_download_failed_title">பயன்பாட்டை இறக்க முடியவில்லை</string>
+    <string name="auth_device_management_download_not_updated_message">நடப்புப் பதிப்பைப் பயன்படுத்தி, இப்போதும் அமைவைத் தொடரலாம்</string>
+    <string name="auth_device_management_download_paused">இடைநிறுத்தப்பட்டது</string>
+    <string name="auth_device_management_download_progress">இறக்குகிறது…</string>
+    <string name="auth_device_management_download_skip_message">இந்தக் கணக்கிற்குச் சாதன நிர்வாகம் தேவை. அது இல்லாமல் தொடரவா?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">இந்தக் கணக்கைச் சேர்ப்பதற்குச் சாதன நிர்வாகம் தேவை. வேறொரு கணக்கின் மூலம், முதலிலிருந்து தொடங்க விரும்புகிறீர்களா?</string>
+    <string name="auth_device_management_go_back">முந்தையது</string>
+    <string name="auth_device_management_screenlock_description">இந்தச் சாதனத்தில் பணிக் கணக்கை அணுக, பூட்டுத் திரையை அமைக்க வேண்டும். இது உங்கள் நிறுவனத்தின் மொபைல் சாதனக் கொள்கையாகும்.</string>
+    <string name="auth_device_management_screenlock_skip_message">இந்தக் கணக்கிற்குத் திரைப்பூட்டுப் பாதுகாப்பு தேவை. வேறு கணக்கைப் பயன்படுத்தித் தொடங்க விரும்புகிறீர்களா?</string>
+    <string name="auth_device_management_start_description">இந்தக் கணக்கிற்கு மொபைல் சாதன நிர்வாகம் தேவை. ”அடுத்து” என்பதைத் தட்டும் போது, கணக்கிற்குத் தேவைப்படும் பாதுகாப்புக் கொள்கைகளைச் செயல்படுத்துவதற்கு ^1 பயன்பாடு உதவும்.</string>
+    <string name="auth_device_management_start_description_kids">இந்தச் சாதனத்தில் கணக்கைச் சேர்க்க, <b>^1</b>" பயன்பாட்டைப் பயன்படுத்தவும். 
+
+உங்கள் குழந்தை பயன்படுத்தும் வகையில் சாதனத்தை அமைக்க, ^1 உதவும்."</string>
+    <string name="auth_device_management_title">சாதன நிர்வாகம்</string>
+    <string name="auth_device_management_update_description">இந்தக் கணக்கிற்கு மொபைல் சாதன நிர்வாகம் தேவை. கணக்குடன் தொடர்புடைய பாதுகாப்புக் கொள்கைகளைப் பூர்த்தி செய்ய, ^1 பயன்பாட்டின் சமீபத்திய பதிப்பை நிறுவ வேண்டும்.</string>
+    <string name="auth_device_management_update_description_kids">இந்தச் சாதனத்தில் கணக்கைச் சேர்க்க, முதலில் <b>^1</b>" பயன்பாட்டின் சமீபத்திய பதிப்பை நிறுவவும். 
+
+உங்கள் குழந்தை பயன்படுத்தும் வகையில் சாதனத்தை அமைக்க, ^1 உதவும்."</string>
+    <string name="auth_dismiss_button_label">நிராகரி</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmailஐப் பயன்படுத்தவில்லை.</string>
+    <string name="auth_error_account_disabled">"இந்தக் கணக்கு முடக்கப்பட்டுள்ளது. 
+
+(மேலும் விவரங்களுக்கு, இணைய உலாவியில் http://google.com/accounts தளத்தைப் பார்வையிடவும்.)"</string>
+    <string name="auth_error_account_not_verified">"இந்தக் கணக்குச் சரிபார்க்கப்படவில்லை. இதைச் சரிபார்க்க, உங்கள் மின்னஞ்சலைப் பார்த்து, அதில் இணைக்கப்பட்டுள்ள இணைப்பைப் பின்பற்றவும். 
+
+(உங்கள் கணக்கின் தகவலை மீட்டெடுப்பதற்கு, உங்கள் கணினியில் http://www.google.com/accounts/recovery க்குச் செல்லவும்.)"</string>
+    <string name="auth_error_bad_password">கடவுச்சொல் மிகவும் வலிமையற்றதாக உள்ளது அல்லது கடவுச்சொல்லில் தவறான எழுத்துக்குறிகள் உள்ளன. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="auth_error_bad_username">பயனர்பெயர் தவறானது.</string>
+    <string name="auth_error_generic_server_error">"Google சேவையகங்களுடன் தொடர்புகொள்வதில் சிக்கல் ஏற்பட்டது. 
+
+பிறகு முயலவும்."</string>
+    <string name="auth_error_invalid_second_factor">உங்கள் வழக்கமான கணக்கின் கடவுச்சொல்லிற்குப் பதிலாக, பயன்பாடு சார்ந்த கடவுச்சொல்லைப் பயன்படுத்தவும்.</string>
+    <string name="auth_error_login_failed">"உங்கள் பயனர்பெயரும், கடவுச்சொல்லும் பொருந்தவில்லை. மீண்டும் முயற்சிக்கவும்.
+
+உங்கள் கணக்கின் தகவலை மீட்டெடுப்பதற்கு, google.com/accounts/recovery/ க்குச் செல்லவும்."</string>
+    <string name="auth_error_needs_browser">கணக்கை அணுக, இணையத்தில் உள்நுழைய வேண்டும். உலாவியில் உள்நுழைவைத் தொடங்க, அடுத்து என்பதைத் தட்டவும்.</string>
+    <string name="auth_error_no_network">"நெட்வொர்க் இணைப்பு இல்லை. 
+
+இது தற்காலிகப் பிரச்சினையாக இருக்கலாம். மீண்டும் முயற்சிக்கவும் அல்லது வேறொரு வைஃபை நெட்வொர்க்குடன் இணைக்கவும்."</string>
+    <string name="auth_error_not_logged_in">பயனர் உள்நுழையவில்லை.</string>
+    <string name="auth_error_username_unavailable">பயனர்பெயர் கிடைக்கவில்லை.</string>
+    <string name="auth_existing_account_error_text">இந்த Android சாதனத்தில், ஏற்கனவே ^1 என்ற கணக்கு உள்ளது.</string>
+    <string name="auth_existing_account_error_title">கணக்கு ஏற்கனவே உள்ளது</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">சமீபத்தில் கடவுச்சொல்லை மாற்றியதால், சாதனத்தில் உள்நுழைய முடியவில்லை. கடவுச்சொல்லை மாற்றியதிலிருந்து 24 மணிநேரத்திற்குப் பிறகு, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">சாதனப் பாதுகாப்பு அம்சங்கள் இனி வேலை செய்யாது.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">உங்கள் தனிப்பட்ட சுயவிவரத்தில் உள்ள கடைசி Google கணக்கை நகர்த்துவது, சாதனத்தின் திருட்டுப் பாதுகாப்பு அம்சங்களை முடக்கும். சாதனத்தில் மற்றொரு கணக்கைச் சேர்ப்பதன் மூலம் அவற்றை பிறகு இயக்கிக் கொள்ளலாம்.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">நிச்சயமாகவா?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">பணி சுயவிவரத்திற்கு கணக்கை நகர்த்தவா?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">அறியப்படாத பிழையின் காரணமாக, சாதனத்தில் உள்நுழைய முடியவில்லை. வேறொரு கணக்கைப் பயன்படுத்தவும் அல்லது 24 மணிநேரத்திற்குப் பிறகு, மீண்டும் உள்நுழையவும்.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">இந்தச் சாதனத்திற்கான உரிமையாளர் கணக்கு ஒன்றைப் பயன்படுத்தி உள்நுழையவும்</string>
+    <string name="auth_field_cant_be_blank">புலமானது வெறுமையாக இருக்கக்கூடாது.</string>
+    <string name="auth_frp_add_account_no">வேண்டாம்</string>
+    <string name="auth_frp_add_account_prompt">இப்போது உங்கள் சாதனத்தில் ^1ஐச் சேர்க்கவா? மற்றொரு கணக்கு இருந்தால், அதை பின்னர் சேர்க்கலாம்.</string>
+    <string name="auth_frp_add_account_yes">ஆம்</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">இந்தக் கணக்கை அணுக முடியவில்லை. நிறுவனத்தின் பாதுகாப்புக் கொள்கைகளை உங்கள் சாதனம் பின்பற்றுகிறது என்பதை உறுதிப்படுத்திக்கொள்ளவும். சிக்கல் தொடர்ந்தால், உங்கள் நிறுவனத்தின் நிர்வாகியைத் தொடர்புகொள்ளவும்.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">கணக்குப் பிழை</string>
+    <string name="auth_gls_dmagent_activity_download_message">" உங்கள் டொமைனுக்கு மொபைல் சாதன நிர்வாகம் தேவை.  "<b>^1</b> கணக்கிற்குத் தேவைப்படும் பாதுகாப்புக் கொள்கைகளைச் செயல்படுத்த, \"Google Apps Device Policy\" பயன்பாட்டை நிறுவவும்.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">பதிவிறக்கு</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" இல் எழுத்துகள்,
+எண்கள் மற்றும் நிறுத்தற்புள்ளிகள் மட்டுமே இருக்க வேண்டும்."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> இல் எழுத்துகள் இல்லை.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> இல் 6 க்கும் குறைவான அல்லது 30 க்கும் அதிகமான எழுத்துக்குறிகள் உள்ளன.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> என்ற பயனர்பெயர் கிடைக்கவில்லை.</string>
+    <string name="auth_gls_name_checking_info_title">தகவலைச் சரிபார்க்கிறது…</string>
+    <string name="auth_gls_sync_item_title">%s ஐ ஒத்திசை</string>
+    <string name="auth_gls_third_party_activity_download_message">" உங்கள் நிறுவனம் நிர்வகிக்கும் சாதனம் அல்லது பணிச் சுயவிவரத்தில்  "<b>^1</b> கணக்கைச் சேர்க்க வேண்டும். இதை முடிக்க, உங்கள் ஐடி நிர்வாகி வழங்கிய வழிமுறைகளைப் பின்பற்றவும்.</string>
+    <string name="auth_google_title_logo">Google லோகோ</string>
+    <string name="auth_invalid_login_character">எழுத்துக்குறி தவறாக உள்ளது. 0-9, a-z, A-Z மற்றும் புள்ளிகள் மட்டுமே அனுமதிக்கப்படுகின்றன.</string>
+    <string name="auth_invalid_password_character">கடவுச்சொல் எழுத்துக்குறி தவறானது.</string>
+    <string name="auth_invalid_username">நீங்கள் தவறான பயனர்பெயரை உள்ளீட்டுள்ளீர்கள்.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">தொடர்வதன் மூலம், இந்தச் சாதனமானது Google, உங்கள் மொபைல் நிறுவனம், இந்தச் சாதனத்தின் உற்பத்தியாளர் ஆகியோரின் புதுப்பிப்புகளையும் பயன்பாடுகளையும் செல்லுலார் தரவு வழியே தானாகவே பதிவிறக்கி, நிறுவக்கூடும் என்பதையும் ஏற்கிறீர்கள். இந்தப் பயன்பாடுகளில் சில பயன்பாடு சார்ந்த வாங்குதல்களை அளிக்கலாம். நீங்கள் எப்போது வேண்டுமானாலும் இந்தப் பயன்பாடுகளை அகற்றலாம்.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>சாதனச் சேமிப்பகம் கிட்டத்தட்ட நிரம்பியிருக்கும் போது, இடத்தைக் காலியாக்க</b>, காப்புப் பிரதி எடுத்த படங்கள் &amp; வீடியோக்கள் போன்ற சில தரவை இந்தச் சாதனத்திலிருந்து அகற்றவும்.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>சாதனத் தரவையும்</b> (வைஃபை கடவுச்சொற்கள், அழைப்பு வரலாறு போன்றவை) பயன்பாட்டுத் தரவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், கோப்புகள் போன்றவை) உங்கள் குழந்தையின் Google இயக்ககத்தில் தானாகக் காப்புப் பிரதி எடுக்கலாம்.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"தானியங்கு காப்புப் பிரதியை இயக்கும் போது, சாதனம் மற்றும் பயன்பாட்டுத் தரவானது குறிப்பிட்ட கால இடைவெளியில் உங்கள் குழந்தையின் Google இயக்ககத்தில் உள்ள தனிப்பட்ட கோப்புறையில் சேமிக்கப்படும். பயன்பாட்டுத் தரவு என்பது தொடர்புகள், செய்திகள், படங்கள் போன்ற மிகவும் முக்கியத் தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொறுத்து) எந்தத் தரவாகவும் இருக்கலாம்.
+
+உங்கள் குழந்தையின் இயக்ககச் சேமிப்பக ஒதுக்கீட்டில் காப்புப் பிரதித் தரவு கணக்கிடப்படாது. பெரிய கோப்புகள் அல்லது சேவையிலிருந்து டெவெலப்பர்கள் விலக்கிய கோப்புகள் காப்புப் பிரதி எடுக்கப்படாது."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>சாதனத் தரவு</b> (வைஃபை கடவுச்சொற்கள், SMS மற்றும் அழைப்பு வரலாறு போன்றவை), அமைப்புகள் மற்றும் பயன்பாட்டுத் தரவை (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள் மற்றும் கோப்புகள் போன்றவை), உங்கள் குழந்தையின் Google இயக்ககத்தில் தானாகக் காப்புப் பிரதி எடுக்கலாம்.</string>
+    <string name="auth_kids_setup_wizard_services_description">பெற்றோராக, உங்கள் குழந்தையின் கணக்கில் இந்தச் சேவைகளை எப்போது வேண்டுமானாலும் இயக்கலாம் அல்லது முடக்கலாம். Google இன் <annotation link="google_privacy">கொள்கைகளுக்கு</annotation>" இணங்க தரவானது பயன்படுத்தப்படும்.
+
+மேலும் அறிய விரும்பினால், ஒவ்வொரு சேவையின் மீதும் தட்டவும்."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing">உங்கள் குழந்தையின் இருப்பிடத்தைப் <b>பயன்பாடுகள் கண்டறிய உதவ, Google இன் இருப்பிடச் சேவையைப் பயன்படுத்தவும்</b>. சாதனம் இயக்கப்பட்டிருக்கும் போது, பெயர் குறிப்பிடாத இருப்பிடத் தரவு Googleக்கு அனுப்பப்படும்.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"இந்தச் சாதனத்தின் இருப்பிடத்தை வேகமாகவும் மிகத் துல்லியமாகவும் கண்டறிவதற்கு உதவியாக, வைஃபை, செல்லுலார் நெட்வொர்க்குகள் போன்றவற்றை Google இருப்பிடச் சேவை பயன்படுத்தும். சாதனத்தின் இருப்பிட அமைப்பு இயக்கப்பட்டு, இருப்பிடத்தைக் கணக்கிட அதிகத் துல்லியத்தன்மை அல்லது பேட்டரிச் சேமிப்புப் (பவர் சேமிப்பு) பயன்முறை போன்ற வைஃபை அல்லது மொபைல் நெட்வொர்க்குகளைப் பயன்படுத்தும் பயன்முறையில் இருக்கும் போது இந்தச் சேவை செயலில் இருக்கும்.
+
+இந்தச் சேவையை முடக்க:
+
+"<li>சாதனத்தில் முதன்மை இருப்பிட அமைப்பை முடக்கலாம்.</li>"
+
+"<li>முதன்மை இருப்பிட அமைப்பை இயக்கத்தில் வைத்து, சாதனம் மட்டும் என்று அழைக்கப்படும் GPS மட்டும் அம்சத்தைப் பயன்படுத்தும் பயன்முறையைத் தேர்வு செய்யலாம்.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">பிழை அறிக்கைகள், சாதனம் மற்றும் பயன்பாட்டின் உபயோகத் தரவை Googleக்குத் தானாக அனுப்புவதன் மூலம் <b>Android அனுபவத்தை மேம்படுத்த உதவவும்</b>. இந்தத் தகவல் உங்கள் குழந்தையை அடையாளப்படுத்தப் பயன்படுத்தப்படாது, மேலும் பேட்டரி ஆயுட்காலம், பயன்பாட்டின் நிலைத்தன்மை, நெட்வொர்க் இணைப்புநிலை போன்றவற்றை மேம்படுத்த உதவும்.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"இந்தச் சாதனம் மற்றும் இதைப் பயன்படுத்தும் விதம் (எ.கா: பேட்டரி நிலை, பயன்பாட்டு உபயோகம், நெட்வொர்க் இணைப்புநிலை) குறித்த பொதுவான தகவல் இதுவாகும். எல்லோருக்காகவும் Google இன் தயாரிப்புகளையும் சேவைகளையும் மேம்படுத்த, தரவு பயன்படுத்தப்படும். ஒருங்கிணைக்கப்பட்ட சில தகவலானது கூட்டாளர்களுக்குத் (எ.கா. Android டெவெலப்பர்கள்) தங்கள் பயன்பாடுகளையும் தயாரிப்புகளையும் மேலும் சிறப்பாக்க உதவும்.
+
+இந்த அம்சத்தை முடக்குவதால், இயங்குதளப் புதுப்பிப்புகள், பாதுகாப்பு போன்ற அத்தியாவசிய சேவைகளைப் பெறத் தேவைப்படும் தகவலை அனுப்புவதற்கான சாதனத் திறனில் பாதிப்பு ஏற்படாது."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"இது இந்தச் சாதனம் மற்றும் அது பயன்படுத்தப்படும் விதம் குறித்த பொதுவான தகவலாகும் (எ.கா: பேட்டரி நிலை, பயன்பாட்டு உபயோகம், நெட்வொர்க் இணைப்புநிலை). எல்லோருக்காகவும் Google இன் தயாரிப்புகளையும் சேவைகளையும் மேம்படுத்த, தரவு பயன்படுத்தப்படும். ஒருங்கிணைக்கப்பட்ட சில தகவலானது கூட்டாளர்களுக்குத் (எ.கா. Android டெவெலப்பர்கள்) தங்கள் பயன்பாடுகளையும் தயாரிப்புகளையும் மேலும் சிறப்பாக்கவும் உதவும்.
+
+இந்த அம்சத்தை முடக்குவதால், இயங்குதளப் புதுப்பிப்புகள், பாதுகாப்பு போன்ற அத்தியாவசிய சேவைகளைப் பெறத் தேவைப்படும் தகவலை அனுப்புவதற்கான இந்தச் சாதனத் திறனில் பாதிப்பு ஏற்படாது.
+
+இந்த அம்சத்தை அமைப்புகள் > Google என்பதில் கட்டுப்படுத்தலாம். மெனுவில் \"உபயோகம் மற்றும் பிழை அறிக்கைகள்\" என்பதைத் தேர்வுசெய்யவும்."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">நீங்கள் உள்ளிட்டது தவறான கடவுச்சொல்லாகும் அல்லது உங்கள் கணக்கு மாற்றப்பட்டது. உங்கள் கடவுச்சொல்லை மீண்டும் தட்டச்சு செய்யவும். உங்கள் கடவுச்சொல்லை மறந்துவிட்டீர்கள் எனில், உங்கள் கணக்கை மீட்க <annotation id="help_url">இங்கு</annotation> கிளிக் செய்யவும்.</string>
+    <string name="auth_login_activity_task_title">உள்நுழைகிறது…</string>
+    <string name="auth_login_activity_title">உள்நுழைக</string>
+    <string name="auth_login_task_title">உள்நுழைகிறீர்கள்</string>
+    <string name="auth_login_title">மின்னஞ்சலையும் கடவுச்சொல்லையும் உள்ளிடவும்</string>
+    <string name="auth_minutemaid_ssl_error">" %s உடன் இணைப்பதில் சிக்கல் ஏற்பட்டது."</string>
+    <string name="auth_network_unreliable_help">இது தற்காலிகச் சிக்கலாக இருக்கலாம் அல்லது உங்கள் Android சாதனம் தரவுச் சேவைகளுக்குத் தகுதியற்றதாக இருக்கலாம். இந்தச் சிக்கல் தொடர்ந்தால், வாடிக்கையாளர் சேவைக்கு அழைக்கவும்.</string>
+    <string name="auth_next_button_label">அடுத்து</string>
+    <string name="auth_no_network">உங்களிடம் நெட்வொர்க் இணைப்பு இல்லை.</string>
+    <string name="auth_no_network_help">இது தற்காலிகச் சிக்கலாக இருக்கலாம் அல்லது உங்கள் Android சாதனம் தரவுச் சேவைகளுக்குத் தகுதியற்றதாக இருக்கலாம். மொபைல் நெட்வொர்க்குடன் இணைக்கும்போது மீண்டும் முயற்சிக்கவும் அல்லது வைஃபை நெட்வொர்க்குடன் இணைக்கவும்.</string>
+    <string name="auth_no_network_help_wifi_only">இது தற்காலிகச் சிக்கலாக இருக்கலாம். மீண்டும் முயற்சிக்கவும் அல்லது மற்றொரு வைஃபை நெட்வொர்க்குடன் இணைக்கவும்.</string>
+    <string name="auth_otp_error">பாதுகாப்புக் குறியீட்டை உருவாக்குவதில் சிக்கல்.</string>
+    <string name="auth_otp_explained_paragraph">கடவுச்சொல்லை மறந்துவிட்டால் அல்லது உங்கள் உள்நுழைவு பற்றி ஏதேனும் புதிதாக இருந்தால், உங்கள் கணக்கைப் பாதுகாப்பதற்காக, பாதுகாப்புக் குறியீட்டை Google கேட்கக்கூடும். அதை இப்போது பயன்படுத்தவும் அல்லது புதியதைப் பெற இங்கே மீண்டும் வரவும்.</string>
+    <string name="auth_otp_header_message">உள்நுழைவதற்கு இந்தக் குறியீட்டை எப்போது பயன்படுத்துவது</string>
+    <string name="auth_otp_help">உதவி &amp; கருத்து</string>
+    <string name="auth_otp_no_accounts_available_message">இந்தச் சாதனத்தில் உள்ளமைக்கப்பட்ட கணக்கு எதுவுமில்லை.</string>
+    <string name="auth_otp_progress_dialog_message">பாதுகாப்புக் குறியீட்டை உருவாக்குகிறது.</string>
+    <string name="auth_password">கடவுச்சொல்</string>
+    <string name="auth_plus_audience_selection_description_acl">இவர்களுடன் பகிர்:</string>
+    <string name="auth_plus_failure_new_account_text">உங்கள் Google கணக்கு உருவாக்கப்பட்டது, ஆனால் Google+ இல் சேர்வதற்கான உங்கள் கோரிக்கைச் செயலாக்கப்படவில்லை. ஏதேனும் இணைய உலாவியிலிருந்து plus.google.com இல் மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="auth_plus_failure_text">Google+ இல் சேர்வதற்கான உங்கள் கோரிக்கைச் செயலாக்கப்படவில்லை. ஏதேனும் இணைய உலாவியிலிருந்து plus.google.com இல் மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="auth_plus_failure_title">Google சுயவிவரத்தைப் பின்னர் உருவாக்கு</string>
+    <string name="auth_plus_info_fragment_app_name">%s செய்ய விரும்புவது:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s சாதனத்திலிருந்து %s பின்வருவனவற்றை விரும்புகிறது:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">உங்கள் பெரிய வட்டம்</string>
+    <string name="auth_plus_scope_fragment_mixed_label">தேர்ந்தெடுத்த வட்டங்கள்</string>
+    <string name="auth_plus_scope_fragment_only_you_label">எனக்கு மட்டும்</string>
+    <string name="auth_plus_scope_fragment_public_label">இணையத்தில் உள்ள எவரும்</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">உங்கள் வட்டங்கள்</string>
+    <string name="auth_relogin_activity_title">கடவுச்சொல்லை மீண்டும் உள்ளிடுக</string>
+    <string name="auth_remove_account_start_over">முதலிலிருந்து தொடங்கு</string>
+    <string name="auth_scope_more_details">மேலும் தகவல்</string>
+    <string name="auth_server_error">Google சேவையகங்களுடன் தொடர்புகொள்வதில் சிக்கல் ஏற்பட்டது.</string>
+    <string name="auth_server_error_help">பிறகு முயற்சிக்கவும்.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">கணக்கு சேர்க்கப்பட்டது</string>
+    <string name="auth_setup_wizard_account_added_description">கணக்கு சேர்க்கப்பட்டது. Google சேவைகளின் விருப்பங்களைத் தேர்ந்தெடுக்க, தொடரவும்</string>
+    <string name="auth_setup_wizard_back_button_label">முந்தையது</string>
+    <string name="auth_setup_wizard_next_button_label">அடுத்து</string>
+    <string name="auth_setup_wizard_services_activity_title">Google சேவைகள்</string>
+    <string name="auth_setup_wizard_services_agreement">தொடர்வதன் மூலம், இந்தச் சாதனமானது Google, உங்கள் மொபைல் நிறுவனம், இந்தச் சாதனத்தின் உற்பத்தியாளர் ஆகியோரின் புதுப்பிப்புகளையும் பயன்பாடுகளையும் செல்லுலார் தரவு வழியே தானாகவே பதிவிறக்கி, நிறுவக்கூடும் என்பதையும் ஏற்கிறீர்கள். இந்தப் பயன்பாடுகளில் சில பயன்பாடு சார்ந்த வாங்குதல்களை அளிக்கலாம். நீங்கள் எப்போது வேண்டுமானாலும் இந்தப் பயன்பாடுகளை அகற்றலாம்.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">பயன்பாடுகளை அகற்ற, அமைப்புகள் > பயன்பாடுகள் அல்லது பயன்பாட்டு நிர்வாகி என்பதற்குச் செல்லவும். அங்கு நிறுவல் நீக்க விரும்பும் பயன்பாட்டைத் தட்டவும் (பயன்பாட்டைக் கண்டறிவதற்காக வலது அல்லது இடதுபுறம் ஸ்வைப் செய்ய வேண்டியிருக்கலாம்). பிறகு \"நிறுவல் நீக்கு\" அல்லது \"முடக்கு\" என்பதைத் தட்டவும்.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">அத்துடன், உங்கள் சாதனத்தில் இருக்கும் தகவலையும் செயல்பாடுகளையும், முன்பே ஏற்றப்பட்ட Google பயன்பாடுகள் அணுகுவதற்கு ஒப்புதல் அளித்து, அனுமதி வழங்குகிறீர்கள். இந்த அனுமதிகளின் உபயோகம் குறித்த கூடுதல் தகவலுக்கு, <annotation link="app_permissions">இந்தப் பக்கத்தைப்</annotation> பார்க்கவும்.</string>
+    <string name="auth_setup_wizard_services_agreement_title">புதுப்பிப்புகள் &amp; பயன்பாடுகளை நிறுவு</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">மொபைல் சேமிப்பகம் கிட்டத்தட்ட நிரம்பும் போது, காப்புப் பிரதி எடுத்த படங்கள், வீடியோக்கள் போன்ற சில தரவை அகற்றி, இடத்தைக் காலியாக்கவும்.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">இணைக்கப்பட்டிருக்கும் போது, நீங்கள் தொடர்ந்து இந்தத் தரவை அணுக முடியும். இந்த அம்சத்தையும் எதை அகற்றலாம் என்பதையும், அமைப்புகள் > சேமிப்பகம் > ஸ்மார்ட் சேமிப்பகம் என்பதற்குச் சென்று, கட்டுப்படுத்தலாம்.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">இடத்தைக் காலியாக்கு</string>
+    <string name="auth_setup_wizard_services_backup">எளிதாக மீட்டெடுக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களுக்கு இடையே மாறலாம். காப்புப் பிரதியில் பயன்பாடுகள், பயன்பாட்டுத் தரவு, சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் உள்ளடங்கும்) ஆகியவை அடங்கும்.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"பயன்பாட்டுத் தரவு என்பது டெவெலப்பர் அமைப்புகளின் அடிப்படையில் பயன்பாடு சேமித்த எந்தத் தரவாகவும் இருக்கலாம். இதில் தொடர்புகள், செய்திகள், படங்கள் போன்ற சாத்தியமுள்ள முக்கியத் தரவு உள்ளடங்கும்.
+
+காப்புப் பிரதித் தரவின் அளவு உங்கள் இயக்கக ஒதுக்கீட்டில் கணக்கிடப்படாது.
+
+அமைப்புகளுக்குச் சென்று, இந்தச் சேவையை முடக்கிக்கொள்ளலாம்."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"பயன்பாட்டுத் தரவு என்பது தொடர்புகள், செய்திகள், படங்கள் போன்ற மிக முக்கியத் தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொறுத்து) எந்தத் தரவாகவும் இருக்கலாம்.
+
+இந்தச் சாதனத்திலிருக்கும் படங்களும் வீடியோக்களும் Google Photos உடன் ஒத்திசைக்கப்படும். இதன் மூலம் உங்களின் எந்தச் சாதனத்திலிருந்தும் அவற்றைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம். இயல்பாகவே, முழுத் தெளிவுத்திறன் படங்களும் வீடியோக்களும் பதிவேற்றப்படும்.
+
+இயக்ககச் சேமிப்பக ஒதுக்கீட்டில் காப்புப் பிரதித் தரவு கணக்கிடப்படாது.
+
+இந்தச் சேவையை அமைப்புகளில் முடக்கலாம்."</string>
+    <string name="auth_setup_wizard_services_backup_title">Google இயக்ககத்திற்கு காப்புப் பிரதி எடு</string>
+    <string name="auth_setup_wizard_services_backup_v23">எளிதாக மீட்டெடுக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களுக்கு இடையே மாறலாம். காப்புப் பிரதியில் பயன்பாடுகள், பயன்பாட்டுத் தரவு, அழைப்பு வரலாறு, தொடர்புகள், சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் மற்றும் அனுமதிகள் உள்பட) ஆகியவை அடங்கும்.</string>
+    <string name="auth_setup_wizard_services_backup_v26">எளிதாக மீட்டெடுக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களுக்கு இடையே மாறலாம். காப்புப் பிரதியில் பயன்பாடுகள், பயன்பாட்டுத் தரவு, அழைப்பு வரலாறு, தொடர்புகள், சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் மற்றும் அனுமதிகள் உள்பட) மற்றும் SMS ஆகியவை அடங்கும்.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">எளிதாக மீட்டெடுக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களுக்கு இடையே மாறலாம். காப்புப் பிரதியில் பயன்பாடுகள், பயன்பாட்டுத் தரவு, அழைப்பு வரலாறு, தொடர்புகள், சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் மற்றும் அனுமதிகள் உள்ளடங்கும்), படங்கள், வீடியோக்கள், SMS ஆகியவை அடங்கும். படங்களும் வீடியோக்களும் உங்கள் Google கணக்கில் ஒத்திசைக்கப்பட்டு, அவை சேவைகள் முழுவதும் பயன்படுத்தப்படலாம்.</string>
+    <string name="auth_setup_wizard_services_description">ஒவ்வொரு சேவையைப் பற்றியும் மேலும் அறிய, (எடுத்துக்காட்டு: பின்னர் அதை எப்படி இயக்குவது அல்லது முடக்குவது) தட்டவும். Google <annotation link="google_privacy">தனியுரிமைக் கொள்கையின்படி</annotation> தரவு பயன்படுத்தப்படும்.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"பயன்பாடு சார்ந்த வாங்குதல்கள் உட்பட பயன்பாட்டின் விவரங்களை Play ஸ்டோரில் பார்க்கலாம். உங்கள் Google கணக்கு மூலம் உள்நுழைந்த சாதனங்களில் பயன்பாட்டுத் தரவும் அமைப்புகளும் ஒத்திசைக்கப்படும். 
+
+இன்ஸ்டண்ட் பயன்பாடுகளைப் பயன்படுத்துவதை, "<a href="https://play.google.com/about/play-terms.html">Google Play சேவை விதிமுறைகள்</a>" நிர்வகிக்கும். 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">மேலும் அறிக</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">இணைப்பைத் தட்டும் போது, Google Play ஆனது இன்ஸ்டண்ட் பயன்பாடு உள்ளதா எனப் பார்த்து, அதை நிறுவாமலேயே இயக்கும். இன்ஸ்டண்ட் பயன்பாடுகள் உங்கள் சாதனத்தில் தற்காலிகமாக வைக்கப்பட்டிருக்கும்.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">பயன்பாடுகளை நிறுவாமலேயே பயன்படுத்தலாம்</string>
+    <string name="auth_setup_wizard_services_location_sharing">உங்கள் இருப்பிடத்தைப் பயன்பாடுகள் கண்டறிய உதவ, Google இருப்பிடச் சேவையைப் பயன்படுத்தவும். சாதனம் இயக்கத்தில் இருக்கும் போது, அநாமதேய இருப்பிடத் தரவு Googleக்கு அனுப்பப்படும்.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"இந்தச் சாதனத்தின் இருப்பிடத்தை வேகமாகவும் மிகத் துல்லியமாகவும் கண்டறிவதற்கு உதவியாக, வைஃபை மற்றும் செல்லுலார் நெட்வொர்க்குகள் போன்றவற்றை Google இருப்பிடச் சேவை பயன்படுத்தும். சாதனத்தின் இருப்பிட அமைப்பு இயக்கப்பட்டு, இருப்பிடத்தைக் கணக்கிட அதிகத் துல்லியத்தன்மை அல்லது பேட்டரி சேமிப்புப் (பவர் சேமிப்பு) பயன்முறை போன்ற வைஃபை அல்லது மொபைல் நெட்வொர்க்குகளைப் பயன்படுத்தும் பயன்முறையில் இருக்கும் போது இந்தச் சேவை செயலில் இருக்கும்.
+
+பின்வருவதன் மூலம், இந்தச் சேவையை முடக்கலாம்:
+
+"<li>சாதனத்தில் முதன்மை இருப்பிட அமைப்பை முடக்கலாம்.</li>"
+
+"<li>முதன்மை இருப்பிட அமைப்பை இயக்கத்தில் வைத்து, சாதனம் மட்டும் என்று அழைக்கப்படும் GPS மட்டும் அம்சத்தைப் பயன்படுத்தும் பயன்முறையைத் தேர்வு செய்யலாம்.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">இடத்தைக் கண்டறிய பயன்பாடுகளுக்கு உதவுக</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">இந்த அமைப்பு முடக்கப்பட்டிருக்கும் போது, வைஃபையைத் தேட பயன்பாடுகளையும் சேவைகளையும் அனுமதி.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">நீங்கள் இதை இருப்பிட அமைப்புகளில் முடக்கலாம்.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">இருப்பிடத் துல்லியத்தை மேம்படுத்தவும்</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">இந்த அமைப்புகள் முடக்கப்பட்டிருக்கும் போது, வைஃபையையும் புளூடூத்தையும் தேட பயன்பாடுகளையும் சேவைகளையும் அனுமதி.</string>
+    <string name="auth_setup_wizard_services_play">Google Play வழங்கும் செய்திகளையும் சலுகைகளையும் உடனுக்குடன் எனக்குத் தெரிவி.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">காப்புப் பிரதி மற்றும் சேமிப்பகம்</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">சாதனப் பராமரிப்பு</string>
+    <string name="auth_setup_wizard_services_section_location">இருப்பிடம்</string>
+    <string name="auth_setup_wizard_services_tos">தொடர்ந்தால், <annotation link="tos">Google சேவை விதிமுறைகளையும்</annotation> ஏற்கிறீர்கள்.</string>
+    <string name="auth_setup_wizard_services_tos_germany">நீங்கள் இந்தச் சாதனத்தைப் பயன்படுத்தும் போது, எங்கள் <annotation link="google_privacy">தனியுரிமைக் கொள்கை</annotation> மற்றும் பொருந்தும் <annotation link="tos">கூடுதல் விதிமுறைகளுக்கு</annotation> இணங்க வேண்டும்.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">பிழை அறிக்கைகள், சாதனம் மற்றும் பயன்பாட்டின் உபயோகத் தரவை Googleக்குத் தானாக அனுப்பி, Android அனுபவத்தை மேம்படுத்த உதவவும். இவ்வாறு செய்வதால், பேட்டரிக் காலம், பயன்பாட்டின் நிலைப்புத் தன்மை, நெட்வொர்க் இணைப்பு நிலை மற்றும் பலவற்றை மேம்படுத்த உதவும். கூடுதல் இணையம் மற்றும் பயன்பாட்டுச் செயல்பாட்டை இயக்கினால், உங்கள் கணக்கில் இந்தத் தகவல் சேமிக்கப்படும் என்பதால், அதை \"எனது கணக்கு\" என்பதில் நிர்வகிக்கலாம்.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"உங்கள் சாதனம் மற்றும் அதை நீங்கள் பயன்படுத்தும் விதம் (எ.கா: பேட்டரி நிலை, பயன்பாட்டு உபயோகம், நெட்வொர்க் இணைப்புநிலை) குறித்த பொதுவான தகவல் இதுவாகும். எல்லோருக்காகவும் Google இன் தயாரிப்புகளையும் சேவைகளையும் மேம்படுத்த, தரவு பயன்படுத்தப்படும். ஒருங்கிணைக்கப்பட்ட சில தகவலானது கூட்டாளர்களுக்குத் (எ.கா. Android டெவெலப்பர்கள்) தங்கள் பயன்பாடுகளையும் தயாரிப்புகளையும் மேலும் சிறப்பாக்க உதவும்.
+
+இந்த அம்சத்தை முடக்குவதால், இயங்குதளப் புதுப்பிப்புகள், பாதுகாப்பு போன்ற அத்தியாவசிய சேவைகளைப் பெறத் தேவைப்படும் தகவலை அனுப்புவதற்கான சாதனத் திறனில் பாதிப்பு ஏற்படாது."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">myactivity.google.com எனும் இணைப்பிற்குச் சென்று, \"எனது செயல்பாடு\" என்பதன் அமைப்புகளை மாற்றலாம்.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Google அமைப்புகளில் இந்த அம்சத்தைக் கட்டுப்படுத்தலாம். மெனுவிலிருந்து உபயோகம் &amp; பிழை அறிக்கைகள் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">அமைப்புகள் > Google என்பதற்குச் சென்று, இந்த அம்சத்தைக் கட்டுப்படுத்தலாம். மெனுவிலிருந்து உபயோகம் &amp; பிழை அறிக்கைகள் என்பதைத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">சாதனத் தரவை அனுப்பு</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Google இருப்பிடச் சேவையை அணுகுவதன் மூலம் , எனது இருப்பிடத்திற்கு ஏற்ப லைவ் வால்பேப்பர்களை வழங்க Googleஐ அனுமதி.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">அமைப்புகள் > பயன்பாடுகள் மற்றும் அறிவிப்புகள் > பயன்பாட்டுத் தகவல் என்பதற்குச் சென்று, லைவ் வால்பேப்பர்களுக்கு, Google இன் இருப்பிடச் சேவைக்கான அணுகலை இயக்கலாம் அல்லது முடக்கலாம். கூடுதல் விருப்பங்களில், சிஸ்டத்தைக் காட்டு > லைவ் தரவு வால்பேப்பர்கள் அல்லது லைவ் எர்த் வால்பேப்பர்கள் > அனுமதிகள் என்பதற்குச் செல்லவும்.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">இருப்பிடத்தைப் பயன்படுத்த வால்பேப்பர்களை அனுமதி</string>
+    <string name="auth_setup_wizard_title">அமைவு வழிகாட்டி</string>
+    <string name="auth_show_error_activity_title">உள்நுழைய முடியவில்லை</string>
+    <string name="auth_show_error_title">பிழை</string>
+    <string name="auth_sign_in_agreement">உள்நுழைவதன் மூலம், <annotation id="google_privacy">Google</annotation> மற்றும் <annotation id="android_privacy">கூடுதல்</annotation> தனியுரிமைக் கொள்கைகளை ஒப்புக்கொள்கிறீர்கள்.</string>
+    <string name="auth_sign_in_browser">உலாவி உள்நுழைவு</string>
+    <string name="auth_sign_in_button_label">உள்நுழைக</string>
+    <string name="auth_sign_in_with_google_account_short">உங்கள் Google கணக்கில் உள்நுழைக:</string>
+    <string name="auth_skip_button_label">தவிர்</string>
+    <string name="auth_submission_error_text">பிழை ஏற்பட்டது. மீண்டும் முயற்சிக்கவும்.</string>
+    <string name="auth_submission_title">பிழை ஏற்பட்டது…</string>
+    <string name="auth_try_again_button_label">மீண்டும் முயற்சிக்கவும்</string>
+    <string name="auth_ui_activity_authenticating">அங்கீகரிக்கிறது...</string>
+    <string name="auth_ui_activity_title">Google உள்நுழைவு</string>
+    <string name="auth_ui_activity_title_browser_signin">உள்நுழைக</string>
+    <string name="auth_ui_add_account_title">கணக்கு அமைவு</string>
+    <string name="auth_uncertified_notification_content">உற்பத்தியாளர் இந்தச் சாதனத்தை அங்கீகரிக்கவில்லை</string>
+    <string name="auth_uncertified_notification_description">"Google இன் சான்றைப் பெறாமலே இந்தச் சாதனத்தில் Google பயன்பாடுகளை உற்பத்தியாளர் பயன்படுத்துகிறார். 
+
+சான்றளிக்கப்படாத சாதனங்கள் பாதுகாப்புக் குறைவானதாக இருக்கக்கூடும், மேலும் அது இயக்க முறைமை அல்லது பயன்பாட்டுப் புதுப்பிப்புகளைப் பெறாமல் போகலாம். பயன்பாடுகளும் அம்சங்களும் (கோப்புகளை அல்லது படங்களைக் காப்புப் பிரதி எடுப்பது போன்றவை) சரியாகச் செயல்படாமல் போகலாம். 
+
+இந்தச் சிக்கலைச் சரிசெய்ய, உங்கள் சாதன உற்பத்தியாளரைத் தொடர்புகொள்ளவும். 
+
+Google சான்றளிக்கப்பட்ட கூட்டாளர்களைப் பற்றிய மேலும் தகவலுக்கு, %s எனும் இணைப்பிற்குச் செல்லவும்."</string>
+    <string name="auth_uncertified_notification_learn_more">மேலும் அறிக</string>
+    <string name="auth_uncertified_notification_title">எச்சரிக்கை: சான்றளிக்கப்படாத சாதனம்</string>
+    <string name="auth_username">மின்னஞ்சல்</string>
+    <string name="auth_work_authenticator_label">நிர்வகிக்கப்படும் கணக்கு</string>
+    <string name="authorization_dialog">அங்கீகாரச் செய்தி</string>
+    <string name="auto_restore_summary">பயன்பாட்டை மீண்டும் நிறுவும் போது, காப்புப் பிரதி எடுத்த அமைப்புகளையும் தரவையும் மீட்டெடுக்கும்</string>
+    <string name="auto_restore_title">தானியங்கு மீட்டெடுப்பு</string>
+    <string name="autofill_dataset_password">இதற்குக் கடவுச்சொல்லைப் பயன்படுத்து: <b>^1</b></string>
+    <string name="autofill_datatype_address">முகவரிகள்</string>
+    <string name="autofill_datatype_password">சேமித்த கடவுச்சொற்கள்</string>
+    <string name="autofill_datatype_payment">கிரெடிட் கார்டுகள்</string>
+    <string name="autofill_datatype_profile">தனிப்பட்ட தகவல்</string>
+    <string name="autofill_label">Google மூலம் தானாக நிரப்புக</string>
+    <string name="autofill_optin_line1"><b>உங்களுக்காக Google இதை நிரப்புவதற்கு அனுமதிக்க, தட்டவும்</b></string>
+    <string name="autofill_optin_line2">Chrome தன்னிரப்பியில் ஏற்கனவே சேமிக்கப்பட்ட தகவலைக் கொண்டு</string>
+    <string name="autofill_setup_points">"• உங்கள் திரையில் இருப்பதைப் பயன்படுத்தி, என்னவெல்லாம் தன்னிரப்ப முடியும் என்பதை Google தீர்மானிக்கும். 
+• உங்கள் தன்னிரப்பித் தகவலை அமைப்புகளில் பார்க்கலாம், நிர்வகிக்கலாம்."</string>
+    <string name="autofill_setup_summary">கடவுச்சொற்கள், முகவரிகள், கிரெடிட் கார்டுகள் மற்றும் உங்கள் கணக்கில் சேமித்துள்ள பிற தகவலை ஒரே தட்டலில் நிரப்பலாம்.</string>
+    <string name="autofill_setup_summary_single_account">கடவுச்சொற்கள், முகவரிகள், கிரெடிட் கார்டுகள் மற்றும் உங்கள் கணக்கில் சேமித்துள்ள பிற தகவலை ஒரே தட்டலில் நிரப்பலாம் (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">தற்போது எந்தக் கணக்கும் காப்புப் பிரதி எடுத்த தரவைச் சேமிப்பதில்லை</string>
+    <string name="backup_configure_account_title">காப்புப் பிரதிக் கணக்கு</string>
+    <string name="backup_data_summary">பயன்பாட்டுத் தரவு, வைஃபை கடவுச்சொற்கள் மற்றும் பிற அமைப்புகளை Google இயக்ககத்தில் காப்புப் பிரதியெடுக்கும்</string>
+    <string name="backup_data_summary_full">"சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள், அழைப்பு வரலாறு போன்றவை) பயன்பாட்டுத் தரவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், கோப்புகள் போன்றவை) தொலைநிலையில் தானாகக் காப்புப் பிரதி எடுக்கும்.
+
+தானியங்கு காப்புப் பிரதியை இயக்கும் போது, சாதனம் மற்றும் பயன்பாட்டுத் தரவானது குறிப்பிட்ட கால இடைவெளியில் தொலைநிலையில் சேமிக்கப்படும். பயன்பாட்டுத் தரவு என்பது, தொடர்புகள், செய்திகள், படங்கள் போன்ற மிகவும் முக்கிய தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொறுத்து) எந்தத் தரவாகவும் இருக்கலாம்."</string>
+    <string name="backup_data_title">Google இயக்ககத்திற்குக் காப்புப் பிரதி எடு</string>
+    <string name="backup_erase_dialog_message">உங்கள் வைஃபை கடவுச்சொற்கள், புத்தகக்குறிகள், பிற அமைப்புகள் மற்றும் பயன்பாட்டுத் தரவு போன்றவற்றைக் காப்புப் பிரதியெடுப்பதை நிறுத்துவதுடன், Google இயக்ககத்தில் உள்ள எல்லா நகல்களையும் அழிக்கவா?</string>
+    <string name="backup_erase_dialog_message_full">சாதனத் தரவையும் (வைஃபை கடவுச்சொற்கள், அழைப்பு வரலாறு போன்றவை) பயன்பாட்டுத் தரவையும் (பயன்பாடுகளில் சேமிக்கப்பட்டிருக்கும் அமைப்புகள், கோப்புகள் போன்றவை) காப்புப் பிரதி எடுப்பதை நிறுத்தி, Google இயக்ககத்தில் உள்ள எல்லா நகல்களையும் அழிக்கவா?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Photos அமைப்புகளைத் திறக்கும் போது பிழை ஏற்பட்டது</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"தானியங்கு காப்புப் பிரதியை இயக்கும் போது:
+
+ ● சாதன அமைப்புகளும் பயன்பாட்டுத் தரவும் Google இயக்ககத்தில் உள்ள தனிப்பட்ட கோப்புறையில் அவ்வப்போது சேமிக்கப்படும். பயன்பாட்டுத் தரவு என்பது தொடர்புகள், செய்திகள், படங்கள் போன்ற மிகவும் முக்கிய தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொறுத்து) எந்தத் தரவாகவும் இருக்கலாம்.
+
+ பெரிய கோப்புகள் அல்லது சேவையிலிருந்து டெவெலப்பர்கள் விலக்கிய கோப்புகள் காப்புப் பிரதி எடுக்கப்படாது.
+
+ ● இந்தச் சாதனத்திலிருந்து படங்களும் ரெக்கார்டு செய்த வீடியோக்களும் உங்கள் Google Photos நூலகத்துடன் ஒத்திசைக்கப்படும். இதன் மூலம் எந்தச் சாதனத்திலிருந்தும் அவற்றைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம்.
+
+ இயல்பாகவே, முழுத் தெளிவுத்திறன் உடைய படங்களும் வீடியோக்களும் ஏற்றப்படும். இவை உங்களின் இயக்ககச் சேமிப்பிடத்தின் ஒதுக்கீட்டில் கணக்கிடப்படாது.
+
+ ● இந்தச் சாதனத்திலிருந்து தொடர்புகளும் தொடர்புடைய தரவும் Google தொடர்புகளுடன் ஒத்திசைக்கப்படும். Google தொடர்புகள் பயன்பாட்டைப் பயன்படுத்தி, எந்தச் சாதனத்திலிருந்தும் தொடர்புகளைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம்.
+
+ ● இந்தச் சாதனத்திலிருந்து கேலெண்டர் உள்ளீடுகளும் தொடர்புடைய தரவும் Google கேலெண்டருடன் ஒத்திசைக்கப்படும். Google கேலெண்டர் பயன்பாட்டைப் பயன்படுத்தி, எந்தச் சாதனத்திலிருந்தும் தொடர்புகளைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம்.
+
+ காப்புப் பிரதித் தரவானது உங்கள் இயக்ககச் சேமிப்பிடத்தின் ஒதுக்கீட்டில் கணக்கிடப்படாது."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"தானியங்கு காப்புப் பிரதியை இயக்கினால்:
+
+ ● சாதன அமைப்புகளும் பயன்பாட்டுத் தரவும் Google இயக்ககத்தில் உள்ள தனிப்பட்ட கோப்புறையில் அவ்வப்போது சேமிக்கப்படும். பயன்பாட்டுத் தரவு என்பது தொடர்புகள், செய்திகள், படங்கள் போன்ற மிகவும் முக்கியத் தரவு உட்பட, பயன்பாடு சேமித்த (டெவெலப்பர் அமைப்புகளைப் பொருத்து) எந்தத் தரவாகவும் இருக்கலாம்.
+
+ பெரிய கோப்புகள் அல்லது சேவையிலிருந்து டெவெலப்பர்கள் விலக்கிய கோப்புகள் ஆகியவை காப்புப் பிரதி எடுக்கப்படாது.
+
+ ● இந்தச் சாதனத்திலிருக்கும் தொடர்புகளும் தொடர்புடைய தரவும் Google தொடர்புகளுடன் ஒத்திசைக்கப்படும். இதன் மூலம் Google தொடர்புகள் பயன்பாட்டைப் பயன்படுத்தி, உங்களின் எந்தச் சாதனத்திலிருந்தும் தொடர்புகளைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம்.
+
+ ● இந்தச் சாதனத்திலிருக்கும் கேலெண்டர் உள்ளீடுகளும் தொடர்புடைய தரவும் Google கேலெண்டருடன் ஒத்திசைக்கப்படும். இதன் மூலம் Google கேலெண்டர் பயன்பாட்டைப் பயன்படுத்தி, உங்களின் எந்தச் சாதனத்திலிருந்தும் தொடர்புகளைத் தேடலாம், திருத்தலாம், நீக்கலாம் மற்றும் பகிரலாம்.
+
+ காப்புப் பிரதித் தரவானது உங்கள் இயக்ககச் சேமிப்பிடத்தின் ஒதுக்கீட்டில் கணக்கிடப்படாது."</string>
+    <string name="backup_opt_in_backup_description_extra">கேலெண்டர், தொடர்புகள், படங்கள் மற்றும் வீடியோக்கள் ஆகியவை உங்கள் Google கணக்குடன் ஒத்திசைக்கப்படுவதோடு சேவைகள் முழுவதிலும் பயன்படுத்தப்படலாம்.</string>
+    <string name="backup_opt_in_backup_description_v2">தானியங்கு காப்புப் பிரதி மூலம் எளிதாக மீட்டெடுக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களை மாற்றலாம். <annotation id="backup_opt_in_learn_more">மேலும் அறிக</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"முடக்கினால், பின்வருபவை காப்புப் பிரதி எடுக்கப்படாது:
+
+பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+அழைப்பு வரலாறு
+சாதன அமைப்புகள்
+படங்களும் வீடியோக்களும்
+SMS
+
+கேலெண்டரும் தொடர்புகளும் உங்கள் Google கணக்கில் தொடர்ந்து ஒத்திசைக்கப்படும். அமைவு முடிந்ததும், "<annotation id="backup_opt_in_settings_instructions">அமைப்புகள் > கணக்குகள் > Google</annotation> என்பதற்குச் சென்று, ஒத்திசைவு அமைப்புகளை மாற்றலாம்.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">காப்புப் பிரதியை முடக்கவா?</string>
+    <string name="backup_opt_in_backup_list">"பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+கேலெண்டர்
+அழைப்பு வரலாறு
+தொடர்புகள்
+சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் உள்ளடங்கும்)
+படங்களும் வீடியோக்களும்
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">காப்புப் பிரதியில் அடங்குபவை:</string>
+    <string name="backup_opt_in_backup_title">Google இயக்ககத்திற்குக் காப்புப் பிரதி எடுக்கவும்</string>
+    <string name="backup_opt_in_disable_backup">காப்புப் பிரதியை முடக்கு</string>
+    <string name="backup_photos_update">Google Photosஐப் புதுப்பிக்கவும்</string>
+    <string name="backup_settings_activity_backup_title">காப்புப் பிரதி</string>
+    <string name="backup_settings_activity_title">காப்புப் பிரதியும் மீட்டமைவும்</string>
+    <string name="byteShort">பை.</string>
+    <string name="cancel_copy_button_text">நகலெடுக்காதே</string>
+    <string name="chrome_privacy_title">Chrome தனியுரிமை அறிக்கை</string>
+    <string name="chrome_tos_title">Chrome சேவை விதிமுறைகள்</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$sக்கான தற்போதைய கடவுச்சொற்கள், உங்கள் கடவுச்சொற்றொடருடன் முறைமையாக்கப்பட்டன. கடவுச்சொற்றொடரை மறந்துவிட்டால், &lt;a href=%2$s>Google Dashboard&lt;/a> மூலமாக ஒத்திசைவை நிறுத்தி மீட்டமைக்கலாம்.</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync கடவுச்சொற்றொடர்</string>
+    <string name="chromesync_enter_passphrase_hint">கடவுச்சொற்றொடரை உள்ளிடவும்</string>
+    <string name="chromesync_entered_wrong_passphrase">தவறான கடவுச்சொற்றொடர்</string>
+    <string name="chromesync_no_browser_found">இந்த இணைப்பைத் திறக்க, எந்த உலாவியும் இல்லை</string>
+    <string name="close_button_label">மூடு</string>
+    <string name="cloud_restore_app_picker_button">மீட்டமை</string>
+    <string name="cloud_restore_app_picker_description_no_apps">காப்புப் பிரதியில் பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="cloud_restore_app_picker_title">மீட்டமைக்க வேண்டிய பயன்பாடுகளைத் தேர்வுசெய்யவும்</string>
+    <string name="common_accept">ஏற்கிறேன்</string>
+    <string name="common_account_chip_add_account_button_label">வேறொரு கணக்கைப் பயன்படுத்து</string>
+    <string name="common_add_account_button_label">கணக்கைச் சேர்</string>
+    <string name="common_add_account_label">கணக்கைச் சேர்</string>
+    <string name="common_ads_settings_title">விளம்பரங்கள்</string>
+    <string name="common_agree">ஏற்கிறேன்</string>
+    <string name="common_app_name">Google Play சேவைகள்</string>
+    <string name="common_asm_preferences_settings_title">கணக்கு விருப்பத்தேர்வுகள்</string>
+    <string name="common_asm_privacy_settings_title">தனிப்பட்ட தகவல் &amp; தனியுரிமை</string>
+    <string name="common_asm_security_settings_title">உள்நுழைவு &amp; பாதுகாப்பு</string>
+    <string name="common_audience_edit_button_label">மாற்று</string>
+    <string name="common_cancel">ரத்துசெய்</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts தொடங்க முடியவில்லை (அனுமதி பிழை).</string>
+    <string name="common_car_permission_desc">கார் சேவைக்கான அணுகல்.</string>
+    <string name="common_car_permission_label">கார் சேவை</string>
+    <string name="common_chips_label_empty_circles">வட்டங்கள் இல்லை</string>
+    <string name="common_chips_label_extended_circles">பெரிய வட்டம்</string>
+    <string name="common_chips_label_only_you">எனக்கு மட்டும்</string>
+    <string name="common_chips_label_public">பொது</string>
+    <string name="common_chips_label_your_circles">உங்கள் வட்டங்கள்</string>
+    <string name="common_choose_account">கணக்கைத் தேர்வு செய்க</string>
+    <string name="common_choose_account_for_app_label">%1$sக்காகக் கணக்கைத் தேர்ந்தெடு</string>
+    <string name="common_choose_account_label">கணக்கைத் தேர்வுசெய்யவும்</string>
+    <string name="common_clear_app_data_menu_item">பயன்பாட்டுத் தரவை அழி</string>
+    <string name="common_connected">இணைக்கப்பட்டது</string>
+    <string name="common_connected_apps_settings_title">இணைத்த பயன்பாடுகள்</string>
+    <string name="common_connecting">இணைக்கிறது…</string>
+    <string name="common_continue">தொடர்க</string>
+    <string name="common_disagree">ஏற்கவில்லை</string>
+    <string name="common_disconnect">தொடர்பைத் துண்டி</string>
+    <string name="common_done">முடிந்தது</string>
+    <string name="common_fitness_settings_title">Google ஃபிட்</string>
+    <string name="common_from">அனுப்புநர்:</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_started">தொடங்குக</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">இயக்கு</string>
+    <string name="common_google_play_services_enable_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_enable_title">Google Play சேவைகளை இயக்கவும்</string>
+    <string name="common_google_play_services_error_dialog_title">பிழை</string>
+    <string name="common_google_play_services_install_button">நிறுவு</string>
+    <string name="common_google_play_services_install_text">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை.</string>
+    <string name="common_google_play_services_install_title">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="common_google_play_services_notification_ticker">Google Play சேவைகள் பிழை</string>
+    <string name="common_google_play_services_unknown_issue">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s பயன்பாட்டை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play சேவைகள் இருந்தால் மட்டுமே %1$s பயன்பாடு இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை.</string>
+    <string name="common_google_play_services_update_button">புதுப்பி</string>
+    <string name="common_google_play_services_update_text">Google Play சேவைகளை இயக்கினால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_update_title">Google Play சேவைகளைப் புதுப்பிக்கவும்</string>
+    <string name="common_google_play_services_updating_text">தற்போது புதுப்பிக்கப்படும், Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s செயல்படும்.</string>
+    <string name="common_google_play_services_updating_title">Google Play சேவைகளைப் புதுப்பிக்கிறது</string>
+    <string name="common_google_play_services_wear_update_text">Google Play சேவைகளின் புதிய பதிப்பு தேவை. அது விரைவில் தானாகவே புதுப்பிக்கப்படும்.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">தவறான கட்டமைப்புடன் Google Play சேவைகள் நிறுவப்பட்டுள்ளன.</string>
+    <string name="common_google_play_services_wrong_architecture_text">%1$s என்ற கட்டமைப்புடன் Google Play சேவைகள் நிறுவப்பட்டுள்ளன, ஆனால் இது உங்கள் சாதனத்தின் (%2$s) கட்டமைப்புடன் வேறுபடுகிறது.</string>
+    <string name="common_google_play_services_wrong_architecture_title">தவறான கட்டமைப்பு</string>
+    <string name="common_google_settings">Google அமைப்பு</string>
+    <string name="common_google_settings_account">கணக்கு</string>
+    <string name="common_google_settings_credentials_title">கடவுச்சொற்களுக்கான Smart Lock</string>
+    <string name="common_google_settings_developer">டெவெலப்பர்</string>
+    <string name="common_google_settings_services">சேவைகள்</string>
+    <string name="common_got_it">சரி</string>
+    <string name="common_install">நிறுவு</string>
+    <string name="common_learn_more">மேலும் அறிக</string>
+    <string name="common_list_apps_menu_help">உதவி</string>
+    <string name="common_list_apps_menu_help_and_feedback">உதவி &amp; கருத்து</string>
+    <string name="common_loading">ஏற்றுகிறது…</string>
+    <string name="common_location_settings_title">இருப்பிடம்</string>
+    <string name="common_magictether_settings_title">உடனடி இணைப்பு முறை</string>
+    <string name="common_maps_settings_title">வரைபடம் &amp; அட்சரேகை</string>
+    <string name="common_mdm_feature_name">Android சாதன நிர்வாகி</string>
+    <string name="common_missing_url_viewer">வெளிப்புற urlஐக் காட்டுவதற்கு, வியூவர் இல்லை.</string>
+    <string name="common_more_options">மேலும் விருப்பங்கள்</string>
+    <string name="common_networking_settings_title">நெட்வொர்க்கிங்</string>
+    <string name="common_no_browser_for_restricted_url">வரம்பிடப்பட்ட அணுகல். உலாவி இல்லை.</string>
+    <string name="common_no_devices_found">சாதனங்கள் எதுவும் இல்லை</string>
+    <string name="common_no_network">சாதனம் ஆஃப்லைனில் இருப்பதால் கிடைக்கவில்லை</string>
+    <string name="common_no_thanks">வேண்டாம்</string>
+    <string name="common_not_now">இப்போது வேண்டாம்</string>
+    <string name="common_off">முடக்கத்தில்</string>
+    <string name="common_ok">சரி</string>
+    <string name="common_on">இயக்கத்தில்</string>
+    <string name="common_open_on_phone">மொபைலில் திற</string>
+    <string name="common_open_source_licenses">ஓப்பன் சோர்ஸ் உரிமங்கள்</string>
+    <string name="common_people_settings_title">தொடர்புகள்</string>
+    <string name="common_permissions_enable_in_settings">அமைப்புகளில் இயக்கு</string>
+    <string name="common_permissions_missing_end">தொடர, அமைப்புகளில் அனுமதிகள் என்பதைத் திறந்து, பட்டியலிடப்பட்ட அனைத்தையும் அனுமதிக்கவும்.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+இயக்க,
+அமைப்புகள் >
+அனுமதிகள்  >
+Google Play சேவைகள் என்பதற்குச் செல்லவும்"</string>
+    <string name="common_permissions_missing_start">பின்வருவனவற்றை அணுகுவதற்கான Google Play சேவைகளின் கோரிக்கையை அனுமதிக்கும் வரை, இந்தப் பயன்பாடு சரியாக வேலைசெய்யாது:</string>
+    <string name="common_permissions_open_settings">அமைப்புகளைத் திற</string>
+    <string name="common_phone">ஃபோன்</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">தனியுரிமைக் கொள்கை</string>
+    <string name="common_restore">மீட்டமை</string>
+    <string name="common_restricted_no_accounts">தேர்ந்தெடுக்க கணக்குகள் இல்லை</string>
+    <string name="common_retry">மீண்டும் முயலவும்</string>
+    <string name="common_search_settings_title">தேடல்</string>
+    <string name="common_security_ootp_setting_title">பாதுகாப்புக் குறியீடு</string>
+    <string name="common_security_settings_title">பாதுகாப்பு</string>
+    <string name="common_send">அனுப்பு</string>
+    <string name="common_sending">அனுப்புகிறது…</string>
+    <string name="common_set_up_nearby_device_settings_title">அருகிலுள்ளவையை அமைத்தல்</string>
+    <string name="common_settings">அமைப்புகள்</string>
+    <string name="common_signin_button_text">உள்நுழைக</string>
+    <string name="common_signin_button_text_long">Google மூலம் உள்நுழைக</string>
+    <string name="common_something_went_wrong">ஏதோ தவறாகிவிட்டது</string>
+    <string name="common_system_info">தயாரிப்புத் தகவல்</string>
+    <string name="common_take_photo_label">படமெடு</string>
+    <string name="common_terms_of_service">சேவை விதிமுறைகள்</string>
+    <string name="common_try_again">மீண்டும் முயலவும்</string>
+    <string name="common_turn_on_bluetooth">புளூடூத்தை இயக்கு</string>
+    <string name="common_ui_confirm_deleting_button">நீக்கு</string>
+    <string name="common_ui_confirm_deleting_checkbox">புரிந்துகொண்டேன், நீக்க விரும்புகிறேன்</string>
+    <string name="common_unknown">தெரியாதது</string>
+    <string name="common_update">புதுப்பி</string>
+    <string name="common_url_load_unsuccessful_message">உங்கள் Android சாதனம் தரவு சேவையுடன் இணைக்கப்படவில்லை. இந்தத் தகவலை இப்போது பார்க்க இணைய உலாவியில் %s பார்வையிடவும்.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">உங்கள் Android சாதனம் வைஃபை நெட்வொர்க்குடன் இணைக்கப்படவில்லை. இப்போது இந்தத் தகவலைப் பார்க்க, இணைய உலாவியில் %s எனும் இணைப்பிற்குச் செல்லவும்.</string>
+    <string name="common_url_login_notice">%1$s ஆக உள்நுழைக</string>
+    <string name="common_usage_and_diagnostics">உபயோகம் &amp; பிழை அறிக்கைகள்</string>
+    <string name="common_yesterday">நேற்று</string>
+    <string name="confirm_copy_button_text">நகலெடு</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d சாதனம்</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google தொடர்புகள், %1$d iCloud®, %2$d சாதனம்</string>
+    <string name="contacts_number_device_and_sim_with_google">Google தொடர்புகள், %1$d சிம், %2$d சாதனம்</string>
+    <string name="contacts_number_device_with_google">Google தொடர்புகள், %1$d சாதனம்</string>
+    <string name="contacts_number_icloud_with_google">Google தொடர்புகள்: iCloud® இலிருப்பவை %1$d</string>
+    <string name="contacts_number_sim_with_google">Google தொடர்புகள்: சிம்மில் இருப்பவை %1$d</string>
+    <string name="continue_to_login_heading">உள்நுழையவும்.</string>
+    <string name="continue_to_login_text">அனுமதிச் சான்றுகள் வழங்கப்பட்டன. அதைப் பயன்படுத்தி உங்கள் முதல் சாதனத்தில் உள்நுழையுங்கள்.</string>
+    <string name="copy_confirmation_description">புதிய மொபைலில் Google கணக்குகள், பயன்பாடுகள் போன்ற தரவு நகலெடுக்கப்படும்</string>
+    <string name="copy_confirmation_title">புதிய மொபைலுக்கு நகலெடுக்கவா?</string>
+    <string name="d2d_app_picker_description_no_apps">பயன்பாடுகள் எதுவுமில்லை</string>
+    <string name="d2d_app_picker_title">பயன்பாடுகள்</string>
+    <string name="d2d_migration_canceled_on_source">நகலெடுப்பது ரத்துசெய்யப்பட்டது</string>
+    <string name="data_copied_fragment_description">தரவு உங்கள் புதிய மொபைலுக்கு நகலெடுக்கப்பட்டது. கேபிளின் இணைப்பைத் துண்டிக்கலாம்.</string>
+    <string name="data_copied_fragment_description_cancel">நகலெடுப்பதை நிறுத்தியதால், சில தரவு மட்டுமே புதிய மொபைலுக்கு நகலெடுக்கப்பட்டன.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">நகலெடுப்பதை நிறுத்தியதால், புதிய மொபைலுக்கு எதுவும் நகலெடுக்கப்படவில்லை.</string>
+    <string name="data_copied_fragment_description_error">ஏதோ தவறாகிவிட்டது. எல்லாவற்றையும் நகலெடுக்க முடியவில்லை.</string>
+    <string name="data_copied_fragment_description_error_no_data">ஏதோ தவறாகிவிட்டது. தரவை நகலெடுக்க முடியவில்லை.</string>
+    <string name="data_copied_fragment_no_data_title">நகலெடுக்க முடியவில்லை</string>
+    <string name="data_copied_fragment_some_data_title">சில தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="data_copied_fragment_title">தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="device_backup_title">சாதனத் தரவைக் காப்புப் பிரதியெடு</string>
+    <string name="device_not_supported_fragment_new_device">புதிய மொபைலுடன் இணைத்துள்ளீர்கள். தொடர, முந்தைய மொபைலுடன் இணைக்கவும்.</string>
+    <string name="device_not_supported_fragment_new_device_title">முந்தைய மொபைலுடன் மீண்டும் இணைக்கவும்</string>
+    <string name="device_not_supported_fragment_no_data_cable">இந்தக் கேபிள் மூலம் தரவை இடமாற்ற முடியாது. வேறு கேபிளை இணைத்து, மீண்டும் முயலவும்.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">வேறு கேபிளைப் பயன்படுத்தவும்</string>
+    <string name="device_not_supported_fragment_retry_description">உங்கள் பழைய மொபைல் திறந்திருப்பதை உறுதிப்படுத்திக் கொள்ளவும். பிறகு கேபிளை வெளியே எடுத்துவிட்டு, மீண்டும் இணைக்கவும்</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">ஏதோ தவறாகிவிட்டது</string>
+    <string name="device_not_supported_ios_supervised_description">உங்கள் iPhone® சாதனம் கண்காணிக்கப்படுவதால், தரவை நகலெடுக்க மற்றொரு வழியைத் தேர்வுசெய்ய வேண்டும்</string>
+    <string name="device_picker_description">காப்புப் பிரதிகள் Google இயக்ககத்தில் சேமிக்கப்படும்</string>
+    <string name="device_picker_empty">%1$s உடன் இணைக்கப்பட்ட காப்புப் பிரதிகள் எதுவுமில்லை.</string>
+    <string name="device_picker_empty_title">காப்புப் பிரதிகள் எதுவுமில்லை</string>
+    <string name="device_picker_item">%1$s காப்புப் பிரதி</string>
+    <string name="device_picker_last_used">கடைசியாகப் பயன்படுத்தியது: ^1</string>
+    <string name="device_picker_skip">மீட்டமைக்காதே</string>
+    <string name="device_picker_title">மீட்டமைப்பதற்கான காப்புப் பிரதியைத் தேர்வுசெய்யவும்</string>
+    <string name="disabled_by_admin_summary_text">நிர்வாகி கட்டுப்படுத்துகிறார்</string>
+    <string name="download_msg_error_invalid">இறக்குவது தவறாக உள்ளமைக்கப்பட்டது.</string>
+    <string name="download_msg_in_progress">இறக்கப்படுகிறது.</string>
+    <string name="download_msg_not_allowed_space">இறக்குவதற்கு, போதுமான இடம் இல்லை.</string>
+    <string name="download_msg_pending">இறக்கம் நிலுவையில் உள்ளது.</string>
+    <string name="download_notification_description">%1$s இதைக் கோரியுள்ளது.</string>
+    <string name="download_notification_title">மேலும் தரவைப் பெறுகிறது</string>
+    <string name="drive_backup_account">காப்புப் பிரதிக் கணக்கு</string>
+    <string name="drive_backup_apps_in_backup">காப்புப் பிரதி எடுக்கப்பட்ட பயன்பாட்டுத் தரவு</string>
+    <string name="drive_backup_apps_last_backup">கடைசியாகக் காப்புப் பிரதி எடுத்தது:</string>
+    <string name="drive_backup_apps_loading">ஏற்றுகிறது…</string>
+    <string name="drive_backup_apps_screen_title">பயன்பாட்டுத் தரவு</string>
+    <string name="drive_backup_content_apps_title">பயன்பாட்டுத் தரவு</string>
+    <string name="drive_backup_content_calendar_dialog_message">உங்கள் Google கணக்கில் உள்நுழைந்துள்ள எல்லா சாதனங்களிலும், Google கேலெண்டரில் உருவாக்கிய நிகழ்வுகள் ஒத்திசைக்கப்படும்.</string>
+    <string name="drive_backup_content_calendar_title">Google கேலெண்டர்</string>
+    <string name="drive_backup_content_callhistory_dialog_message">நீங்கள் செய்த மற்றும் பெற்ற அழைப்புகளின் விவரம் (தேதி &amp; பெயர்) காப்புப் பிரதியில் அடங்கும்.</string>
+    <string name="drive_backup_content_callhistory_title">அழைப்பு வரலாறு</string>
+    <string name="drive_backup_content_contacts_dialog_message">உங்கள் Google கணக்கில் உள்நுழைந்துள்ள எல்லா சாதனங்களிலும், Google தொடர்புகளில் உருவாக்கிய தொடர்புகள் ஒத்திசைக்கப்படும்.</string>
+    <string name="drive_backup_content_contacts_title">Google தொடர்புகள்</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">வால்பேப்பர், வைஃபை கடவுச்சொற்கள் மற்றும் வழக்கமான பயன்பாடுகள் போன்ற சாதன உள்ளமைவுகள் காப்புப் பிரதியில் அடங்கும்.</string>
+    <string name="drive_backup_content_devicesettings_title">சாதன அமைப்புகள்</string>
+    <string name="drive_backup_content_header">உள்ளடக்கம்</string>
+    <string name="drive_backup_content_photos_dialog_message">உங்கள் முதன்மை காப்புப் பிரதிக் கணக்கு மாற்றப்பட்டது. Google Photosக்கான காப்புப் பிரதிக் கணக்கையும் %s என்பதற்கு மாற்றலாம்.</string>
+    <string name="drive_backup_content_photos_dialog_no">நிராகரி</string>
+    <string name="drive_backup_content_photos_dialog_title">படங்கள் மற்றும் வீடியோக்களுக்கான கணக்கையும் மாற்றவா?</string>
+    <string name="drive_backup_content_photos_dialog_yes">மாற்று</string>
+    <string name="drive_backup_content_photos_title">படங்களும் வீடியோக்களும்</string>
+    <string name="drive_backup_content_sms_dialog_message">நீங்கள் அனுப்பிய செய்திகளும் பெற்ற செய்திகளும் காப்புப் பிரதியில் அடங்கும். இதில் MMS மீடியா அடங்காது.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">சரி</string>
+    <string name="drive_backup_content_status_error">கடைசியாக ஒத்திசைத்த தேதியைப் பெறுவதில் பிழை</string>
+    <string name="drive_backup_content_status_lastsaved">கடைசியாகக் காப்புப் பிரதி எடுத்தது: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">கடைசியாக ஒத்திசைத்தது: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">காப்புப் பிரதிக்காகக் காத்திருக்கிறது</string>
+    <string name="drive_backup_content_status_sync_adapter_action">ஒத்திசைவு அமைப்புகள்</string>
+    <string name="drive_backup_content_status_sync_off">ஒத்திசைவு முடக்கத்திலுள்ளது</string>
+    <string name="drive_backup_content_status_updating">நிலையைச் சரிபார்க்கிறது…</string>
+    <string name="drive_backup_disabled_backuplist">"காப்புப் பிரதியில் அடங்குபவை:
+\u0009- பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+\u0009- அழைப்பு வரலாறு
+\u0009- சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் உட்பட)
+\u0009- Google கேலெண்டர்
+\u0009- Google தொடர்புகள்
+\u0009- படங்களும் வீடியோக்களும்
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"காப்புப் பிரதியில் அடங்குபவை:
+\u0009- பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+\u0009- அழைப்பு வரலாறு
+\u0009- சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள் உட்பட)
+\u0009- Google கேலெண்டர்
+\u0009- Google தொடர்புகள்
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">உங்கள் நிர்வாகி முடக்கியுள்ளார்</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google கேலெண்டர், Google தொடர்புகள், படங்கள், வீடியோக்கள் ஆகியவை உங்கள் Google கணக்குடன் ஒத்திசைக்கப்படுவதுடன் சேவைகள் முழுவதிலும் பயன்படுத்தப்படலாம்.
+
+காப்புப் பிரதி முடக்கப்பட்டிருந்தாலும், ஒத்திசைவு இயக்கப்பட்டிருக்கக்கூடும். அமைப்புகள் > கணக்குகள் > Google என்பதில் ஒத்திசைவு அமைப்புகளை மாற்றலாம்."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google கேலெண்டரும் Google தொடர்புகளும் உங்கள் Google கணக்கில் ஒத்திசைக்கப்பட்டு, எல்லாச் சேவைகளிலும் பயன்படுத்தப்படக்கூடும். 
+
+காப்புப் பிரதி முடக்கப்பட்டிருந்தாலும் ஒத்திசைவை இயக்க முடியும். அமைப்புகள் > கணக்குகள் > Google என்பதில் ஒத்திசைவு அமைப்புகளை மாற்றலாம்."</string>
+    <string name="drive_backup_disabled_introduction">தானியங்கு காப்புப் பிரதி மூலம் எளிதாக மீட்டமைக்கலாம் அல்லது எப்போது வேண்டுமானாலும் மொபைல்களை மாற்றலாம்.</string>
+    <string name="drive_backup_settings_title">காப்புப் பிரதி</string>
+    <string name="drive_backup_state">Google இயக்ககத்திற்குக் காப்புப் பிரதி எடு</string>
+    <string name="drive_backup_state_dialog_message">"Google இயக்ககத்தில் இருக்கும் இந்தச் சாதனத்தின் காப்புப் பிரதித் தரவு நிரந்தரமாக நீக்கப்படும்.
+
+ஏற்கனவே காப்புப் பிரதி எடுக்கப்பட்ட படங்களும் வீடியோக்களும் தொடர்ந்து Google இயக்ககத்தில் இருக்கும்.
+
+Google கேலெண்டரும் Google தொடர்புகளும் உங்கள் Google கணக்கில் தொடர்ந்து ஒத்திசைக்கப்படும். அமைப்புகள் > கணக்குகள் > Google என்பதில் ஒத்திசைவு அமைப்புகளை மாற்றலாம்."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Google இயக்ககத்தில் இருக்கும் இந்தச் சாதனத்தின் காப்புப் பிரதித் தரவு நிரந்தரமாக நீக்கப்படும்.
+
+Google கேலெண்டரும் Google தொடர்புகளும் உங்கள் Google கணக்கில் தொடர்ந்து ஒத்திசைக்கப்படும். அமைப்புகள் > கணக்குகள் > Google என்பதில் ஒத்திசைவு அமைப்புகளை மாற்றலாம்."</string>
+    <string name="drive_backup_state_dialog_okaction">முடக்கி, நீக்கு</string>
+    <string name="drive_backup_state_dialog_title">முடக்கி, காப்புப் பிரதியை நீக்கவா?</string>
+    <string name="durationDayHour">%1$d நா %2$d ம</string>
+    <string name="durationDayHours">%1$d நா %2$d ம</string>
+    <string name="durationDays">%1$d நாட்கள்</string>
+    <string name="durationHourMinute">%1$d ம %2$d நி</string>
+    <string name="durationHourMinutes">%1$d ம %2$d நி</string>
+    <string name="durationHours">%1$d மணிநேரம்</string>
+    <string name="durationMinute">%1$d நிமிடம்</string>
+    <string name="durationMinuteSecond">%1$d நி %2$d வி</string>
+    <string name="durationMinuteSeconds">%1$d நி %2$d வி</string>
+    <string name="durationMinutes">%1$d நி</string>
+    <string name="durationSecond">%1$d வினாடி</string>
+    <string name="durationSeconds">%1$d வினாடிகள்</string>
+    <string name="encryption_warning_fragment_description">"உங்கள் iPhone® சாதனத்தில் காப்புப் பிரதி என்கிரிப்ஷன் இயக்கப்பட்டுள்ளது. இதை நீங்கள் சாதனத்தில் இயக்கவில்லை எனில், உங்கள் தகவல் தொழில்நுட்ப நிர்வாகி அதை இயக்கியிருக்கக்கூடும்.
+
+படங்கள், இசை, வீடியோக்கள் ஆகியவற்றை மட்டுமே நகலெடுக்க முடியும். மேலும் தகவலுக்கு, "<b>g.co/datatransferhelp</b> என்ற தளத்திற்குச் செல்லவும்.</string>
+    <string name="encryption_warning_fragment_title">காப்புப் பிரதி என்கிரிப்ஷன்</string>
+    <string name="fido_begin_button">தொடங்கு</string>
+    <string name="fido_ble_device_icon_content_description">கண்டறிந்த புளூடூத் சாதனம்</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">உங்கள் சாவி இணைத்தல் பயன்முறையில் உள்ளதை உறுதிப்படுத்திக்கொள்ள, குறைந்தது 5 வினாடிகளுக்கு அதில் உள்ள பொத்தானை அழுத்திப் பிடித்திருக்கவும்</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">சரி</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">ஏதோ தவறாகிவிட்டது</string>
+    <string name="fido_ble_dont_see_your_key_hint">உங்கள் சாவி இல்லையா?</string>
+    <string name="fido_ble_enable_body">சாதனத்தின் புளூடூத் இயக்கப்பட்டிருக்கும் போது மட்டுமே, பாதுகாப்புச் சாவி வேலை செய்யும்</string>
+    <string name="fido_ble_enable_title">புளூடூத்தை இயக்கு</string>
+    <string name="fido_ble_enable_turn_on_button">இயக்கு</string>
+    <string name="fido_ble_instructions_body">அதிகச் சாவிகளைப் பயன்படுத்த, பொத்தானைத் தட்டவும்</string>
+    <string name="fido_ble_instructions_title">பாதுகாப்புச் சாவியைப் பயன்படுத்துவதை அனுமதிக்கவா?</string>
+    <string name="fido_ble_locate_pin_body">பொதுவாக இணைத்தலுக்கான பின்னில் 4 அல்லது 6 இலக்க எண் இருக்கும், அது சாவியின் பின்புறத்தில் இருக்கக்கூடும். தொடரத் தயாராக இருக்கும் போது, பின்னை உள்ளிடவும்.</string>
+    <string name="fido_ble_locate_pin_continue_button">தொடர்க</string>
+    <string name="fido_ble_locate_pin_title">உங்கள் சாவிக்கான (%1$s) புளூடூத் இணைத்தல் பின்னைக் கண்டறியவும்</string>
+    <string name="fido_ble_pair_device_pairing">பாதுகாப்புச் சாவியை இணைக்கிறது…</string>
+    <string name="fido_ble_pair_instructions_body">இந்தச் சாதனத்துடன் உங்கள் சாவியை இணைக்கவும். இதன் மூலம் உங்கள் கணக்குடன் அதைப் பயன்படுத்தலாம்</string>
+    <string name="fido_ble_pair_instructions_title">பாதுகாப்புச் சாவியுடன் இணைக்கத் தயாரா?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">சாவியை மீண்டும் இணைத்தல் பயன்முறைக்கு மாற்றவும்</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">மீண்டும் முயலவும்</string>
+    <string name="fido_ble_pairing_failure_dialog_title">ஏதோ தவறாகிவிட்டது</string>
+    <string name="fido_ble_pairing_mode_body">குறைந்தது 5 வினாடிகளுக்கு உங்கள் பாதுகாப்புச் சாவியில் உள்ள பொத்தானை அழுத்திப் பிடித்திருக்கவும்</string>
+    <string name="fido_ble_pairing_mode_title">இணைத்தல் பயன்முறையைப் பயன்படுத்தத் தொடங்குக</string>
+    <string name="fido_ble_select_device_body">கீழே உள்ள பட்டியலில் இருந்து, உங்கள் சாதனத்துடன் இணைக்க விரும்பும் பாதுகாப்புச் சாவியைத் தேர்ந்தெடுக்கவும். சாவியின் பின்புறத்தில் பெயர் அச்சிடப்பட்டிருக்கலாம்.</string>
+    <string name="fido_ble_select_device_title">பாதுகாப்புச் சாவியைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="fido_cancel_button">ரத்துசெய்</string>
+    <string name="fido_nfc_enable_body">சாதனத்தின் NFC இயக்கப்பட்டிருக்கும் போது மட்டுமே, பாதுகாப்புச் சாவி வேலை செய்யும்</string>
+    <string name="fido_nfc_enable_title">NFCஐ இயக்கு</string>
+    <string name="fido_nfc_enable_turn_on_button">இயக்கு</string>
+    <string name="fido_nfc_instructions_body">அதிர்வது முடியும் வரை, உங்கள் சாதனத்தின் பின்பகுதியில் சாவியைக் கிடைமட்டமாகப் பிடிக்கவும்</string>
+    <string name="fido_nfc_instructions_title">பாதுகாப்புச் சாவியைப் பயன்படுத்துவதை அனுமதிக்கவா?</string>
+    <string name="fido_pair_another_security_key">மற்றொரு பாதுகாப்புச் சாவியை இணை</string>
+    <string name="fido_processing">பாதுகாப்புச் சாவியைச் சரிபார்க்கிறது…</string>
+    <string name="fido_transport_selection_bluetooth">புளூடூத்துடன் பாதுகாப்புச் சாவியைப் பயன்படுத்து</string>
+    <string name="fido_transport_selection_body">புளூடூத்துடனும் NFC உடனும் பாதுகாப்புச் சாவிகள் இயங்குகின்றன. பாதுகாப்புச் சாவியை எப்படிப் பயன்படுத்த விரும்புகிறீர்கள் என்பதைத் தேர்வுசெய்யவும்.</string>
+    <string name="fido_transport_selection_nfc">NFC உடன் பாதுகாப்புச் சாவியைப் பயன்படுத்து</string>
+    <string name="fido_transport_selection_title">பாதுகாப்புச் சாவியை எப்படிப் பயன்படுத்த வேண்டும் என்பதைத் தேர்வுசெய்யவும்</string>
+    <string name="fido_use_ble_instead">புளூடூத்துடன் பாதுகாப்புச் சாவியைப் பயன்படுத்து</string>
+    <string name="fido_use_nfc_instead">NFC உடன் பாதுகாப்புச் சாவியைப் பயன்படுத்து</string>
+    <string name="fido_welcome_body">%1$s உடன் பாதுகாப்புச் சாவியைப் பயன்படுத்தினால், உங்கள் தனிப்பட்ட தரவைக் கூடுதல் பாதுகாப்புடன் வைத்திருக்கலாம்.</string>
+    <string name="fido_welcome_title">%1$s உடன் பாதுகாப்புச் சாவியைப் பயன்படுத்தலாம்</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">அடாப்டர் இல்லை</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"உங்கள் ^1 இன் பெட்டியில் இருக்கும் Quick Switch Adapterஐ எடுக்கவும்.
+
+அடாப்டரில் கேபிளைச் செருகவும்."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">அடாப்டரையும் கேபிளையும் இணைக்கவும்</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">உங்கள் பழைய மொபைலைத் திறந்து, இந்த மொபைலில் அடாப்டரைச் செருகவும்.</string>
+    <string name="fragment_usb_connect_both_phones_title">இரண்டு மொபைல்களையும் இணைக்கவும்</string>
+    <string name="fragment_usb_dialog_cancel_description">கேபிளைப் பயன்படுத்தினால் அதிகளவிலான உள்ளடக்கத்தைப் பெறுவீர்கள். பெட்டியில் இருக்கும் கேபிள் உங்கள் பழைய மொபைலுக்கேற்றதாக இல்லையெனில், அதில் சரியாகச் செயல்படும் சார்ஜிங் அல்லது டேட்டா கேபிளைப் பயன்படுத்தவும்.</string>
+    <string name="fragment_usb_dialog_cancel_title">மற்றொரு முறையில் தரவை நகலெடுக்கவா?</string>
+    <string name="fragment_usb_dont_have_cable">என்னிடம் கேபிள் இல்லை</string>
+    <string name="fragment_usb_dont_have_old_phone">என்னிடம் பழைய மொபைல் இல்லை</string>
+    <string name="fragment_usb_find_cable_description">உங்கள் பழைய மொபைலுக்கேற்ற கேபிளை (டேட்டா அல்லது சார்ஜிங் கேபிள் போன்றவை) பயன்படுத்தவும்.</string>
+    <string name="fragment_usb_find_cable_title">சரியான கேபிளைக் கண்டறியவும்</string>
+    <string name="fragment_usb_initial_description">உங்கள் பழைய மொபைலில் இருக்கும் தரவை, இந்த ^1க்கு இடமாற்றவும்.</string>
+    <string name="fragment_usb_initial_title">உங்கள் தரவை நகலெடுப்போம்</string>
+    <string name="fragment_usb_legacy_description">"அதிகளவிலான தரவை இடமாற்றுவதற்கு இதுவே வேகமான வழியாகும்.
+
+பெட்டியில் வழங்கப்பட்டுள்ள அடாப்டரைப் புதிய மொபைலில் செருகவும். கேபிளைப் பயன்படுத்தி மொபைல்களை இணைத்து, பழைய மொபைலைத் திறக்கவும்."</string>
+    <string name="fragment_usb_other_ways">கேபிள் இல்லாமல் நகலெடு</string>
+    <string name="fragment_usb_plug_cable">பழைய மொபைலில் கேபிளைச் செருகவும்</string>
+    <string name="fragment_waiting_title">சற்று காத்திருக்கவும்…</string>
+    <string name="gigabyteShort">ஜி.பை.</string>
+    <string name="google_app_permissions_title">பயன்பாட்டு அனுமதிகள்</string>
+    <string name="google_contacts_static_text">Google தொடர்புகள் ஒத்திசைக்கப்படும்</string>
+    <string name="google_contacts_static_text_off">Google தொடர்புகள் தொடர்ந்து ஒத்திசைக்கப்படும்</string>
+    <string name="google_legal_title">Google சட்டம்</string>
+    <string name="google_play_tos_title">Google Play சேவை விதிமுறைகள்</string>
+    <string name="google_plus_privacy_policy_title">Google ப்ளஸ் தனியுரிமைக் கொள்கை</string>
+    <string name="google_privacy_policy_title">Google தனியுரிமைக் கொள்கை</string>
+    <string name="google_terms_of_service_title">Google சேவை விதிமுறைகள்</string>
+    <string name="header_set_backup_account">காப்புப் பிரதி கணக்கை அமை</string>
+    <string name="i_message_dialog_message">"iPhone® சாதனப் பயனர்களிடமிருந்து தொடர்ந்து SMS செய்திகளைப் பெற, iMessage®ஐ முடக்க வேண்டும்.
+
+வழிமுறைகளுக்கு, "<b>g.co/iMessageHelp</b> என்பதற்குச் செல்லவும்.</string>
+    <string name="instant_apps_settings_title">இன்ஸ்டண்ட் பயன்பாடுகள்</string>
+    <string name="instructions_fragment_title">உங்களின் மற்றொரு மொபைலில் தொடரவும்</string>
+    <string name="ios_connected_fragment_description">"அடுத்த திரையில், Google கணக்கில் உள்நுழையவும் அல்லது புதிய கணக்கை உருவாக்கவும்.
+
+Google கணக்கைச் சேர்க்கவில்லை எனில், உங்கள் iOS Calendar® நிகழ்வுகளை இடமாற்ற முடியாது."</string>
+    <string name="ios_message_attachment_explanation">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் உங்கள் செய்தி இணைப்புகள் இருக்கும்]</string>
+    <string name="ios_message_attachment_failed_explanation">[சில இணைப்புகளை நகலெடுக்க முடியவில்லை. இடமாற்றிய கோப்புகளை, Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் பார்க்கலாம்]</string>
+    <string name="ios_message_attachment_placeholder">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் இணைப்பு சேமிக்கப்பட்டது]</string>
+    <string name="ios_message_attachments_placeholder">[Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் இணைப்புகள் சேமிக்கப்பட்டன]</string>
+    <string name="ios_migration_default_calendar_title">கேலெண்டர்</string>
+    <string name="ios_migration_other_contact_relation">மற்றவை</string>
+    <string name="ios_photos_dialog_message">"iCloud® இல் சேமித்த படங்களை நகலெடுக்க முடியாது.
+
+இந்தப் படங்களை ^1 சாதனத்திற்கு இடமாற்ற, உங்கள் iPhone® சாதனத்தில் Google Photos பயன்பாட்டை நிறுவி, \"காப்புப் பிரதி &amp; ஒத்திசைவு\" எனும் விருப்பத்தை இயக்கவும். கூடுதல் வழிமுறைகளுக்கு, "<b>g.co/datatransferhelp</b> எனும் இணைப்பிற்குச் செல்லவும்.</string>
+    <string name="kilobyteShort">கி.பை.</string>
+    <string name="list_item_add_account">கணக்கைச் சேர்</string>
+    <string name="lockscreen_smartdevice_action_next">அடுத்து</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">மொபைலைத் தொடர்ந்து அமைக்க, திறக்கவும்</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">அமைவைத் தொடர, பாதுகாப்புக் காரணங்களுக்காக உங்கள் திரைப் பூட்டை உறுதிப்படுத்த வேண்டும்</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">திரைப் பூட்டை உறுதிப்படுத்தவும்</string>
+    <string name="manage_data_label">Google கணக்கு</string>
+    <string name="master_clear_title">தரவின் ஆரம்பநிலை மீட்டமைப்பு</string>
+    <string name="megabyteShort">மெ.பை.</string>
+    <string name="netrec_module_display_name">நெட்வொர்க் பரிந்துரைகள்</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">வைஃபை செய்திகள்</string>
+    <string name="notification_channel_network_available">நெட்வொர்க் உள்ளது</string>
+    <string name="notification_channel_wakeup_name">வைஃபை இயக்கப்பட்டது</string>
+    <string name="notification_content_text_set_backup_account">காப்புப் பிரதி கணக்கை அமைக்க வேண்டும்</string>
+    <string name="notification_content_title_set_backup_account">காப்புப் பிரதி</string>
+    <string name="notification_ticker">அணுகல் கோரப்பட்டது</string>
+    <string name="notification_ticker_set_backup_account">காப்புப் பிரதி கணக்கு தேவை</string>
+    <string name="open_in_web_button">இணையத்தில் திற</string>
+    <string name="open_source_activity_prompt_heading">பயன்பாட்டைத் திறக்கவும்</string>
+    <string name="open_source_activity_prompt_text">"அங்கீகரிப்புச் செயல்முறையை நிறைவுசெய்ய, உங்கள் மொபைலில் SourceResponseActivity என்பதைத் திறக்கவும். "</string>
+    <string name="opt_in_account_content_description">கணக்கைத் தேர்ந்தெடுக்கவும். தற்போது தேர்ந்தெடுத்துள்ளது: %1$s</string>
+    <string name="opt_in_account_null_state">கணக்கை உருவாக்கு</string>
+    <string name="opt_in_agreement">தொடர்வதன் மூலம், நீங்கள் <a href="https://play.google.com/about/play-terms.html">Play சேவை விதிமுறைகளை</a> ஏற்கிறீர்கள். <a href="https://support.google.com/googleplay/?p=instant_apps">மேலும் அறிக</a></string>
+    <string name="opt_in_confirm">ஏற்கிறேன்</string>
+    <string name="opt_in_description">"இணைப்பைத் தட்டும் போது, Google Play ஆனது இன்ஸ்டண்ட் பயன்பாடு உள்ளதா எனப் பார்த்து, அதை நிறுவாமலே இயக்கும். இன்ஸ்டண்ட் பயன்பாடுகள் உங்கள் சாதனத்தில் தற்காலிகமாக வைக்கப்படும்.
+
+இன்ஸ்டண்ட் பயன்பாடுகளைப் பயன்படுத்தும் போது, அவை அனுமதிகளைக் கோரும். பயன்பாட்டு விவரங்களை (பயன்பாட்டிலிருந்து வாங்கியவை உட்பட) Google Play ஸ்டோரில் பார்க்கலாம். பயன்பாட்டுத் தரவும் அமைப்புகளும், பின்வரும் கணக்கு மூலம் உள்நுழைந்துள்ள சாதனங்களில் ஒத்திசைக்கப்படும்:"</string>
+    <string name="opt_in_description_m_plus">"இணைப்பைத் தட்டும் போது, Google Play ஆனது இன்ஸ்டண்ட் பயன்பாடு உள்ளதா எனப் பார்த்து, அதை நிறுவாமலே இயக்கும். இன்ஸ்டண்ட் பயன்பாடுகள் உங்கள் சாதனத்தில் தற்காலிகமாக வைக்கப்படும்.
+
+பயன்பாட்டு விவரங்களை (பயன்பாட்டிலிருந்து வாங்கியவை உட்பட) Google Play ஸ்டோரில் பார்க்கலாம். பயன்பாட்டுத் தரவும் அமைப்புகளும், பின்வரும் கணக்கு மூலம் உள்நுழைந்துள்ள சாதனங்களில் ஒத்திசைக்கப்படும்:"</string>
+    <string name="opt_in_subtitle">பயன்பாடுகளை நிறுவாமலேயே பயன்படுத்தலாம்</string>
+    <string name="opt_in_title">இன்ஸ்டண்ட் பயன்பாடுகள்</string>
+    <string name="permgrouplab_calendar">கேலெண்டர்</string>
+    <string name="permgrouplab_camera">கேமரா</string>
+    <string name="permgrouplab_contacts">தொடர்புகள்</string>
+    <string name="permgrouplab_location">இருப்பிடம்</string>
+    <string name="permgrouplab_microphone">மைக்ரோஃபோன்</string>
+    <string name="permgrouplab_phone">ஃபோன்</string>
+    <string name="permgrouplab_sensors">உடல் உணர்விகள்</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">சேமிப்பிடம்</string>
+    <string name="permissions_not_granted_text">அனுமதிகளை வழங்க, மீண்டும் உள்நுழையவும்.</string>
+    <string name="permissions_not_granted_title">அனுமதிகள் வழங்கப்படவில்லை.</string>
+    <string name="petabyteShort">பெ.பை.</string>
+    <string name="photo_backup_configure_account_default_summary">தற்போது எந்தக் கணக்கும் காப்புப் பிரதி எடுத்த படங்களைச் சேமிப்பதில்லை</string>
+    <string name="photos_backup_title">படங்களைக் காப்புப் பிரதியெடு</string>
+    <string name="photos_filtering_option_all">எல்லாம்</string>
+    <string name="photos_filtering_option_none">ஏதுமில்லை</string>
+    <string name="plus_manage_app_only_you_label">எனக்கு மட்டும்</string>
+    <string name="plus_network_unreliable">சேவையகத்துடன் நம்பகமான தொடர்பை ஏற்படுத்த முடியவில்லை.</string>
+    <string name="plus_oob_interstitial_loading_text">இதற்குச் சில நிமிடங்கள் ஆகலாம்.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">நகலெடுத்த தொடர்புகள் உங்கள் Google கணக்கில் சேமிக்கப்படும்.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">நகலெடுத்த தொடர்புகளும் கேலெண்டர்களும் உங்கள் Google கணக்கில் சேமிக்கப்படும்.</string>
+    <string name="restore_choice_data_disclaimer_v2">சில தரவு உங்கள் ^1 சாதனத்திற்கு நகலெடுக்கப்படாமல் இருக்கலாம். <annotation id="restore_choice_data_disclaimer_learn_more">மேலும் அறிக</annotation></string>
+    <string name="restore_choice_deselect_some_content">தொடர, சில உள்ளடக்கத்தைத் தேர்வுநீக்கவும்</string>
+    <string name="restore_choice_learn_more_android">"உங்கள் பழைய மொபைலிலிருந்து சில தரவைத் தானாக நகலெடுக்க முடியவில்லை:
+
+ ● இறக்கங்கள் (PDF கோப்புகள் போன்றவை)
+
+ ● மறைந்துள்ள கோப்புறைகளில் சேமிக்கப்பட்டுள்ள படங்கள், வீடியோக்கள் மற்றும் இசை
+
+ ● உரைச் செய்தி மூலமாகப் பெற்ற படங்கள், வீடியோக்கள் மற்றும் இசை
+
+ ● Google Play ஸ்டோர் வழங்காத பயன்பாடுகள்
+
+ ● பயன்பாட்டுத் தரவு (பயன்பாடு Android காப்புப் பிரதியைப் பயன்படுத்தவில்லை எனில்)
+
+ ● குறிப்பிட்ட சாதன அமைப்புகள்
+
+ ● Google கணக்குகள் அல்லாத பிற கணக்குகள் (எந்தத் தொடர்புடைய தரவும் அடங்கும்)
+
+ ● Google சேவைகள் அல்லாத பிற சேவைகளுடன் ஒத்திசைத்த தொடர்புகளும் கேலெண்டர்களும்
+
+ ● ரிங்டோன்கள்
+
+ மேலும் விவரங்கள் மற்றும் இந்தத் தரவில் சிலவற்றை நகலெடுப்பதற்கான உதவிக்கு, g.co/datatransferhelp என்பதற்குச் செல்லவும்."</string>
+    <string name="restore_choice_learn_more_ios">"உங்கள் பழைய மொபைலிலிருந்து சிலவற்றைத் தானாக நகலெடுக்க முடியவில்லை:
+
+ ● பயன்பாடுகளும் பயன்பாட்டுத் தரவும்
+
+ ● உங்கள் மொபைலில் அசல் கோப்பு சேமிக்கப்படாத படங்கள் (எடுத்துக்காட்டாக, சேமிப்பகத்தை மேம்படுத்துவதற்கான அமைப்பு இயக்கப்பட்டிருந்தால், அசல் படங்கள் iCloud® இல் சேமிக்கப்படும்)
+
+ ● iCloud® இல் சேமிக்கப்பட்டுள்ள கோப்புகளும் ஆவணங்களும்
+
+ ● சாதன அமைப்புகள் (வைஃபை கடவுச்சொற்கள், வால்பேப்பர் போன்றவை)
+
+ ● டிஜிட்டல் உரிமைகள் மேலாண்மை (DRM) பாதுகாப்பின் மூலம் பாதுகாக்கப்பட்ட இசை (எடுத்துக்காட்டாக, ஏப்ரல் 2009க்கு முன் வாங்கிய iTunes® இசை அல்லது ஆஃப்லைனில் கேட்பதற்காக, இசையை ஸ்ட்ரீம் செய்யும் பயன்பாட்டிலிருந்து இறக்கிய இசை)
+
+ ● Google கணக்குகள் அல்லாத பிற கணக்குகள் (தொடர்புடைய எல்லா தரவும் அடங்கும்)
+
+ ● Google அல்லது iCloud® சேவைகள் அல்லாத பிற சேவைகளுடன் ஒத்திசைத்த தொடர்புகளும் கேலெண்டர்களும்
+
+ ● Safari® இலிருந்து பெற்ற புத்தகக்குறிகள்
+
+ Google Photos > சாதனக் கோப்புறைகள் > செய்தி இணைப்புகள் என்பதில் iMessage® இணைப்புகள் இருக்கும்.
+
+ மேலும் விவரங்கள் மற்றும் இந்தத் தரவில் சிலவற்றை நகலெடுப்பதற்கான உதவிக்கு, g.co/datatransferhelp என்பதற்குச் செல்லவும்."</string>
+    <string name="restore_choice_not_enough_space">போதுமான இடம் இல்லை</string>
+    <string name="restore_choice_total_text">%1$s (மொத்த சேமிப்பகம்) / %2$s (இடமாற்றத்திற்கான நேரம்)</string>
+    <string name="restore_error_message">மீட்டமைப்பதில் ஏதோ தவறாகிவிட்டது.</string>
+    <string name="restore_instant_apps_notif_text">தேவைப்படும் %1$s, இந்தச் சாதனத்திலிருந்து அகற்றப்பட்டுள்ளது</string>
+    <string name="restore_instant_apps_notif_title">இன்ஸ்டண்ட் பயன்பாடுகளை மீட்டமை</string>
+    <string name="restore_item_appdata">பயன்பாட்டுத் தரவு</string>
+    <string name="restore_item_calendar">கேலெண்டர்</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google கேலெண்டர்</string>
+    <string name="restore_item_calendar_ical_off_description">Google கேலெண்டர் தொடர்ந்து ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_calendar_sync_description">Google கேலெண்டர் ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_call_logs">அழைப்பு வரலாறு</string>
+    <string name="restore_item_contacts">தொடர்புகள்</string>
+    <string name="restore_item_device_settings_description">வைஃபை கடவுச்சொற்கள் மற்றும் பல</string>
+    <string name="restore_item_downloads">பதிவிறக்கங்கள்</string>
+    <string name="restore_item_email">மின்னஞ்சல்</string>
+    <string name="restore_item_email_description">Gmail ஒத்திசைக்கப்படும்</string>
+    <string name="restore_item_message_attachments">செய்தியுடன் இணைக்கப்பட்டவை</string>
+    <string name="restore_item_messages">செய்திகள்</string>
+    <string name="restore_item_music">இசை</string>
+    <string name="restore_item_photos">படங்கள் &amp; வீடியோக்கள்</string>
+    <string name="restore_item_settings">சாதன அமைப்புகள்</string>
+    <string name="restore_item_sms">SMS செய்திகள்</string>
+    <string name="restore_item_will_be_synced_text">இதன் தரவு உங்கள் மொபைலுடன் ஒத்திசைக்கப்படும்</string>
+    <string name="restore_progress_title">மீட்டமைக்கிறது…</string>
+    <string name="restore_supervisor_description">இன்ஸ்டண்ட் பயன்பாடுகளில் இணைப்புகளைத் திறக்க, %1$sஐ மீட்டமைக்கவும்</string>
+    <string name="restore_supervisor_success">இன்ஸ்டண்ட் பயன்பாடுகள் மீட்டமைக்கப்பட்டன</string>
+    <string name="restore_supervisor_title">இன்ஸ்டண்ட் பயன்பாடுகளை மீட்டமைக்கவா?</string>
+    <string name="setup_failure_description">இன்ஸ்டண்ட் பயன்பாடுகளை அமைக்க முடியவில்லை. <a href="https://support.google.com/googleplay/?p=instant_apps">மேலும் அறிக</a></string>
+    <string name="setup_failure_title">அமைக்க முடியவில்லை</string>
+    <string name="sharedUserLabel">Google சேவைகள்</string>
+    <string name="sid_lsid_grant_detail">கடவுச்சொல் போலவே, அமர்வு அடையாளம் (SID) மற்றும் அக அமர்வு அடையாள (LSID) குக்கீகள், உலாவியிலிருந்து பெறப்படும் கோரிக்கைகளின் தொடருடனான உங்கள் அடையாளத்துடன் தொடர்புடையதாகும். அவை உங்கள் எல்லா கணக்கின் தரவிற்கான முழு அணுகலையும் அனுமதிக்கும். உலாவிகள் மட்டுமே இந்த குக்கீகளுக்கான சட்டப்படியான பயன்பாட்டைக் கொண்டிருக்கும்.</string>
+    <string name="sid_lsid_grant_label">உங்கள் எல்லா Google கணக்கின் தரவிற்குமான அணுகலைப் பெற SID மற்றும் LSID குக்கீகளைப் பயன்படுத்தவும்.</string>
+    <string name="small_time_duration">ஒரு நிமிடத்திற்கும் குறைவாக</string>
+    <string name="smartdevice_action_copy">நகலெடு</string>
+    <string name="smartdevice_action_next">அடுத்து</string>
+    <string name="smartdevice_action_open_app">பயன்பாட்டைத் திற</string>
+    <string name="smartdevice_action_skip">தவிர்</string>
+    <string name="smartdevice_action_try_another_way">மற்றொரு வழியில் முயற்சி</string>
+    <string name="smartdevice_action_turn_on_location">இருப்பிடத்தை இயக்கு</string>
+    <string name="smartdevice_alert_disconnected_message">"உங்கள் சாதனம் துண்டிக்கப்பட்டது.
+அமைப்பைத் தொடர, அதை இணைத்து, மீண்டும் தொடங்கவும்."</string>
+    <string name="smartdevice_alert_disconnected_title">சாதனம் துண்டிக்கப்பட்டது</string>
+    <string name="smartdevice_alert_dm_backup_account_message">காப்புப் பிரதிக் கணக்கை உங்கள் சாதன நிர்வாகி நிர்வகிப்பதால், நீங்கள் இந்த அம்சத்தைப் பயன்படுத்த முடியாது.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">அம்சம் இல்லை</string>
+    <string name="smartdevice_alert_exit_setup_message">உங்கள் மற்ற சாதனத்தின் அமைப்பிலிருந்து நிச்சயம் வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="smartdevice_alert_exit_setup_title">சாதன அமைப்பிலிருந்து வெளியேறவா?</string>
+    <string name="smartdevice_alert_generic_error_title">ஏதோ தவறு நடந்துவிட்டது</string>
+    <string name="smartdevice_alert_generic_error_toast_text">ஏதோ தவறு நடந்துவிட்டது</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">உங்கள் சாதனத்தை அமைக்க, உங்களுக்கு ஒரு Google கணக்காவது இருக்கவேண்டும்.</string>
+    <string name="smartdevice_alert_no_accounts_text">உங்கள் %sஐ அமைக்க, உங்களுக்குக் குறைந்தது ஒரு Google கணக்காவது இருக்கவேண்டும்.</string>
+    <string name="smartdevice_alert_no_accounts_title">நகலெடுக்கக் கணக்குகள் இல்லை</string>
+    <string name="smartdevice_alert_quit_button">வெளியேறு</string>
+    <string name="smartdevice_alert_restart_setup_button">அமைப்பை மறுதுவக்கம் செய்</string>
+    <string name="smartdevice_alert_setup_incomplete">அமைப்பு முடிவடையவில்லை</string>
+    <string name="smartdevice_alert_skip_button">தவிர்</string>
+    <string name="smartdevice_alert_start_over_button">மீண்டும் தொடங்குக</string>
+    <string name="smartdevice_alert_work_profile_message">பணிக் கணக்குகளை இன்னும் நகலெடுக்க முடியவில்லை. உங்கள் பிற Google கணக்குகளையும் தரவையும் நகலெடுத்த பின், புதிய சாதனத்தில் அமைப்புகளுக்குச் சென்று, பணிக் கணக்கைச் சேர்க்கவும்.</string>
+    <string name="smartdevice_alert_work_profile_title">பணிக் கணக்கை நகலெடுக்க முடியாது</string>
+    <string name="smartdevice_application_label">சாதன அமைவு</string>
+    <string name="smartdevice_choose_device">உங்கள் சாதனத்தைத் தேர்வுசெய்க</string>
+    <string name="smartdevice_companion_app_ready">இந்தச் சாதனத்தில் %s பயன்பாடு ஏற்கனவே நிறுவப்பட்டுள்ளது.</string>
+    <string name="smartdevice_connect_to_wifi">உங்கள் சாதனத்தை இணைத்திடுக</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">உங்கள் சாதனத்துடன் இணைக்கிறது...</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google கணக்குகள், பிற கணக்குகள், பயன்பாடுகள், தரவு ஆகியவை நகலெடுக்கப்படும்</string>
+    <string name="smartdevice_d2d_copy_account_text">உங்கள் Google கணக்குகள், பயன்பாடுகள், தரவு ஆகியவற்றை உங்கள் மற்ற சாதனத்திற்கு நகலெடுக்கவா?</string>
+    <string name="smartdevice_d2d_copy_account_title">பிற சாதனத்திற்கு நகலெடுக்கவா?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">அறியப்படவில்லை</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">பதிலாக, பூட்டுத் திரையைப் பயன்படுத்தவும்</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">பாதுகாப்புக் காரணங்களுக்காக, உங்கள் கைரேகையை உறுதிப்படுத்தவும். இதன் பிறகு உங்கள் Google கணக்குகள், பயன்பாடுகள், தரவு ஆகியவை %sக்கு நகலெடுக்கப்படும்.</string>
+    <string name="smartdevice_d2d_lockscreen_description">உங்கள் சாதனத்தை அமைப்பதைத் தொடர தடைநீக்குக</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">பாதுகாப்பிற்காக, உங்கள் திரைப் பூட்டை உறுதிசெய்து, அமைவைத் தொடரவும்.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">தொடர, உறுதிப்படுத்தவும்</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">உங்கள் சாதனத்தில் Bluetooth இல்லை என்பதால், மற்ற சாதனத்தை அமைக்க முடியாது.</string>
+    <string name="smartdevice_d2d_source_disabled_text">பாதுகாப்புக்காக, இந்த அம்சம் முடக்கப்பட்டுள்ளது. உங்கள் மற்ற சாதனத்தில், தவிர் என்பதைத் தொட்டு, அமைப்பைத் தொடர்க.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">புதிய சாதனத்தை அமைத்திடுக</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">சாதன அமைவு</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 அமைப்பு</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">உங்கள் Google கணக்குகள், பயன்பாடுகள், தரவு ஆகியவற்றை சரியான சாதனத்திற்கு நகலெடுக்கிறீர்கள் என்பதை உறுதிசெய்ய, அமைப்பை மறுதுவக்கம் செய்து, உங்கள் ^1 ஐத் தேர்வுசெய்யவும்.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">குறியீடு தெரியவில்லையா?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">குறியீடு தெரியவில்லையா?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">சரியானதைத் தேர்வுசெய்திருக்கிறீர்கள் என்பதை உறுதிசெய்ய, உங்கள் மற்ற சாதனத்தில் இந்தக் குறியீட்டைப் பாருங்கள்</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">குறியீட்டைச் சரிபார்த்திடுக</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">கட்டுப்படுத்தப்பட்ட பயனர் சுயவிவரத்தில் இருந்து ஒரு புதிய சாதனத்தை அமைக்க முடியாது.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">உங்கள் %s இல் அமைப்பை நிறைவுசெய்க</string>
+    <string name="smartdevice_d2d_source_setup_success">கிட்டத்தட்ட முடிந்துவிட்டது!</string>
+    <string name="smartdevice_d2d_target_choice_description">மற்றொரு Android சாதனத்தைப் பயன்படுத்தினால், உங்கள் நடப்பு அமைவை இந்த %s இல் விரைவாக நகலெடுக்கலாம்.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">உங்கள் முந்தைய சாதனம் Android சாதனமாக இருந்தால், அதிலிருந்து பெரும்பாலான தரவை இடமாற்றலாம்</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">புதியதாக அமை</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">மற்றொரு Android சாதனத்திலிருந்து நகலெடு</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">வேண்டாம்</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">இந்தச் சாதனத்தை அமைப்பதற்கு, அடுத்த வழிமுறைகளைப் பின்பற்றுக</string>
+    <string name="smartdevice_d2d_target_choice_title">மற்றொரு சாதனம் உள்ளதா?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">மற்ற சாதனத்தில் Google கணக்கு, பயன்பாடு மற்றும் தரவை நகலெடு</string>
+    <string name="smartdevice_d2d_target_continue_description">உங்கள் மற்ற சாதனத்தில் அமைப்பைத் தொடர்ந்திடுக.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">கணக்குகளை நகலெடுக்கிறது...</string>
+    <string name="smartdevice_d2d_target_description">உங்கள் பிற சாதனத்திற்குச் செல்லுதல்:&lt;br/>&lt;br/> 1. &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> எனக் கூறவும் அல்லது \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" என உள்ளிட்டு, உறுதிப்படுத்துவதற்குத் தட்டவும்&lt;br/>&lt;br/> 2. பட்டியலில் &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b>ஐத் தொட்டு, திரையில் காட்டப்படும் வழிமுறைகளைப் பின்பற்றவும்</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">அதற்குப் பதிலாக இதைப் பயன்படுத்திப் பார்க்கவும்</string>
+    <string name="smartdevice_d2d_target_google_settings_description">உங்கள் மற்ற சாதனத்தில்:&lt;br/>&lt;br/> 1. &lt;b>Google அமைப்புகள்&lt;/b> பயன்பாட்டைத் திறக்கவும்&lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> என்பதைத் தேர்ந்தெடுக்கவும் &lt;br/>&lt;br/> 3. பட்டியலில் &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>ஐத் தொட்டு, திரையில் காட்டப்படும் வழிமுறைகளைப் பின்பற்றவும்</string>
+    <string name="smartdevice_d2d_target_google_settings_link">இந்தப் படிகளை நிறைவுசெய்ய முடியவில்லை</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">அமைப்புகளைப் பயன்படுத்தவும்</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">உங்கள் மற்ற சாதனத்தில்:&lt;br/>&lt;br/> 1. எல்லா பயன்பாடுகளும் என்ற ஐகானைத் தட்டி, &lt;b>அமைப்புகள் பயன்பாடு&lt;/b> என்பதைத் திறக்கவும் &lt;br/>&lt;br/> 2. &lt;b>Google&lt;/b>ஐத் தட்டவும் &lt;br/>&lt;br/> 3. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> என்பதைத் தேர்ந்தெடுக்கவும் &lt;br/>&lt;br/> 4. பட்டியலில் &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>ஐத் தொட்டு, திரையில் காட்டப்படும் வழிமுறைகளைப் பின்பற்றவும்</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">மற்றொரு Android சாதனத்திலிருந்து நகலெடு</string>
+    <string name="smartdevice_d2d_target_help_needed_link">சிக்கலா?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">அதைக் கண்டுபிடிக்க முடியவில்லையா?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">உங்கள் பிற சாதனத்தில் Google பயன்பாட்டைத் திறக்கவும்</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google பயன்பாட்டைத் திறந்திடுக</string>
+    <string name="smartdevice_d2d_target_instruction_title">உங்கள் மற்ற சாதனத்தில்</string>
+    <string name="smartdevice_d2d_target_nfc_description">"நகலெடுக்க: 
+
+1. உங்கள் மற்ற சாதனம் இயக்கத்தில் இருப்பதையும் தடைநீக்கப்பட்டிருப்பதையும் உறுதிசெய்துகொள்க 
+
+2. ஒரு ஒலி கேட்கும்வரை இரு சாதனங்களையும் பின்னுக்குப் பின்னாய் வைத்து, பிறகு பிரித்திடுக"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">தட்டி முடி எனும் அம்சம் உங்கள் பிற சாதனத்தில் இருந்து Google கணக்குகள், பயன்பாடுகள், தரவு ஆகியவற்றை நகலெடுப்பதற்கு NFCஐப் பயன்படுத்தும். அமைப்புகள் என்பதற்குச் சென்று சாதனத்தின் NFC இயக்கத்தில் இருப்பதை உறுதிப்படுத்தவும்.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">சிக்கலா?</string>
+    <string name="smartdevice_d2d_target_nfc_title">தட்டிச் செல்லவும்</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google பயன்பாடு, எல்லா Android சாதனங்களிலும் முன்நிறுவப்பட்டுள்ளது. உங்கள் முகப்புத் திரையில் \"எல்லா பயன்பாடுகள்\" பொத்தானைத் தொட்டு, மேலே காட்டப்பட்டுள்ள ஐகானைக் காண்க.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">இந்தக் குறியீடு, உங்கள் மற்ற சாதனத்தில் இருப்பதுடன் பொருந்த வேண்டும்:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">தவிர்க்காதே</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">அமைப்பு, இந்தக் கணக்கை அல்லது காப்புப் பிரதியெடுத்தப் பயன்பாடுகள் மற்றும் தரவை இந்தச் சாதனத்திற்கு நகலெடுக்காது.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">தவிர்த்திடுக</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">இந்தக் கணக்கைத் தவிர்க்கவா?</string>
+    <string name="smartdevice_d2d_target_title">Google பயன்பாட்டில்</string>
+    <string name="smartdevice_default_device_name">சாதனம்</string>
+    <string name="smartdevice_install_app">பயன்பாட்டை நிறுவுக</string>
+    <string name="smartdevice_install_app_reason" formatted="false">இந்தச் சாதனத்திலிருந்து உங்கள் புதிய %s ஐக் கட்டுப்படுத்த மற்றும் நிர்வகிக்க, %s பயன்பாட்டைப் பெற்றிடுக</string>
+    <string name="smartdevice_install_on_this_device">நிறுவு</string>
+    <string name="smartdevice_search_again">மீண்டும் தேடு</string>
+    <string name="smartdevice_searching_for_devices">சாதனங்களைத் தேடுதல்</string>
+    <string name="smartdevice_setup_enter_code">உங்கள் சாதனத்தில் குறியீட்டை உள்ளிடுக. அது ஒரு ஸ்டிக்கரில் தோன்ற வேண்டும்.</string>
+    <string name="smartdevice_setup_enter_code_hint">குறியீடை உள்ளிடுக</string>
+    <string name="smartdevice_setup_enter_pin_4">தற்போது உங்கள் சாதனத்தில் காட்டப்பட்டுள்ள 4-இலக்கக் குறியீடை உள்ளிடுக</string>
+    <string name="smartdevice_setup_info_installing_app">பயன்பாட்டை நிறுவுகிறது...</string>
+    <string name="smartdevice_setup_intro_text">உங்கள் மற்ற சாதனத்தை அமைக்க, உங்கள் போனின் Bluetooth, உங்கள் Wi-Fi தரவு ஆகியவை பயன்படுத்தப்படும்.</string>
+    <string name="smartdevice_setup_intro_text_nfc">உங்கள் மற்ற சாதனத்தை அமைக்க, உங்கள் போனின் Bluetooth பயன்படுத்தப்படும்.</string>
+    <string name="smartdevice_setup_intro_title">தொடங்குதல்</string>
+    <string name="smartdevice_setup_password_hint">WiFi கடவுச்சொல்லை உள்ளிடுக</string>
+    <string name="smartdevice_setup_show_password">கடவுச்சொல்லைக் காட்டு</string>
+    <string name="smartdevice_setup_title_verify_code">குறியீட்டைச் சரிபார்த்திடுக</string>
+    <string name="smartdevice_wifi_cannot_connect_description">இந்தச் சாதனத்தை அமைக்க, திறந்த நெட்வொர்க்கையும் WPA/WPA2 நெட்வொர்க்குகளையும் மட்டுமே பயன்படுத்த முடியும்</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi நெட்வொர்க்கைப் பயன்படுத்த முடியாது</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Wi-Fi இல்லாமல், உங்கள் சாதனம் சரியாக வேலை செய்யாமல் போகலாம். அமைப்பைத் தொடர, அதை Wi-Fi நெட்வொர்க்குடன் இணைக்கவும்.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Wi-Fi நெட்வொர்க்கைத் தேர்வுசெய்க</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"வைஃபை இணைப்பைத் தேட, இருப்பிடத்தை இயக்கவும்.
+
+அமைப்புகளுக்குச் சென்று, இதைப் பின்னர் மாற்றிக்கொள்ளலாம்."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">வைஃபை நெட்வொர்க்குகளைத் தேட முடியவில்லை</string>
+    <string name="source_connected_description">தயாராகிறது...</string>
+    <string name="source_connected_title">உங்கள் %1$s உடன் இணைக்கப்பட்டது</string>
+    <string name="source_copying_description">தேர்வுசெய்த தரவு, உங்கள் புதிய மொபைலுக்கு நகலெடுக்கப்படுகிறது</string>
+    <string name="source_copying_title">நகலெடுக்கிறது...</string>
+    <string name="source_default_target_device_name">புதிய சாதனம்</string>
+    <string name="source_notification_device_disconnected">கேபிளை மீண்டும் இணைக்கவும்</string>
+    <string name="source_notification_text">ஒரு மொபைலிலிருந்து மற்றொரு மொபைலுக்கு இடமாற்றப்படுகிறது</string>
+    <string name="source_notification_title">தரவு இடமாற்றம்</string>
+    <string name="source_success_description">உங்கள் %1$s சாதனத்தில் அமைவை முடிக்கவும்.</string>
+    <string name="source_success_screen_title">முடிந்தது!</string>
+    <string name="source_unplugged_description">உங்கள் %1$s சாதனத்துடன் மீண்டும் இணைக்கவும்</string>
+    <string name="source_unplugged_title">கேபிள் துண்டிக்கப்பட்டது</string>
+    <string name="source_waiting_title">உங்கள் %1$s சாதனத்தில் அமைவைத் தொடரவும்</string>
+    <string name="stop_copying_dialog_continue_button">நிராகரி</string>
+    <string name="stop_copying_dialog_message_before_transfer">தரவு புதிய மொபைலுக்கு நகலெடுக்கப்படவில்லை</string>
+    <string name="stop_copying_dialog_message_during_transfer">சில தரவு புதிய மொபைலுக்கு நகலெடுக்கப்படவில்லை</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">நகலெடுக்காதே</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">நிறுத்து</string>
+    <string name="stop_copying_dialog_title_before_transfer">நகலெடுக்க வேண்டாமா?</string>
+    <string name="stop_copying_dialog_title_during_transfer">நகலெடுப்பதை நிறுத்தவா?</string>
+    <string name="storage_management_wear_descriptive_text">தரவை அணியக்கூடியவற்றில் நகலெடுக்க, உங்கள் சாதன சேமிப்பிடத்தைப் பயன்பாடு பயன்படுத்தும்.</string>
+    <string name="storage_management_wear_manage_size_label">அணியக்கூடிய நினைவகத்தை நிர்வகி</string>
+    <string name="storage_management_wear_size_label">அணியக்கூடிய நினைவகம்</string>
+    <string name="storage_managment_all_storage_descriptive_text">தேடல் இன்ஜின் மற்றும் பிற தரவையும் சேர்த்து Google Play சேவைகளால் பயன்படுத்தப்பட்ட மொத்த தரவு.</string>
+    <string name="storage_managment_clear_all_data">எல்லா தரவையும் அழி</string>
+    <string name="storage_managment_computing_size">கணக்கிடுகிறது...</string>
+    <string name="storage_managment_icing_size_label">தேடல் தரவு</string>
+    <string name="storage_managment_manage_icing_button">தேடல் தரவை நிர்வகி</string>
+    <string name="storage_managment_search_index_descriptive_text">உங்கள் பயன்பாடுகளின் சிறப்பான உபயோகத்திற்காக, தேடல் இன்ஜினை வழங்குவதன் மூலம் சாதனத்தில் தேடலைத் துரிதப்படுத்துகிறோம்.</string>
+    <string name="storage_managment_title">Google Play சேவைகளின் சேமிப்பிடம்</string>
+    <string name="storage_managment_total_size_label">மொத்தச் சேமிப்பிடம்</string>
+    <string name="supervisor_downloading_description">%1$sஐப் பதிவிறக்குகிறது</string>
+    <string name="supervisor_downloading_title">உங்கள் சாதனத்தை அமைக்கிறோம், சற்று காத்திருக்கவும்</string>
+    <string name="supervisor_installing_description">%1$sஐ நிறுவுகிறது</string>
+    <string name="supervisor_title">இன்ஸ்டண்ட் ஆப்ஸ்க்கான Google Play சேவைகள்</string>
+    <string name="suw_back_button_label">முந்தையது</string>
+    <string name="suw_more_button_label">மேலும்</string>
+    <string name="suw_next_button_label">அடுத்து</string>
+    <string name="system_update_ab_update_downloaded_notification_message">மேலும் அறிய, தட்டவும்</string>
+    <string name="system_update_activity_battery_low_text">புதுப்பிப்பை நிறுவுவதற்குத் தேவையான பேட்டரி அளவு இல்லை</string>
+    <string name="system_update_activity_name">புதிய பதிப்பு</string>
+    <string name="system_update_activity_roaming_text">ரோமிங்கில் இருக்கும்போது முறைமை புதுப்பிப்புகளை இறக்க முடியாது.</string>
+    <string name="system_update_activity_roaming_text_glif">ரோமிங்கின் போது இறக்க முடியாது</string>
+    <string name="system_update_android_version_text">Android பதிப்பு: ^1</string>
+    <string name="system_update_check_now_button_text">புதுப்பிப்பு உள்ளதா என்று பார்</string>
+    <string name="system_update_checking_status_text">சரிபார்க்கிறது</string>
+    <string name="system_update_complete_label">அமைப்பின் புதுப்பிப்பு</string>
+    <string name="system_update_countdown_cancel_button">நிறுவலை ரத்துசெய்</string>
+    <string name="system_update_countdown_complete">இப்போது மீண்டும் தொடங்குகிறது…</string>
+    <string name="system_update_download_and_install_button_text">இறக்கி நிறுவு</string>
+    <string name="system_update_download_button_text">பதிவிறக்கு</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">இறக்குவதற்குப் போதுமான இடமில்லை</string>
+    <string name="system_update_download_failed_no_space_status_text">இறக்குவதற்கு போதுமான இடம் இல்லை</string>
+    <string name="system_update_download_failed_status_text">இறக்க முடியவில்லை</string>
+    <string name="system_update_download_manage_storage_button_text">சேமிப்பகத்தை நிர்வகி</string>
+    <string name="system_update_download_paused_no_wifi_status_text">வைஃபைக்காகக் காத்திருக்கிறது</string>
+    <string name="system_update_download_paused_title_text">பதிவிறக்கம் இடைநிறுத்தப்பட்டது</string>
+    <string name="system_update_download_retry_button_text">மீண்டும் பதிவிறக்க முயற்சி செய்</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">^1 மற்றும் ^2க்கு இடையே தானாகவே புதுப்பிப்பு இறக்கப்படும்.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">வைஃபை மூலமாக எந்த நேரத்திலும் இந்தப் புதுப்பிப்பை இறக்கலாம். இல்லையெனில், அது ^1 மற்றும் ^2க்கு இடையே தானாகவே இறக்கப்படும்.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">இந்தப் புதுப்பிப்பை இறக்க, முதலில் மற்றொரு சிம் கார்டிற்கு மாறவும்.</string>
+    <string name="system_update_download_waiting_status_text">இறக்கக் காத்திருக்கிறது</string>
+    <string name="system_update_downloading_status_text">இறக்குகிறது</string>
+    <string name="system_update_downloading_title_text">இயங்குதளப் புதுப்பிப்பை இறக்குகிறது…</string>
+    <string name="system_update_downloading_wifi_status2_text">^1 வழியாக ^2 வரை மட்டும்</string>
+    <string name="system_update_file_browser_ok_button">தேர்ந்தெடு</string>
+    <string name="system_update_file_browser_title">புதுப்பிப்பு கோப்பைத் தேர்வுசெய்</string>
+    <string name="system_update_free_up_space_button_text">இடத்தைக் காலியாக்கு</string>
+    <string name="system_update_from_sd_card_button_and_title">SD கார்டிலிருந்து புதுப்பி</string>
+    <string name="system_update_from_sd_card_unknown_status">சரிபார்க்கிறது…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">சரிபார்க்க முடியவில்லை</string>
+    <string name="system_update_from_sd_card_verified_description">புதுப்பிப்பு சரிபார்க்கப்பட்டு, நிறுவத் தயார்.</string>
+    <string name="system_update_from_sd_card_verifying_status">சரிபார்க்கிறது...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">அளவிடப்படாத வைஃபை நெட்வொர்க் தேவை</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">வைஃபை பரிந்துரைக்கப்படுகிறது</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"^2 வரை மட்டுமே, இந்தப் புதுப்பிப்பை ^1 வழியாக இறக்க முடியும்.
+
+தொடர்ந்து இறக்க, ^3 உடன் இணைக்கவும்."</string>
+    <string name="system_update_glif_wifi_needed_title">வைஃபை நெட்வொர்க் தேவை</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">சாத்தியமான தரவுக் கட்டணங்களைத் தவிர்க்க, அளவிடப்படாத வைஃபை நெட்வொர்க்குடன் இணைக்கவும்.</string>
+    <string name="system_update_install_button_text">மீண்டும் தொடங்கி, நிறுவு</string>
+    <string name="system_update_install_failed_button_qualifier_text">நிறுவுவதில் சிக்கல்</string>
+    <string name="system_update_install_failed_title_text">புதுப்பிக்க முடியவில்லை</string>
+    <string name="system_update_install_steps_text">படி ^1 / 2</string>
+    <string name="system_update_installing_title_text">இயங்குதளப் புதுப்பிப்பை நிறுவுகிறது…</string>
+    <string name="system_update_last_checkin">புதுப்பிப்பு: கடைசியாகப் பார்த்தது ^1.</string>
+    <string name="system_update_last_checkin_glif">புதுப்பிப்பிற்காகக் கடைசியாகச் சரிபார்த்தது: ^1</string>
+    <string name="system_update_managed_by_policy">இந்தச் சாதனத்தின் முறைமை மென்பொருள் புதுப்பிப்பை உங்கள் நிறுவனம் கட்டுப்படுத்துகிறது.</string>
+    <string name="system_update_no_update_content_text">மொபைல் புதுப்பித்த நிலையில் உள்ளது.</string>
+    <string name="system_update_no_update_content_text_glif">சாதனம் புதுப்பித்த நிலையில் உள்ளது</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">முறைமை புதுப்பிப்பை இறக்க முடியவில்லை</string>
+    <string name="system_update_not_owner_text">முறைமை மென்பொருள் புதுப்பிப்பு கிடைக்கிறது, ஆனால் உரிமையாளர் மட்டுமே இதை நிறுவ முடியும்.</string>
+    <string name="system_update_notification_header_name">Android இயங்குதளப் புதுப்பிப்பு</string>
+    <string name="system_update_pause_button_text">பதிவிறக்கத்தை இடைநிறுத்து</string>
+    <string name="system_update_processing_status_text">செயல்படுத்துகிறது</string>
+    <string name="system_update_requires_restart_status_text">மறுதொடக்கம் தேவை</string>
+    <string name="system_update_restart_to_install_button_text">நிறுவ, இப்போதே மீண்டும் தொடங்கவும்</string>
+    <string name="system_update_restart_to_update_button_text">புதுப்பிக்க, இப்போதே மீண்டும் தொடங்கவும்</string>
+    <string name="system_update_resume_button_text">மீண்டும் தொடங்கு</string>
+    <string name="system_update_scheduled_status_text">திட்டமிடப்பட்டது</string>
+    <string name="system_update_security_patch_level_text">பாதுகாப்பு இணைப்புநிரல் நிலை: ^1</string>
+    <string name="system_update_security_update_available_title_text">பாதுகாப்புப் புதுப்பிப்பு உள்ளது</string>
+    <string name="system_update_security_update_downloading_title_text">பாதுகாப்புப் புதுப்பிப்பைப் பதிவிறக்குகிறது…</string>
+    <string name="system_update_security_update_installing_title_text">பாதுகாப்புப் புதுப்பிப்பை நிறுவுகிறது…</string>
+    <string name="system_update_size_label">புதுப்பிப்பு அளவு:</string>
+    <string name="system_update_suw_download_and_install_text">"இந்தப் புதுப்பிப்பை இறக்கி நிறுவுவதற்கு பல நிமிடங்கள் ஆகலாம்.
+
+அதன் பின்னர், சாதனம் தானாகவே மீண்டும் தொடங்கும்."</string>
+    <string name="system_update_suw_download_text">"இந்தப் புதுப்பிப்பை இறக்குவதற்கு பல நிமிடங்கள் ஆகலாம்.
+
+அதன் பின்னர், சாதனம் தானாகவே மீண்டும் தொடங்கும்."</string>
+    <string name="system_update_suw_download_title">புதுப்பிப்பைப் பதிவிறக்குகிறது…</string>
+    <string name="system_update_suw_restart_text">சாதனம் மீண்டும் தொடங்கும், இதனால் முறைமை புதுப்பிப்பை நிறுவ முடியும்.</string>
+    <string name="system_update_suw_restart_title">மீண்டும் தொடங்க உள்ளது</string>
+    <string name="system_update_suw_wifi_needed">தொடர்ந்து இறக்க, ^1ஐத் தேர்ந்தெடுக்கவும்.</string>
+    <string name="system_update_update_available_download_message_wearable">இறக்க, இடது பக்கம் ஸ்வைப் செய்யவும்.</string>
+    <string name="system_update_update_available_notification_message">மேலும் அறிந்து இறக்க, தட்டவும்</string>
+    <string name="system_update_update_available_notification_title">அமைப்பின் புதுப்பிப்பு கிடைக்கிறது</string>
+    <string name="system_update_update_available_tap_to_download">இறக்க, தட்டவும்</string>
+    <string name="system_update_update_available_title_text">இயங்குதளப் புதுப்பிப்பு உள்ளது</string>
+    <string name="system_update_update_download_auto_paused_notification_title">பதிவிறக்கம் இடைநிறுத்தப்பட்டது</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">போதுமான இடவசதி இல்லை</string>
+    <string name="system_update_update_downloaded_charge_wearable">குறைந்தபட்சம் %d%%க்கு பேட்டரியை சார்ஜ் செய்க</string>
+    <string name="system_update_update_downloaded_install_message_wearable">நிறுவ, இடது பக்கம் ஸ்வைப் செய்யவும்.</string>
+    <string name="system_update_update_downloaded_notification_message">மேலும் அறிந்து நிறுவ, தட்டவும்</string>
+    <string name="system_update_update_downloaded_notification_title">அமைப்பின் புதுப்பிப்பு பதிவிறக்கப்பட்டது</string>
+    <string name="system_update_update_downloaded_tap_to_install">நிறுவ, தட்டவும்</string>
+    <string name="system_update_verification_failed_text">சரிபார்ப்பதில் தோல்வி</string>
+    <string name="system_update_verified_status_text">பதிவிறக்கப்பட்டுச் சரிபார்க்கப்பட்டது</string>
+    <string name="system_update_verify_failed_button_qualifier_text">சரிபார்ப்புச் சிக்கல்</string>
+    <string name="system_update_verifying_status_text">சரிபார்க்கிறது</string>
+    <string name="system_update_wearable_countdown_message">%d இல் மீண்டும் தொடங்கும்...</string>
+    <string name="target_default_source_device_model">பழைய சாதனம்</string>
+    <string name="target_device_not_supported_cant_continue_description">தரவை நகலெடுக்க, மற்றொரு வழியைத் தேர்வுசெய்ய வேண்டும்</string>
+    <string name="target_device_not_supported_cant_continue_title">மற்றொரு மொபைல் ஆதரிக்கவில்லை</string>
+    <string name="target_device_not_supported_try_restarting_description">"கேபிளின் இணைப்பைத் துண்டித்து, உங்கள் பழைய மொபைலை மீண்டும் தொடங்கவும். பிறகு கேபிளை மீண்டும் இணைத்து, Pixel இல் வழங்கப்பட்டுள்ள வழிமுறைகளைப் பின்பற்றவும்.
+
+இந்தப் பிழை தொடர்ந்தால், வேறு வழியில் நகலெடுக்கவும்."</string>
+    <string name="target_device_not_supported_try_restarting_title">மொபைல் ஆதரிக்காமல் இருக்கக்கூடும்</string>
+    <string name="target_smart_device_timeout_add_account">கணக்கைச் சேர்</string>
+    <string name="target_smart_device_timeout_description">விரும்பினால், நீங்களாகவே கணக்கைச் சேர்க்க முயலலாம்</string>
+    <string name="target_smart_device_timeout_dismiss">நிராகரி</string>
+    <string name="target_smart_device_timeout_title">சிக்கலா?</string>
+    <string name="terabyteShort">டெ.பை.</string>
+    <string name="toast_phones_connected">மொபைல்கள் இணைக்கப்பட்டன</string>
+    <string name="toast_reconnect_cable">கேபிளை மீண்டும் இணைக்கவும்</string>
+    <string name="transfer_finished_fragment_title">இறுதியாகச் சில விஷயங்களைச் சேர்க்கிறது...</string>
+    <string name="transfer_summary_copied">தரவு நகலெடுக்கப்பட்டது</string>
+    <string name="transfer_summary_fragment_description">கேபிள் இணைப்பைத் துண்டிக்கவும்.</string>
+    <string name="transfer_summary_fragment_finish">முடி</string>
+    <string name="transfer_summary_fragment_title">உங்கள் மொபைல் கிட்டத்தட்ட தயாராகிவிட்டது</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">சில படங்கள் நகலெடுக்கப்படவில்லை. <annotation id="transfer_summary_learn_more">மேலும் அறிக</annotation></string>
+    <string name="transfer_summary_not_copied">தரவை நகலெடுக்க முடியவில்லை</string>
+    <string name="transfer_summary_partial">%1$s / %2$s நகலெடுக்கப்பட்டன</string>
+    <string name="transfer_summary_will_sync">அமைவிற்குப் பின், தரவு ஒத்திசைக்கப்படும்</string>
+    <string name="transferring_fragment_calculating_remaining_time">மீதமுள்ள நேரத்தைக் கணக்கிடுகிறது...</string>
+    <string name="transferring_fragment_header">நகலெடுக்கிறது...</string>
+    <string name="transferring_fragment_remaining_time">%1$s மீதமுள்ளது</string>
+    <string name="trust_instructions_description">தொடர, iPhone® சாதனத்தைப் பார்த்து, இணைப்பை அனுமதிக்கவும்</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari மற்றும் iTunes ஆகியவை அமெரிக்காவிலும் பிற நாடுகளிலும் பதிவு செய்யப்பட்டுள்ள Apple Inc. இன் வர்த்தகமுத்திரைகள் ஆகும்.</string>
+    <string name="unmetered_wifi_string">அளவிடப்படாத வைஃபை நெட்வொர்க்</string>
+    <string name="url_load_unsuccessful_message">உங்கள் Android சாதனம் மொபைல் தரவுச் சேவையுடன் இணைக்கப்படவில்லை. இந்தத் தகவலை இப்போது பார்க்க, இணைய உலாவியில் %s என்ற இணையதளத்திற்குச் செல்லவும்.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">உங்கள் Android சாதனம் வைஃபை பிணையத்துடன் இணைக்கப்படவில்லை. இப்போது இந்தத் தகவலைப் பார்க்க இணைய உலாவியில் %s ஐப் பார்வையிடவும்.</string>
+    <string name="use_nearby_device_heading">அருகிலுள்ள சாதனத்தைப் பயன்படுத்தவா?</string>
+    <string name="use_nearby_device_text">அனுமதிச் சான்றுகளை வழங்க, அருகிலுள்ள சாதனத்தைப் பயன்படுத்த விரும்புகிறீர்களா?</string>
+    <string name="waiting_for_account_info_text">கணக்குத் தகவலைப் பெற காத்திருக்கிறது...</string>
+    <string name="wifi_available_action_all_networks">எல்லா நெட்வொர்க்குகளும்</string>
+    <string name="wifi_available_action_connect">இணை</string>
+    <string name="wifi_available_content_failed">எல்லா நெட்வொர்க்குகளையும் பார்க்க, தட்டவும்</string>
+    <string name="wifi_available_title">திறந்த வைஃபை நெட்வொர்க்குடன் இணைக்கவும்</string>
+    <string name="wifi_available_title_connected">வைஃபை நெட்வொர்க்குடன் இணைக்கப்பட்டது</string>
+    <string name="wifi_available_title_connecting">திறந்த வைஃபை நெட்வொர்க்குடன் இணைக்கிறது</string>
+    <string name="wifi_available_title_failed">வைஃபை நெட்வொர்க்குடன் இணைக்க முடியவில்லை</string>
+    <string name="wifi_string">வைஃபை நெட்வொர்க்</string>
+    <string name="wifi_wakeup_enabled_notification_context">சேமித்த நெட்வொர்க்கிற்கு அருகிலுள்ளீர்கள்: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">வைஃபை தானாகவே இயக்கப்பட்டது</string>
+</resources>

@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="account_blocked_title">Account geblokkeerd</string>
+    <string name="account_level_title">Actie op account vereist</string>
+    <string name="account_removed_notification_text">%1$s is verwijderd, omdat apparaatbeheer niet is voltooid</string>
+    <string name="account_removed_notification_title">Account verwijderd</string>
+    <string name="android_privacy_policy_title">Aanvullend privacybeleid</string>
+    <string name="app_has_in_app_purchases">In-app-aankopen</string>
+    <string name="app_has_permissions">Rechten: %s</string>
+    <string name="app_has_runtime_permissions">App vraagt om rechten</string>
+    <string name="app_level_title">Inlogverzoek</string>
+    <string name="app_level_title_secondary">Inlogverzoek van %s</string>
+    <string name="app_picker_app_already_installed_toast">Deze app is al geïnstalleerd</string>
+    <string name="app_picker_loading">Beschikbare apps zoeken…</string>
+    <string name="app_picker_loading_toast">Beschikbare apps worden binnenkort geladen</string>
+    <string name="app_picker_no_apps">Geen apps geselecteerd</string>
+    <string name="app_picker_no_apps_found">Geen apps gevonden</string>
+    <string name="apps_in_app_purchases_disclaimer_all">In-app-aankopen worden niet overgezet naar je ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Sommige in-app-aankopen worden mogelijk niet overgezet naar je ^1.</string>
+    <string name="apps_permissions_described_v2">"Er kunnen alleen overeenkomende Android-apps worden gevonden voor populaire, gratis iOS®-apps. De meeste in-app-aankopen worden niet overgezet. Je kunt meer apps vinden in de Play Store zodra de configuratie is voltooid.
+
+Je moet bepaalde apps mogelijk van tevoren rechten verlenen voor toegang tot specifieke functies of informatie op je apparaat. Rechten worden ingedeeld in rechtengroepen. Als je ervoor kiest deze apps te installeren, accepteer je de rechten die deel uitmaken van elke groep. Hieronder vind je een beschrijving van elke rechtengroep.
+
+Voor sommige apps hoef je de rechten mogelijk niet van tevoren te accepteren. Wanneer je een van deze apps gebruikt, kun je afzonderlijke rechten toestaan of weigeren voordat de app dat type gegevens gebruikt.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Door een app te installeren, ga je akkoord met de gevraagde rechten. <annotation id="apps_permissions_learn_more">Meer informatie</annotation></string>
+    <string name="audience_selection_done">Gereed</string>
+    <string name="auth_account_already_has_gmail">Er is al een Gmail-adres gekoppeld aan dit account.</string>
+    <string name="auth_account_content_provider_label">Google-acountgegevens</string>
+    <string name="auth_account_removed_default_description">Apparaatbeheer is niet voltooid. Begin opnieuw en log weer in.</string>
+    <string name="auth_account_removed_default_title">Configuratie geannuleerd</string>
+    <string name="auth_account_removed_dm_bad_result_description">Apparaatbeheer kan niet worden voltooid. Begin opnieuw en log weer in.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Voor je domein is mobiel apparaatbeheer vereist, maar dit wordt niet ondersteund op dit apparaat. Probeer een ander account.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Apparaatbeheer wordt niet ondersteund</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Apparaatbeheer is niet correct geïnstalleerd. Begin opnieuw en log weer in.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Problemen met installeren</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Apparaatbeheer is niet voltooid. Begin opnieuw en log weer in.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Configuratie geannuleerd</string>
+    <string name="auth_account_settings_title">Accountinstellingen</string>
+    <string name="auth_account_setup_title">Google-account</string>
+    <string name="auth_account_state_sync_title">Synchronisatie van accountstatus</string>
+    <string name="auth_allow_button_label">Toestaan</string>
+    <string name="auth_allow_external_site_access">Heeft doorlopende toegang tot je gegevens op %s</string>
+    <string name="auth_app_permission_ok_footnote">Als je doorgaat, geef je deze app en Google toestemming je informatie te gebruiken in overeenstemming met de respectieve servicevoorwaarden en privacybeleidsregels.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Inloggen toestaan</string>
+    <string name="auth_authzen_allow_reset_button_text">Wachtwoord resetten toestaan</string>
+    <string name="auth_authzen_google_logo_label">Google-logo</string>
+    <string name="auth_authzen_login_challenge_approved_text">Inloggen goedgekeurd</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Inloggen geannuleerd</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Inloggen toestaan</string>
+    <string name="auth_authzen_login_challenge_desc_text">Inloggen vanuit %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google heeft de inlogpoging gestopt.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Onjuist nummer</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Tik op het nummer dat op het andere scherm wordt weergegeven. Zo word je ingelogd bij je computer.</string>
+    <string name="auth_authzen_login_challenge_title_text">Probeer je in te loggen?</string>
+    <string name="auth_authzen_profile_picture_label">Profielfoto</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Kies het account waarmee je probeert in te loggen:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Probeer je in te loggen?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Geen inlogmeldingen gevonden.</string>
+    <string name="auth_authzen_pull_offline_error">Interne fout</string>
+    <string name="auth_authzen_pull_offline_instructions_text">"Klik op je computer op 'Heb je een code?' en typ:"</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Heb je net geprobeerd in te loggen bij Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Resetten van wachtwoord goedgekeurd</string>
+    <string name="auth_authzen_recovery_canceled_text">Resetten van wachtwoord geannuleerd</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Resetten van het wachtwoord vanuit %s toestaan?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">We hebben je bevestiging nodig</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google heeft de poging gestopt om het wachtwoord opnieuw in te stellen.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Onjuist nummer</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Tik op het nummer dat op het andere scherm wordt weergegeven. Zo wordt je wachtwoord gereset.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Wachtwoord resetten toestaan</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Iemand heeft een verzoek voor het resetten van het wachtwoord van je Google-account ingediend. Google heeft de poging gestopt om het wachtwoord opnieuw in te stellen.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Resetten van wachtwoord voorkomen</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Heb je een verzoek voor het resetten van je wachtwoord ingediend vanuit %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Heb je geprobeerd je wachtwoord opnieuw in te stellen?</string>
+    <string name="auth_authzen_secure_account_button_text">Je account beveiligen</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Zoeken naar inlogmeldingen...</string>
+    <string name="auth_back_button_label">Terug</string>
+    <string name="auth_cant_add_work_account_message">Dit type account wordt beheerd door je organisatie.</string>
+    <string name="auth_captcha_instructions">Typ de tekst die je hier ziet:</string>
+    <string name="auth_captcha_title">Moet CAPTCHA opgeven</string>
+    <string name="auth_common_next_button">Volgende</string>
+    <string name="auth_common_skip">Overslaan</string>
+    <string name="auth_common_switch_accounts">Accounts wijzigen</string>
+    <string name="auth_communicating_message">Je apparaat maakt verbinding met Google om informatie op te slaan in je account. Dit kan maximaal vijf minuten duren.</string>
+    <string name="auth_confirm_creds_sync_title">Status van inloggegevens</string>
+    <string name="auth_d2d_source_alert_title">Tikken en overzetten</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Vergrendelen en verifiëren</string>
+    <string name="auth_d2d_source_copy_notice">Accounts en gegevens kopiëren naar je andere apparaat?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Na verificatie wordt Bluetooth ingeschakeld zodat je apparaten met elkaar kunnen communiceren.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Na verificatie maken je apparaten verbinding met elkaar via Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Als je wilt doorgaan, wordt je scherm vergrendeld en moet je het ontgrendelen voor verificatie.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Kan niet tikken en overzetten omdat dit apparaat geen accounts bevat.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Kan niet tikken en overzetten omdat Bluetooth niet beschikbaar is op je apparaat.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth wordt ingeschakeld zodat je apparaten met elkaar kunnen communiceren.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Hiervoor wordt Bluetooth gebruikt.</string>
+    <string name="auth_d2d_source_notification_title">Tikken en overzetten voltooid</string>
+    <string name="auth_d2d_source_restricted_user_toast">Kan niet tikken en betalen vanaf een beperkt gebruikersprofiel.</string>
+    <string name="auth_d2d_source_title">Accounts herstellen</string>
+    <string name="auth_d2d_source_unknown_device_name">Onbekend apparaat</string>
+    <string name="auth_d2d_target_sorry_alert">Er is iets misgegaan</string>
+    <string name="auth_d2d_target_tap_progress_message">Tik op OK op je andere apparaat om door te gaan</string>
+    <string name="auth_d2d_target_title">Tikken en overzetten</string>
+    <string name="auth_d2d_target_unlock_progress_message">Controleer je andere apparaat</string>
+    <string name="auth_d2d_target_wait_progress_message">Accounts en gegevens ontvangen…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Weigeren</string>
+    <string name="auth_device_management_download_app_icon">App-pictogram van %s</string>
+    <string name="auth_device_management_download_description">Voor dit account is mobiel apparaatbeheer vereist. Installeer de app ^1 voor het activeren van het beveiligingsbeleid dat wordt vereist door het account.</string>
+    <string name="auth_device_management_download_description_kids">Als je het account wilt toevoegen aan dit apparaat, installeer je eerst <b>^1</b>". 
+
+Met ^1 kun je dit apparaat gemakkelijk instellen voor je kind."</string>
+    <string name="auth_device_management_download_failed_message">Je kunt nog steeds doorgaan met instellen zonder deze app</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Kan apparaatbeheer niet installeren. Dit account wordt verwijderd. Probeer het later opnieuw.</string>
+    <string name="auth_device_management_download_failed_title">Kan app niet downloaden</string>
+    <string name="auth_device_management_download_not_updated_message">Je kunt nog steeds doorgaan met instellen met de huidige versie</string>
+    <string name="auth_device_management_download_paused">Onderbroken</string>
+    <string name="auth_device_management_download_progress">Downloaden…</string>
+    <string name="auth_device_management_download_skip_message">Voor dit account is apparaatbeheer vereist. Doorgaan zonder beheer?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Voor het toevoegen van dit account is apparaatbeheer vereist. Wil je opnieuw beginnen met een ander account?</string>
+    <string name="auth_device_management_go_back">Terug</string>
+    <string name="auth_device_management_screenlock_description">Als je toegang tot je werkaccount wilt op dit apparaat, moet je een schermvergrendeling instellen. Dit is conform het beleid voor mobiele apparaten van je organisatie.</string>
+    <string name="auth_device_management_screenlock_skip_message">Voor dit account is beveiliging via schermvergrendeling vereist. Wil je opnieuw beginnen met een ander account?</string>
+    <string name="auth_device_management_start_description">Voor dit account is mobiel apparaatbeheer vereist. Wanneer je op Volgende tikt, kun je met de app ^1 het beveiligingsbeleid afdwingen dat is vereist voor het account.</string>
+    <string name="auth_device_management_start_description_kids">Als je het account wilt toevoegen aan dit apparaat, gebruik je <b>^1</b>". 
+
+Met ^1 kun je dit apparaat gemakkelijk instellen voor je kind."</string>
+    <string name="auth_device_management_title">Apparaatbeheer</string>
+    <string name="auth_device_management_update_description">Voor dit account is mobiel apparaatbeheer vereist. Je moet een nieuwere versie van de app ^1 installeren om te voldoen aan het beveiligingsbeleid dat is gekoppeld aan het account.</string>
+    <string name="auth_device_management_update_description_kids">Als je het account wilt toevoegen aan dit apparaat, installeer je eerst de nieuwste versie van <b>^1</b>". 
+
+Met ^1 kun je dit apparaat gemakkelijk instellen voor je kind."</string>
+    <string name="auth_dismiss_button_label">Sluiten</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> gebruikt geen Gmail.</string>
+    <string name="auth_error_account_disabled">"Dit account is uitgeschakeld. 
+
+(Ga voor informatie in een webbrowser naar http://google.com/accounts.)"</string>
+    <string name="auth_error_account_not_verified">"Dit account is niet geverifieerd. Raadpleeg je e-mail en volg de link om dit account te verifiëren. 
+
+(Je kunt je accountgegevens ophalen door naar http://www.google.com/accounts/recovery te gaan op je computer.)"</string>
+    <string name="auth_error_bad_password">Het wachtwoord is te zwak of bevat ongeldige tekens. Probeer het opnieuw.</string>
+    <string name="auth_error_bad_username">Ongeldige gebruikersnaam.</string>
+    <string name="auth_error_generic_server_error">"Er is een probleem opgetreden bij de communicatie met de servers van Google. 
+
+Probeer het later opnieuw."</string>
+    <string name="auth_error_invalid_second_factor">Gebruik een app-specifiek wachtwoord in plaats van het normale wachtwoord voor je account.</string>
+    <string name="auth_error_login_failed">"Je gebruikersnaam en wachtwoord komen niet overeen. Probeer het opnieuw.
+
+Als je je accountgegevens wilt herstellen, ga je naar google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Als je toegang wilt tot je account, moet je op internet inloggen. Tik op Volgende om het inloggen via de browser te starten.</string>
+    <string name="auth_error_no_network">"Je hebt geen netwerkverbinding. 
+
+DIt kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk."</string>
+    <string name="auth_error_not_logged_in">De gebruiker is niet ingelogd.</string>
+    <string name="auth_error_username_unavailable">Gebruikersnaam is niet beschikbaar.</string>
+    <string name="auth_existing_account_error_text">"Er is al een account '^1' ingesteld op dit Android-apparaat."</string>
+    <string name="auth_existing_account_error_title">Account bestaat al</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Kan niet inloggen bij het apparaat vanwege een recente wachtwoordwijziging. Probeer 24 uur na de wachtwoordwijziging opnieuw in te loggen.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">De apparaatbeveiliging werkt niet meer.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Als je het laatste Google-account op het apparaat uit je persoonlijke profiel verwijdert, worden de diefstalbeveiligingsfuncties van het apparaat uitgeschakeld. Je kunt later een ander account aan het apparaat toevoegen om ze opnieuw in te schakelen.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Weet je het zeker?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Account verplaatsen naar werkprofiel?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Kan niet inloggen bij het apparaat vanwege een onbekende fout. Gebruik een ander account of probeer na 24 uur opnieuw in te loggen.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Log in met een van de eigenaaraccounts voor dit apparaat</string>
+    <string name="auth_field_cant_be_blank">Veld mag niet leeg zijn.</string>
+    <string name="auth_frp_add_account_no">Nee</string>
+    <string name="auth_frp_add_account_prompt">^1 nu toevoegen aan je apparaat? Als je nog een account hebt, kun je dat later toevoegen.</string>
+    <string name="auth_frp_add_account_yes">Ja</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Dit account is niet toegankelijk. Zorg dat je apparaat aan het beveiligingsbeleid van je organisatie voldoet. Als je deze fout vaker ziet, neem je contact op met de beheerder van je organisatie.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Accountfout</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Voor je domein is mobiel apparaatbeheer vereist. Installeer de app 'Google Apps Device Policy' om het beveiligingsbeleid af te dwingen dat is vereist voor het account van  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Downloaden</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" mag alleen letters,
+cijfers en punten bevatten."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> bevat geen letters.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> bevat minder dan 6 of meer dan 30 tekens.</string>
+    <string name="auth_gls_is_not_available">De gebruikersnaam <b>^1</b> is niet beschikbaar.</string>
+    <string name="auth_gls_name_checking_info_title">Informatie controleren…</string>
+    <string name="auth_gls_sync_item_title">%s synchroniseren</string>
+    <string name="auth_gls_third_party_activity_download_message">" Het account  "<b>^1</b> moet worden toegevoegd aan een apparaat of werkprofiel dat wordt beheerd door je organisatie. Volg de instructies van je IT-beheerder om dit te voltooien.</string>
+    <string name="auth_google_title_logo">Google-logo</string>
+    <string name="auth_invalid_login_character">Ongeldig teken. Alleen 0-9, a-z, A-Z en punten zijn toegestaan.</string>
+    <string name="auth_invalid_password_character">Ongeldig teken in wachtwoord.</string>
+    <string name="auth_invalid_username">De getypte tekst is geen geldige gebruikersnaam.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Als je doorgaat, ga je ermee akkoord dat dit apparaat ook automatisch updates en apps van Google, je provider en de fabrikant van dit apparaat kan downloaden en installeren en dat hiervoor mogelijke mobiele data worden gebruikt. Sommige van deze apps kunnen in-app-aankopen aanbieden. Je kunt deze apps op elk gewenst moment verwijderen.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Maak ruimte vrij wanneer de apparaatopslag bijna vol is</b>" door wat gegevens (zoals foto's en video's waarvan een back-up is gemaakt) te verwijderen van dit apparaat."</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Maak automatisch een back-up van apparaatgegevens</b> (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden opgeslagen door apps) in de Google Drive van je kind.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Wanneer je de functie voor automatische back-ups inschakelt, worden apparaat- en app-gegevens periodiek opgeslagen in een privémap in de Google Drive van je kind. App-gegevens kunnen gegevens zijn die een app heeft opgeslagen (op basis van ontwikkelaarsinstellingen), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+Back-upgegevens tellen niet mee voor het Drive-opslagquotum van je kind. Er wordt geen back-up gemaakt van grote bestanden of bestanden die ontwikkelaars hebben uitgesloten van de service."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Maak automatisch een back-up van apparaatgegevens</b> (zoals wifi-wachtwoorden en sms- en oproepgeschiedenis), instellingen en app-gegevens (zoals instellingen en bestanden opgeslagen door apps) in de Google Drive van je kind.</string>
+    <string name="auth_kids_setup_wizard_services_description">Als ouder kun je deze services op elk gewenst moment in- of uitschakelen voor het account van je kind. De gegevens worden gebruikt in overeenstemming met het <annotation link="google_privacy">beleid</annotation>" van Google.
+
+Als je meer informatie wilt, kun je op elke service tikken."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Gebruik de locatieservice van Google</b> zodat apps de locatie van je kind kunnen bepalen. Wanneer dit apparaat is ingeschakeld, worden anonieme locatiegegevens naar Google verzonden.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"De locatieservice van Google gebruikt bronnen zoals wifi- en mobiele netwerken om de locatie van dit apparaat sneller en nauwkeuriger te schatten. Deze service is actief wanneer de instelling Locatie van dit apparaat is ingeschakeld en zich in een modus bevindt waarin mobiele of wifi-netwerken worden gebruikt om de locatie te schatten, zoals de modus 'Grote nauwkeurigheid' of 'Batterijbesparing' (Energiebesparing).
+
+Je kunt deze service als volgt uitschakelen:
+
+"<li>Schakel de hoofdinstelling Locatie op dit apparaat uit.</li>"
+
+"<li>"Laat de hoofdinstelling Locatie ingeschakeld en selecteer een modus die alleen gps gebruikt (soms 'Alleen apparaat' genoemd)."</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Help bij het verbeteren van de Android-functionaliteit</b> door automatisch diagnostische en gebruiksgegevens over dit apparaat en de apps naar Google te verzenden. Deze gegevens worden niet gebruikt om je kind te identificeren en helpen bij het verbeteren van de batterijduur, app-stabiliteit, netwerkverbindingen en meer.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Dit is algemene informatie over dit apparaat en hoe het wordt gebruikt (zoals batterijniveau, app-gebruik en netwerkverbindingen). De gegevens worden gebruikt om de producten en services van Google te verbeteren voor iedereen. Op basis van bepaalde gecombineerde gegevens kunnen partners (zoals Android-ontwikkelaars) hun apps en producten ook beter maken.
+
+Als je deze functie uitschakelt, is dit niet van invloed op de mogelijkheid van dit apparaat om benodigde informatie te verzenden voor essentiële services (zoals systeemupdates en beveiliging)."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Dit is algemene informatie over dit apparaat en hoe het wordt gebruikt (zoals accuniveau, app-gebruik en netwerkverbindingen). De gegevens worden gebruikt om de producten en services van Google te verbeteren voor iedereen. Op basis van bepaalde gecombineerde gegevens kunnen partners, zoals Android-ontwikkelaars, hun apps en producten ook beter maken.
+
+Als je deze functie uitschakelt, is dit niet van invloed op de mogelijkheid van dit apparaat om de benodigde informatie voor essentiële services (zoals systeemupdates en beveiliging) te verzenden.
+
+Je kunt deze functie beheren via Instellingen > Google. Selecteer 'Gebruik en diagnostische gegevens' in het menu."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Je hebt een onjuist wachtwoord getypt of je account is gewijzigd. Typ je wachtwoord opnieuw. Klik <annotation id="help_url">hier</annotation> als je je wachtwoord bent vergeten en je account wilt herstellen.</string>
+    <string name="auth_login_activity_task_title">Inloggen…</string>
+    <string name="auth_login_activity_title">Inloggen</string>
+    <string name="auth_login_task_title">Aanmelden</string>
+    <string name="auth_login_title">E-mailadres en wachtwoord typen</string>
+    <string name="auth_minutemaid_ssl_error">"Er kan geen verbinding worden gemaakt met  %s."</string>
+    <string name="auth_network_unreliable_help">Dit is mogelijk een tijdelijk probleem of je Android-apparaat is niet geschikt voor gegevensservices. Als het probleem zich blijft voordoen, kun je contact opnemen met de klantenservice.</string>
+    <string name="auth_next_button_label">Volgende</string>
+    <string name="auth_no_network">Er is geen netwerkverbinding.</string>
+    <string name="auth_no_network_help">Dit kan een tijdelijk probleem zijn. Het is ook mogelijk dat je Android-apparaat niet is ingesteld voor gegevensservices. Probeer het nogmaals als je verbinding heeft met een mobiel netwerk of met een wifi-netwerk.</string>
+    <string name="auth_no_network_help_wifi_only">Dit kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk.</string>
+    <string name="auth_otp_error">Er is een probleem opgetreden bij het genereren van de beveiligingscode.</string>
+    <string name="auth_otp_explained_paragraph">Als je je wachtwoord bent vergeten of als er iets anders is dan anders aan de manier waarop je inlogt, kan Google je om een beveiligingscode vragen om je account te beschermen. Gebruik deze code nu of kom later terug voor een nieuwe.</string>
+    <string name="auth_otp_header_message">Wanneer je deze code kunt gebruiken om in te loggen</string>
+    <string name="auth_otp_help">Help en feedback</string>
+    <string name="auth_otp_no_accounts_available_message">Er is geen account geconfigureerd op dit apparaat.</string>
+    <string name="auth_otp_progress_dialog_message">Er wordt een beveiligingscode gegenereerd.</string>
+    <string name="auth_password">Wachtwoord</string>
+    <string name="auth_plus_audience_selection_description_acl">DELEN MET</string>
+    <string name="auth_plus_failure_new_account_text">Je Google-account is gemaakt, maar je verzoek om een Google+ profiel te maken, is niet verwerkt. Probeer het later met een webbrowser opnieuw op plus.google.com.</string>
+    <string name="auth_plus_failure_text">Je verzoek om Google+ te gaan gebruiken, is niet verwerkt. Probeer het later opnieuw op plus.google.com via een webbrowser.</string>
+    <string name="auth_plus_failure_title">Later een Google+ profiel maken</string>
+    <string name="auth_plus_info_fragment_app_name">%s wil graag:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s op apparaat %s wil graag het volgende kunnen doen:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Je uitgebreide kringen</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Geselecteerde kringen</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Alleen jij</string>
+    <string name="auth_plus_scope_fragment_public_label">Iedereen op internet</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Je kringen</string>
+    <string name="auth_relogin_activity_title">Wachtwoord opnieuw typen</string>
+    <string name="auth_remove_account_start_over">Opnieuw beginnen</string>
+    <string name="auth_scope_more_details">Meer informatie</string>
+    <string name="auth_server_error">Er is een probleem opgetreden bij de communicatie met de Google-servers.</string>
+    <string name="auth_server_error_help">Probeer het later opnieuw.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Account toegevoegd</string>
+    <string name="auth_setup_wizard_account_added_description">Je account is toegevoegd. Ga verder om opties voor Google-services te selecteren.</string>
+    <string name="auth_setup_wizard_back_button_label">Terug</string>
+    <string name="auth_setup_wizard_next_button_label">Volgende</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-services</string>
+    <string name="auth_setup_wizard_services_agreement">Als je doorgaat, ga je ermee akkoord dat dit apparaat ook automatisch updates en apps van Google, je provider en de fabrikant van dit apparaat kan downloaden en installeren en dat hiervoor mogelijk mobiele data worden gebruikt. Sommige van deze apps kunnen in-app-aankopen aanbieden. Je kunt deze apps op elk gewenst moment verwijderen.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Als je apps wilt verwijderen, ga je naar Instellingen > Apps of App-beheer. Tik op de app die je wilt verwijderen (je moet mogelijk naar rechts of links vegen om de app te vinden). Tik vervolgens op Verwijderen of Uitschakelen.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Je geeft hierbij ook toestemming en verleent machtigingen aan vooraf geladen Google-apps om toegang te krijgen tot informatie en functies op je apparaat. Bekijk <annotation link="app_permissions">deze pagina</annotation> voor meer informatie over het gebruik van deze machtigingen.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Updates en apps installeren</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">"Wanneer de opslag van je telefoon bijna vol is, kun je ruimte vrijmaken door wat gegevens te verwijderen, zoals foto's en video's waarvan al een back-up is gemaakt."</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Wanneer je bent verbonden met internet, kun je nog steeds toegang krijgen tot deze gegevens. Je kunt deze functie beheren en bepalen welke items worden verwijderd via Instellingen > Opslag > Slimme opslag.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Ruimte vrijmaken</string>
+    <string name="auth_setup_wizard_services_backup">Gemakkelijk gegevens herstellen of een nieuwe telefoon in gebruik nemen. Back-ups omvatten apps, app-gegevens en apparaatinstellingen (waaronder wifi-wachtwoorden).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"App-gegevens kunnen alle gegevens omvatten die een app heeft opgeslagen (op basis van de instellingen van de ontwikkelaar), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+Back-upgegevens tellen niet mee voor je opslagquotum voor Drive.
+
+Je kunt deze service uitschakelen via Instellingen."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"App-gegevens kunnen gegevens omvatten die een app heeft opgeslagen (op basis van de instellingen van de ontwikkelaar), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+Foto's en video's van dit apparaat worden gesynchroniseerd met Google Foto's zodat je ze op elk apparaat kunt zoeken, bewerken, verwijderen en delen. Standaard worden foto's en video's met volledige resolutie geüpload.
+
+Back-upgegevens tellen niet mee voor je opslagquotum voor Drive.
+
+Je kunt deze service uitschakelen via Instellingen."</string>
+    <string name="auth_setup_wizard_services_backup_title">Back-up maken op Google Drive</string>
+    <string name="auth_setup_wizard_services_backup_v23">Gemakkelijk gegevens herstellen of een nieuwe telefoon in gebruik nemen. Back-ups omvatten apps, app-gegevens, oproepgeschiedenis, contacten en apparaatinstellingen (waaronder wifi-wachtwoorden en rechten).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Gemakkelijk gegevens herstellen of een nieuwe telefoon in gebruik nemen. Back-ups omvatten apps, app-gegevens, oproepgeschiedenis, contacten, apparaatinstellingen (waaronder wifi-wachtwoorden en rechten) en sms.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">"Gemakkelijk gegevens herstellen of een nieuwe telefoon in gebruik nemen. Back-ups omvatten apps, app-gegevens, oproepgeschiedenis, contacten, apparaatinstellingen (waaronder wifi-wachtwoorden en machtigingen), foto's, video's en sms. Foto's en video's worden gesynchroniseerd met je Google-account en kunnen worden gebruikt in verschillende services."</string>
+    <string name="auth_setup_wizard_services_description">Tik voor meer informatie over elke service, zoals hoe je de betreffende service later kunt in- of uitschakelen. Gegevens worden gebruikt op basis van het <annotation link="google_privacy">Privacybeleid</annotation> van Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"App-details (waaronder in-app-aankopen) zijn te vinden in de Play Store. App-gegevens en -instellingen worden gesynchroniseerd met apparaten waarop je bent ingelogd met je Google-account. 
+
+Het gebruik van instant-apps valt onder de "<a href="https://play.google.com/about/play-terms.html">Servicevoorwaarden van Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Meer informatie</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Wanneer je op een link tikt, controleert Google Play of er een instant-app beschikbaar is en voert deze zonder installatie uit. Instant-apps blijven slechts tijdelijk op je apparaat staan.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Apps gebruiken zonder installatie</string>
+    <string name="auth_setup_wizard_services_location_sharing">Gebruik de locatieservice van Google zodat apps je locatie kunnen bepalen. Wanneer je apparaat is ingeschakeld, worden anonieme locatiegegevens naar Google verzonden.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"De locatieservice van Google gebruikt bronnen zoals mobiele wifi-netwerken om de locatie van je apparaat sneller en nauwkeuriger te schatten. Deze service is actief wanneer de instelling Locatie van je apparaat is ingeschakeld en zich in een modus bevindt waarin mobiele of wifi-netwerken worden gebruikt om de locatie te schatten, zoals de modus 'Grote nauwkeurigheid' of 'Batterijbesparing' (Energiebesparing).
+
+Je kunt deze service op een van de volgende manieren uitschakelen:
+
+"<li>Schakel de hoofdinstelling Locatie op je apparaat uit.</li>"
+
+"<li>"Laat de hoofdinstelling Locatie ingeschakeld en selecteer een modus die alleen gps gebruikt (soms 'Alleen apparaat' genoemd)."</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Apps je locatie laten vaststellen</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Apps en services laten scannen naar wifi, ook als wifi is uitgeschakeld.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Je kunt dit uitschakelen in locatie-instellingen.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Nauwkeurigheid van locatie verbeteren</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Apps en services laten scannen naar wifi en Bluetooth, ook als deze instellingen zijn uitgeschakeld.</string>
+    <string name="auth_setup_wizard_services_play">Houd mij op de hoogte van nieuws en aanbiedingen van Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Back-up en opslag</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Apparaatonderhoud</string>
+    <string name="auth_setup_wizard_services_section_location">Locatie</string>
+    <string name="auth_setup_wizard_services_tos">Als je doorgaat, ga je ook akkoord met de <annotation link="tos">Servicevoorwaarden van Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Wanneer je dit apparaat gebruikt, houden we ons aan ons <annotation link="google_privacy">Privacybeleid</annotation> en zijn <annotation link="tos">aanvullende voorwaarden</annotation> van toepassing.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">"Verbeter je Android-functionaliteit door automatisch diagnostische en apparaatgebruiksgegevens naar Google te verzenden. Hierdoor worden batterijduur, app-stabiliteit, netwerkverbinding en meer verbeterd. Als je aanvullende 'Web- en app-activiteit' hebt ingeschakeld, wordt deze informatie opgeslagen in je account zodat je deze kunt beheren via 'Mijn activiteit'."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Dit is algemene informatie over je apparaat en hoe je het gebruikt (zoals batterijniveau, app-gebruik en netwerkverbindingen). De gegevens worden gebruikt om de producten en services van Google te verbeteren voor iedereen. Op basis van bepaalde gecombineerde gegevens kunnen partners (zoals Android-ontwikkelaars) hun apps en producten ook beter maken.
+
+Als je deze functie uitschakelt, is dit niet van invloed op de mogelijkheid van dit apparaat om benodigde informatie te verzenden voor essentiële services (zoals systeemupdates en beveiliging)."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">"Je kunt de instellingen voor 'Mijn activiteit' updaten op myactivity.google.com."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">"Je kunt deze functie beheren via Google Instellingen. Selecteer 'Gebruik en diagnostische gegevens' via het menu."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">"Je kunt deze functie beheren via Instellingen > Google. Selecteer 'Gebruik en diagnostische gegevens' via het menu."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Systeemgegevens verzenden</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Toestaan dat interactieve achtergronden van Google reageren op je locatie door middel van toegang tot de locatieservice van Google.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Je kunt toegang tot de locatieservice van Google in- of uitschakelen voor interactieve achtergronden. Ga hiervoor naar Instellingen > Apps en meldingen > App-info. Tik in het overloopmenu op Systeem weergeven > Interactieve achtergronden op basis van gegevens/Interactieve achtergronden van de aarde > Rechten.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Achtergronden je locatie laten gebruiken</string>
+    <string name="auth_setup_wizard_title">Installatiewizard</string>
+    <string name="auth_show_error_activity_title">Kan niet inloggen</string>
+    <string name="auth_show_error_title">Fout</string>
+    <string name="auth_sign_in_agreement">Als je je aanmeldt, geef je aan dat je het privacybeleid van <annotation id="google_privacy">Google</annotation> en de <annotation id="android_privacy">aanvullende</annotation> privacyrichtlijnen accepteert.</string>
+    <string name="auth_sign_in_browser">Inloggen bij browser</string>
+    <string name="auth_sign_in_button_label">Inloggen</string>
+    <string name="auth_sign_in_with_google_account_short">Log in met je Google-account:</string>
+    <string name="auth_skip_button_label">Overslaan</string>
+    <string name="auth_submission_error_text">Er is een fout opgetreden. Probeer het opnieuw.</string>
+    <string name="auth_submission_title">Helaas…</string>
+    <string name="auth_try_again_button_label">Opnieuw proberen</string>
+    <string name="auth_ui_activity_authenticating">Verifiëren…</string>
+    <string name="auth_ui_activity_title">Inloggen bij Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Inloggen</string>
+    <string name="auth_ui_add_account_title">Accountinstellingen</string>
+    <string name="auth_uncertified_notification_content">De fabrikant heeft dit apparaat niet gecertificeerd</string>
+    <string name="auth_uncertified_notification_description">"De fabrikant van dit apparaat gebruikt Google-apps zonder dat het apparaat gecertificeerd is voor Google. 
+
+Niet-gecertificeerde apparaten kunnen onveilig zijn en ontvangen mogelijk geen systeem- of app-updates. Apps en functies (zoals het maken van back-ups van bestanden of foto's) werken mogelijk niet correct. 
+
+Neem contact op met de fabrikant om dit probleem op te lossen. 
+
+Je kunt naar %s gaan voor meer informatie over door Google gecertificeerde partners."</string>
+    <string name="auth_uncertified_notification_learn_more">Meer informatie</string>
+    <string name="auth_uncertified_notification_title">Waarschuwing: Niet-gecertificeerd apparaat</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_work_authenticator_label">Beheerd account</string>
+    <string name="authorization_dialog">Autorisatiedialoogvenster</string>
+    <string name="auto_restore_summary">In een back-up opgeslagen instellingen of andere gegevens herstellen bij het opnieuw installeren van een app</string>
+    <string name="auto_restore_title">Automatisch terugzetten</string>
+    <string name="autofill_dataset_password">Wachtwoord gebruiken voor: <b>^1</b></string>
+    <string name="autofill_datatype_address">Adressen</string>
+    <string name="autofill_datatype_password">Opgeslagen wachtwoorden</string>
+    <string name="autofill_datatype_payment">Creditcards</string>
+    <string name="autofill_datatype_profile">Persoonlijke gegevens</string>
+    <string name="autofill_label">Automatisch aanvullen met Google</string>
+    <string name="autofill_optin_line1"><b>Tik om Google dit voor je te laten invullen</b></string>
+    <string name="autofill_optin_line2">"Met informatie die al is opgeslagen in de functie 'Automatisch aanvullen' van Chrome"</string>
+    <string name="autofill_setup_points">"• Google gebruikt wat er op je scherm staat om te bepalen wat automatisch kan worden ingevuld. 
+• Je kunt je gegevens voor 'Automatisch aanvullen' bekijken in 'Instellingen'."</string>
+    <string name="autofill_setup_summary">Met één tik kun je wachtwoorden, adressen, creditcards en andere gegevens invullen die zijn opgeslagen in je account.</string>
+    <string name="autofill_setup_summary_single_account">Met één tik kun je wachtwoorden, adressen, creditcards en andere gegevens invullen die zijn opgeslagen in je account (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">Er is momenteel geen account ingesteld voor het opslaan van back-upgegevens</string>
+    <string name="backup_configure_account_title">Back-upaccount</string>
+    <string name="backup_data_summary">Een back-up van apps-gegevens, wifi-wachtwoorden en andere instellingen maken op Google Drive</string>
+    <string name="backup_data_summary_full">"Automatisch op afstand een back-up maken van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden opgeslagen door apps).
+
+Als je de functie voor automatische back-ups inschakelt, worden apparaat- en app-gegevens periodiek op afstand opgeslagen. App-gegevens kunnen gegevens omvatten die een app heeft opgeslagen (op basis van de instellingen van de ontwikkelaar), waaronder potentieel gevoelige gegevens als contacten, berichten en foto's."</string>
+    <string name="backup_data_title">Back-up maken op Google Drive</string>
+    <string name="backup_erase_dialog_message">Weet je zeker dat je het maken van back-ups van je wifi-wachtwoorden, bladwijzers, andere instellingen en apps-gegevens wilt stoppen en alle kopieën in Google Drive wilt wissen?</string>
+    <string name="backup_erase_dialog_message_full">Wil je stoppen met het maken van back-ups van apparaatgegevens (zoals wifi-wachtwoorden en oproepgeschiedenis) en app-gegevens (zoals instellingen en bestanden die zijn opgeslagen door apps), en alle kopieën in Google Drive wissen?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">"Er is een fout opgetreden bij het openen van de instellingen van Google Foto's"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Wanneer je automatische back-up inschakelt, gebeurt het volgende:
+
+ ● Apparaatinstellingen en app-gegevens worden periodiek opgeslagen in een privémap op Google Drive. App-gegevens kunnen alle gegevens zijn die een app heeft opgeslagen (op basis van ontwikkelaarsinstellingen), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+ Er wordt geen back-up gemaakt van grote bestanden of bestanden die ontwikkelaars hebben uitgesloten van de service.
+
+ ● Foto's en video-opnamen op dit apparaat worden gesynchroniseerd met je Google Foto's-bibliotheek zodat je items kunt zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ Foto's en video's worden standaard geüpload met volledige resolutie. Deze foto's en video's tellen niet mee voor je opslagquotum voor Drive.
+
+ ● Contacten en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Contacten. Je kunt de Google Contacten-app gebruiken om contacten te zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ ● Agenda-afspraken en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Agenda. Je kunt de Google Agenda-app gebruiken om afspraken te zoeken, bewerken, delen en verwijderen vanaf elk van je apparaten.
+
+ Back-upgegevens tellen niet mee voor je Drive-opslagquotum."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Wanneer je automatische back-ups inschakelt, gebeurt het volgende:
+
+ ● Apparaatinstellingen en app-gegevens worden periodiek opgeslagen in een privémap op Google Drive. App-gegevens kunnen alle gegevens zijn die een app heeft opgeslagen (op basis van ontwikkelaarsinstellingen), waaronder potentieel gevoelige gegevens zoals contacten, berichten en foto's.
+
+ Er wordt geen back-up gemaakt van grote bestanden of bestanden die ontwikkelaars hebben uitgesloten van de service.
+
+ ● Contacten en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Contacten. Je kunt de Google Contacten-app gebruiken om contacten te zoeken, bewerken, verwijderen en delen vanaf elk van je apparaten.
+
+ ● Agenda-afspraken en de bijbehorende gegevens op dit apparaat worden gesynchroniseerd met Google Agenda. Je kunt de Google Agenda-app gebruiken om afspraken te zoeken, bewerken, delen en verwijderen vanaf elk van je apparaten.
+
+ Back-upgegevens tellen niet mee voor je Drive-opslagquotum."</string>
+    <string name="backup_opt_in_backup_description_extra">"Agenda's contacten, foto's en video's zijn gesynchroniseerd met je Google-account en kunnen worden gebruikt in verschillende services."</string>
+    <string name="backup_opt_in_backup_description_v2">Als je automatische back-ups instelt, kun je gemakkelijk je telefoon herstellen of overstappen naar een nieuwe telefoon. <annotation id="backup_opt_in_learn_more">Meer informatie</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Hiermee wordt de back-up uitgeschakeld voor:
+
+Apps en app-gegevens
+Oproepgeschiedenis
+Apparaatinstellingen
+Foto's en video's
+Sms
+
+Je agenda en contacten worden nog steeds gesynchroniseerd met je Google-account. Wanneer de configuratie is voltooid, kun je de synchronisatie-instellingen wijzigen via "<annotation id="backup_opt_in_settings_instructions">Instellingen > Accounts > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Back-up uitschakelen?</string>
+    <string name="backup_opt_in_backup_list">"Apps en app-gegevens
+Agenda
+Oproepgeschiedenis
+Contacten
+Apparaatinstellingen (waaronder wifi-wachtwoorden)
+Foto's en video's
+Sms'jes"</string>
+    <string name="backup_opt_in_backup_list_header">Back-up bevat:</string>
+    <string name="backup_opt_in_backup_title">Back-up maken op Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Back-up uitschakelen</string>
+    <string name="backup_photos_update">"Update Google Foto's"</string>
+    <string name="backup_settings_activity_backup_title">Back-up</string>
+    <string name="backup_settings_activity_title">Back-up maken en resetten</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Niet kopiëren</string>
+    <string name="chrome_privacy_title">Privacykennisgeving van Chrome</string>
+    <string name="chrome_tos_title">Servicevoorwaarden Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Je bestaande wachtwoorden voor %1$s zijn versleuteld met je wachtwoordzin. Als je je wachtwoorden bent vergeten, stop je en stel je synchronisatie opnieuw in via &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Wachtwoordzin voor Chrome-synchronisatie</string>
+    <string name="chromesync_enter_passphrase_hint">Wachtwoordzin opgeven</string>
+    <string name="chromesync_entered_wrong_passphrase">Onjuiste wachtwoordzin</string>
+    <string name="chromesync_no_browser_found">Geen browser gevonden om deze link te openen</string>
+    <string name="close_button_label">Sluiten</string>
+    <string name="cloud_restore_app_picker_button">Herstellen</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Je back-up bevat geen apps</string>
+    <string name="cloud_restore_app_picker_title">Kies apps om te herstellen</string>
+    <string name="common_accept">Accepteren</string>
+    <string name="common_account_chip_add_account_button_label">Een ander account gebruiken</string>
+    <string name="common_add_account_button_label">Account toevoegen</string>
+    <string name="common_add_account_label">Een account toevoegen</string>
+    <string name="common_ads_settings_title">Advertenties</string>
+    <string name="common_agree">Akkoord</string>
+    <string name="common_app_name">Google Play-services</string>
+    <string name="common_asm_preferences_settings_title">Accountvoorkeuren</string>
+    <string name="common_asm_privacy_settings_title">Persoonlijke info en privacy</string>
+    <string name="common_asm_security_settings_title">Inloggen en beveiliging</string>
+    <string name="common_audience_edit_button_label">Bewerken</string>
+    <string name="common_cancel">Annuleren</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan niet worden gestart (toestemmingsfout).</string>
+    <string name="common_car_permission_desc">Toegang tot de autoservice.</string>
+    <string name="common_car_permission_label">Autoservice</string>
+    <string name="common_chips_label_empty_circles">Geen kringen</string>
+    <string name="common_chips_label_extended_circles">Uitgebreide kringen</string>
+    <string name="common_chips_label_only_you">Alleen jij</string>
+    <string name="common_chips_label_public">Openbaar</string>
+    <string name="common_chips_label_your_circles">Je kringen</string>
+    <string name="common_choose_account">Een account selecteren</string>
+    <string name="common_choose_account_for_app_label">Account kiezen voor %1$s</string>
+    <string name="common_choose_account_label">Een account kiezen</string>
+    <string name="common_clear_app_data_menu_item">App-gegevens wissen</string>
+    <string name="common_connected">Verbonden</string>
+    <string name="common_connected_apps_settings_title">Gekoppelde apps</string>
+    <string name="common_connecting">Verbinding maken…</string>
+    <string name="common_continue">Doorgaan</string>
+    <string name="common_disagree">Niet akkoord</string>
+    <string name="common_disconnect">Ontkoppelen</string>
+    <string name="common_done">Gereed</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Van:</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_started">Aan de slag</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Inschakelen</string>
+    <string name="common_google_play_services_enable_text">%1$s werkt niet, tenzij je Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_error_dialog_title">Fout</string>
+    <string name="common_google_play_services_install_button">Installeren</string>
+    <string name="common_google_play_services_install_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die je nog niet op je apparaat hebt.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ondervindt problemen met Google Play-services. Probeer het opnieuw.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die niet worden ondersteund op je apparaat.</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">%1$s kan niet worden uitgevoerd, tenzij je Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_play_services_updating_text">%1$s kan niet worden uitgevoerd zonder Google Play-services, die momenteel worden geüpdatet.</string>
+    <string name="common_google_play_services_updating_title">Google Play-services worden geüpdatet</string>
+    <string name="common_google_play_services_wear_update_text">Er is een nieuwe versie van Google Play-services vereist. De update wordt binnenkort automatisch uitgevoerd.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play-services geïnstalleerd met de verkeerde architectuur.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play-services zijn geïnstalleerd met een architectuur (%1$s) die afwijkt van de architectuur op je apparaat (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Verkeerde architectuur</string>
+    <string name="common_google_settings">Google Instellingen</string>
+    <string name="common_google_settings_account">Account</string>
+    <string name="common_google_settings_credentials_title">Smart Lock voor wachtwoorden</string>
+    <string name="common_google_settings_developer">Ontwikkelaar</string>
+    <string name="common_google_settings_services">Services</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Installeren</string>
+    <string name="common_learn_more">Meer informatie</string>
+    <string name="common_list_apps_menu_help">Help</string>
+    <string name="common_list_apps_menu_help_and_feedback">Help en feedback</string>
+    <string name="common_loading">Laden…</string>
+    <string name="common_location_settings_title">Locatie</string>
+    <string name="common_magictether_settings_title">Instant-tethering</string>
+    <string name="common_maps_settings_title">Maps en Latitude</string>
+    <string name="common_mdm_feature_name">Android Apparaatbeheer</string>
+    <string name="common_missing_url_viewer">Er is geen viewer voor het weergeven van een externe URL.</string>
+    <string name="common_more_options">Meer opties</string>
+    <string name="common_networking_settings_title">Netwerken</string>
+    <string name="common_no_browser_for_restricted_url">Beperkte toegang. Er is geen browser gevonden.</string>
+    <string name="common_no_devices_found">Geen apparaten gevonden</string>
+    <string name="common_no_network">Niet beschikbaar omdat het apparaat offline is</string>
+    <string name="common_no_thanks">Nee, bedankt</string>
+    <string name="common_not_now">Niet nu</string>
+    <string name="common_off">Uit</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Aan</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_open_source_licenses">Open-sourcelicenties</string>
+    <string name="common_people_settings_title">Contacten</string>
+    <string name="common_permissions_enable_in_settings">Inschakelen in Instellingen</string>
+    <string name="common_permissions_missing_end">Als je wilt doorgaan, open je Instellingen en vervolgens Rechten en sta je alle vermelde items toe.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Als je dit wilt inschakelen, ga je naar
+Instellingen >
+Rechten >
+Google Play-services"</string>
+    <string name="common_permissions_missing_start">Deze app werkt niet correct, tenzij je Google Play-services toegang geeft tot het volgende:</string>
+    <string name="common_permissions_open_settings">Instellingen openen</string>
+    <string name="common_phone">Telefoon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Privacybeleid</string>
+    <string name="common_restore">Herstellen</string>
+    <string name="common_restricted_no_accounts">Er zijn geen accounts om te selecteren</string>
+    <string name="common_retry">Opnieuw proberen</string>
+    <string name="common_search_settings_title">Zoeken</string>
+    <string name="common_security_ootp_setting_title">Beveiligingscode</string>
+    <string name="common_security_settings_title">Beveiliging</string>
+    <string name="common_send">Verzenden</string>
+    <string name="common_sending">Verzenden...</string>
+    <string name="common_set_up_nearby_device_settings_title">Een apparaat in de buurt instellen</string>
+    <string name="common_settings">Instellingen</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="common_something_went_wrong">Er is iets misgegaan</string>
+    <string name="common_system_info">Systeeminformatie</string>
+    <string name="common_take_photo_label">Foto maken</string>
+    <string name="common_terms_of_service">Servicevoorwaarden</string>
+    <string name="common_try_again">Opnieuw proberen</string>
+    <string name="common_turn_on_bluetooth">Bluetooth inschakelen</string>
+    <string name="common_ui_confirm_deleting_button">Verwijderen</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ik begrijp dit en wil wissen</string>
+    <string name="common_unknown">Onbekend</string>
+    <string name="common_update">Updaten</string>
+    <string name="common_url_load_unsuccessful_message">Je Android-apparaat heeft geen verbinding met een gegevensservice. Als je deze gegevens nu wilt bekijken, ga je via een webbrowser naar %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Je Android-apparaat is niet verbonden met een wifi-netwerk. Als je deze informatie nu wilt bekijken, ga je in een webbrowser naar %s.</string>
+    <string name="common_url_login_notice">Inloggen als %1$s</string>
+    <string name="common_usage_and_diagnostics">Gebruik en diagnostische gegevens</string>
+    <string name="common_yesterday">Gisteren</string>
+    <string name="confirm_copy_button_text">Kopiëren</string>
+    <string name="contacts_number_device_and_icloud">%1$d in iCloud®, %2$d op apparaat</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacten, %1$d in iCloud®, %2$d op apparaat</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacten, %1$d op simkaart, %2$d op apparaat</string>
+    <string name="contacts_number_device_with_google">Google Contacten, %1$d op apparaat</string>
+    <string name="contacts_number_icloud_with_google">Google Contacten, %1$d in iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacten, %1$d op simkaart</string>
+    <string name="continue_to_login_heading">Log nu in.</string>
+    <string name="continue_to_login_text">Inloggegevens verleend. Log in op je eerste apparaat.</string>
+    <string name="copy_confirmation_description">Je kopieert gegevens, zoals je Google-account en apps, naar je nieuwe telefoon</string>
+    <string name="copy_confirmation_title">Kopiëren naar je nieuwe telefoon?</string>
+    <string name="d2d_app_picker_description_no_apps">We kunnen geen apps vinden</string>
+    <string name="d2d_app_picker_title">Apps</string>
+    <string name="d2d_migration_canceled_on_source">Kopiëren geannuleerd</string>
+    <string name="data_copied_fragment_description">Je gegevens zijn gekopieerd naar je nieuwe telefoon. Je kunt de kabel loskoppelen.</string>
+    <string name="data_copied_fragment_description_cancel">Je hebt ervoor gekozen het kopiëren stop te zetten. Daarom is slechts een deel van je gegevens gekopieerd naar je nieuwe telefoon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Je hebt ervoor gekozen het kopiëren stop te zetten. Daarom is er niets gekopieerd naar je nieuwe telefoon.</string>
+    <string name="data_copied_fragment_description_error">Er is iets misgegaan, dus we hebben niet alles kunnen kopiëren.</string>
+    <string name="data_copied_fragment_description_error_no_data">Er is iets misgegaan. We kunnen je gegevens daarom niet kopiëren.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiëren mislukt</string>
+    <string name="data_copied_fragment_some_data_title">Sommige gegevens gekopieerd</string>
+    <string name="data_copied_fragment_title">Gegevens gekopieerd</string>
+    <string name="device_backup_title">Back-up van apparaat maken</string>
+    <string name="device_not_supported_fragment_new_device">Je bent verbonden met een nieuwe telefoon. Maak opnieuw verbinding met je vorige telefoon om door te gaan.</string>
+    <string name="device_not_supported_fragment_new_device_title">Verbinding maken met de vorige telefoon</string>
+    <string name="device_not_supported_fragment_no_data_cable">Met deze kabel kunnen geen gegevens worden overgezet. Sluit het apparaat aan met een andere kabel en probeer het opnieuw.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Probeer een andere kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Zorg dat je oude telefoon is ontgrendeld, haal de kabel los en sluit deze weer aan</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Er is iets misgegaan</string>
+    <string name="device_not_supported_ios_supervised_description">Omdat je iPhone®-apparaat onder beheer staat, kun je je gegevens alleen met een andere methode kopiëren</string>
+    <string name="device_picker_description">Back-ups worden opgeslagen in Google Drive</string>
+    <string name="device_picker_empty">Geen back-ups gelinkt aan %1$s.</string>
+    <string name="device_picker_empty_title">Geen back-ups gevonden</string>
+    <string name="device_picker_item">Back-up van %1$s</string>
+    <string name="device_picker_last_used">Laatst gebruikt: ^1</string>
+    <string name="device_picker_skip">Niet terugzetten</string>
+    <string name="device_picker_title">Een back-up kiezen om te herstellen</string>
+    <string name="disabled_by_admin_summary_text">Ingesteld door beheerder</string>
+    <string name="download_msg_error_invalid">De download is onjuist geconfigureerd.</string>
+    <string name="download_msg_in_progress">De download wordt uitgevoerd.</string>
+    <string name="download_msg_not_allowed_space">Er is onvoldoende ruimte om de download uit te voeren.</string>
+    <string name="download_msg_pending">De download is in behandeling.</string>
+    <string name="download_notification_description">%1$s heeft dit aangevraagd.</string>
+    <string name="download_notification_title">Meer gegevens ophalen</string>
+    <string name="drive_backup_account">Back-upaccount</string>
+    <string name="drive_backup_apps_in_backup">App-gegevens waarvan een back-up is gemaakt</string>
+    <string name="drive_backup_apps_last_backup">Laatste back-up</string>
+    <string name="drive_backup_apps_loading">Laden...</string>
+    <string name="drive_backup_apps_screen_title">App-gegevens</string>
+    <string name="drive_backup_content_apps_title">App-gegevens</string>
+    <string name="drive_backup_content_calendar_dialog_message">Afspraken die in Google Agenda zijn gemaakt, worden gesynchroniseerd op alle apparaten die zijn ingelogd op je Google-account.</string>
+    <string name="drive_backup_content_calendar_title">Google Agenda</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Back-ups omvatten datums en ontvangers van uitgevoerde en ontvangen oproepen.</string>
+    <string name="drive_backup_content_callhistory_title">Oproepgeschiedenis</string>
+    <string name="drive_backup_content_contacts_dialog_message">Contacten die in Google Contacten zijn gemaakt, worden gesynchroniseerd op alle apparaten die zijn ingelogd op je Google-account.</string>
+    <string name="drive_backup_content_contacts_title">Google Contacten</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Back-ups omvatten apparaatconfiguratiegegevens zoals achtergrond, wifi-wachtwoorden en standaard-apps.</string>
+    <string name="drive_backup_content_devicesettings_title">Apparaatinstellingen</string>
+    <string name="drive_backup_content_header">Content</string>
+    <string name="drive_backup_content_photos_dialog_message">"Je primaire back-upaccount is gewijzigd. Je kunt het back-upaccount voor Google Foto's ook wijzigen in %s."</string>
+    <string name="drive_backup_content_photos_dialog_no">AFWIJZEN</string>
+    <string name="drive_backup_content_photos_dialog_title">"Wil je het account voor foto's en video's ook wijzigen?"</string>
+    <string name="drive_backup_content_photos_dialog_yes">WIJZIGEN</string>
+    <string name="drive_backup_content_photos_title">"Foto's en video's"</string>
+    <string name="drive_backup_content_sms_dialog_message">Back-ups omvatten verzonden en ontvangen berichten. Dit omvat geen mms-media.</string>
+    <string name="drive_backup_content_sms_title">Sms</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Fout bij het ophalen van laatste datum van synchronisatie</string>
+    <string name="drive_backup_content_status_lastsaved">Laatste back-up: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Laatste synchronisatie: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Wachten op back-up</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synchronisatie-instellingen</string>
+    <string name="drive_backup_content_status_sync_off">Synchroniseren uitgeschakeld</string>
+    <string name="drive_backup_content_status_updating">Status controleren…</string>
+    <string name="drive_backup_disabled_backuplist">"De back-up is inclusiefde volgende gegevens:
+\u0009- Apps en app-gegevens
+\u0009- Oproepgeschiedenis
+\u0009- Apparaatinstellingen (inclusief wifi-wachtwoorden)
+\u0009- Google Agenda
+\u0009- Google Contacten
+\u0009- Foto's en video's
+\u0009- Sms"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"De back-up is inclusief de volgende gegevens:
+\u0009- Apps en app-gegevens
+\u0009- Oproepgeschiedenis
+\u0009- Apparaatinstellingen (inclusief wifi-wachtwoorden)
+\u0009- Google Agenda
+\u0009- Google Contacten
+\u0009- Sms"</string>
+    <string name="drive_backup_disabled_by_device_owner">Uitgeschakeld door je beheerder</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Agenda, Google Contacten, foto's en video's worden gesynchroniseerd met je Google-account en worden mogelijk voor andere services gebruikt.
+
+Synchronisatie is mogelijk ingeschakeld, zelfs als back-ups zijn uitgeschakeld. Je kunt de synchronisatie-instellingen wijzigen via Instellingen > Accounts > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Agenda en Google Contacten worden gesynchroniseerd met je Google-account en kunnen in verschillende services worden gebruikt.
+
+Synchronisatie kan ook zijn ingeschakeld als back-ups zijn uitgeschakeld. Je kunt de synchronisatie-instellingen wijzigen via > Accounts > Google."</string>
+    <string name="drive_backup_disabled_introduction">Als je automatische back-ups instelt, kun je gemakkelijk je telefoon herstellen of overstappen naar een nieuw apparaat.</string>
+    <string name="drive_backup_settings_title">Back-up maken</string>
+    <string name="drive_backup_state">Back-up maken op Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"De back-upgegevens van dit apparaat op Google Drive worden definitief verwijderd.
+
+Foto's en video's waarvan al een back-up is gemaakt, zijn nog steeds beschikbaar via Google Drive.
+
+Google Agenda en Google Contacten worden nog steeds gesynchroniseerd met je Google-account. Je kunt de synchronisatie-instellingen wijzigen via Instellingen > Accounts > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"De back-upgegevens van dit apparaat in Google Drive worden definitief verwijderd.
+
+Google Agenda en Google Contacten worden nog steeds gesynchroniseerd met je Google-account. Je kunt de synchronisatie-instellingen wijzigen via > Accounts > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Uitschakelen en verwijderen</string>
+    <string name="drive_backup_state_dialog_title">Back-up uitschakelen en verwijderen?</string>
+    <string name="durationDayHour">%1$d dag %2$d uur</string>
+    <string name="durationDayHours">%1$d dag %2$d uur</string>
+    <string name="durationDays">%1$d dagen</string>
+    <string name="durationHourMinute">%1$d uur %2$d min</string>
+    <string name="durationHourMinutes">%1$d uur %2$d min</string>
+    <string name="durationHours">%1$d uur</string>
+    <string name="durationMinute">%1$d minuut</string>
+    <string name="durationMinuteSecond">%1$d min %2$d sec</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d sec</string>
+    <string name="durationMinutes">%1$d minuten</string>
+    <string name="durationSecond">%1$d seconde</string>
+    <string name="durationSeconds">%1$d seconden</string>
+    <string name="encryption_warning_fragment_description">"Back-upversleuteling is ingeschakeld voor je iPhone®. Als je de functie niet zelf hebt ingeschakeld, is deze mogelijk ingeschakeld door je IT-beheerder.
+
+Alleen foto's, muziek en video's kunnen worden gekopieerd. Ga naar "<b>g.co/datatransferhelp</b> voor meer informatie.</string>
+    <string name="encryption_warning_fragment_title">Back-upversleuteling</string>
+    <string name="fido_begin_button">BEGINNEN</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth-apparaat gevonden</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Druk de knop op je sleutel ten minste vijf seconden in om te zorgen dat de koppelingsmodus is geactiveerd</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">OK</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Er is iets misgegaan</string>
+    <string name="fido_ble_dont_see_your_key_hint">Zie je je sleutel niet?</string>
+    <string name="fido_ble_enable_body">Je beveiligingssleutel werkt alleen wanneer de Bluetooth-functie van je apparaat is ingeschakeld</string>
+    <string name="fido_ble_enable_title">Bluetooth inschakelen</string>
+    <string name="fido_ble_enable_turn_on_button">INSCHAKELEN</string>
+    <string name="fido_ble_instructions_body">De meeste beveiligingssleutels hebben een knop waarop je kunt tikken om ze te gebruiken</string>
+    <string name="fido_ble_instructions_title">Gebruik van je beveiligingssleutel toestaan?</string>
+    <string name="fido_ble_locate_pin_body">De koppelingspincode is meestal een getal van vier of zes cijfers dat mogelijk op de achterkant van je sleutel staat. Voer de gevonden pincode in.</string>
+    <string name="fido_ble_locate_pin_continue_button">DOORGAAN</string>
+    <string name="fido_ble_locate_pin_title">Zoek de koppelingspincode voor Bluetooth van je sleutel %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Je beveiligingssleutel koppelen…</string>
+    <string name="fido_ble_pair_instructions_body">Koppel je sleutel aan dit apparaat zodat je deze kunt gebruiken met je account</string>
+    <string name="fido_ble_pair_instructions_title">Klaar om je beveiligingssleutel te koppelen?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Schakel de koppelingsmodus op je sleutel opnieuw in</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">OPNIEUW PROBEREN</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Er is iets misgegaan</string>
+    <string name="fido_ble_pairing_mode_body">Druk de knop op je beveiligingssleutel ten minste vijf seconden in</string>
+    <string name="fido_ble_pairing_mode_title">De koppelingsmodus activeren</string>
+    <string name="fido_ble_select_device_body">Selecteer in de onderstaande lijst de beveiligingssleutel die je aan je apparaat wilt koppelen. De naam staat mogelijk op de achterkant van de sleutel.</string>
+    <string name="fido_ble_select_device_title">Selecteer je beveiligingssleutel</string>
+    <string name="fido_cancel_button">Annuleren</string>
+    <string name="fido_nfc_enable_body">Je beveiligingssleutel werkt alleen wanneer de NFC-functie van je apparaat is ingeschakeld</string>
+    <string name="fido_nfc_enable_title">NFC inschakelen</string>
+    <string name="fido_nfc_enable_turn_on_button">INSCHAKELEN</string>
+    <string name="fido_nfc_instructions_body">Houd je sleutel plat tegen de achterkant van je apparaat totdat het niet meer trilt</string>
+    <string name="fido_nfc_instructions_title">Gebruik van je beveiligingssleutel toestaan?</string>
+    <string name="fido_pair_another_security_key">Een andere beveiligingssleutel koppelen</string>
+    <string name="fido_processing">Je beveiligingssleutel verifiëren…</string>
+    <string name="fido_transport_selection_bluetooth">Beveiligingssleutel gebruiken met Bluetooth</string>
+    <string name="fido_transport_selection_body">Beveiligingssleutels werken met Bluetooth en NFC. Kies hoe je je sleutel wilt gebruiken.</string>
+    <string name="fido_transport_selection_nfc">Beveiligingssleutel gebruiken met NFC</string>
+    <string name="fido_transport_selection_title">Kies hoe je je beveiligingssleutel wilt gebruiken</string>
+    <string name="fido_use_ble_instead">Je beveiligingssleutel gebruiken met Bluetooth</string>
+    <string name="fido_use_nfc_instead">Je beveiligingssleutel gebruiken met NFC</string>
+    <string name="fido_welcome_body">Als je je beveiligingssleutel gebruikt met %1$s, kun je je privégegevens beter beschermen.</string>
+    <string name="fido_welcome_title">Je beveiligingssleutel gebruiken met %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ik kan de adapter niet vinden</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Zoek de Quick Switch Adapter die bij je ^1 is geleverd.
+
+Sluit de kabel aan op de adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Sluit de adapter en kabel aan</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Ontgrendel je oude telefoon en sluit de adapter vervolgens aan op deze nieuwe telefoon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Sluit beide telefoons op elkaar aan</string>
+    <string name="fragment_usb_dialog_cancel_description">Je kunt de meeste content overzetten als je een kabel gebruikt. Als de kabel in de doos niet past, gebruik je een oplaad- of gegevenskabel die geschikt is voor je oude telefoon.</string>
+    <string name="fragment_usb_dialog_cancel_title">Gegevens op een andere manier kopiëren?</string>
+    <string name="fragment_usb_dont_have_cable">Ik heb geen kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Ik heb mijn oude telefoon niet</string>
+    <string name="fragment_usb_find_cable_description">Gebruik een kabel die geschikt is voor je oude telefoon, zoals je gegevens- of oplaadkabel.</string>
+    <string name="fragment_usb_find_cable_title">Zoek de juiste kabel</string>
+    <string name="fragment_usb_initial_description">Zet gegevens van je oude telefoon over naar deze ^1.</string>
+    <string name="fragment_usb_initial_title">Laten we je gegevens gaan kopiëren</string>
+    <string name="fragment_usb_legacy_description">"Dit is de snelste manier om de meeste gegevens over te zetten.
+
+Zoek de adapter in de doos en sluit deze aan op je nieuwe telefoon. Sluit de telefoons met een kabel op elkaar aan en ontgrendel je oude telefoon."</string>
+    <string name="fragment_usb_other_ways">Kopiëren zonder kabel</string>
+    <string name="fragment_usb_plug_cable">Sluit de kabel aan op je oude telefoon</string>
+    <string name="fragment_waiting_title">Een ogenblik geduld…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">App-machtigingen</string>
+    <string name="google_contacts_static_text">Google Contacten worden gesynchroniseerd</string>
+    <string name="google_contacts_static_text_off">Google Contacten wordt nog steeds gesynchroniseerd</string>
+    <string name="google_legal_title">Juridische informatie van Google</string>
+    <string name="google_play_tos_title">Servicevoorwaarden van Google Play</string>
+    <string name="google_plus_privacy_policy_title">Privacybeleid van Google Plus</string>
+    <string name="google_privacy_policy_title">Privacybeleid van Google</string>
+    <string name="google_terms_of_service_title">Servicevoorwaarden van Google</string>
+    <string name="header_set_backup_account">Back-upaccount instellen</string>
+    <string name="i_message_dialog_message">"Als je sms'jes van iPhone®-gebruikers wilt blijven ontvangen, moet je iMessage® uitschakelen.
+
+Ga naar "<b>g.co/iMessageHelp</b> voor instructies.</string>
+    <string name="instant_apps_settings_title">instant-apps</string>
+    <string name="instructions_fragment_title">Ga verder op je andere telefoon</string>
+    <string name="ios_connected_fragment_description">"Op het volgende scherm kun je inloggen op je Google-account of een nieuw account maken.
+
+Als je geen Google-account toevoegt, worden je afspraken uit iOS Calendar® niet overgezet."</string>
+    <string name="ios_message_attachment_explanation">"[Je berichtbijlagen bevinden zich in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachment_failed_explanation">"[Sommige bijlagen kunnen niet worden gekopieerd. Je kunt bijlagen die wel zijn overgezet, vinden in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachment_placeholder">"[Bijlage opgeslagen in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_message_attachments_placeholder">"[Bijlagen opgeslagen in Google Foto's > Apparaatmappen > Berichtbijlagen]"</string>
+    <string name="ios_migration_default_calendar_title">Agenda</string>
+    <string name="ios_migration_other_contact_relation">Anders</string>
+    <string name="ios_photos_dialog_message">"Foto's die zijn opgeslagen in iCloud®, kunnen niet worden gekopieerd.
+
+Als je deze foto's wilt overzetten naar je ^1, installeer je de Google Foto's-app op je iPhone® en schakel je 'Back-up en synchronisatie' in. Ga naar "<b>g.co/datatransferhelp</b> voor meer instructies.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Account toevoegen</string>
+    <string name="lockscreen_smartdevice_action_next">Volgende</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Ontgrendel het apparaat om door te gaan met de configuratie</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Uit veiligheidsoverwegingen moet je je schermvergrendeling bevestigen om door te gaan met de configuratie</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Je schermvergrendeling bevestigen</string>
+    <string name="manage_data_label">Google-account</string>
+    <string name="master_clear_title">Terugzetten op fabrieksinstellingen</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Netwerkaanbevelingen</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Wifi-berichten</string>
+    <string name="notification_channel_network_available">Netwerk beschikbaar</string>
+    <string name="notification_channel_wakeup_name">Wifi ingeschakeld</string>
+    <string name="notification_content_text_set_backup_account">Het back-upaccount moet worden ingesteld</string>
+    <string name="notification_content_title_set_backup_account">Back-up</string>
+    <string name="notification_ticker">Toegang aangevraagd</string>
+    <string name="notification_ticker_set_backup_account">Back-upaccount nodig</string>
+    <string name="open_in_web_button">Openen in browser</string>
+    <string name="open_source_activity_prompt_heading">App openen</string>
+    <string name="open_source_activity_prompt_text">"Open SourceResponseActivity op je telefoon om het verificatieproces te voltooien. "</string>
+    <string name="opt_in_account_content_description">Account selecteren. Momenteel geselecteerd: %1$s</string>
+    <string name="opt_in_account_null_state">Een account maken</string>
+    <string name="opt_in_agreement">Als je doorgaat, ga je akkoord met de <a href="https://play.google.com/about/play-terms.html">Servicevoorwaarden van Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Meer informatie</a></string>
+    <string name="opt_in_confirm">Ja, inschakelen</string>
+    <string name="opt_in_description">"Wanneer je op een link tikt, controleert Google Play of er een instant-app beschikbaar is en voert deze zonder installatie uit. Instant-apps blijven slechts tijdelijk op je apparaat staan.
+
+Instant-apps vragen om de benodigde rechten wanneer je ze gebruikt. App-details (waaronder in-app-aankopen) zijn te vinden in de Google Play Store. App-gegevens en -instellingen worden gesynchroniseerd met apparaten waarop je bent ingelogd met:"</string>
+    <string name="opt_in_description_m_plus">"Wanneer je op een link tikt, controleert Google Play of er een instant-app beschikbaar is en voert deze zonder installatie uit. Instant-apps blijven slechts tijdelijk op je apparaat staan.
+
+App-details (waaronder in-app-aankopen) zijn te vinden in de Google Play Store. App-gegevens en -instellingen worden gesynchroniseerd met apparaten waarop je bent ingelogd met:"</string>
+    <string name="opt_in_subtitle">Apps gebruiken zonder installatie</string>
+    <string name="opt_in_title">instant-apps</string>
+    <string name="permgrouplab_calendar">Agenda</string>
+    <string name="permgrouplab_camera">Camera</string>
+    <string name="permgrouplab_contacts">Contacten</string>
+    <string name="permgrouplab_location">Locatie</string>
+    <string name="permgrouplab_microphone">Microfoon</string>
+    <string name="permgrouplab_phone">Telefoon</string>
+    <string name="permgrouplab_sensors">Lichaamssensoren</string>
+    <string name="permgrouplab_sms">Sms</string>
+    <string name="permgrouplab_storage">Opslag</string>
+    <string name="permissions_not_granted_text">Log opnieuw in om rechten te verlenen.</string>
+    <string name="permissions_not_granted_title">Rechten niet verleend.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">"Er is momenteel geen account ingesteld voor het opslaan van back-ups van foto's"</string>
+    <string name="photos_backup_title">"Back-up van foto's maken"</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Geen</string>
+    <string name="plus_manage_app_only_you_label">Alleen jij</string>
+    <string name="plus_network_unreliable">Kan geen betrouwbare verbinding met de server tot stand brengen.</string>
+    <string name="plus_oob_interstitial_loading_text">Dit kan enkele minuten duren.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Gekopieerde contacten worden opgeslagen in je Google-account.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">"Gekopieerde contacten en agenda's worden opgeslagen in je Google-account."</string>
+    <string name="restore_choice_data_disclaimer_v2">Sommige van je gegevens worden mogelijk niet gekopieerd naar je ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Meer informatie</annotation></string>
+    <string name="restore_choice_deselect_some_content">Hef de selectie van bepaalde content op om door te gaan</string>
+    <string name="restore_choice_learn_more_android">"Sommige gegevens van je oude telefoon kunnen niet automatisch worden gekopieerd:
+
+ ● Downloads (zoals pdf-bestanden)
+
+ ● Foto's, video's en muziek die zijn opgeslagen in verborgen mappen
+
+ ● Foto's, video's en muziek die zijn ontvangen via sms'jes
+
+ ● Apps die niet afkomstig zijn uit de Google Play Store
+
+ ● App-gegevens (als de app de back-upservice van Android niet gebruikt))
+
+ ● Bepaalde apparaatinstellingen
+
+ ● Andere accounts dan Google-accounts (en bijbehorende gegevens)
+
+ ● Contacten en agenda's die zijn gesynchroniseerd met andere services van Google
+
+ ● Beltonen
+
+ Ga naar g.co/datatransferhelp voor meer informatie en hulp bij het kopiëren van sommige van deze gegevens."</string>
+    <string name="restore_choice_learn_more_ios">"Sommige gegevens van je oude telefoon kunnen niet automatisch worden gekopieerd:
+
+ ● Apps en app-gegevens
+
+ ● Foto's waarvan het origineel niet is opgeslagen op je telefoon (als de instelling voor het optimaliseren van de opslag bijvoorbeeld is ingeschakeld, worden originele foto's opgeslagen in iCloud®)
+
+ ● Bestanden en documenten die zijn opgeslagen in iCloud®
+
+ ● Apparaatinstellingen (zoals wifi-wachtwoorden en achtergronden)
+
+ ● Muziek die wordt beschermd met DRM-beveiliging (Digital Rights Management) (bijvoorbeeld iTunes®-muziek die vóór april 2009 is gekocht of muziek die is gedownload voor offline luisteren in een app voor het streamen van muziek)
+
+ ● Andere accounts dan Google-accounts (en bijbehorende gegevens)
+
+ ● Contacten en agenda's die zijn gesynchroniseerd met andere services dan Google of iCloud®
+
+ ● Bladwijzers uit Safari®
+
+ iMessage®-bijlagen zijn beschikbaar in Google Foto's > Apparaatmappen > Berichtbijlagen.
+
+ Ga naar g.co/datatransferhelp voor meer informatie en hulp bij het kopiëren van sommige van deze gegevens."</string>
+    <string name="restore_choice_not_enough_space">Onvoldoende ruimte</string>
+    <string name="restore_choice_total_text">van je beschikbare overdracht van %1$s/%2$s</string>
+    <string name="restore_error_message">Er is iets misgegaan bij het herstellen.</string>
+    <string name="restore_instant_apps_notif_text">%1$s (verplicht) is verwijderd van dit apparaat</string>
+    <string name="restore_instant_apps_notif_title">Instant-apps herstellen</string>
+    <string name="restore_item_appdata">App-gegevens</string>
+    <string name="restore_item_calendar">Agenda</string>
+    <string name="restore_item_calendar_ical_description">iOS® Agenda, Google Agenda</string>
+    <string name="restore_item_calendar_ical_off_description">Google Agenda wordt nog steeds gesynchroniseerd</string>
+    <string name="restore_item_calendar_sync_description">Google Agenda wordt gesynchroniseerd</string>
+    <string name="restore_item_call_logs">Oproepgeschiedenis</string>
+    <string name="restore_item_contacts">Contacten</string>
+    <string name="restore_item_device_settings_description">Wifi-wachtwoorden en meer</string>
+    <string name="restore_item_downloads">Downloads</string>
+    <string name="restore_item_email">E-mail</string>
+    <string name="restore_item_email_description">Gmail wordt gesynchroniseerd</string>
+    <string name="restore_item_message_attachments">Berichtbijlagen</string>
+    <string name="restore_item_messages">Berichten</string>
+    <string name="restore_item_music">Muziek</string>
+    <string name="restore_item_photos">"Foto's en video's"</string>
+    <string name="restore_item_settings">Apparaatinstellingen</string>
+    <string name="restore_item_sms">"Sms'jes"</string>
+    <string name="restore_item_will_be_synced_text">Deze gegevens worden gesynchroniseerd met je telefoon</string>
+    <string name="restore_progress_title">Herstellen…</string>
+    <string name="restore_supervisor_description">Herstel %1$s om links te openen in instant-apps</string>
+    <string name="restore_supervisor_success">Instant-apps hersteld</string>
+    <string name="restore_supervisor_title">Instant-apps herstellen?</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="setup_failure_description">Instellen van instant-apps is mislukt. <a href="https://support.google.com/googleplay/?p=instant_apps">Meer informatie</a></string>
+    <string name="setup_failure_title">Instellen mislukt</string>
+    <string name="sharedUserLabel">Google-services</string>
+    <string name="sid_lsid_grant_detail">Net zoals een wachtwoord koppelen SID- (Session Identification) en LSID-cookies (Local Session Identification) je identiteit aan een reeks verzoeken van een browser. Ze maken volledige toegang tot al je accountgegevens mogelijk. Alleen browsers maken legitiem gebruik van deze cookies.</string>
+    <string name="sid_lsid_grant_label">Gebruik SID- en LSID-cookies om toegang tot al je Google-accountgegevens te krijgen.</string>
+    <string name="small_time_duration">Minder dan één minuut</string>
+    <string name="smartdevice_action_copy">Kopiëren</string>
+    <string name="smartdevice_action_next">Volgende</string>
+    <string name="smartdevice_action_open_app">App openen</string>
+    <string name="smartdevice_action_skip">Overslaan</string>
+    <string name="smartdevice_action_try_another_way">Andere manier proberen</string>
+    <string name="smartdevice_action_turn_on_location">Locatie inschakelen</string>
+    <string name="smartdevice_alert_disconnected_message">"De verbinding tussen apparaten is verbroken.
+Als je wilt doorgaan met de installatie, herstel je de verbinding en begin je opnieuw."</string>
+    <string name="smartdevice_alert_disconnected_title">Verbinding met apparaat verbroken</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Je kunt deze functie niet gebruiken omdat je back-upaccount wordt beheerd door je apparaatbeheerder.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Functie niet beschikbaar</string>
+    <string name="smartdevice_alert_exit_setup_message">Weet je zeker dat je de installatie van je andere apparaat wilt stoppen?</string>
+    <string name="smartdevice_alert_exit_setup_title">Apparaatinstallatie stoppen?</string>
+    <string name="smartdevice_alert_generic_error_title">Er is iets misgegaan</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Er is iets misgegaan</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Als je je apparaat wilt instellen, heb je minimaal één Google-account nodig.</string>
+    <string name="smartdevice_alert_no_accounts_text">Als je je %s wilt instellen, heb je minimaal één Google-account nodig.</string>
+    <string name="smartdevice_alert_no_accounts_title">Geen accounts te kopiëren</string>
+    <string name="smartdevice_alert_quit_button">Stoppen</string>
+    <string name="smartdevice_alert_restart_setup_button">Configuratie opnieuw starten</string>
+    <string name="smartdevice_alert_setup_incomplete">Configuratie is niet voltooid</string>
+    <string name="smartdevice_alert_skip_button">Overslaan</string>
+    <string name="smartdevice_alert_start_over_button">Opnieuw beginnen</string>
+    <string name="smartdevice_alert_work_profile_message">Werkaccounts kunnen nog niet worden gekopieerd. Nadat je je andere Google-accounts en gegevens hebt gekopieerd, ga je op je nieuwe apparaat naar Instellingen om je werkaccount toe te voegen.</string>
+    <string name="smartdevice_alert_work_profile_title">Kan werkaccount niet kopiëren</string>
+    <string name="smartdevice_application_label">Apparaat instellen</string>
+    <string name="smartdevice_choose_device">Je apparaat kiezen</string>
+    <string name="smartdevice_companion_app_ready">De app %s is al geïnstalleerd op dit apparaat.</string>
+    <string name="smartdevice_connect_to_wifi">Verbinding maken met wifi</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Verbinding maken met je apparaat…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Je Google-accounts, andere accounts, apps en gegevens worden gekopieerd</string>
+    <string name="smartdevice_d2d_copy_account_text">De apps en gegevens voor je Google-accounts kopiëren naar je andere apparaat?</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopiëren naar apparaat?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Niet herkend</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Schermvergrendeling proberen</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Je moet om beveiligingsredenen je vingerafdruk bevestigen. Je Google-accounts, apps en gegevens worden gekopieerd naar je %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Ontgrendel het apparaat om door te gaan met het instellen</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Bevestig voor de veiligheid je schermvergrendeling om door te gaan met de installatie.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Bevestig om door te gaan</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Kan het andere apparaat niet instellen omdat Bluetooth niet beschikbaar is op je apparaat.</string>
+    <string name="smartdevice_d2d_source_disabled_text">"Uit veiligheidsoverwegingen is deze functie uitgeschakeld. Tik op je andere apparaat op 'Overslaan' en ga door met instellen."</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Nieuw apparaat instellen</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Apparaat instellen</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 instellen</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Start de configuratie opnieuw en kies je ^1 om ervoor te zorgen dat je je Google-accounts, apps en gegevens naar het juiste apparaat kopieert.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Zie je de code niet?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Zie je de code niet?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Kijk of je deze code op je andere apparaat ziet om te bevestigen dat je het juiste apparaat hebt gekozen</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Code verifiëren</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Kan geen nieuw apparaat instellen vanuit een beperkt gebruikersprofiel.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Voltooi de configuratie op je %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Bijna klaar!</string>
+    <string name="smartdevice_d2d_target_choice_description">Als je een ander Android-apparaat gebruikt, kun je je huidige configuratie gemakkelijk kopiëren naar deze %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Haal vrijwel alles terug uit je vorige apparaat als dit een Android-apparaat is.</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Instellen als nieuw apparaat</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopiëren vanaf een ander Android-apparaat</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Nee, bedankt</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, de stappen volgen om dit apparaat in te stellen</string>
+    <string name="smartdevice_d2d_target_choice_title">Nog een apparaat?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Kopieer je Google-accounts, apps en gegevens vanaf je andere apparaat</string>
+    <string name="smartdevice_d2d_target_continue_description">Ga door met de configuratie op je andere apparaat.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Accounts kopiëren…</string>
+    <string name="smartdevice_d2d_target_description">"Ga terug naar je andere apparaat:&lt;br/>&lt;br/> 1. Zeg &lt;b>'&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>'&lt;/b> of typ '&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>' en tik om te bevestigen&lt;br/>&lt;br/> 2. Tik op &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> in de lijst en volg de instructies op het scherm"</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Probeer dit eens</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Op je andere apparaat:&lt;br/>&lt;br/> 1. Open de app &lt;b>Google Instellingen&lt;/b>&lt;br/>&lt;br/> 2. Selecteer &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Een apparaat in de buurt instellen>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Tik op &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> in de lijst en volg de instructies op het scherm</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Deze stappen kunnen niet worden voltooid</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Gebruik Instellingen</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">"Op je andere apparaat:&lt;br/>&lt;br/> 1. Tik op het pictogram 'Alle apps' en open vervolgens de &lt;b>app Instellingen&lt;/b> &lt;br/>&lt;br/> 2. Tik op &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Selecteer &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Tik op &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> in de lijst en volg de instructies op het scherm"</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Kopiëren vanaf een ander Android-apparaat</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Problemen?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Kun je het niet vinden?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Open de Google-app op je andere apparaat</string>
+    <string name="smartdevice_d2d_target_instruction_description">Open de Google-app.</string>
+    <string name="smartdevice_d2d_target_instruction_title">Op je andere apparaat</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Om te kopiëren: 
+
+1. Zorg ervoor dat je apparaat ingeschakeld en ontgrendeld is 
+
+2. Plaats de apparaten tegen elkaar tot je een toon hoort en leg ze aan de kant"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">"Voor 'Tikken en gaan' wordt NFC gebruikt om je Google-accounts, apps en gegevens van je andere apparaat te kopiëren. Controleer in Instellingen of NFC is ingeschakeld op dat apparaat."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Lukt het niet?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Tikken en overzetten</string>
+    <string name="smartdevice_d2d_target_other_device_description">"De Google-app is al geïnstalleerd op alle Android-apparaten. Tik op de knop 'Alle apps' op je startscherm en zoek naar het bovenstaande pictogram."</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Deze code moet overeenkomen met de code op je andere apparaat:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Niet overslaan</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Tijdens het instellen worden dit account en apps en gegevens waarvan een back-up is gemaakt, niet gekopieerd naar dit apparaat.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Toch overslaan</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Dit account overslaan?</string>
+    <string name="smartdevice_d2d_target_title">In de Google-app</string>
+    <string name="smartdevice_default_device_name">apparaat</string>
+    <string name="smartdevice_install_app">De app installeren</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Installeer de %s-app om je nieuwe %s te beheren vanaf dit apparaat</string>
+    <string name="smartdevice_install_on_this_device">Installeren</string>
+    <string name="smartdevice_search_again">Opnieuw zoeken</string>
+    <string name="smartdevice_searching_for_devices">Zoeken naar apparaten</string>
+    <string name="smartdevice_setup_enter_code">Geef de code op je apparaat op. De code wordt weergegeven op een sticker.</string>
+    <string name="smartdevice_setup_enter_code_hint">Geef je code op</string>
+    <string name="smartdevice_setup_enter_pin_4">Geef de viercijferige code op die momenteel wordt weergegeven op je andere apparaat</string>
+    <string name="smartdevice_setup_google_app_trigger">Stel apparaat in</string>
+    <string name="smartdevice_setup_info_installing_app">De app installeren…</string>
+    <string name="smartdevice_setup_intro_text">Voor het instellen van je andere apparaat worden de Bluetooth- en wifi-verbinding van je telefoon gebruikt.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Voor het instellen van je andere apparaat wordt de Bluetooth-verbinding van je telefoon gebruikt.</string>
+    <string name="smartdevice_setup_intro_title">Aan de slag</string>
+    <string name="smartdevice_setup_password_hint">Geef het wifi-wachtwoord op</string>
+    <string name="smartdevice_setup_show_password">Wachtwoord weergeven</string>
+    <string name="smartdevice_setup_title_verify_code">Code verifiëren</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Dit apparaat kan alleen worden ingesteld met open netwerken en WPA/WPA2-netwerken</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Een wifi-netwerk kan niet worden gebruikt</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Zonder wifi werkt je apparaat mogelijk niet correct. Maak verbinding met een wifi-netwerk om door te gaan met instellen.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Een wifi-netwerk kiezen</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Schakel Locatie in om te zoeken naar wifi-netwerken.
+
+Je kunt dit later altijd wijzigen via de instellingen."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Kan niet zoeken naar wifi-netwerken</string>
+    <string name="source_connected_description">Voorbereiden...</string>
+    <string name="source_connected_title">Verbonden met je %1$s</string>
+    <string name="source_copying_description">De geselecteerde gegevens worden naar je nieuwe telefoon gekopieerd</string>
+    <string name="source_copying_title">Kopiëren...</string>
+    <string name="source_default_target_device_name">nieuw apparaat</string>
+    <string name="source_notification_device_disconnected">Sluit je kabel opnieuw aan</string>
+    <string name="source_notification_text">Overdracht van telefoon naar telefoon wordt uitgevoerd</string>
+    <string name="source_notification_title">Gegevensoverdracht</string>
+    <string name="source_success_description">Voltooi de configuratie op je %1$s.</string>
+    <string name="source_success_screen_title">Klaar!</string>
+    <string name="source_unplugged_description">Sluit de kabel opnieuw aan op je %1$s</string>
+    <string name="source_unplugged_title">Kabel losgekoppeld</string>
+    <string name="source_waiting_title">Ga verder met de installatie op je %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Sluiten</string>
+    <string name="stop_copying_dialog_message_before_transfer">Je gegevens zijn niet gekopieerd naar je nieuwe telefoon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Sommige van je gegevens zijn niet gekopieerd naar je nieuwe telefoon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Niet kopiëren</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Stoppen</string>
+    <string name="stop_copying_dialog_title_before_transfer">Niet kopiëren?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopiëren stoppen?</string>
+    <string name="storage_management_wear_descriptive_text">Apps gebruiken je apparaatopslag om gegevens te kopiëren naar een wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Opslag van wearable beheren</string>
+    <string name="storage_management_wear_size_label">Opslag van wearable</string>
+    <string name="storage_managment_all_storage_descriptive_text">Totale gegevens gebruikt door Google Play-services, inclusief de zoekmachine en andere gegevens.</string>
+    <string name="storage_managment_clear_all_data">Alle gegevens wissen</string>
+    <string name="storage_managment_computing_size">Berekenen…</string>
+    <string name="storage_managment_icing_size_label">Zoekgegevens</string>
+    <string name="storage_managment_manage_icing_button">Zoekgegevens beheren</string>
+    <string name="storage_managment_search_index_descriptive_text">We versnellen het zoeken op je apparaat door een zoekmachine te bieden die je apps kunnen gebruiken.</string>
+    <string name="storage_managment_title">Opslag voor Google Play-services</string>
+    <string name="storage_managment_total_size_label">Totale opslag</string>
+    <string name="supervisor_downloading_description">%1$s downloaden</string>
+    <string name="supervisor_downloading_title">Je apparaat wordt ingesteld. Even geduld...</string>
+    <string name="supervisor_installing_description">%1$s installeren</string>
+    <string name="supervisor_title">Google Play-services voor instant-apps</string>
+    <string name="suw_back_button_label">Terug</string>
+    <string name="suw_more_button_label">Meer</string>
+    <string name="suw_next_button_label">Volgende</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Tik voor meer informatie</string>
+    <string name="system_update_activity_battery_low_text">Te weinig acculading om update te installeren</string>
+    <string name="system_update_activity_name">Systeemupdates</string>
+    <string name="system_update_activity_roaming_text">Systeemupdates kunnen niet worden gedownload tijdens roaming.</string>
+    <string name="system_update_activity_roaming_text_glif">Kan niet downloaden tijdens roaming</string>
+    <string name="system_update_android_version_text">Android-versie: ^1</string>
+    <string name="system_update_check_now_button_text">Controleren op update</string>
+    <string name="system_update_checking_status_text">Betaalrekening</string>
+    <string name="system_update_complete_label">Systeemupdate</string>
+    <string name="system_update_countdown_cancel_button">Installatie annuleren</string>
+    <string name="system_update_countdown_complete">Nu opnieuw opstarten…</string>
+    <string name="system_update_download_and_install_button_text">Downloaden en installeren</string>
+    <string name="system_update_download_button_text">Downloaden</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Onvoldoende ruimte beschikbaar om te downloaden</string>
+    <string name="system_update_download_failed_no_space_status_text">Onvoldoende ruimte beschikbaar om te downloaden</string>
+    <string name="system_update_download_failed_status_text">Kan niet downloaden</string>
+    <string name="system_update_download_manage_storage_button_text">Opslagruimte beheren</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Wachten op wifi</string>
+    <string name="system_update_download_paused_title_text">Download onderbroken</string>
+    <string name="system_update_download_retry_button_text">Downloaden opnieuw proberen</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Het downloaden van de update wordt automatisch gestart tussen ^1 en ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Je kunt deze update op elk gewenst moment downloaden via wifi. Anders wordt het downloaden automatisch gestart tussen ^1 en ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Als je deze update wilt downloaden, schakel je eerst over naar je andere simkaart.</string>
+    <string name="system_update_download_waiting_status_text">Wachten op downloaden</string>
+    <string name="system_update_downloading_status_text">Downloaden</string>
+    <string name="system_update_downloading_title_text">Systeemupdate downloaden…</string>
+    <string name="system_update_downloading_wifi_status2_text">Uitsluitend via ^1 tot ^2</string>
+    <string name="system_update_file_browser_ok_button">Selecteren</string>
+    <string name="system_update_file_browser_title">Updatebestand selecteren</string>
+    <string name="system_update_free_up_space_button_text">Ruimte vrijmaken</string>
+    <string name="system_update_from_sd_card_button_and_title">Updaten vanaf SD-kaart</string>
+    <string name="system_update_from_sd_card_unknown_status">Controleren...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Kan niet verifiëren</string>
+    <string name="system_update_from_sd_card_verified_description">Update is geverifieerd en kan worden geïnstalleerd.</string>
+    <string name="system_update_from_sd_card_verifying_status">Verifiëren...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Gratis wifi-netwerk nodig</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Wifi aanbevolen</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Deze update kan tot ^2 worden gedownload, maar alleen via ^1.
+
+Als je wilt downloaden, maak je verbinding met ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Wifi-netwerk nodig</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Maak verbinding met een gratis wifi-netwerk om eventuele datakosten te voorkomen.</string>
+    <string name="system_update_install_button_text">Opnieuw opstarten en installeren</string>
+    <string name="system_update_install_failed_button_qualifier_text">Installatieprobleem</string>
+    <string name="system_update_install_failed_title_text">Kan niet updaten</string>
+    <string name="system_update_install_steps_text">Stap ^1 van 2</string>
+    <string name="system_update_installing_title_text">Systeemupdate installeren…</string>
+    <string name="system_update_last_checkin">Laatst gecontroleerd op updates ^1</string>
+    <string name="system_update_last_checkin_glif">Laatst gecontroleerd op updates ^1</string>
+    <string name="system_update_managed_by_policy">De update van de systeemsoftware voor dit apparaat wordt beheerd door je organisatie.</string>
+    <string name="system_update_no_update_content_text">Je systeem is bijgewerkt.</string>
+    <string name="system_update_no_update_content_text_glif">Je systeem is up-to-date</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Kan systeemupdate niet downloaden</string>
+    <string name="system_update_not_owner_text">Er is een update van de systeemsoftware beschikbaar, maar alleen de eigenaar kan deze installeren.</string>
+    <string name="system_update_notification_header_name">Systeemupdate voor Android</string>
+    <string name="system_update_pause_button_text">Download onderbreken</string>
+    <string name="system_update_processing_status_text">Verwerken</string>
+    <string name="system_update_requires_restart_status_text">Opnieuw opstarten vereist</string>
+    <string name="system_update_restart_to_install_button_text">Nu opnieuw opstarten om te installeren</string>
+    <string name="system_update_restart_to_update_button_text">Nu opnieuw opstarten om te updaten</string>
+    <string name="system_update_resume_button_text">Hervatten</string>
+    <string name="system_update_scheduled_status_text">Gepland</string>
+    <string name="system_update_security_patch_level_text">Beveiligingspatchniveau: ^1</string>
+    <string name="system_update_security_update_available_title_text">Beveiligingsupdate beschikbaar</string>
+    <string name="system_update_security_update_downloading_title_text">Beveiligingsupdate downloaden…</string>
+    <string name="system_update_security_update_installing_title_text">Beveiligingsupdate installeren…</string>
+    <string name="system_update_size_label">Updategrootte:</string>
+    <string name="system_update_suw_download_and_install_text">"Het kan enkele minuten duren voordat deze update is gedownload en geïnstalleerd.
+
+Daarna wordt je apparaat automatisch opnieuw opgestart."</string>
+    <string name="system_update_suw_download_text">"Het kan enkele minuten duren voordat deze update is gedownload.
+
+Daarna wordt je apparaat automatisch opnieuw opgestart."</string>
+    <string name="system_update_suw_download_title">Update downloaden…</string>
+    <string name="system_update_suw_restart_text">Het apparaat wordt opnieuw opgestart zodat je systeemupdate kan worden geïnstalleerd.</string>
+    <string name="system_update_suw_restart_title">Wordt zo meteen opnieuw opgestart</string>
+    <string name="system_update_suw_wifi_needed">Als je wilt doorgaan met downloaden, selecteer je ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Veeg naar links om te downloaden.</string>
+    <string name="system_update_update_available_notification_message">Tik voor meer informatie en om te downloaden</string>
+    <string name="system_update_update_available_notification_title">Systeemupdate beschikbaar</string>
+    <string name="system_update_update_available_tap_to_download">Tik om te downloaden</string>
+    <string name="system_update_update_available_title_text">Systeemupdate beschikbaar</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Download onderbroken</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Onvoldoende ruimte beschikbaar</string>
+    <string name="system_update_update_downloaded_charge_wearable">Laad de accu op tot ten minste %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Veeg naar links om te installeren.</string>
+    <string name="system_update_update_downloaded_notification_message">Tik voor meer informatie en om te installeren</string>
+    <string name="system_update_update_downloaded_notification_title">Systeemupdate gedownload</string>
+    <string name="system_update_update_downloaded_tap_to_install">Tik om te installeren</string>
+    <string name="system_update_verification_failed_text">Verificatie mislukt</string>
+    <string name="system_update_verified_status_text">De update is gedownload en geverifieerd</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Verificatieprobleem</string>
+    <string name="system_update_verifying_status_text">Bevestigen</string>
+    <string name="system_update_wearable_countdown_message">Opnieuw opstarten over %d...</string>
+    <string name="target_default_source_device_model">oude apparaat</string>
+    <string name="target_device_not_supported_cant_continue_description">Je moet een andere methode kiezen om gegevens te kopiëren</string>
+    <string name="target_device_not_supported_cant_continue_title">De andere telefoon wordt niet ondersteund</string>
+    <string name="target_device_not_supported_try_restarting_description">"Koppel de kabel los en start je oude telefoon opnieuw op. Sluit de kabel vervolgens weer aan en volg de instructies op je Pixel.
+
+Als deze foutmelding opnieuw wordt weergegeven, moet je mogelijk op een andere manier kopiëren."</string>
+    <string name="target_device_not_supported_try_restarting_title">De telefoon wordt mogelijk niet ondersteund</string>
+    <string name="target_smart_device_timeout_add_account">ACCOUNT TOEVOEGEN</string>
+    <string name="target_smart_device_timeout_description">Je kunt proberen je account handmatig toe te voegen</string>
+    <string name="target_smart_device_timeout_dismiss">AFWIJZEN</string>
+    <string name="target_smart_device_timeout_title">Problemen?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefoons zijn verbonden</string>
+    <string name="toast_reconnect_cable">Sluit je kabel opnieuw aan</string>
+    <string name="transfer_finished_fragment_title">Nog even de laatste details…</string>
+    <string name="transfer_summary_copied">Gegevens gekopieerd</string>
+    <string name="transfer_summary_fragment_description">Je kunt de kabel loskoppelen.</string>
+    <string name="transfer_summary_fragment_finish">VOLTOOIEN</string>
+    <string name="transfer_summary_fragment_title">Je telefoon is bijna klaar</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Sommige van je foto's zijn niet gekopieerd. "<annotation id="transfer_summary_learn_more">Meer informatie</annotation></string>
+    <string name="transfer_summary_not_copied">Gegevens niet gekopieerd</string>
+    <string name="transfer_summary_partial">%1$s/%2$s Gekopieerd</string>
+    <string name="transfer_summary_will_sync">Gegevens worden gesynchroniseerd na configuratie</string>
+    <string name="transferring_fragment_calculating_remaining_time">Resterende tijd berekenen…</string>
+    <string name="transferring_fragment_header">Kopiëren...</string>
+    <string name="transferring_fragment_remaining_time">%1$s resterend</string>
+    <string name="trust_instructions_description">Als je wilt doorgaan, controleer je je iPhone® en keur je de verbinding goed</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari en iTunes zijn handelsmerken van Apple Inc., gedeponeerd in de Verenigde Staten en andere landen.</string>
+    <string name="unmetered_wifi_string">een onbeperkt wifi-netwerk</string>
+    <string name="url_load_unsuccessful_message">Je Android-apparaat is niet verbonden met een mobiele gegevensservice. Ga naar %s in een webbrowser als je deze informatie nu wilt bekijken.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Je Android-apparaat is niet verbonden met een wifi-netwerk. Als je deze informatie nu wilt bekijken, ga je naar %s in een webbrowser.</string>
+    <string name="use_nearby_device_heading">Een apparaat in de buurt gebruiken?</string>
+    <string name="use_nearby_device_text">Wil je een apparaat in de buurt gebruiken om inloggegevens te verlenen?</string>
+    <string name="waiting_for_account_info_text">Wachten op accountgegevens…</string>
+    <string name="wifi_available_action_all_networks">Alle netwerken</string>
+    <string name="wifi_available_action_connect">Verbinding maken</string>
+    <string name="wifi_available_content_failed">Tik om alle netwerken te bekijken</string>
+    <string name="wifi_available_title">Verbinding maken met een open wifi-netwerk</string>
+    <string name="wifi_available_title_connected">Verbonden met een wifi-netwerk</string>
+    <string name="wifi_available_title_connecting">Verbinding maken met een open wifi-netwerk</string>
+    <string name="wifi_available_title_failed">Kan geen verbinding maken met wifi-netwerk</string>
+    <string name="wifi_string">een wifi-netwerk</string>
+    <string name="wifi_wakeup_enabled_notification_context">Je bent in de buurt van een opgeslagen netwerk: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wifi automatisch ingeschakeld</string>
+</resources>

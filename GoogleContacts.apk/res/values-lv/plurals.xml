@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d kontaktpersonu dublikāti</item>
+        <item quantity="zero">%d kontaktpersonu dublikāti</item>
+        <item quantity="one">%d kontaktpersonu dublikāts</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nesen veikti zvani • Pēdējoreiz šādā datumā: %2$s</item>
+        <item quantity="zero">%1$d nesen veikti zvani • Pēdējoreiz šādā datumā: %2$s</item>
+        <item quantity="one">%1$d nesen veikts zvans • Pēdējoreiz šādā datumā: %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktpersonas</item>
+        <item quantity="zero">%d kontaktpersonas</item>
+        <item quantity="one">%d kontaktpersona</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktpersonas (%2$s)</item>
+        <item quantity="zero">%1$d kontaktpersonas (%2$s)</item>
+        <item quantity="one">%1$d kontaktpersona (%2$s)</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontaktpersonas ir izdzēstas</item>
+        <item quantity="zero">Kontaktpersonas ir izdzēstas</item>
+        <item quantity="one">Kontaktpersonas ir izdzēstas</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktpersonas</item>
+        <item quantity="zero">%1$d kontaktpersonu</item>
+        <item quantity="one">%1$d kontaktpersona</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktpersonas • ^2</item>
+        <item quantity="zero">^1 kontaktpersonu • ^2</item>
+        <item quantity="one">^1 kontaktpersona • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importēšana no SIM kartēm</item>
+        <item quantity="zero">Importēšana no SIM kartēm</item>
+        <item quantity="one">Importēšana no SIM kartēm</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktpersonas</item>
+        <item quantity="zero">%d kontaktpersonas</item>
+        <item quantity="one">%d kontaktpersona</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Importētas %d SIM kartes kontaktpersonas</item>
+        <item quantity="zero">Importētas %d SIM kartes kontaktpersonas</item>
+        <item quantity="one">Importēta %d SIM kartes kontaktpersona</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Kontaktpersonu kopīgošana, izmantojot</item>
+        <item quantity="zero">Kontaktpersonu kopīgošana, izmantojot</item>
+        <item quantity="one">Kontaktpersonu kopīgošana, izmantojot</item>
+    </plurals>
+</resources>

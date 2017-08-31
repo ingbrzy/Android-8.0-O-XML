@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">홈 탐색</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">위로 탐색</string>
+    <string name="abc_action_menu_overflow_description">옵션 더보기</string>
+    <string name="abc_action_mode_done">완료</string>
+    <string name="abc_activity_chooser_view_see_all">전체 보기</string>
+    <string name="abc_activitychooserview_choose_application">앱 선택</string>
+    <string name="abc_capital_off">사용 안함</string>
+    <string name="abc_capital_on">사용</string>
+    <string name="abc_search_hint">검색...</string>
+    <string name="abc_searchview_description_clear">검색어 삭제</string>
+    <string name="abc_searchview_description_query">검색어</string>
+    <string name="abc_searchview_description_search">검색</string>
+    <string name="abc_searchview_description_submit">검색어 보내기</string>
+    <string name="abc_searchview_description_voice">음성 검색</string>
+    <string name="abc_shareactionprovider_share_with">공유 대상</string>
+    <string name="abc_shareactionprovider_share_with_application">%s와(과) 공유</string>
+    <string name="abc_toolbar_collapse_description">접기</string>
+    <string name="account_blocked_title">계정 차단됨</string>
+    <string name="account_level_title">계정 작업 필요</string>
+    <string name="account_removed_notification_text">기기 관리가 완료되지 않아서 %1$s이(가) 삭제되었습니다.</string>
+    <string name="account_removed_notification_title">계정이 삭제됨</string>
+    <string name="android_privacy_policy_title">추가 개인정보처리방침</string>
+    <string name="app_has_in_app_purchases">인앱 구매</string>
+    <string name="app_has_permissions">권한: %s</string>
+    <string name="app_has_runtime_permissions">앱에서 권한을 요청함</string>
+    <string name="app_level_title">로그인 요청</string>
+    <string name="app_level_title_secondary">%s의 로그인 요청</string>
+    <string name="app_picker_app_already_installed_toast">이미 설치된 앱임</string>
+    <string name="app_picker_loading">사용할 수 있는 앱 검색 중...</string>
+    <string name="app_picker_loading_toast">사용할 수 있는 앱이 곧 로드됩니다.</string>
+    <string name="app_picker_no_apps">선택한 앱 없음</string>
+    <string name="app_picker_no_apps_found">앱이 없습니다.</string>
+    <string name="apps_in_app_purchases_disclaimer_all">인앱 구매는 ^1(으)로 전송되지 않습니다.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">일부 인앱 구매는 ^1(으)로 전송되지 않을 수 있습니다.</string>
+    <string name="apps_permissions_described_v2">"인기 있는 무료 iOS® 앱만을 Android 앱에 일치시킬 수 있습니다. 대부분의 인앱 구매는 전송되지 않습니다. 설정이 완료되면 Play 스토어에서 앱을 더 확인할 수 있습니다.
+
+일부 앱에는 기기에서 특정 기능 또는 정보에 액세스할 수 있는 권한을 사전에 부여해야 할 수도 있습니다. 권한은 권한 그룹으로 구분됩니다. 이 앱을 설치하도록 선택하면 각 그룹에 속하는 권한을 부여하는 데 동의하게 됩니다. 다음은 각 권한 그룹에 관한 설명입니다.
+
+일부 앱은 사전 권한 부여가 필요 없을 수도 있습니다. 이런 앱 중 하나를 사용할 때 앱이 해당 유형의 데이터를 사용하기 전에 개별적으로 권한을 허용 또는 거부할 수 있습니다.
+
+"</string>
+    <string name="apps_permissions_disclaimer_v2">각 앱을 설치하면 권한을 허용하는 데 동의하게 됩니다. <annotation id="apps_permissions_learn_more">자세히 알아보기</annotation></string>
+    <string name="audience_selection_done">완료</string>
+    <string name="auth_account_already_has_gmail">계정이 이미 Gmail에 연결되어 있습니다.</string>
+    <string name="auth_account_content_provider_label">Google 계정 데이터</string>
+    <string name="auth_account_removed_default_description">기기 관리가 완료되지 않았습니다. 재시작하여 다시 로그인하세요.</string>
+    <string name="auth_account_removed_default_title">설정 취소됨</string>
+    <string name="auth_account_removed_dm_bad_result_description">기기 관리를 완료할 수 없습니다. 재시작하여 다시 로그인하세요.</string>
+    <string name="auth_account_removed_dm_not_supported_description">도메인에 휴대기기 관리가 필요하지만 이 기기에서는 지원되지 않습니다. 다른 계정을 사용해 보세요.</string>
+    <string name="auth_account_removed_dm_not_supported_title">기기 관리 지원 불가</string>
+    <string name="auth_account_removed_dm_setup_failed_description">기기 관리가 올바르게 설치되지 않았습니다. 재시작하여 다시 로그인하세요.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">설치 중 문제 발생</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">기기 관리가 완료되지 않았습니다. 재시작하여 다시 로그인하세요.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">설정 취소됨</string>
+    <string name="auth_account_settings_title">계정 설정</string>
+    <string name="auth_account_setup_title">Google 계정</string>
+    <string name="auth_account_state_sync_title">계정 상태 동기화</string>
+    <string name="auth_allow_button_label">허용</string>
+    <string name="auth_allow_external_site_access">%s에서 내 데이터에 계속 액세스 가능</string>
+    <string name="auth_app_permission_ok_footnote">계속하면 이 앱과 Google에서 각 서비스 약관 및 개인정보처리방침에 따라 내 정보를 사용하도록 허용하게 됩니다.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">로그인 허용</string>
+    <string name="auth_authzen_allow_reset_button_text">비밀번호 재설정 허용</string>
+    <string name="auth_authzen_google_logo_label">Google 로고</string>
+    <string name="auth_authzen_login_challenge_approved_text">로그인이 승인되었습니다.</string>
+    <string name="auth_authzen_login_challenge_canceled_text">로그인이 취소되었습니다.</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">로그인 허용</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s에서 로그인 중이신가요?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google에서 로그인 시도를 중단했습니다.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">잘못된 번호</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">다른 화면에 표시된 숫자를 터치하세요. 그러면 컴퓨터에서 로그인됩니다.</string>
+    <string name="auth_authzen_login_challenge_title_text">로그인하는 중입니까?</string>
+    <string name="auth_authzen_profile_picture_label">프로필 사진</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">다음에서 로그인할 계정을 선택하세요.</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">로그인하시겠습니까?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">로그인 알림이 없습니다.</string>
+    <string name="auth_authzen_pull_offline_error">내부 오류</string>
+    <string name="auth_authzen_pull_offline_instructions_text">"컴퓨터에서 '코드가 있나요?'를 클릭하고 다음을 입력합니다."</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Google에 로그인하려고 하셨습니까?</string>
+    <string name="auth_authzen_recovery_approved_text">비밀번호 재설정이 승인되었습니다.</string>
+    <string name="auth_authzen_recovery_canceled_text">비밀번호 재설정이 취소되었습니다.</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%s에서 비밀번호를 재설정하도록 허용하시겠습니까?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">확인이 필요합니다.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google에서 비밀번호 재설정 시도를 중단했습니다.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">잘못된 번호</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">다른 화면에 표시된 숫자를 터치하세요. 그러면 비밀번호를 재설정할 수 있습니다.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">비밀번호 재설정 허용</string>
+    <string name="auth_authzen_recovery_reject_desc_text">누군가가 내 Google 계정의 비밀번호 재설정을 요청했습니다. Google에서 비밀번호 재설정 시도를 중단했습니다.</string>
+    <string name="auth_authzen_recovery_reject_title_text">비밀번호 재설정이 중단됨</string>
+    <string name="auth_authzen_recovery_verification_desc_text">%s에서 비밀번호 재설정을 요청했나요?</string>
+    <string name="auth_authzen_recovery_verification_title_text">비밀번호 재설정을 시도했나요?</string>
+    <string name="auth_authzen_secure_account_button_text">계정 보호</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">로그인 알림을 찾는 중...</string>
+    <string name="auth_back_button_label">뒤로</string>
+    <string name="auth_cant_add_work_account_message">내 조직에서 이 유형의 계정을 관리합니다.</string>
+    <string name="auth_captcha_instructions">아래 문자열을 입력하세요.</string>
+    <string name="auth_captcha_title">보안문자 입력 필요</string>
+    <string name="auth_common_next_button">다음</string>
+    <string name="auth_common_skip">건너뛰기</string>
+    <string name="auth_common_switch_accounts">계정 전환</string>
+    <string name="auth_communicating_message">계정에 정보를 저장하기 위해 기기에서 Google에 연결을 시도하는 중입니다. 최대 5분 정도 걸릴 수 있습니다.</string>
+    <string name="auth_confirm_creds_sync_title">사용자 인증 정보 상태</string>
+    <string name="auth_d2d_source_alert_title">탭앤고</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">잠금 및 인증</string>
+    <string name="auth_d2d_source_copy_notice">계정과 데이터를 다른 기기에 복사하시겠습니까?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">인증 후에는 기기 간 통신을 위해 블루투스가 사용 설정됩니다.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">인증 후에는 블루투스를 통해 기기가 서로 연결됩니다.</string>
+    <string name="auth_d2d_source_lock_notice">계속하면 화면이 잠금 설정되며, 인증을 위해 잠금을 해제해야 합니다.</string>
+    <string name="auth_d2d_source_no_accounts_toast">이 기기에 계정이 없어 탭앤고를 수행할 수 없습니다.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">기기에서 블루투스를 사용할 수 없어 탭앤고를 수행할 수 없습니다.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">기기 간의 통신을 위해 블루투스가 사용 설정됩니다.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">블루투스를 사용합니다.</string>
+    <string name="auth_d2d_source_notification_title">탭앤고 완료</string>
+    <string name="auth_d2d_source_restricted_user_toast">제한된 사용자 프로필에서 탭하여 복원할 수 없습니다.</string>
+    <string name="auth_d2d_source_title">계정 복원</string>
+    <string name="auth_d2d_source_unknown_device_name">알 수 없는 기기</string>
+    <string name="auth_d2d_target_sorry_alert">문제가 발생했습니다.</string>
+    <string name="auth_d2d_target_tap_progress_message">계속하려면 다른 기기에서 확인을 탭합니다.</string>
+    <string name="auth_d2d_target_title">탭앤고</string>
+    <string name="auth_d2d_target_unlock_progress_message">다른 기기 확인</string>
+    <string name="auth_d2d_target_wait_progress_message">계정 및 데이터를 가져오는 중...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">거부</string>
+    <string name="auth_device_management_download_app_icon">%s 앱 아이콘</string>
+    <string name="auth_device_management_download_description">휴대기기 관리가 필요한 계정입니다. ^1 앱을 설치하여 계정에 필요한 보안 정책을 시행하세요.</string>
+    <string name="auth_device_management_download_description_kids">이 기기에 계정을 추가하려면 먼저 <b>^1</b>"을(를) 설치하세요. 
+
+^1에서 자녀가 사용할 기기를 설정하도록 도와드립니다."</string>
+    <string name="auth_device_management_download_failed_message">이 앱이 없이도 설정을 계속할 수 있습니다.</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">기기 관리를 설치하지 못하여 계정이 삭제됩니다. 나중에 다시 시도해 주세요.</string>
+    <string name="auth_device_management_download_failed_title">앱을 다운로드할 수 없음</string>
+    <string name="auth_device_management_download_not_updated_message">현재 버전을 사용하여 설정을 계속할 수 있습니다.</string>
+    <string name="auth_device_management_download_paused">일시중지됨</string>
+    <string name="auth_device_management_download_progress">다운로드 중…</string>
+    <string name="auth_device_management_download_skip_message">이 계정에는 기기 관리가 필요합니다. 기기 관리 없이 계속하시겠습니까?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">이 계정을 추가하려면 기기 관리가 필요합니다. 다른 계정으로 다시 시작하시겠습니까?</string>
+    <string name="auth_device_management_go_back">뒤로</string>
+    <string name="auth_device_management_screenlock_description">이 기기에서 직장 계정에 액세스하려면 잠금 화면을 설정해야 합니다. 이는 조직의 휴대기기 정책입니다.</string>
+    <string name="auth_device_management_screenlock_skip_message">이 계정은 화면 잠금 보안이 필요합니다. 다른 계정으로 다시 시작하시겠습니까?</string>
+    <string name="auth_device_management_start_description">휴대기기 관리가 필요한 계정입니다. 다음을 탭하면 ^1 앱을 사용하여 계정에 필요한 보안 정책을 시행할 수 있습니다.</string>
+    <string name="auth_device_management_start_description_kids">이 기기에 계정을 추가하려면 <b>^1</b>"을(를) 사용하세요. 
+
+^1에서 자녀가 사용할 기기를 설정하도록 도와드립니다."</string>
+    <string name="auth_device_management_title">기기 관리</string>
+    <string name="auth_device_management_update_description">휴대기기 관리가 필요한 계정입니다. 계정에 연결된 보안 정책을 충족하려면 새로운 버전의 ^1 앱을 설치해야 합니다.</string>
+    <string name="auth_device_management_update_description_kids">이 기기에 계정을 추가하려면 먼저 <b>^1</b>"의 최신 버전을 설치하세요. 
+
+^1에서 자녀가 사용할 기기를 설정하도록 도와드립니다."</string>
+    <string name="auth_dismiss_button_label">닫기</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b>님은 Gmail을 사용하지 않습니다.</string>
+    <string name="auth_error_account_disabled">"사용 중지된 계정입니다. 
+
+자세한 내용을 보려면 웹브라우저에서 http://google.com/accounts 페이지를 방문하세요."</string>
+    <string name="auth_error_account_not_verified">"확인되지 않은 계정입니다. 이메일을 확인하고 포함된 링크를 따라 계정을 확인하세요.
+
+계정 정보를 복구하려면 컴퓨터에서 다음 페이지로 이동하세요. http://www.google.com/accounts/recovery"</string>
+    <string name="auth_error_bad_password">비밀번호가 너무 쉽거나 잘못된 문자를 포함하고 있습니다. 다시 시도해 주세요.</string>
+    <string name="auth_error_bad_username">사용자 이름이 잘못되었습니다.</string>
+    <string name="auth_error_generic_server_error">"Google 서버와 통신하는 중에 문제가 발생했습니다. 
+
+나중에 다시 시도해 주세요."</string>
+    <string name="auth_error_invalid_second_factor">일반 계정 비밀번호 대신 애플리케이션 비밀번호를 사용하세요.</string>
+    <string name="auth_error_login_failed">"사용자 이름과 비밀번호가 일치하지 않습니다. 다시 시도해 주세요.
+
+계정 정보를 복구하려면 다음 페이지로 이동하세요. google.com/accounts/recovery/"</string>
+    <string name="auth_error_needs_browser">계정에 액세스하려면 웹에 로그인해야 합니다. 다음을 탭하여 브라우저 로그인을 시작하세요.</string>
+    <string name="auth_error_no_network">"네트워크에 연결되어 있지 않습니다. 
+
+일시적인 문제일 수 있습니다. 다시 시도하거나 다른 Wi-Fi 네트워크에 연결해 보세요."</string>
+    <string name="auth_error_not_logged_in">사용자가 로그인하지 않았습니다.</string>
+    <string name="auth_error_username_unavailable">사용할 수 없는 사용자 이름입니다.</string>
+    <string name="auth_existing_account_error_text">Android 기기에 ^1 계정이 이미 있습니다.</string>
+    <string name="auth_existing_account_error_title">계정이 이미 있습니다</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">최근 비밀번호가 변경되어 기기에 로그인할 수 없습니다. 비밀번호를 변경한 지 24시간이 지난 후 다시 로그인해 보세요.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">기기 보호 기능이 더 이상 작동하지 않습니다.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">기기의 마지막 남은 Google 계정을 개인 프로필 밖으로 이동하면 기기 도용 차단 기능이 사용 중지됩니다. 나중에 기기에 다른 계정을 추가하여 다시 사용 설정할 수 있습니다.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">계속하시겠습니까?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">계정을 직장 프로필로 이동하시겠습니까?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">알 수 없는 오류로 인해 기기에 로그인할 수 없습니다. 다른 계정으로 시도하거나 24시간이 지난 후 다시 로그인해 보세요.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">이 기기의 소유자 계정 중 하나를 사용하여 로그인하세요.</string>
+    <string name="auth_field_cant_be_blank">비워 둘 수 없는 입력란입니다.</string>
+    <string name="auth_frp_add_account_no">아니요</string>
+    <string name="auth_frp_add_account_prompt">기기에 ^1을(를) 지금 추가하시겠습니까? 다른 계정이 있는 경우 나중에 추가할 수 있습니다.</string>
+    <string name="auth_frp_add_account_yes">예</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">이 계정에 액세스할 수 없습니다. 기기가 조직의 보안 정책을 준수하는지 확인하세요. 이 오류가 계속 표시되면 조직의 관리자에게 문의하세요.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">계정 오류</string>
+    <string name="auth_gls_dmagent_activity_download_message">" 도메인에 휴대기기 관리가 필요합니다. Google Apps 기기 정책 애플리케이션을 설치하여  "<b>^1</b> 계정에 필요한 보안 정책을 실행하세요.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">다운로드</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"에는 문자, 숫자 및 마침표만
+사용할 수 있습니다."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b>에 문자가 포함되어 있지 않습니다.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b>이(가) 6자 미만이거나 30자 초과입니다.</string>
+    <string name="auth_gls_is_not_available">사용자 이름 <b>^1</b>을(를) 사용할 수 없습니다.</string>
+    <string name="auth_gls_name_checking_info_title">정보 확인 중…</string>
+    <string name="auth_gls_sync_item_title">%s 동기화</string>
+    <string name="auth_gls_third_party_activity_download_message">" 계정  "<b>^1</b> 을(를) 조직에서 관리하는 기기 또는 직장 프로필에 추가해야 합니다. 완료하려면 IT 관리자가 제공하는 안내를 따르세요.</string>
+    <string name="auth_google_title_logo">Google 로고</string>
+    <string name="auth_invalid_login_character">문자가 잘못되었습니다. 0-9, a-z, A-Z 및 마침표만 사용할 수 있습니다.</string>
+    <string name="auth_invalid_password_character">비밀번호 문자가 잘못되었습니다.</string>
+    <string name="auth_invalid_username">입력한 텍스트가 올바른 사용자 이름이 아닙니다.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">"계속하면 이 기기도 모바일 데이터를 사용하여 Google, 이동통신사, 기기 제조업체로부터 업데이트와 앱을 자동으로 다운로드하고 설치하는 데 동의하게 됩니다. 일부  앱은 인앱 구매를 제공할 수도 있습니다. 이러한 앱은 언제든지 삭제할 수 있습니다."</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>기기 저장공간이 거의 가득 찬 경우 여유 공간을 확보하세요.</b> 백업된 사진이나 동영상 등 일부 데이터를 기기에서 삭제하면 됩니다.</string>
+    <string name="auth_kids_setup_wizard_services_backup">자녀의 Google 드라이브에 앱 데이터(예: 앱에 저장된 설정 및 파일) 및 Wi-Fi 비밀번호와 통화 기록 같은 <b>기기 데이터를 자동으로 백업</b>합니다.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"자동 백업을 사용하면 기기 데이터와 앱 데이터가 자녀 Google 드라이브의 비공개 폴더에 주기적으로 저장됩니다. 앱 데이터는 개발자 설정에 따라 앱에서 저장한 모든 데이터가 될 수 있으며 연락처, 메시지, 사진과 같이 잠재적으로 민감한 데이터를 포함할 수 있습니다.
+
+백업 데이터는 자녀의 드라이브 저장용량에 포함되지 않습니다. 대용량 파일이나 개발자가 서비스에서 제외하도록 선택한 파일은 백업되지 않습니다."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26">자녀의 Google 드라이브에 설정 및 앱 데이터(예: 앱에 저장된 설정 및 파일)와 Wi-Fi 비밀번호, SMS, 통화 기록 등의 <b>기기 데이터를 자동으로 백업</b>합니다.</string>
+    <string name="auth_kids_setup_wizard_services_description">부모는 언제든지 자녀의 계정에서 서비스를 사용 설정 또는 사용 중지할 수 있습니다. 데이터는 Google의 <annotation link="google_privacy">정책</annotation>"에 따라 사용됩니다.
+
+자세히 알아보려면 각 서비스를 탭하세요."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Google 위치 서비스를 사용</b>하여 앱이 자녀의 위치를 정확하게 파악할 수 있도록 합니다. 기기가 켜져 있을 때 익명의 위치 데이터가 Google로 전송됩니다.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Google의 위치 서비스에서는 기기의 위치를 더 빠르고 정확하게 파악하기 위해 Wi‑Fi, 이동통신망 등의 소스를 활용합니다. 이 서비스는 기기의 위치 설정이 사용 설정되어 있고, 높은 정확성 모드나 배터리 절약(절전) 모드 등 위치 파악에 Wi‑Fi 또는 모바일 네트워크를 사용하는 모드가 사용 설정되어 있을 때 활성화됩니다.
+
+이 서비스는 다음과 같은 방법으로 사용 중지할 수 있습니다.
+
+"<li>기기에서 주요 위치 설정을 사용 중지합니다.</li>"
+
+"<li>주요 위치 설정을 사용 중지하지 않고 GPS만 사용하는 모드(기기 전용 모드라고도 함)를 선택합니다.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">진단 및 기기/앱 사용 데이터를 Google로 자동으로 전송하여 <b>Android 환경을 개선</b>합니다. 이 데이터는 자녀을 식별하는 용도로 사용되지 않으며 배터리 수명, 앱 안정성, 네트워크 연결 등을 개선하는 데 도움을 줍니다.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"이 기기 및 기기의 사용 방식(배터리 수준, 앱 사용, 네트워크 연결 등)에 관한 일반적인 정보입니다. 이 데이터는 모든 사용자를 위해 Google의 제품 및 서비스를 개선하는 데 사용됩니다. 일부 집계 정보는 Android 개발자 등의 Google 파트너가 앱 및 제품을 개선하는 데에도 사용됩니다.
+
+이 기능을 사용 중지해도 기기에서 시스템 업데이트 및 보안과 같은 필수 서비스에 필요한 정보를 전송하는 기능은 영향을 받지 않습니다."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"기기 및 사용 방법에 관한 일반 정보(예: 배터리 수명, 앱 사용, 네트워크 연결)입니다. 데이터는 모든 사용자를 위해 Google 제품 및 서비스를 개선하는 데 사용됩니다. 또한 일부 집계 정보는 Android 개발자 등의 파트너가 앱 및 제품을 개선하는 데 사용됩니다.
+
+이 기능을 사용 중지하더라도 시스템 업데이트 또는 보안 등의 중요한 서비스에 필요한 정보를 기기에서 전송하는 기능에 영향을 미치지 않습니다.
+
+'설정 > Google'에서 이 기능을 관리할 수 있습니다. 메뉴에서 '사용 및 진단'을 선택하세요."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">잘못된 비밀번호를 입력했거나 계정이 변경되었습니다. 비밀번호를 다시 입력하세요. 비밀번호를 잊어버려서 계정을 복구하려면 <annotation id="help_url">여기</annotation>를 클릭하세요.</string>
+    <string name="auth_login_activity_task_title">로그인 중...</string>
+    <string name="auth_login_activity_title">로그인</string>
+    <string name="auth_login_task_title">로그인하는 중</string>
+    <string name="auth_login_title">이메일과 비밀번호 입력</string>
+    <string name="auth_minutemaid_ssl_error">" %s에 연결하는 중에 문제가 발생했습니다."</string>
+    <string name="auth_network_unreliable_help">일시적인 문제이거나 Android 기기에 데이터 서비스에 대한 준비가 되어 있지 않을 수 있습니다. 문제가 계속되면 고객지원팀에 문의하세요.</string>
+    <string name="auth_next_button_label">다음</string>
+    <string name="auth_no_network">네트워크에 연결되어 있지 않습니다.</string>
+    <string name="auth_no_network_help">일시적인 문제이거나 Android 기기에 데이터 서비스를 사용할 준비가 되어 있지 않을 수 있습니다. 모바일 네트워크에 연결되면 다시 시도하거나 Wi-Fi 네트워크에 연결해 보세요.</string>
+    <string name="auth_no_network_help_wifi_only">일시적인 문제일 수 있습니다. 다시 시도하거나 다른 Wi-Fi 네트워크에 연결해 보시기 바랍니다.</string>
+    <string name="auth_otp_error">보안 코드를 생성하는 중에 문제가 발생했습니다.</string>
+    <string name="auth_otp_explained_paragraph">비밀번호를 잊어버렸거나 새로운 환경에서 로그인하는 경우 Google에서 계정을 보호하기 위해 보안 코드를 요청할 수도 있습니다. 지금 사용하거나 나중에 돌아와서 새로운 코드를 받으세요.</string>
+    <string name="auth_otp_header_message">로그인에 이 코드를 사용해야 하는 경우</string>
+    <string name="auth_otp_help">고객센터</string>
+    <string name="auth_otp_no_accounts_available_message">이 기기에 설정된 계정이 없습니다.</string>
+    <string name="auth_otp_progress_dialog_message">보안 코드를 생성하는 중입니다.</string>
+    <string name="auth_password">비밀번호</string>
+    <string name="auth_plus_audience_selection_description_acl">공유 대상</string>
+    <string name="auth_plus_failure_new_account_text">Google 계정이 만들어졌지만, Google+ 프로필 만들기 요청은 아직 처리되지 않았습니다. 나중에 원하는 웹브라우저로 plus.google.com 페이지에서 다시 시도해 주세요.</string>
+    <string name="auth_plus_failure_text">Google+ 가입 요청이 처리되지 않았습니다. 나중에 원하는 브라우저로 plus.google.com 페이지에서 다시 시도해 주세요.</string>
+    <string name="auth_plus_failure_title">나중에 Google+ 프로필 만들기</string>
+    <string name="auth_plus_info_fragment_app_name">%s에서 다음 작업을 수행하려고 합니다.</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s 기기의 %s에서 다음을 수행하려 합니다.</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">내 확장 서클</string>
+    <string name="auth_plus_scope_fragment_mixed_label">선택한 서클</string>
+    <string name="auth_plus_scope_fragment_only_you_label">비공개</string>
+    <string name="auth_plus_scope_fragment_public_label">웹의 모든 사용자에게 공개</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">내 서클</string>
+    <string name="auth_relogin_activity_title">비밀번호 확인</string>
+    <string name="auth_remove_account_start_over">다시 시작</string>
+    <string name="auth_scope_more_details">추가 정보</string>
+    <string name="auth_server_error">Google 서버와 통신하는 중에 문제가 발생했습니다.</string>
+    <string name="auth_server_error_help">나중에 다시 시도하세요.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">계정 추가됨</string>
+    <string name="auth_setup_wizard_account_added_description">계정이 추가되었습니다. Google 서비스 옵션을 선택하여 계속 진행하세요.</string>
+    <string name="auth_setup_wizard_back_button_label">뒤로</string>
+    <string name="auth_setup_wizard_next_button_label">다음</string>
+    <string name="auth_setup_wizard_services_activity_title">Google 서비스</string>
+    <string name="auth_setup_wizard_services_agreement">계속하면 이 기기도 모바일 데이터를 사용하여 Google, 이동통신사, 기기 제조업체로부터 업데이트와 앱을 자동으로 다운로드하고 설치하는 데 동의하는 것입니다. 일부 앱은 인앱 구매를 제공할 수도 있습니다. 이러한 앱은 언제든지 삭제할 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">"앱을 삭제하려면 '설정 > 앱 또는 애플리케이션 관리자'로 이동합니다. 제거하려는 앱을 탭합니다(앱을 찾으려면 오른쪽이나 왼쪽으로 스와이프해야 할 수 있음). 그런 다음 제거 또는 사용 중지를 탭합니다."</string>
+    <string name="auth_setup_wizard_services_agreement_korea">또한 미리 로드된 Google 앱에서 기기의 정보와 기능에 액세스하도록 허용하는 데 동의합니다. 이러한 접근권한의 용도에 관해 자세히 알아보려면 <annotation link="app_permissions">이 페이지</annotation>를 참조하세요.</string>
+    <string name="auth_setup_wizard_services_agreement_title">업데이트 및 앱 설치</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">휴대전화 저장공간이 거의 가득 찬 경우, 백업된 사진이나 동영상 등 일부 데이터를 삭제하여 여유 공간을 확보하세요.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">연결되어 있는 동안에는 이 데이터에 계속 액세스할 수 있습니다. 설정 > 저장용량 > 스마트 저장용량으로 이동하여 이 기능 및 삭제된 데이터를 관리할 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">기기 여유 공간 확보</string>
+    <string name="auth_setup_wizard_services_backup">언제든지 간편하게 휴대전화를 복원하거나 데이터를 이전하세요. 백업에는 앱, 앱 데이터, 기기 설정(Wi-Fi 비밀번호 포함)이 포함됩니다.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"앱 데이터에는 민감한 데이터일 가능성이 있는 연락처, 메시지, 사진 등 앱에서 개발자 설정에 따라 저장한 모든 데이터가 포함될 수 있습니다.
+
+백업 데이터는 드라이브 저장용량에 포함되지 않습니다.
+
+설정에서 이 서비스를 사용 중지할 수 있습니다."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"앱 데이터에는 민감한 데이터일 가능성이 있는 연락처, 메시지, 사진 등 개발자 설정에 따라 앱에서 저장한 모든 데이터가 포함될 수 있습니다.
+
+이 기기의 사진과 동영상은 Google 포토에 동기화되기 때문에 모든 기기에서 검색, 수정, 삭제, 공유할 수 있습니다. 기본적으로 전체 해상도 사진 및 동영상이 업로드됩니다.
+
+백업 데이터는 드라이브 저장용량에 포함되지 않습니다.
+
+설정에서 이 서비스를 사용 중지할 수 있습니다."</string>
+    <string name="auth_setup_wizard_services_backup_title">Google 드라이브에 백업</string>
+    <string name="auth_setup_wizard_services_backup_v23">언제든지 간편하게 휴대전화를 복원하거나 데이터를 이전하세요. 백업에는 앱, 앱 데이터, 통화 기록, 연락처, 기기 설정(Wi-Fi- 비밀번호 및 권한 포함)이 포함됩니다.</string>
+    <string name="auth_setup_wizard_services_backup_v26">언제든지 간편하게 휴대전화를 복원하거나 데이터를 이전하세요. 백업에는 앱, 앱 데이터, 통화 기록, 연락처, 기기 설정(Wi-Fi 비밀번호 및 권한 포함), SMS가 포함됩니다.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">언제든지 간편하게 휴대전화를 복원하거나 새 휴대전화로 데이터를 이전하세요. 백업에는 앱, 앱 데이터, 통화 기록, 연락처, 기기 설정(Wi-Fi 비밀번호 및 권한 포함), 사진, 동영상, SMS가 포함됩니다. 연락처, 사진, 동영상은 Google 계정에 동기화되며 여러 서비스에서 사용될 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_description">탭하여 각 서비스에 관해 자세히 알아보세요. 나중에 서비스를 사용 설정/사용 중지하는 방법 등을 알아볼 수 있습니다. 데이터는 Google의 <annotation link="google_privacy">개인정보처리방침</annotation>에 따라 사용됩니다.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"인앱 구매 등의 앱 세부정보는 Play 스토어에서 확인할 수 있습니다. 앱 데이터 및 설정은 Google 계정에 로그인된 기기에 동기화됩니다. 
+
+인스턴트 앱사용에는 "<a href="https://play.google.com/about/play-terms.html">Google Play 서비스 약관</a>"이 적용됩니다. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">자세히 알아보기</a></string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">링크를 탭하면 Google Play에서 인스턴트 앱이 존재하는지 확인하여 설치 없이 실행합니다. 인스턴트 앱은 기기에 일시적으로 저장됩니다.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">설치 없이 앱 사용</string>
+    <string name="auth_setup_wizard_services_location_sharing">Google의 위치 서비스를 사용하여 앱이 내 위치를 파악하도록 허용합니다. 기기가 켜져 있을 때 익명의 위치 데이터가 Google로 전송됩니다.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Google의 위치 서비스에서는 기기의 위치를 더 빠르고 정확하게 파악하기 위해 Wi‑Fi, 이동통신망 등의 소스를 활용합니다. 이 서비스는 기기의 위치 설정이 사용 설정되어 있고, 높은 정확성 모드나 배터리 절약(절전) 모드 등 위치 파악에 Wi‑Fi 또는 모바일 네트워크를 사용하는 모드가 사용 설정되어 있을 때 활성화됩니다.
+
+이 서비스는 다음 중 한 가지 방법으로 사용 중지할 수 있습니다.
+
+"<li>기기에서 주요 위치 설정을 사용 중지합니다.</li>"
+
+"<li>주요 위치 설정을 사용 중지하지 않고 GPS만 사용하는 모드(기기 전용 모드라고도 함)를 선택합니다.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">앱이 위치를 찾을 수 있도록 돕기</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Wi-Fi가 꺼져 있을 때도 앱과 서비스에서 Wi-Fi를 검색하도록 허용합니다.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">위치 설정에서 사용 중지할 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">위치 정확도 개선</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Wi-Fi와 블루투스가 꺼져 있을 때도 앱과 서비스에서 Wi-Fi 및 블루투스를 검색하도록 허용합니다.</string>
+    <string name="auth_setup_wizard_services_play">Google Play의 최신 뉴스와 행사 소식을 받겠습니다.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">백업 및 저장공간</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">기기 유지보수</string>
+    <string name="auth_setup_wizard_services_section_location">위치</string>
+    <string name="auth_setup_wizard_services_tos">또한 계속하면 <annotation link="tos">Google 서비스 약관</annotation>에 동의하게 됩니다.</string>
+    <string name="auth_setup_wizard_services_tos_germany">이 기기를 사용할 때 Google은 <annotation link="google_privacy">개인정보처리방침</annotation>을 준수하며 <annotation link="tos">기타 약관</annotation>이 적용됩니다.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">진단 및 기기/앱 사용 데이터를 Google에 자동으로 전송하여 Android 사용 환경을 개선하도록 도와주세요. 이를 통해 배터리 수명, 앱 안정성, 네트워크 연결 등을 개선할 수 있습니다. 추가 웹 및 앱 활동을 사용 설정하면 계정에 이 정보가 저장되므로 내 활동에서 관리할 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"이 기기 및 기기의 사용 방식(배터리 수준, 앱 사용, 네트워크 연결 등)에 관한 일반적인 정보입니다. 이 데이터는 모든 사용자를 위해 Google의 제품 및 서비스를 개선하는 데 사용됩니다. 일부 집계 정보는 Android 개발자 등의 Google 파트너가 앱 및 제품을 개선하는 데에도 사용됩니다.
+
+이 기능을 사용 중지해도 기기에서 시스템 업데이트 및 보안과 같은 필수 서비스에 필요한 정보를 전송하는 기능은 영향을 받지 않습니다."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">myactivity.google.com에서 내 활동 설정을 업데이트할 수 있습니다.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Google 설정에서 이 기능을 관리할 수 있습니다. 메뉴에서 사용 및 진단을 선택하세요.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">설정 > Google에서 이 기능을 관리할 수 있습니다. 메뉴에서 사용 및 진단을 선택하세요.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">시스템 데이터 보내기</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Google 라이브 배경화면에서 Google의 위치 서비스에 액세스하여 내 위치를 반영하도록 허용합니다.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">설정 > 앱 및 알림 > 앱 정보로 이동하여 라이브 배경화면에서 Google의 위치 서비스에 액세스하도록 허용할지 선택할 수 있습니다. 더보기 메뉴에서 시스템 표시 > 라이브 데이터 배경화면 또는 라이브 지구 배경화면 > 권한을 탭하세요.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">배경화면에서 위치를 사용하도록 허용</string>
+    <string name="auth_setup_wizard_title">설치 마법사</string>
+    <string name="auth_show_error_activity_title">로그인하지 못했습니다.</string>
+    <string name="auth_show_error_title">오류</string>
+    <string name="auth_sign_in_agreement">로그인하면 <annotation id="google_privacy">Google</annotation> 및 <annotation id="android_privacy">추가</annotation> 개인정보처리방침에 동의하게 됩니다.</string>
+    <string name="auth_sign_in_browser">브라우저 로그인</string>
+    <string name="auth_sign_in_button_label">로그인</string>
+    <string name="auth_sign_in_with_google_account_short">Google 계정으로 로그인</string>
+    <string name="auth_skip_button_label">건너뛰기</string>
+    <string name="auth_submission_error_text">오류가 발생했습니다. 다시 시도하세요.</string>
+    <string name="auth_submission_title">죄송합니다…</string>
+    <string name="auth_try_again_button_label">다시 시도</string>
+    <string name="auth_ui_activity_authenticating">인증하는 중...</string>
+    <string name="auth_ui_activity_title">Google 로그인</string>
+    <string name="auth_ui_activity_title_browser_signin">로그인</string>
+    <string name="auth_ui_add_account_title">계정 설정</string>
+    <string name="auth_uncertified_notification_content">제조업체가 이 기기를 인증하지 않았습니다.</string>
+    <string name="auth_uncertified_notification_description">"이 기기의 제조업체가 Google에 기기 인증을 받지 않고 Google 앱을 사용하고 있습니다. 
+
+인증되지 않은 기기는 보안이 취약할 수 있으며 시스템 또는 앱 업데이트를 받지 못할 수 있습니다. 또한, 파일이나 사진 백업과 같은 앱과 기능이 제대로 작동하지 않을 수 있습니다. 
+
+기기 제조업체에 문의하여 이 문제를 해결하세요. 
+
+%s 페이지로 이동하여 Google 인증 파트너를 자세히 알아보세요."</string>
+    <string name="auth_uncertified_notification_learn_more">자세히 알아보기</string>
+    <string name="auth_uncertified_notification_title">경고: 인증되지 않은 기기</string>
+    <string name="auth_username">이메일</string>
+    <string name="auth_work_authenticator_label">관리 계정</string>
+    <string name="authorization_dialog">승인 대화상자</string>
+    <string name="auto_restore_summary">앱을 다시 설치하면 백업된 설정과 데이터 복원</string>
+    <string name="auto_restore_title">자동 복원</string>
+    <string name="autofill_dataset_password">사용자 이름 <b>^1</b>에서 비밀번호 사용</string>
+    <string name="autofill_datatype_address">주소</string>
+    <string name="autofill_datatype_password">저장된 비밀번호</string>
+    <string name="autofill_datatype_payment">신용카드</string>
+    <string name="autofill_datatype_profile">개인정보</string>
+    <string name="autofill_label">Google 자동완성</string>
+    <string name="autofill_optin_line1"><b>자동완성을 사용해 보세요.</b></string>
+    <string name="autofill_optin_line2">Chrome 자동완성에 저장된 정보가 사용됩니다.</string>
+    <string name="autofill_setup_points">"• Google에서는 화면에 표시된 내용을 바탕으로 어떤 항목을 자동으로 입력할 수 있는지 판단합니다. 
+• 설정에서 자동완성 정보를 확인하고 관리할 수 있습니다."</string>
+    <string name="autofill_setup_summary">탭 한 번으로 비밀번호, 주소, 신용카드 등 계정에 저장된 정보를 입력할 수 있습니다.</string>
+    <string name="autofill_setup_summary_single_account">탭 한 번으로 비밀번호, 주소, 신용카드 등 계정(<b>^1</b>)에 저장된 정보를 입력할 수 있습니다.</string>
+    <string name="backup_configure_account_default_summary">현재 백업한 데이터가 저장된 계정이 없습니다.</string>
+    <string name="backup_configure_account_title">백업 계정</string>
+    <string name="backup_data_summary">앱 데이터, Wi-Fi 비밀번호 및 기타 설정을 Google 드라이브에 백업</string>
+    <string name="backup_data_summary_full">"기기 데이터(예: Wi-Fi 비밀번호, 통화 기록)와 앱 데이터(예: 앱에서 저장한 설정 및 파일)를 원격으로 자동 백업합니다.
+
+자동 백업을 사용하도록 설정하면 기기 및 앱 데이터가 정기적으로 원격 저장됩니다. 앱 데이터는  연락처, 메시지, 사진과 같은 민감한 데이터를 포함하여 개발자 설정에 따라 앱에서 저장한 모든 데이터가 해당될 수 있습니다."</string>
+    <string name="backup_data_title">Google 드라이브에 백업</string>
+    <string name="backup_erase_dialog_message">Wi-Fi 비밀번호, 북마크, 기타 설정 및 앱 데이터 백업을 중지하고 Google 드라이브에 있는 모든 사본을 지우시겠습니까?</string>
+    <string name="backup_erase_dialog_message_full">기기 데이터(예: Wi-Fi 비밀번호, 통화 기록)와 앱 데이터(예: 앱에서 저장한 설정 및 파일) 백업을 중단하고 Google 드라이브에 있는 모든 사본을 삭제하시겠습니까?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">포토 설정을 여는 중에 오류가 발생했습니다.</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"자동 백업을 사용하도록 설정하는 경우:
+
+ ● 기기 설정 및 앱 데이터가 주기적으로 Google 드라이브의 비공개 폴더에 저장됩니다. 앱 데이터에는 연락처, 메시지, 사진 등 민감할 수 있는 데이터 등 앱에서 저장한(개발자 설정에 따라) 모든 데이터가 포함될 수 있습니다.
+
+ 대용량 파일이나 개발자가 서비스에서 제외하기로 결정한 파일은 백업되지 않습니다.
+
+ ● 이 기기의 사진 및 동영상 기록은 Google 포토 라이브러리와 동기화되기 때문에 모든 기기에서 검색, 수정, 삭제, 공유할 수 있습니다.
+
+ 전체 해상도 사진 및 동영상은 기본적으로 업로드되며 드라이브 저장용량에 포함되지 않습니다.
+
+ ● 이 기기의 연락처 및 관련 데이터는 Google 주소록에 동기화됩니다. Google 주소록 앱을 사용하여 모든 기기에서 연락처를 검색, 수정, 삭제, 공유할 수 있습니다.
+
+ ● 이 기기의 캘린더 항목 및 관련 데이터는 Google 캘린더에 동기화됩니다. Google 캘린더 앱을 사용하여 모든 기기에서 연락처를 검색, 수정, 삭제, 공유할 수 있습니다.
+
+ 백업 데이터는 드라이브 저장용량에 포함되지 않습니다."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"자동 백업을 사용하면 데이터가 다음과 같이 백업됩니다. 
+
+ ● 기기 설정과 앱 데이터가 주기적으로 Google 드라이브의 비공개 폴더에 저장됩니다. 앱 데이터에는 민감할 수도 있는 데이터(연락처, 메시지, 사진 등)와 같이 개발자 설정에 따라 앱에서 저장한 모든 데이터가 포함됩니다.
+
+대용량 파일이나 개발자가 서비스에서 제외한 파일은 백업되지 않습니다.
+
+ ● 이 기기의 연락처 및 관련 데이터는 Google 주소록에 동기화됩니다. Google 주소록 앱을 사용하면 모든 기기의 연락처를 검색, 수정, 삭제, 공유할 수 있습니다.
+
+ ● 이 기기의 캘린더 항목과 관련 데이터는 Google 캘린더에 동기화됩니다. Google 캘린더 앱을 사용하면 모든 기기의 연락처를 검색, 수정, 삭제, 공유할 수 있습니다.
+
+ 백업 데이터는 드라이브 저장용량에 포함되지 않습니다."</string>
+    <string name="backup_opt_in_backup_description_extra">캘린더, 연락처, 사진, 동영상은 Google 계정에 동기화되며 여러 서비스에서 사용될 수 있습니다.</string>
+    <string name="backup_opt_in_backup_description_v2">자동 백업을 사용하면 언제든지 휴대전화를 손쉽게 복원하거나 전환할 수 있습니다. <annotation id="backup_opt_in_learn_more">자세히 알아보기</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"다음 항목의 백업이 중지됩니다.
+
+앱과 앱 데이터
+통화 기록
+기기 설정
+사진 및 동영상
+SMS
+
+캘린더 및 주소록은 계속해서 Google 계정에 동기화됩니다. 설정이 완료되면 "<annotation id="backup_opt_in_settings_instructions">설정 > 계정 > Google</annotation>로 이동하여 동기화 설정을 변경할 수 있습니다.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">백업을 사용 중지하시겠습니까?</string>
+    <string name="backup_opt_in_backup_list">"앱 및 앱 데이터
+캘린더
+통화 기록
+주소록
+기기 설정(Wi-Fi 비밀번호 포함)
+사진 및 동영상
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">백업 항목:</string>
+    <string name="backup_opt_in_backup_title">Google 드라이브에 백업</string>
+    <string name="backup_opt_in_disable_backup">백업 사용 안함</string>
+    <string name="backup_photos_update">Google 포토를 업데이트하세요.</string>
+    <string name="backup_settings_activity_backup_title">백업</string>
+    <string name="backup_settings_activity_title">백업 및 초기화</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">복사 안함</string>
+    <string name="chrome_privacy_title">Chrome 개인정보 보호정책</string>
+    <string name="chrome_tos_title">Chrome 서비스 약관</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$s의 이전 비밀번호가 내 암호로 암호화되었습니다. 암호를 잊어버렸다면 중지하고 &lt;a href=%2$s>Google Dashboard&lt;/a>을(를) 사용하여 동기화를 재설정하세요.</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync 암호</string>
+    <string name="chromesync_enter_passphrase_hint">암호 입력</string>
+    <string name="chromesync_entered_wrong_passphrase">잘못된 암호</string>
+    <string name="chromesync_no_browser_found">이 링크를 열 브라우저를 찾지 못했습니다.</string>
+    <string name="close_button_label">닫기</string>
+    <string name="cloud_restore_app_picker_button">복원</string>
+    <string name="cloud_restore_app_picker_description_no_apps">백업에 앱이 없습니다.</string>
+    <string name="cloud_restore_app_picker_title">복원할 앱 선택</string>
+    <string name="common_accept">동의</string>
+    <string name="common_account_chip_add_account_button_label">다른 계정 사용</string>
+    <string name="common_add_account_button_label">계정 추가</string>
+    <string name="common_add_account_label">계정 추가</string>
+    <string name="common_ads_settings_title">광고</string>
+    <string name="common_agree">동의</string>
+    <string name="common_app_name">Google Play 서비스</string>
+    <string name="common_asm_preferences_settings_title">계정 환경설정</string>
+    <string name="common_asm_privacy_settings_title">개인정보 및 개인정보 보호</string>
+    <string name="common_asm_security_settings_title">로그인 및 보안</string>
+    <string name="common_audience_edit_button_label">수정</string>
+    <string name="common_cancel">취소</string>
+    <string name="common_cannot_start_hangouts_security_exception">행아웃을 시작할 수 없습니다(권한 오류).</string>
+    <string name="common_car_permission_desc">자동차 서비스에 액세스합니다.</string>
+    <string name="common_car_permission_label">자동차 서비스</string>
+    <string name="common_chips_label_empty_circles">서클 없음</string>
+    <string name="common_chips_label_extended_circles">확장 서클</string>
+    <string name="common_chips_label_only_you">비공개</string>
+    <string name="common_chips_label_public">공개</string>
+    <string name="common_chips_label_your_circles">내 서클</string>
+    <string name="common_choose_account">계정 선택</string>
+    <string name="common_choose_account_for_app_label">%1$s에 대한 계정 선택</string>
+    <string name="common_choose_account_label">계정 선택</string>
+    <string name="common_clear_app_data_menu_item">앱 데이터 지우기</string>
+    <string name="common_connected">연결됨</string>
+    <string name="common_connected_apps_settings_title">연결된 앱</string>
+    <string name="common_connecting">연결 중…</string>
+    <string name="common_continue">계속</string>
+    <string name="common_disagree">동의 안함</string>
+    <string name="common_disconnect">연결 해제</string>
+    <string name="common_done">완료</string>
+    <string name="common_fitness_settings_title">Google 피트니스</string>
+    <string name="common_from">보낸사람:</string>
+    <string name="common_games_settings_title">Play 게임</string>
+    <string name="common_get_started">시작하기</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">사용 설정</string>
+    <string name="common_google_play_services_enable_text">Google Play 서비스를 사용하도록 설정해야 %1$s이(가) 작동합니다.</string>
+    <string name="common_google_play_services_enable_title">Google Play 서비스 사용</string>
+    <string name="common_google_play_services_error_dialog_title">오류</string>
+    <string name="common_google_play_services_install_button">설치</string>
+    <string name="common_google_play_services_install_text">기기에 Google Play 서비스가 설치되어 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_install_title">Google Play 서비스 설치</string>
+    <string name="common_google_play_services_notification_ticker">Google Play 서비스 오류</string>
+    <string name="common_google_play_services_unknown_issue">%1$s에서 Google Play 서비스를 사용하는 데 문제가 있습니다. 다시 시도하세요.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s은(는) Google Play 서비스 없이는 실행되지 않으나, 기기에서 Google Play 서비스를 지원하지 않습니다.</string>
+    <string name="common_google_play_services_update_button">업데이트</string>
+    <string name="common_google_play_services_update_text">Google Play 서비스를 업데이트해야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_update_title">Google Play 서비스 업데이트</string>
+    <string name="common_google_play_services_updating_text">현재 업데이트 중인 Google Play 서비스가 있어야 %1$s이(가) 실행됩니다.</string>
+    <string name="common_google_play_services_updating_title">Google Play 서비스 업데이트 중</string>
+    <string name="common_google_play_services_wear_update_text">새 버전의 Google Play 서비스가 필요합니다. 곧 자동으로 업데이트됩니다.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">아키텍처가 잘못된 Google Play 서비스가 설치되었습니다.</string>
+    <string name="common_google_play_services_wrong_architecture_text">아키텍처(%1$s)가 기기 아키텍처(%2$s)와 다른 Google Play 서비스가 설치되었습니다.</string>
+    <string name="common_google_play_services_wrong_architecture_title">잘못된 아키텍처</string>
+    <string name="common_google_settings">Google 설정</string>
+    <string name="common_google_settings_account">계정</string>
+    <string name="common_google_settings_credentials_title">비밀번호 대용 Smart Lock</string>
+    <string name="common_google_settings_developer">개발자</string>
+    <string name="common_google_settings_services">서비스</string>
+    <string name="common_got_it">확인</string>
+    <string name="common_install">설치</string>
+    <string name="common_learn_more">자세히 알아보기</string>
+    <string name="common_list_apps_menu_help">고객센터</string>
+    <string name="common_list_apps_menu_help_and_feedback">고객센터</string>
+    <string name="common_loading">로드 중…</string>
+    <string name="common_location_settings_title">위치</string>
+    <string name="common_magictether_settings_title">인스턴트 테더링</string>
+    <string name="common_maps_settings_title">지도 및 위치찾기</string>
+    <string name="common_mdm_feature_name">Android 기기 관리자</string>
+    <string name="common_missing_url_viewer">외부 URL을 표시할 뷰어 누락</string>
+    <string name="common_more_options">추가 옵션</string>
+    <string name="common_networking_settings_title">네트워크</string>
+    <string name="common_no_browser_for_restricted_url">액세스가 제한되었습니다. 브라우저를 찾을 수 없습니다.</string>
+    <string name="common_no_devices_found">기기를 찾을 수 없음</string>
+    <string name="common_no_network">기기가 오프라인 상태이므로 사용할 수 없음</string>
+    <string name="common_no_thanks">아니요</string>
+    <string name="common_not_now">나중에</string>
+    <string name="common_off">사용 안함</string>
+    <string name="common_ok">확인</string>
+    <string name="common_on">사용</string>
+    <string name="common_open_on_phone">스마트폰에서 열기</string>
+    <string name="common_open_source_licenses">오픈소스 라이선스</string>
+    <string name="common_people_settings_title">주소록</string>
+    <string name="common_permissions_enable_in_settings">"'설정'에서 사용 설정"</string>
+    <string name="common_permissions_missing_end">계속하려면 설정과 권한을 차례로 열고 표시된 모든 항목을 허용합니다.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+사용 설정하려면 '
+설정 >
+권한 >
+Google Play 서비스'로 이동합니다."</string>
+    <string name="common_permissions_missing_start">Google Play 서비스 요청이 다음에 액세스하도록 허용해야 이 앱이 제대로 작동합니다.</string>
+    <string name="common_permissions_open_settings">설정 열기</string>
+    <string name="common_phone">휴대전화</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">개인정보처리방침</string>
+    <string name="common_restore">복원</string>
+    <string name="common_restricted_no_accounts">선택할 계정이 없습니다.</string>
+    <string name="common_retry">다시 시도</string>
+    <string name="common_search_settings_title">검색</string>
+    <string name="common_security_ootp_setting_title">보안 코드</string>
+    <string name="common_security_settings_title">보안</string>
+    <string name="common_send">보내기</string>
+    <string name="common_sending">전송 중...</string>
+    <string name="common_set_up_nearby_device_settings_title">주변 기기 설정</string>
+    <string name="common_settings">설정</string>
+    <string name="common_signin_button_text">로그인</string>
+    <string name="common_signin_button_text_long">Google 계정으로 로그인</string>
+    <string name="common_something_went_wrong">문제가 발생했습니다.</string>
+    <string name="common_system_info">시스템 정보</string>
+    <string name="common_take_photo_label">사진 촬영</string>
+    <string name="common_terms_of_service">서비스 약관</string>
+    <string name="common_try_again">다시 시도</string>
+    <string name="common_turn_on_bluetooth">블루투스 켜기</string>
+    <string name="common_ui_confirm_deleting_button">삭제</string>
+    <string name="common_ui_confirm_deleting_checkbox">삭제하고 싶습니다.</string>
+    <string name="common_unknown">알 수 없음</string>
+    <string name="common_update">업데이트</string>
+    <string name="common_url_load_unsuccessful_message">Android 기기가 데이터 서비스에 연결되어 있지 않습니다. 지금 정보를 보려면 웹브라우저를 사용하여 %s 페이지를 방문하세요.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android 기기가 Wi-Fi 네트워크에 연결되어 있지 않습니다. 지금 정보를 보려면 웹브라우저를 사용하여 %s 페이지를 방문하세요.</string>
+    <string name="common_url_login_notice">%1$s(으)로 로그인</string>
+    <string name="common_usage_and_diagnostics">사용 및 진단</string>
+    <string name="common_yesterday">어제</string>
+    <string name="confirm_copy_button_text">복사</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google 주소록, iCloud® %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_and_sim_with_google">Google 주소록, SIM %1$d개, 기기 %2$d개</string>
+    <string name="contacts_number_device_with_google">Google 주소록, 기기 %1$d개</string>
+    <string name="contacts_number_icloud_with_google">Google 주소록, iCloud® %1$d개</string>
+    <string name="contacts_number_sim_with_google">Google 주소록, SIM %1$d개</string>
+    <string name="continue_to_login_heading">로그인하세요.</string>
+    <string name="continue_to_login_text">사용자 인증 정보가 부여되었습니다. 첫 번째 기기에서 로그인을 계속하세요.</string>
+    <string name="copy_confirmation_description">Google 계정 및 앱과 같은 데이터를 새 휴대전화로 복사합니다.</string>
+    <string name="copy_confirmation_title">새 휴대전화로 복사하시겠습니까?</string>
+    <string name="d2d_app_picker_description_no_apps">앱을 찾을 수 없습니다.</string>
+    <string name="d2d_app_picker_title">앱</string>
+    <string name="d2d_migration_canceled_on_source">복사가 취소되었습니다.</string>
+    <string name="data_copied_fragment_description">데이터가 새로운 휴대전화로 복사되었습니다. 케이블을 분리해도 됩니다.</string>
+    <string name="data_copied_fragment_description_cancel">복사를 중지하기로 결정했기 때문에 데이터 중 일부만 새로운 휴대전화로 복사되었습니다.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">복사를 중지하기로 결정했기 때문에 데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="data_copied_fragment_description_error">문제가 발생하여 일부를 복사할 수 없습니다.</string>
+    <string name="data_copied_fragment_description_error_no_data">문제가 발생하여 데이터를 복사할 수 없습니다.</string>
+    <string name="data_copied_fragment_no_data_title">복사할 수 없음</string>
+    <string name="data_copied_fragment_some_data_title">일부 데이터 복사됨</string>
+    <string name="data_copied_fragment_title">데이터 복사됨</string>
+    <string name="device_backup_title">기기 백업</string>
+    <string name="device_not_supported_fragment_new_device">새 휴대전화에 연결되었습니다. 계속하려면 이전 휴대전화를 다시 연결하세요.</string>
+    <string name="device_not_supported_fragment_new_device_title">이전 휴대전화에 다시 연결</string>
+    <string name="device_not_supported_fragment_no_data_cable">이 케이블은 데이터 전송용이 아닙니다. 다른 케이블로 연결하고 다시 시도해 주세요.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">다른 케이블 사용</string>
+    <string name="device_not_supported_fragment_retry_description">이전 휴대전화가 잠금 해제되었는지 확인한 후 케이블을 연결 해제했다 다시 연결합니다.</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">오류 발생</string>
+    <string name="device_not_supported_ios_supervised_description">iPhone® 기기가 관리 대상이기 때문에 데이터를 복사할 다른 방법을 선택해야 합니다.</string>
+    <string name="device_picker_description">백업이 Google 드라이브에 저장됩니다.</string>
+    <string name="device_picker_empty">%1$s에 연결된 백업이 없습니다.</string>
+    <string name="device_picker_empty_title">검색된 백업 없음</string>
+    <string name="device_picker_item">%1$s 백업</string>
+    <string name="device_picker_last_used">최근 사용일: ^1</string>
+    <string name="device_picker_skip">복원하지 않음</string>
+    <string name="device_picker_title">복원할 백업 선택</string>
+    <string name="disabled_by_admin_summary_text">관리자가 제어</string>
+    <string name="download_msg_error_invalid">다운로드가 잘못 구성되었습니다.</string>
+    <string name="download_msg_in_progress">다운로드를 진행하는 중입니다.</string>
+    <string name="download_msg_not_allowed_space">다운로드할 공간이 부족합니다.</string>
+    <string name="download_msg_pending">다운로드가 대기 중입니다.</string>
+    <string name="download_notification_description">%1$s에서 요청했습니다.</string>
+    <string name="download_notification_title">데이터를 추가로 가져오는 중</string>
+    <string name="drive_backup_account">백업 계정</string>
+    <string name="drive_backup_apps_in_backup">백업된 앱 데이터</string>
+    <string name="drive_backup_apps_last_backup">마지막 백업</string>
+    <string name="drive_backup_apps_loading">로드 중...</string>
+    <string name="drive_backup_apps_screen_title">앱 데이터</string>
+    <string name="drive_backup_content_apps_title">앱 데이터</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google 캘린더에서 생성된 일정은 내 Google 계정에 로그인된 모든 기기에 동기화됩니다.</string>
+    <string name="drive_backup_content_calendar_title">Google 캘린더</string>
+    <string name="drive_backup_content_callhistory_dialog_message">백업에는 전송 및 수신 통화의 수신자 및 날짜가 포함됩니다.</string>
+    <string name="drive_backup_content_callhistory_title">통화 기록</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google 주소록에서 생성된 연락처는 내 Google 계정에 로그인된 모든 기기에 동기화됩니다.</string>
+    <string name="drive_backup_content_contacts_title">Google 주소록</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">백업에는 배경화면, Wi-Fi 비밀번호, 기본 앱 등 기기 설정이 포함됩니다.</string>
+    <string name="drive_backup_content_devicesettings_title">기기 설정</string>
+    <string name="drive_backup_content_header">콘텐츠</string>
+    <string name="drive_backup_content_photos_dialog_message">기본 백업 계정이 변경되었습니다. Google 포토 백업 계정도 %s(으)로 변경할 수 있습니다.</string>
+    <string name="drive_backup_content_photos_dialog_no">닫기</string>
+    <string name="drive_backup_content_photos_dialog_title">사진 및 동영상 계정도 변경하시겠습니까?</string>
+    <string name="drive_backup_content_photos_dialog_yes">변경</string>
+    <string name="drive_backup_content_photos_title">사진 및 동영상</string>
+    <string name="drive_backup_content_sms_dialog_message">백업에는 전송 및 수신된 메시지가 포함됩니다. MMS 미디어는 포함되지 않습니다.</string>
+    <string name="drive_backup_content_sms_title">문자 메시지</string>
+    <string name="drive_backup_content_status_dolly_action">확인</string>
+    <string name="drive_backup_content_status_error">마지막 동기화 날짜를 가져오는 중에 오류가 발생했습니다.</string>
+    <string name="drive_backup_content_status_lastsaved">마지막으로 백업됨: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">마지막으로 동기화됨: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">백업 대기 중</string>
+    <string name="drive_backup_content_status_sync_adapter_action">동기화 설정</string>
+    <string name="drive_backup_content_status_sync_off">동기화 사용 안함</string>
+    <string name="drive_backup_content_status_updating">상태 확인 중...</string>
+    <string name="drive_backup_disabled_backuplist">"백업에는 다음 항목이 포함됩니다.
+\u0009- 앱 및 앱 데이터
+\u0009- 통화 기록
+\u0009- 기기 설정(Wi-Fi 비밀번호 포함)
+\u0009- Google 캘린더
+\u0009- Google 주소록
+\u0009- 사진 및 동영상
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"백업에는 다음과 같은 항목이 포함됩니다.
+\u0009- 앱 및 앱 데이터
+\u0009- 통화 기록
+\u0009- 기기 설정(Wi-Fi 비밀번호 포함)
+\u0009- Google 캘린더
+\u0009- Google 주소록
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">관리자가 사용 중지함</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google 캘린더, Google 주소록, 사진 및 동영상이 Google 계정에 동기화되며 서비스 전체에서 사용될 수 있습니다.
+
+백업이 사용 중지되더라도 동기화는 계속 사용할 수도 있습니다. 동기화 설정은 설정 > 계정 > Google에서 변경할 수 있습니다."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google 캘린더와 Google 주소록은 Google 계정에 동기화되며 여러 서비스에서 사용될 수 있습니다.
+
+백업이 사용 중지된 경우에도 동기화가 사용될 수 있습니다. 동기화 설정은 설정 > 계정 > Google에서 변경할 수 있습니다."</string>
+    <string name="drive_backup_disabled_introduction">자동 백업을 사용하면 언제든지 간편하게 휴대전화를 복원 또는 전환할 수 있습니다.</string>
+    <string name="drive_backup_settings_title">백업</string>
+    <string name="drive_backup_state">Google 드라이브에 백업</string>
+    <string name="drive_backup_state_dialog_message">"Google 드라이브에 있는 이 기기의 백업 데이터가 완전히 삭제됩니다.
+
+이미 백업된 사진과 동영상은 Google 드라이브에서 계속 사용할 수 있습니다.
+
+Google 캘린더와 Google 주소록은 Google 계정에 계속 동기화됩니다. 동기화 설정은 설정 > 계정 > Google에서 변경할 수 있습니다."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Google 드라이브에 저장된 이 기기의 백업 데이터가 완전히 삭제됩니다.
+
+Google 캘린더와 Google 주소록은 앞으로도 Google 계정에 동기화됩니다. 동기화 설정은 설정 > 계정 > Google에서 변경할 수 있습니다."</string>
+    <string name="drive_backup_state_dialog_okaction">사용 중지 및 삭제</string>
+    <string name="drive_backup_state_dialog_title">사용 중지하고 백업을 삭제하시겠습니까?</string>
+    <string name="durationDayHour">%1$d일 %2$d시간</string>
+    <string name="durationDayHours">%1$d일 %2$d시간</string>
+    <string name="durationDays">%1$d일</string>
+    <string name="durationHourMinute">%1$d시간 %2$d분</string>
+    <string name="durationHourMinutes">%1$d시간 %2$d분</string>
+    <string name="durationHours">%1$d시간</string>
+    <string name="durationMinute">%1$d분</string>
+    <string name="durationMinuteSecond">%1$d분 %2$d초</string>
+    <string name="durationMinuteSeconds">%1$d분 %2$d초</string>
+    <string name="durationMinutes">%1$d분</string>
+    <string name="durationSecond">%1$d초</string>
+    <string name="durationSeconds">%1$d초</string>
+    <string name="encryption_warning_fragment_description">"백업 암호화가 iPhone® 기기에 사용 설정되어 있습니다. 본인이 백업 암호화를 사용 설정하지 않은 경우 IT 관리자에 의해 사용 설정되었을 수도 있습니다.
+
+사진, 음악, 동영상만 복사할 수 있습니다. 자세히 알아보려면 "<b>g.co/datatransferhelp</b>를 방문하세요.</string>
+    <string name="encryption_warning_fragment_title">백업 암호화</string>
+    <string name="fido_begin_button">시작</string>
+    <string name="fido_ble_device_icon_content_description">발견된 블루투스 기기</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">키의 버튼을 5초 이상 길게 눌러 페어링 모드가 설정되도록 하세요.</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">확인</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">오류 발생</string>
+    <string name="fido_ble_dont_see_your_key_hint">키가 표시되지 않나요?</string>
+    <string name="fido_ble_enable_body">기기의 블루투스가 사용 설정된 경우에만 보안 키가 작동합니다.</string>
+    <string name="fido_ble_enable_title">블루투스 켜기</string>
+    <string name="fido_ble_enable_turn_on_button">사용 설정</string>
+    <string name="fido_ble_instructions_body">대부분의 키는 버튼을 누르기만 하면 사용할 수 있습니다.</string>
+    <string name="fido_ble_instructions_title">보안 키 사용을 허용하시겠습니까?</string>
+    <string name="fido_ble_locate_pin_body">페어링 PIN은 일반적으로 4자리나 6자리 숫자이며 키 뒷면에 인쇄되어 있을 수 있습니다. PIN을 입력할 준비가 되면 계속하세요.</string>
+    <string name="fido_ble_locate_pin_continue_button">계속</string>
+    <string name="fido_ble_locate_pin_title">%1$s 키의 블루투스 페어링 PIN 확인</string>
+    <string name="fido_ble_pair_device_pairing">보안 키를 페어링하는 중...</string>
+    <string name="fido_ble_pair_instructions_body">키를 계정에서 사용할 수 있도록 이 기기와 페어링하세요.</string>
+    <string name="fido_ble_pair_instructions_title">보안 키를 페어링할 준비가 되었나요?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">키를 다시 페어링 모드로 전환하세요.</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">다시 시도</string>
+    <string name="fido_ble_pairing_failure_dialog_title">오류 발생</string>
+    <string name="fido_ble_pairing_mode_body">보안 키에 있는 버튼을 5초 이상 누르세요.</string>
+    <string name="fido_ble_pairing_mode_title">페어링 모드 시작</string>
+    <string name="fido_ble_select_device_body">다음 목록에서 기기와 페어링할 보안 키를 선택하세요. 이름은 키 뒷면에 인쇄되어 있습니다.</string>
+    <string name="fido_ble_select_device_title">보안 키 선택</string>
+    <string name="fido_cancel_button">취소</string>
+    <string name="fido_nfc_enable_body">기기의 NFC가 사용 설정되어 있을 때만 보안 키가 작동합니다.</string>
+    <string name="fido_nfc_enable_title">NFC 사용</string>
+    <string name="fido_nfc_enable_turn_on_button">사용 설정</string>
+    <string name="fido_nfc_instructions_body">기기 진동이 멈출 때까지 키를 기기 뒷면에 대고 평평하게 유지하세요.</string>
+    <string name="fido_nfc_instructions_title">보안 키 사용을 허용하시겠습니까?</string>
+    <string name="fido_pair_another_security_key">다른 보안 키 페어링</string>
+    <string name="fido_processing">보안 키를 인증하는 중...</string>
+    <string name="fido_transport_selection_bluetooth">보안 키를 블루투스를 통해 사용</string>
+    <string name="fido_transport_selection_body">보안 키는 블루투스 및 NFC와 호환됩니다. 키를 어떻게 사용할지 선택하세요.</string>
+    <string name="fido_transport_selection_nfc">보안 키를 NFC를 통해 사용</string>
+    <string name="fido_transport_selection_title">보안 키 사용 방법 선택</string>
+    <string name="fido_use_ble_instead">블루투스를 통해 보안 키 사용</string>
+    <string name="fido_use_nfc_instead">NFC를 통해 보안 키 사용</string>
+    <string name="fido_welcome_body">%1$s을(를) 통해 보안 키를 사용하면 비공개 데이터를 보호하는 데 도움이 됩니다.</string>
+    <string name="fido_welcome_title">%1$s을(를) 통해 보안 키 사용</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
+    <string name="fragment_usb_cant_find_adapter">어댑터를 찾을 수 없음</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"^1이(가) 들어 있던 상자 안에서 Quick Switch Adapter를 찾습니다.
+
+케이블을 어댑터에 연결합니다."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">어댑터와 케이블 연결</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">이전 휴대전화를 잠금 해제하고 어댑터를 새 휴대전화에 연결합니다.</string>
+    <string name="fragment_usb_connect_both_phones_title">두 휴대전화 연결</string>
+    <string name="fragment_usb_dialog_cancel_description">케이블을 사용하는 경우 대부분의 콘텐츠를 가져올 수 있습니다. 상자에 들어 있는 케이블이 맞지 않으면 이전 휴대전화에서 작동하는 충전 또는 데이터 케이블을 사용해 보세요.</string>
+    <string name="fragment_usb_dialog_cancel_title">데이터를 다른 방법으로 복사하시겠습니까?</string>
+    <string name="fragment_usb_dont_have_cable">케이블이 없음</string>
+    <string name="fragment_usb_dont_have_old_phone">이전 휴대전화가 없음</string>
+    <string name="fragment_usb_find_cable_description">데이터 또는 충전 케이블 등 이전 휴대전화에 맞는 케이블을 사용합니다.</string>
+    <string name="fragment_usb_find_cable_title">올바른 케이블 찾기</string>
+    <string name="fragment_usb_initial_description">내 이전 번호에서 이 ^1(으)로 데이터를 전송합니다.</string>
+    <string name="fragment_usb_initial_title">데이터 복사</string>
+    <string name="fragment_usb_legacy_description">"가장 빨리 최대한 많은 데이터를 가져오는 방법입니다.
+
+상자에서 어댑터를 찾아 새 휴대전화에 연결합니다. 케이블을 사용하여 휴대전화 두 대를 연결한 후 기존 휴대전화를 잠금 해제합니다."</string>
+    <string name="fragment_usb_other_ways">케이블 없이 복사하기</string>
+    <string name="fragment_usb_plug_cable">케이블을 이전 휴대전화에 연결</string>
+    <string name="fragment_waiting_title">기다려 주세요</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">앱 접근권한</string>
+    <string name="google_contacts_static_text">Google 주소록이 동기화됩니다.</string>
+    <string name="google_contacts_static_text_off">Google 주소록이 계속 동기화됩니다.</string>
+    <string name="google_legal_title">Google 법적 고지</string>
+    <string name="google_play_tos_title">Google Play 서비스 약관</string>
+    <string name="google_plus_privacy_policy_title">Google 플러스 개인정보처리방침</string>
+    <string name="google_privacy_policy_title">Google 개인정보처리방침</string>
+    <string name="google_terms_of_service_title">Google 서비스 약관</string>
+    <string name="header_set_backup_account">백업 계정 설정</string>
+    <string name="i_message_dialog_message">"iPhone® 기기 사용자가 보낸 SMS 메시지를 계속 받으려면 iMessage®를 사용 중지해야 합니다.
+
+자세한 내용은 "<b>g.co/iMessageHelp</b>를 참조하세요.</string>
+    <string name="instant_apps_settings_title">인스턴트 앱</string>
+    <string name="instructions_fragment_title">다른 휴대전화에서 계속</string>
+    <string name="ios_connected_fragment_description">"다음 화면에서 Google 계정에 로그인하거나 새로운 계정을 만들 수 있습니다.
+
+Google 계정을 추가하지 않으면 iOS Calendar® 일정이 전송되지 않습니다."</string>
+    <string name="ios_message_attachment_explanation">[메시지 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에 있습니다.]</string>
+    <string name="ios_message_attachment_failed_explanation">[일부 첨부파일은 복사할 수 없습니다. 전송된 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에 있습니다.]</string>
+    <string name="ios_message_attachment_placeholder">[Google 포토 > 기기 폴더 > 메시지 첨부파일에 첨부파일이 저장됨]</string>
+    <string name="ios_message_attachments_placeholder">[Google 포토 > 기기 폴더 > 메시지 첨부파일에 첨부파일이 저장됨]</string>
+    <string name="ios_migration_default_calendar_title">캘린더</string>
+    <string name="ios_migration_other_contact_relation">기타</string>
+    <string name="ios_photos_dialog_message">"iCloud®에 저장된 사진은 복사할 수 없습니다.
+
+^1(으)로 사진을 가져오려면, iPhone® 기기에 Google 포토 앱을 설치하고 백업 및 동기화를 사용 설정하세요. 자세한 내용은 "<b>g.co/datatransferhelp</b>를 방문하세요.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">계정 추가</string>
+    <string name="lockscreen_smartdevice_action_next">다음</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">휴대전화 설정을 계속하려면 잠금 해제합니다.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">보안상의 이유로, 설정을 계속하려면 화면 잠금을 확인해야 합니다.</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">화면 잠금 확인</string>
+    <string name="manage_data_label">Google 계정</string>
+    <string name="master_clear_title">공장 초기화</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">네트워크 추천</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Wi‑Fi 메시지</string>
+    <string name="notification_channel_network_available">네트워크 사용 가능</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi 사용 설정됨</string>
+    <string name="notification_content_text_set_backup_account">백업 계정 설정</string>
+    <string name="notification_content_title_set_backup_account">백업</string>
+    <string name="notification_ticker">액세스 요청됨</string>
+    <string name="notification_ticker_set_backup_account">백업 계정 필요</string>
+    <string name="open_in_web_button">웹에서 열기</string>
+    <string name="open_source_activity_prompt_heading">앱 열기</string>
+    <string name="open_source_activity_prompt_text">"휴대전화에서 SourceResponseActivity을(를) 열고 인증 절차를 완료하세요. "</string>
+    <string name="opt_in_account_content_description">계정을 선택하세요. 현재 선택된 계정: %1$s</string>
+    <string name="opt_in_account_null_state">계정 만들기</string>
+    <string name="opt_in_agreement">계속하면 <a href="https://play.google.com/about/play-terms.html">Play 서비스 약관</a>에 동의하게 됩니다. <a href="https://support.google.com/googleplay/?p=instant_apps">자세히 알아보기</a></string>
+    <string name="opt_in_confirm">사용</string>
+    <string name="opt_in_description">"링크를 탭하면 Google Play에서 인스턴트 앱이 있는지 확인하여 설치 없이 앱을 실행합니다. 인스턴트 앱은 기기에 일시적으로 저장됩니다.
+
+인스턴트 앱을 사용하는 동안 권한이 필요한 경우 요청 메시지가 표시됩니다. 인앱 구매 항목을 비롯한 앱 세부정보는 Google Play 스토어에서 확인할 수 있습니다. 앱 데이터와 설정은 다음 계정에 로그인된 기기와 동기화됩니다."</string>
+    <string name="opt_in_description_m_plus">"링크를 탭하면 Google Play에서 인스턴트 앱이 있는지 확인하여 설치 없이 앱을 실행합니다. 인스턴트 앱은 기기에 일시적으로 저장됩니다.
+
+인앱 구매 항목을 비롯한 앱 세부정보는 Google Play 스토어에서 확인할 수 있습니다. 앱 데이터와 설정은 다음 계정에 로그인된 기기와 동기화합니다."</string>
+    <string name="opt_in_subtitle">설치 없이 앱 사용</string>
+    <string name="opt_in_title">인스턴트 앱</string>
+    <string name="permgrouplab_calendar">캘린더</string>
+    <string name="permgrouplab_camera">카메라</string>
+    <string name="permgrouplab_contacts">주소록</string>
+    <string name="permgrouplab_location">위치</string>
+    <string name="permgrouplab_microphone">마이크</string>
+    <string name="permgrouplab_phone">전화</string>
+    <string name="permgrouplab_sensors">인체 감지 센서</string>
+    <string name="permgrouplab_sms">문자 메시지</string>
+    <string name="permgrouplab_storage">저장소</string>
+    <string name="permissions_not_granted_text">권한을 부여받으려면 다시 로그인하세요.</string>
+    <string name="permissions_not_granted_title">권한이 부여되지 않았습니다.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">현재 백업한 사진이 저장된 계정이 없습니다.</string>
+    <string name="photos_backup_title">사진 백업</string>
+    <string name="photos_filtering_option_all">전체</string>
+    <string name="photos_filtering_option_none">없음</string>
+    <string name="plus_manage_app_only_you_label">비공개</string>
+    <string name="plus_network_unreliable">서버와 안정적으로 연결할 수 없습니다.</string>
+    <string name="plus_oob_interstitial_loading_text">몇 분 정도 걸릴 수 있습니다.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">복사된 연락처가 Google 계정에 저장됩니다.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">복사된 연락처와 캘린더가 Google 계정에 저장됩니다.</string>
+    <string name="restore_choice_data_disclaimer_v2">일부 데이터가 ^1에 복사되지 않았을 수 있습니다. <annotation id="restore_choice_data_disclaimer_learn_more">자세히 알아보기</annotation></string>
+    <string name="restore_choice_deselect_some_content">계속하려면 일부 콘텐츠를 선택 해제합니다.</string>
+    <string name="restore_choice_learn_more_android">"이전 휴대전화에 있는 다음과 같은 데이터는 자동으로 복사되지 않습니다.
+
+ ● 다운로드(예: PDF 파일)
+
+ ● 숨긴 폴더에 저장된 사진, 동영상 및 음악
+
+ ● 문자 메시지를 통해 받은 사진, 동영상 및 음악
+
+ ● Google Play 스토어에서 다운로드하지 않은 앱
+
+ ● 앱 데이터(앱이 Android 백업을 사용하지 않는 경우)
+
+ ● 특정 기기 설정
+
+ ● Google 계정 이외의 계정(및 모든 관련 데이터)
+
+ ● Google 이외의 서비스에 동기화된 주소록 및 캘린더
+
+ ● 벨소리
+
+ 이러한 데이터를 복사하기 위해 더 자세한 내용과 도움이 필요한 경우 g.co/datatransferhelp를 방문하세요."</string>
+    <string name="restore_choice_learn_more_ios">"이전 휴대전화의 데이터 중 다음 데이터는 자동으로 복사되지 않습니다.
+
+ ● 앱 및 앱 데이터
+
+ ● 원본이 휴대전화에 저장되어 있지 않은 사진(예를 들어, 저장용량 최적화 설정을 사용하도록 설정되어 있는 경우 원본 사진은 iCloud®에 저장됨)
+
+ ● iCloud®에 저장된 파일 및 문서
+
+ ● 기기 설정(Wi-Fi 비밀번호 및 배경화면 등)
+
+ ● 디지털 권한 관리(DRM) 보호로 보호되는 음악(예를 들어 2009년 4월 이전에 구매한 iTunes® 음악 또는 음악 스트리밍 앱으로 오프라인 감상을 위해 다운로드한 음악)
+
+ ● Google 계정이 아닌 계정(및 모든 관련 데이터)
+
+ ● Google이나 iCloud®가 아닌 서비스와 동기화된 연락처 및 캘린더
+
+ ● Safari® 북마크
+
+ iMessage® 첨부파일은 Google 포토 > 기기 폴더 > 메시지 첨부파일에서 사용할 수 있습니다.
+
+ 이 데이터 복사와 관련된 자세한 내용과 도움이 필요한 경우 g.co/datatransferhelp를 방문하세요."</string>
+    <string name="restore_choice_not_enough_space">저장 공간이 충분하지 않습니다.</string>
+    <string name="restore_choice_total_text">사용 가능한 공간: %1$s / 예상 전송 시간: %2$s</string>
+    <string name="restore_error_message">죄송합니다. 복원하는 데 오류가 발생했습니다.</string>
+    <string name="restore_instant_apps_notif_text">기기에서 필수 %1$s이(가) 삭제되었습니다.</string>
+    <string name="restore_instant_apps_notif_title">인스턴트 앱 복원</string>
+    <string name="restore_item_appdata">앱 데이터</string>
+    <string name="restore_item_calendar">캘린더</string>
+    <string name="restore_item_calendar_ical_description">iOS® 캘린더, Google 캘린더</string>
+    <string name="restore_item_calendar_ical_off_description">Google 캘린더가 여전히 동기화됩니다.</string>
+    <string name="restore_item_calendar_sync_description">Google 캘린더가 동기화됩니다.</string>
+    <string name="restore_item_call_logs">통화 기록</string>
+    <string name="restore_item_contacts">주소록</string>
+    <string name="restore_item_device_settings_description">Wi-Fi 비밀번호 및 기타</string>
+    <string name="restore_item_downloads">다운로드</string>
+    <string name="restore_item_email">이메일</string>
+    <string name="restore_item_email_description">Gmail이 동기화됩니다.</string>
+    <string name="restore_item_message_attachments">메시지 첨부파일</string>
+    <string name="restore_item_messages">메시지</string>
+    <string name="restore_item_music">음악</string>
+    <string name="restore_item_photos">사진 및 동영상</string>
+    <string name="restore_item_settings">기기 설정</string>
+    <string name="restore_item_sms">SMS 메시지</string>
+    <string name="restore_item_will_be_synced_text">휴대전화에 동기화됩니다.</string>
+    <string name="restore_progress_title">복원 중…</string>
+    <string name="restore_supervisor_description">인스턴트 앱에서 링크를 열려면 %1$s을(를) 복원하세요.</string>
+    <string name="restore_supervisor_success">인스턴트 앱이 복원됨</string>
+    <string name="restore_supervisor_title">인스턴트 앱을 복원하시겠습니까?</string>
+    <string name="search_menu_title">검색</string>
+    <string name="setup_failure_description">인스턴트 앱을 설정할 수 없습니다. <a href="https://support.google.com/googleplay/?p=instant_apps">자세히 알아보기</a></string>
+    <string name="setup_failure_title">설정할 수 없음</string>
+    <string name="sharedUserLabel">Google 서비스</string>
+    <string name="sid_lsid_grant_detail">비밀번호와 마찬가지로 SID(Session Identification)와 LSID(Local Session Identification) 쿠키는 사용자의 신원을 브라우저에서 보낸 일련의 요청과 연결하며, 사용자 계정의 모든 데이터에 자유롭게 액세스할 수 있도록 허용합니다. 브라우저에서만 이러한 쿠키를 합법적으로 사용할 수 있습니다.</string>
+    <string name="sid_lsid_grant_label">SID와 LSID 쿠키를 사용하여 사용자의 Google 계정에 있는 모든 데이터에 액세스할 수 있습니다.</string>
+    <string name="small_time_duration">1분 미만</string>
+    <string name="smartdevice_action_copy">복사하기</string>
+    <string name="smartdevice_action_next">다음</string>
+    <string name="smartdevice_action_open_app">앱 열기</string>
+    <string name="smartdevice_action_skip">건너뛰기</string>
+    <string name="smartdevice_action_try_another_way">다른 방법 시도</string>
+    <string name="smartdevice_action_turn_on_location">위치 사용 설정</string>
+    <string name="smartdevice_alert_disconnected_message">"기기 연결이 끊어졌습니다.
+설정을 계속하려면 연결한 후 다시 시작하세요."</string>
+    <string name="smartdevice_alert_disconnected_title">기기 연결이 끊어짐</string>
+    <string name="smartdevice_alert_dm_backup_account_message">백업 계정이 기기 관리자에 의해 관리되므로 이 기능을 사용할 수 없습니다.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">사용할 수 없는 기능</string>
+    <string name="smartdevice_alert_exit_setup_message">다른 기기의 설정을 종료하시겠습니까?</string>
+    <string name="smartdevice_alert_exit_setup_title">기기 설정 종료 여부</string>
+    <string name="smartdevice_alert_generic_error_title">문제가 발생했습니다.</string>
+    <string name="smartdevice_alert_generic_error_toast_text">문제가 발생했습니다.</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">기기를 설정하려면 하나 이상의 Google 계정이 필요합니다.</string>
+    <string name="smartdevice_alert_no_accounts_text">%s을(를) 설정하려면 하나 이상의 Google 계정이 필요합니다.</string>
+    <string name="smartdevice_alert_no_accounts_title">복사할 계정이 없습니다.</string>
+    <string name="smartdevice_alert_quit_button">종료</string>
+    <string name="smartdevice_alert_restart_setup_button">설정 다시 시작</string>
+    <string name="smartdevice_alert_setup_incomplete">설정이 완료되지 않았습니다.</string>
+    <string name="smartdevice_alert_skip_button">건너뛰기</string>
+    <string name="smartdevice_alert_start_over_button">다시 시작</string>
+    <string name="smartdevice_alert_work_profile_message">직장 계정을 아직 복사할 수 없습니다. 다른 Google 계정과 데이터를 복사한 후에 새 기기의 설정에서 직장 계정을 추가하세요.</string>
+    <string name="smartdevice_alert_work_profile_title">직장 계정을 복사할 수 없음</string>
+    <string name="smartdevice_application_label">기기 설정</string>
+    <string name="smartdevice_choose_device">기기 선택</string>
+    <string name="smartdevice_companion_app_ready">%s 앱이 이 기기에 이미 설치되어 있습니다.</string>
+    <string name="smartdevice_connect_to_wifi">기기 연결</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">기기에 연결 중…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google 계정, 기타 계정, 앱 및 데이터가 복사됩니다.</string>
+    <string name="smartdevice_d2d_copy_account_text">Google 계정, 앱, 데이터를 다른 기기에 복사하시겠습니까?</string>
+    <string name="smartdevice_d2d_copy_account_title">다른 기기에 복사하시겠습니까?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">인식할 수 없습니다.</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">대신 화면 잠금을 사용해 보세요.</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">보안상의 이유로 지문을 확인합니다. 내 Google 계정, 앱 및 데이터가 %s에 복사됩니다.</string>
+    <string name="smartdevice_d2d_lockscreen_description">기기 설정을 계속하려면 잠금 해제하세요.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">보안상의 이유로 설정을 계속하려면 화면 잠금을 입력하세요.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">계속하려면 확인</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">기기에서 블루투스를 사용할 수 없으므로 다른 기기를 설정할 수 없습니다.</string>
+    <string name="smartdevice_d2d_source_disabled_text">보안상의 이유로 이 기능이 사용 중지되었습니다. 다른 기기에서 건너뛰기를 터치하고 설정을 계속합니다.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">새 기기 설정</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">기기 설정</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 설정</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">설정을 다시 시작하고 ^1을(를) 선택하여 Google 계정, 앱, 데이터가 올바른 기기에 복사되도록 하세요.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">코드가 표시되지 않나요?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">코드가 표시되지 않나요?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">올바른 기기를 선택했는지 확인하려면 다른 기기에서 이 코드를 찾아보세요.</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">코드 확인</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">제한된 사용자 프로필에서 새 기기를 설정할 수 없습니다.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">%s에서 설정을 완료하세요.</string>
+    <string name="smartdevice_d2d_source_setup_success">작업이 거의 완료되었습니다.</string>
+    <string name="smartdevice_d2d_target_choice_description">다른 Android 기기를 사용 중인 경우 현재 설정을 즉시 이 %s(으)로 복사할 수 있습니다.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">이전 기기가 Android인 경우 대부분 항목을 다시 가져옵니다.</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">새 기기로 설정</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">다른 Android 기기에서 복사</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">아니요</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">이제 이 기기를 설정하려면 다음의 단계를 따르세요.</string>
+    <string name="smartdevice_d2d_target_choice_title">다른 기기가 준비되었나요?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google 계정, 앱, 데이터를 다른 기기에서 복사하기</string>
+    <string name="smartdevice_d2d_target_continue_description">다른 기기에서 설정을 계속합니다.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">계정 복사 중...</string>
+    <string name="smartdevice_d2d_target_description">"다른 기기로 돌아가려면 다음 단계를 따르세요.&lt;br/>&lt;br/> 1.  &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b>(이)라고 말하거나 '&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>'을(를) 입력하고 탭하여 확인합니다.&lt;br/>&lt;br/> 2. 목록에서 &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b>을(를) 터치하고 화면의 도움말을 따릅니다."</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">다음과 같이 해보기</string>
+    <string name="smartdevice_d2d_target_google_settings_description">다른 기기에서:&lt;br/>&lt;br/> 1. &lt;b>Google 설정&lt;/b> 앱을 엽니다. &lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=주변 기기 설정>%1$s&lt;/xliff:g>&lt;/b>을(를) 선택합니다. &lt;br/>&lt;br/> 3. 목록에서 &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>을(를) 터치하고 화면의 안내를 따릅니다.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">위 단계를 완료할 수 없습니다.</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">설정 사용하기</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">다른 기기에서&lt;br/>&lt;br/> 1. 모든 앱 아이콘을 탭한 다음 &lt;b>설정 앱&lt;/b>을 엽니다. &lt;br/>&lt;br/>2. &lt;b>Google&lt;/b>을 탭합니다. &lt;br/>&lt;br/> 3. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=주변 기기 설정>%1$s&lt;/xliff:g>&lt;/b>을 선택합니다. &lt;br/>&lt;br/>4. 목록에서 &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>을(를) 터치한 후 화면의 안내를 따릅니다.</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">다른 Android 기기에서 복사</string>
+    <string name="smartdevice_d2d_target_help_needed_link">문제가 발생했나요?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">찾을 수 없으신가요?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">다른 기기에서 Google 앱을 엽니다.</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google 앱을 엽니다.</string>
+    <string name="smartdevice_d2d_target_instruction_title">다른 기기에서</string>
+    <string name="smartdevice_d2d_target_nfc_description">"복사하기: 
+
+1. 다른 기기가 켜져 있고 잠금 해제되어 있음을 확인합니다. 
+
+2. 두 기기를 뒷면끼리 마주 댄 다음 신호음이 들리면 떼어놓습니다."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">탭하여 이동 기능은 NFC를 사용하여 다른 기기에서 Google 계정, 앱, 데이터를 복사합니다. 설정으로 이동하여 기기의 NFC가 켜져 있는지 확인합니다.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">문제가 발생했습니까?</string>
+    <string name="smartdevice_d2d_target_nfc_title">탭앤고</string>
+    <string name="smartdevice_d2d_target_other_device_description">"Google 앱은 모든 Android 기기에 사전 설치되어 있습니다. 홈 화면에서 '모든 앱' 버튼을 터치하고 위에 표시된 아이콘을 찾습니다."</string>
+    <string name="smartdevice_d2d_target_pin_code_description">이 코드는 내 다른 기기의 코드와 일치해야 합니다.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">건너뛰기 금지</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">설정 시 이 계정 및 백업된 앱과 데이터가 이 기기로 복사되지 않습니다.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">건너뛰기</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">이 계정을 건너뛸까요?</string>
+    <string name="smartdevice_d2d_target_title">Google 앱에서</string>
+    <string name="smartdevice_default_device_name">기기</string>
+    <string name="smartdevice_install_app">앱 설치</string>
+    <string name="smartdevice_install_app_reason" formatted="false">%s 앱을 다운로드하여 이 기기에서 새 %s을(를) 제어 및 관리합니다.</string>
+    <string name="smartdevice_install_on_this_device">설치</string>
+    <string name="smartdevice_search_again">다시 검색</string>
+    <string name="smartdevice_searching_for_devices">기기 검색</string>
+    <string name="smartdevice_setup_enter_code">기기에 코드를 입력합니다. 스티커에 표시됩니다.</string>
+    <string name="smartdevice_setup_enter_code_hint">코드를 입력하세요.</string>
+    <string name="smartdevice_setup_enter_pin_4">현재 다른 기기에 표시되어 있는 4자리 코드를 입력합니다.</string>
+    <string name="smartdevice_setup_google_app_trigger">기기 설정</string>
+    <string name="smartdevice_setup_info_installing_app">앱 설치 중…</string>
+    <string name="smartdevice_setup_intro_text">휴대전화의 블루투스와 Wi-Fi 데이터가 다른 기기를 설정하는 데 사용됩니다.</string>
+    <string name="smartdevice_setup_intro_text_nfc">휴대전화의 블루투스가 다른 기기를 설정하는 데 사용됩니다.</string>
+    <string name="smartdevice_setup_intro_title">시작하기</string>
+    <string name="smartdevice_setup_password_hint">Wi-Fi 비밀번호를 입력하세요.</string>
+    <string name="smartdevice_setup_show_password">비밀번호 표시</string>
+    <string name="smartdevice_setup_title_verify_code">코드 확인</string>
+    <string name="smartdevice_wifi_cannot_connect_description">이 기기 설정을 위해서는 개방형 네트워크와 WPA/WPA2 네트워크만 사용할 수 있습니다.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Wi-Fi 네트워크 사용 불가</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Wi-Fi와 연결되지 않으면 기기가 제대로 작동하지 않을 수 있습니다. 설정을 계속하려면 Wi-Fi 네트워크에 연결하세요.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Wi-Fi 네트워크 선택</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Wi-Fi를 검색하려면 위치를 사용 설정하세요.
+
+언제든지 나중에 설정에서 변경할 수 있습니다."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Wi-Fi 네트워크를 찾을 수 없음</string>
+    <string name="source_connected_description">준비 중...</string>
+    <string name="source_connected_title">%1$s에 연결됨</string>
+    <string name="source_copying_description">선택한 데이터는 새 휴대전화로 복사 중입니다.</string>
+    <string name="source_copying_title">복사 중...</string>
+    <string name="source_default_target_device_name">새 기기</string>
+    <string name="source_notification_device_disconnected">케이블 다시 연결</string>
+    <string name="source_notification_text">휴대전화에서 휴대전화로 전송 중</string>
+    <string name="source_notification_title">데이터 전송</string>
+    <string name="source_success_description">%1$s 설정을 완료합니다.</string>
+    <string name="source_success_screen_title">작업 완료</string>
+    <string name="source_unplugged_description">%1$s에 다시 연결</string>
+    <string name="source_unplugged_title">케이블 연결 끊김</string>
+    <string name="source_waiting_title">%1$s 설정 계속</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">닫기</string>
+    <string name="stop_copying_dialog_message_before_transfer">데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="stop_copying_dialog_message_during_transfer">일부 데이터가 새 휴대전화로 복사되지 않았습니다.</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">복사 안함</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">중지</string>
+    <string name="stop_copying_dialog_title_before_transfer">복사하지 않으시겠습니까?</string>
+    <string name="stop_copying_dialog_title_during_transfer">복사를 중지하시겠습니까?</string>
+    <string name="storage_management_wear_descriptive_text">앱에서 기기 저장공간을 사용하여 데이터를 웨어러블로 복제합니다.</string>
+    <string name="storage_management_wear_manage_size_label">웨어러블 저장공간 관리</string>
+    <string name="storage_management_wear_size_label">웨어러블 저장공간</string>
+    <string name="storage_managment_all_storage_descriptive_text">검색엔진 및 기타 데이터를 포함하여 Google Play 서비스에서 사용하는 전체 데이터입니다.</string>
+    <string name="storage_managment_clear_all_data">모든 데이터 지우기</string>
+    <string name="storage_managment_computing_size">계산 중...</string>
+    <string name="storage_managment_icing_size_label">검색 데이터</string>
+    <string name="storage_managment_manage_icing_button">검색 데이터 관리</string>
+    <string name="storage_managment_search_index_descriptive_text">앱에서 사용할 검색 엔진을 제공하여 기기에서의 검색을 가속화합니다.</string>
+    <string name="storage_managment_title">Google Play 서비스 저장 공간</string>
+    <string name="storage_managment_total_size_label">전체 저장 공간</string>
+    <string name="supervisor_downloading_description">%1$s 다운로드 중</string>
+    <string name="supervisor_downloading_title">기기를 설정하는 중</string>
+    <string name="supervisor_installing_description">%1$s 설치 중</string>
+    <string name="supervisor_title">인스턴트 앱의 Google Play 서비스</string>
+    <string name="suw_back_button_label">뒤로</string>
+    <string name="suw_more_button_label">더보기</string>
+    <string name="suw_next_button_label">다음</string>
+    <string name="system_update_ab_update_downloaded_notification_message">자세한 내용을 보려면 탭하세요.</string>
+    <string name="system_update_activity_battery_low_text">배터리 전원이 부족해 업데이트를 설치할 수 없습니다.</string>
+    <string name="system_update_activity_name">시스템 업데이트</string>
+    <string name="system_update_activity_roaming_text">로밍 중에는 시스템 업데이트를 다운로드할 수 없습니다.</string>
+    <string name="system_update_activity_roaming_text_glif">로밍 중에 다운로드할 수 없음</string>
+    <string name="system_update_android_version_text">Android 버전: ^1</string>
+    <string name="system_update_check_now_button_text">업데이트 확인</string>
+    <string name="system_update_checking_status_text">확인 중</string>
+    <string name="system_update_complete_label">시스템 업데이트</string>
+    <string name="system_update_countdown_cancel_button">설치 취소</string>
+    <string name="system_update_countdown_complete">재부팅 중...</string>
+    <string name="system_update_download_and_install_button_text">다운로드 및 설치</string>
+    <string name="system_update_download_button_text">다운로드</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">공간이 부족하여 다운로드할 수 없음</string>
+    <string name="system_update_download_failed_no_space_status_text">다운로드하기 위한 공간이 부족합니다.</string>
+    <string name="system_update_download_failed_status_text">다운로드하지 못했습니다.</string>
+    <string name="system_update_download_manage_storage_button_text">저장용량 관리</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Wi-Fi 대기 중</string>
+    <string name="system_update_download_paused_title_text">다운로드 일시중지됨</string>
+    <string name="system_update_download_retry_button_text">다운로드 재시도</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">업데이트가 ^1~^2 사이에 자동으로 다운로드되기 시작합니다.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">언제든지 Wi-Fi에서 이 업데이트를 다운로드할 수 있습니다. 그렇지 않으면 업데이트가 ^1~^2 사이에 자동으로 다운로드되기 시작합니다.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">이 업데이트를 다운로드하려면 먼저 다른 SIM 카드로 전환하세요.</string>
+    <string name="system_update_download_waiting_status_text">다운로드 대기 중</string>
+    <string name="system_update_downloading_status_text">다운로드 중</string>
+    <string name="system_update_downloading_title_text">시스템 업데이트 다운로드 중…</string>
+    <string name="system_update_downloading_wifi_status2_text">^2까지 ^1을(를) 통해서만 다운로드</string>
+    <string name="system_update_file_browser_ok_button">선택</string>
+    <string name="system_update_file_browser_title">업데이트 파일 선택</string>
+    <string name="system_update_free_up_space_button_text">기기 여유 공간 확보</string>
+    <string name="system_update_from_sd_card_button_and_title">SD 카드에서 업데이트</string>
+    <string name="system_update_from_sd_card_unknown_status">확인 중...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">확인할 수 없음</string>
+    <string name="system_update_from_sd_card_verified_description">업데이트를 확인하여 설치할 준비가 되었습니다.</string>
+    <string name="system_update_from_sd_card_verifying_status">확인 중...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">무제한 Wi-Fi 네트워크 필요</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Wi-Fi 권장</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"이 업데이트는 ^2까지 ^1을(를) 통해서만 다운로드할 수 있습니다.
+
+다운로드를 계속하려면 ^3에 연결하세요."</string>
+    <string name="system_update_glif_wifi_needed_title">Wi-Fi 네트워크 필요</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">데이터 요금이 발생하지 않도록 하려면 무제한 Wi-Fi 네트워크에 연결하세요.</string>
+    <string name="system_update_install_button_text">재시작 및 설치</string>
+    <string name="system_update_install_failed_button_qualifier_text">설치 문제</string>
+    <string name="system_update_install_failed_title_text">업데이트할 수 없음</string>
+    <string name="system_update_install_steps_text">^1/2단계</string>
+    <string name="system_update_installing_title_text">시스템 업데이트 설치 중…</string>
+    <string name="system_update_last_checkin">^1에 마지막으로 업데이트를 확인했습니다.</string>
+    <string name="system_update_last_checkin_glif">마지막 업데이트 확인: ^1</string>
+    <string name="system_update_managed_by_policy">이 기기의 시스템 소프트웨어 업데이트는 조직에서 관리합니다.</string>
+    <string name="system_update_no_update_content_text">시스템이 최신 상태입니다.</string>
+    <string name="system_update_no_update_content_text_glif">시스템이 최신 상태입니다.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">시스템 업데이트를 다운로드할 수 없음</string>
+    <string name="system_update_not_owner_text">시스템 소프트웨어를 업데이트할 수 있으나 소유자만 설치할 수 있습니다.</string>
+    <string name="system_update_notification_header_name">Android 시스템 업데이트</string>
+    <string name="system_update_pause_button_text">다운로드 일시중지</string>
+    <string name="system_update_processing_status_text">처리 중</string>
+    <string name="system_update_requires_restart_status_text">재시작 필요</string>
+    <string name="system_update_restart_to_install_button_text">지금 다시 시작 및 설치</string>
+    <string name="system_update_restart_to_update_button_text">지금 다시 시작 및 업데이트</string>
+    <string name="system_update_resume_button_text">다시 시작</string>
+    <string name="system_update_scheduled_status_text">예정</string>
+    <string name="system_update_security_patch_level_text">보안 패치 수준: ^1</string>
+    <string name="system_update_security_update_available_title_text">보안 업데이트 사용 가능</string>
+    <string name="system_update_security_update_downloading_title_text">보안 업데이트 다운로드 중...</string>
+    <string name="system_update_security_update_installing_title_text">보안 업데이트 설치 중...</string>
+    <string name="system_update_size_label">크기 업데이트:</string>
+    <string name="system_update_suw_download_and_install_text">"업데이트를 다운로드하고 설치하는 데 몇 분 정도 소요됩니다.
+
+설치가 완료되면 기기가 자동으로 다시 시작됩니다."</string>
+    <string name="system_update_suw_download_text">"업데이트를 다운로드하는 데 몇 분 정도 소요됩니다.
+
+다운로드가 완료되면 기기가 자동으로 다시 시작됩니다."</string>
+    <string name="system_update_suw_download_title">업데이트 다운로드 중...</string>
+    <string name="system_update_suw_restart_text">기기가 다시 시작되면 시스템 업데이트를 설치할 수 있습니다.</string>
+    <string name="system_update_suw_restart_title">곧 다시 시작</string>
+    <string name="system_update_suw_wifi_needed">다운로드를 계속하려면 ^1을(를) 선택하세요.</string>
+    <string name="system_update_update_available_download_message_wearable">왼쪽으로 스와이프하여 다운로드하세요.</string>
+    <string name="system_update_update_available_notification_message">자세히 알아보고 다운로드하려면 탭하세요.</string>
+    <string name="system_update_update_available_notification_title">시스템 업데이트 사용 가능</string>
+    <string name="system_update_update_available_tap_to_download">다운로드하려면 탭하세요.</string>
+    <string name="system_update_update_available_title_text">시스템 업데이트 사용 가능</string>
+    <string name="system_update_update_download_auto_paused_notification_title">다운로드 일시중지됨</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">사용 가능한 저장 공간 부족</string>
+    <string name="system_update_update_downloaded_charge_wearable">배터리를 %d%% 이상 충전하세요.</string>
+    <string name="system_update_update_downloaded_install_message_wearable">왼쪽으로 스와이프하여 설치하세요.</string>
+    <string name="system_update_update_downloaded_notification_message">자세히 알아보고 설치하려면 탭하세요.</string>
+    <string name="system_update_update_downloaded_notification_title">시스템 업데이트 다운로드됨</string>
+    <string name="system_update_update_downloaded_tap_to_install">설치하려면 탭하세요.</string>
+    <string name="system_update_verification_failed_text">확인 실패</string>
+    <string name="system_update_verified_status_text">다운로드 및 확인</string>
+    <string name="system_update_verify_failed_button_qualifier_text">인증 문제</string>
+    <string name="system_update_verifying_status_text">확인 중</string>
+    <string name="system_update_wearable_countdown_message">%d초 후 다시 시작...</string>
+    <string name="target_default_source_device_model">이전 기기</string>
+    <string name="target_device_not_supported_cant_continue_description">데이터를 복사할 다른 방법을 선택해야 합니다.</string>
+    <string name="target_device_not_supported_cant_continue_title">다른 휴대전화는 지원되지 않음</string>
+    <string name="target_device_not_supported_try_restarting_description">"케이블을 연결 해제하고 이전 휴대전화를 다시 시작한 다음 케이블을 다시 연결하고 Pixel의 안내에 따르세요.
+
+오류가 계속 표시되는 경우 다른 방법으로 복사를 시도해야 할 수 있습니다."</string>
+    <string name="target_device_not_supported_try_restarting_title">휴대전화가 지원되지 않을 수 있음</string>
+    <string name="target_smart_device_timeout_add_account">계정 추가</string>
+    <string name="target_smart_device_timeout_description">원하는 경우 계정을 수동으로 추가해볼 수도 있습니다.</string>
+    <string name="target_smart_device_timeout_dismiss">닫기</string>
+    <string name="target_smart_device_timeout_title">문제가 발생했나요?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">휴대전화가 연결되었습니다.</string>
+    <string name="toast_reconnect_cable">케이블 다시 연결</string>
+    <string name="transfer_finished_fragment_title">설정 마무리 중 ...</string>
+    <string name="transfer_summary_copied">데이터 복사됨</string>
+    <string name="transfer_summary_fragment_description">케이블을 분리하세요.</string>
+    <string name="transfer_summary_fragment_finish">완료</string>
+    <string name="transfer_summary_fragment_title">휴대전화가 거의 준비됨</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">일부 사진이 복사되지 않았습니다. <annotation id="transfer_summary_learn_more">자세히 알아보기</annotation></string>
+    <string name="transfer_summary_not_copied">데이터가 복사되지 않음</string>
+    <string name="transfer_summary_partial">%1$s/%2$s개 복사됨</string>
+    <string name="transfer_summary_will_sync">설치 후에 데이터가 동기화됩니다.</string>
+    <string name="transferring_fragment_calculating_remaining_time">남은 시간 계산 중...</string>
+    <string name="transferring_fragment_header">복사 중...</string>
+    <string name="transferring_fragment_remaining_time">%1$s 남음</string>
+    <string name="trust_instructions_description">계속하려면 iPhone® 기기를 확인하고 연결을 승인하세요.</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, iTunes는 미국과 기타 국가에 등록된 Apple Inc.의 상표입니다.</string>
+    <string name="unmetered_wifi_string">무제한 Wi-Fi 네트워크</string>
+    <string name="url_load_unsuccessful_message">네트워크에 연결되지 않았습니다. 관련 정보를 확인하려면 웹브라우저에서 %s 페이지로 이동하세요.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android 기기가 Wi-Fi 네트워크에 연결되어 있지 않습니다. 지금 정보를 보려면 웹브라우저를 사용하여 %s 페이지를 방문하세요.</string>
+    <string name="use_nearby_device_heading">주변 기기를 사용하시나요?</string>
+    <string name="use_nearby_device_text">주변 기기를 사용하여 사용자 인증 정보를 승인할까요?</string>
+    <string name="waiting_for_account_info_text">계정 정보를 기다리는 중...</string>
+    <string name="wifi_available_action_all_networks">모든 네트워크</string>
+    <string name="wifi_available_action_connect">연결</string>
+    <string name="wifi_available_content_failed">모든 네트워크를 보려면 탭하세요.</string>
+    <string name="wifi_available_title">공개 Wi‑Fi 네트워크에 연결</string>
+    <string name="wifi_available_title_connected">Wi‑Fi 네트워크에 연결됨</string>
+    <string name="wifi_available_title_connecting">공개 Wi‑Fi 네트워크에 연결 중</string>
+    <string name="wifi_available_title_failed">Wi‑Fi 네트워크에 연결할 수 없음</string>
+    <string name="wifi_string">Wi-Fi 네트워크</string>
+    <string name="wifi_wakeup_enabled_notification_context">주변에 저장된 네트워크(%1$s)가 있습니다.</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi‑Fi가 자동으로 사용 설정됨</string>
+</resources>

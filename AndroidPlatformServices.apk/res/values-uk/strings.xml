@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Перейти на головний</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Перейти вгору</string>
+    <string name="abc_action_menu_overflow_description">Інші опції</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Переглянути всі</string>
+    <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
+    <string name="abc_capital_off">ВИМК.</string>
+    <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_search_hint">Пошук…</string>
+    <string name="abc_searchview_description_clear">Очистити запит</string>
+    <string name="abc_searchview_description_query">Пошуковий запит</string>
+    <string name="abc_searchview_description_search">Пошук</string>
+    <string name="abc_searchview_description_submit">Надіслати запит</string>
+    <string name="abc_searchview_description_voice">Голосовий пошук</string>
+    <string name="abc_shareactionprovider_share_with">Надіслати через</string>
+    <string name="abc_shareactionprovider_share_with_application">Надіслати через %s</string>
+    <string name="abc_toolbar_collapse_description">Згорнути</string>
+    <string name="account_blocked_title">Облік. запис заблоковано</string>
+    <string name="account_level_title">Потрібна дія в обл.записі</string>
+    <string name="account_removed_notification_text">Обліковий запис %1$s вилучено, оскільки не налаштовано параметри керування пристроями</string>
+    <string name="account_removed_notification_title">Обліковий запис вилучено</string>
+    <string name="android_privacy_policy_title">Додаткова політика конфіденційності</string>
+    <string name="app_has_in_app_purchases">Покупки через додаток</string>
+    <string name="app_has_permissions">Дозволи: %s</string>
+    <string name="app_has_runtime_permissions">Додаток запитуватиме дозволи</string>
+    <string name="app_level_title">Запит на вхід</string>
+    <string name="app_level_title_secondary">%s – запит на вхід</string>
+    <string name="app_picker_app_already_installed_toast">Цей додаток уже встановлено</string>
+    <string name="app_picker_loading">Пошук доступних додатків…</string>
+    <string name="app_picker_loading_toast">Доступні додатки невдовзі завантажаться</string>
+    <string name="app_picker_no_apps">Додатки не вибрано</string>
+    <string name="app_picker_no_apps_found">Немає додатків</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Покупки через додаток не буде перенесено на пристрій ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Деякі покупки через додаток можуть не перенестися на пристрій ^1.</string>
+    <string name="apps_permissions_described_v2">"Лише для популярних безкоштовних додатків iOS® можна знайти відповідні додатки Android. Більшість покупок через додатки не буде перенесено. Після налаштування більше додатків можна знайти в Play Маркеті.
+
+Можливо, деяким додаткам потрібно буде надати доступ до певних функцій або інформації на пристрої. Дозволи впорядковано за групами. Установлюючи ці додатки, ви приймаєте дозволи в кожній групі. Опис груп дозволів наведено нижче.
+
+Для деяких додатків не потрібно приймати дозволи. Ви можете надавати або відхиляти окремі дозволи додатків.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Установлюючи кожний додаток, ви приймаєте його дозволи. <annotation id="apps_permissions_learn_more">Докладніше</annotation></string>
+    <string name="audience_selection_done">Готово</string>
+    <string name="auth_account_already_has_gmail">В обліковому записі вже є Gmail.</string>
+    <string name="auth_account_content_provider_label">Дані облікового запису Google</string>
+    <string name="auth_account_removed_default_description">Параметри керування пристроями не налаштовано. Почніть знову та ввійдіть в обліковий запис ще раз.</string>
+    <string name="auth_account_removed_default_title">Налаштування скасовано</string>
+    <string name="auth_account_removed_dm_bad_result_description">Не вдалося налаштувати параметри керування пристроями. Почніть знову та ввійдіть в обліковий запис ще раз.</string>
+    <string name="auth_account_removed_dm_not_supported_description">У вашому домені потрібна система керування мобільними пристроями, однак вона не підтримується на цьому пристрої. Спробуйте інший обліковий запис.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Керування пристроями не підтримується</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Додаток для керування пристроями не встановлено. Почніть знову та ввійдіть в обліковий запис ще раз.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Не встановлено</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Параметри керування пристроями не налаштовано. Почніть знову та ввійдіть в обліковий запис ще раз.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Налаштув. скасовано</string>
+    <string name="auth_account_settings_title">Налаштування облікового запису</string>
+    <string name="auth_account_setup_title">Обліковий запис Google</string>
+    <string name="auth_account_state_sync_title">Синхронізація стану облікового запису</string>
+    <string name="auth_allow_button_label">Дозволити</string>
+    <string name="auth_allow_external_site_access">Мати постійний доступ до ваших даних на сайті %s</string>
+    <string name="auth_app_permission_ok_footnote">Продовжуючи, ви дозволяєте цій програмі та Google застосовувати ваші дані відповідно до їх умов використання й політики конфіденційності.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Дозволити вхід</string>
+    <string name="auth_authzen_allow_reset_button_text">Скидання пароля</string>
+    <string name="auth_authzen_google_logo_label">Логотип Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Вхід схвалено</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Вхід скасовано</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Дозволити вхід</string>
+    <string name="auth_authzen_login_challenge_desc_text">Ви входите в обліковий запис із цього місця: %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Спробу входу заблоковано.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Неправильний номер</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Торкніться номера на іншому екрані. Так ви зможете ввійти на своєму комп’ютері.</string>
+    <string name="auth_authzen_login_challenge_title_text">Хочете ввійти?</string>
+    <string name="auth_authzen_profile_picture_label">Зображення профілю</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Виберіть обліковий запис, з якого ви хочете ввійти:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Хочете ввійти?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Немає сповіщень про вхід в обліковий запис.</string>
+    <string name="auth_authzen_pull_offline_error">Внутрішня помилка</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Натисніть опцію \"Маєте код?\" на комп’ютері та введіть:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Ви щойно намагались увійти в обліковий запис Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Скидання пароля схвалено</string>
+    <string name="auth_authzen_recovery_canceled_text">Скидання пароля скасовано</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Дозволити скидання пароля в такому місці: %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Потрібне ваше підтвердження</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Спробу скидання пароля заблоковано.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Неправильний номер</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Торкніться номера на іншому екрані. Так ви зможете скинути пароль.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Дозволити скидання пароля</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Хтось намагався скинути пароль вашого облікового запису Google. Спробу скидання пароля заблоковано.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Скидання пароля заблоковано</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Чи надсилали ви запит на скидання пароля в такому місці: %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Ви намагалися скинути пароль?</string>
+    <string name="auth_authzen_secure_account_button_text">Захистити обл.запис</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Пошук сповіщень про вхід в обліковий запис…</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_cant_add_work_account_message">Цим обліковим записом керує ваша організація.</string>
+    <string name="auth_captcha_instructions">Введіть зображений текст тут:</string>
+    <string name="auth_captcha_title">Потрібно ввести символи CAPTCHA</string>
+    <string name="auth_common_next_button">Далі</string>
+    <string name="auth_common_skip">Пропустити</string>
+    <string name="auth_common_switch_accounts">Інший обліков. запис</string>
+    <string name="auth_communicating_message">Пристрій зв’язується із серверами Google, щоб зберегти інформацію у ваш обліковий запис. Це може тривати до 5 хвилин.</string>
+    <string name="auth_confirm_creds_sync_title">Стан облікових даних</string>
+    <string name="auth_d2d_source_alert_title">Торкнутися та перенести</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Блокувати й перевірити</string>
+    <string name="auth_d2d_source_copy_notice">Скопіювати облікові записи й дані на інший ваш пристрій?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Після перевірки буде ввімкнено Bluetooth, щоб ваші пристрої могли обмінюватися даними.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Після перевірки ваші пристрої під’єднаються через Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Після цього ваш екран заблокується, і вам потрібно буде розблокувати його для перевірки.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Перенесення даних неможливе, оскільки на цьому пристрої немає облікових записів.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Перенесення даних неможливе, оскільки на вашому пристрої немає Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Буде ввімкнено Bluetooth, щоб ваші пристрої могли обмінюватися даними.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Для цієї функції потрібен Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Дані перенесено</string>
+    <string name="auth_d2d_source_restricted_user_toast">В обмеженому профілі користувача функція \"Прикласти та відновити\" недоступна.</string>
+    <string name="auth_d2d_source_title">Відновити облікові записи</string>
+    <string name="auth_d2d_source_unknown_device_name">Невідомий пристрій</string>
+    <string name="auth_d2d_target_sorry_alert">На жаль, сталася помилка</string>
+    <string name="auth_d2d_target_tap_progress_message">Щоб продовжити, торкніться опції ОK на іншому пристрої</string>
+    <string name="auth_d2d_target_title">Прикласти та відновити</string>
+    <string name="auth_d2d_target_unlock_progress_message">Перевірте інший пристрій</string>
+    <string name="auth_d2d_target_wait_progress_message">Завантаження облікових записів і даних…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Відхилити</string>
+    <string name="auth_device_management_download_app_icon">Значок додатка %s</string>
+    <string name="auth_device_management_download_description">У цьому обліковому записі потрібно керувати мобільними пристроями. Щоб застосувати правила безпеки для облікового запису, установіть додаток ^1.</string>
+    <string name="auth_device_management_download_description_kids">Щоб додати обліковий запис на цей пристрій, спершу встановіть додаток <b>^1</b>". 
+
+^1 допоможе налаштувати цей пристрій для вашої дитини."</string>
+    <string name="auth_device_management_download_failed_message">Ви можете продовжити налаштування без цього додатка</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Не вдалося встановити додаток для керування пристроями. Обліковий запис буде видалено. Спробуйте пізніше.</string>
+    <string name="auth_device_management_download_failed_title">Додаток не завантажено</string>
+    <string name="auth_device_management_download_not_updated_message">Ви можете продовжити налаштування в поточній версії</string>
+    <string name="auth_device_management_download_paused">Призупинено</string>
+    <string name="auth_device_management_download_progress">Завантаження…</string>
+    <string name="auth_device_management_download_skip_message">У цьому обліковому записі не налаштовано керування пристроями. Усе одно продовжити?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Щоб додати цей обліковий запис, потрібно налаштувати параметри керування пристроями. Почати знову з іншим обліковим записом?</string>
+    <string name="auth_device_management_go_back">Назад</string>
+    <string name="auth_device_management_screenlock_description">Щоб отримати доступ до вашого робочого профілю на цьому пристрої, потрібно налаштувати блокування екрана. Це політика мобільних пристроїв у вашій організації.</string>
+    <string name="auth_device_management_screenlock_skip_message">У цьому обліковому записі потрібно налаштувати блокування екрана. Вибрати інший обліковий запис?</string>
+    <string name="auth_device_management_start_description">У цьому обліковому записі потрібно керувати мобільними пристроями. Торкніться опції \"Далі\", щоб за допомогою додатка ^1 застосувати правила безпеки для облікового запису.</string>
+    <string name="auth_device_management_start_description_kids">Щоб додати обліковий запис на цей пристрій, відкрийте додаток <b>^1</b>". 
+
+^1 допоможе налаштувати цей пристрій для вашої дитини."</string>
+    <string name="auth_device_management_title">Керування пристроями</string>
+    <string name="auth_device_management_update_description">У цьому обліковому записі потрібно керувати мобільними пристроями. Щоб застосувати правила безпеки для облікового запису, установіть новішу версію додатка ^1.</string>
+    <string name="auth_device_management_update_description_kids">Щоб додати обліковий запис на цей пристрій, спершу встановіть найновішу версію додатка <b>^1</b>". 
+
+^1 допоможе налаштувати цей пристрій для вашої дитини."</string>
+    <string name="auth_dismiss_button_label">Закрити</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не має адреси Gmail.</string>
+    <string name="auth_error_account_disabled">"Цей обліковий запис вимкнено. 
+
+(Деталі дивіться на сторінці http://google.com/accounts у веб-переглядачі)."</string>
+    <string name="auth_error_account_not_verified">"Цей обліковий запис не підтверджено. Щоб підтвердити цей обліковий запис, перевірте свою електронну пошту та перейдіть за посиланням у листі. 
+
+(Щоб відновити дані облікового запису, перейдіть у комп’ютері на сторінку http://www.google.com/accounts/recovery)."</string>
+    <string name="auth_error_bad_password">Цей пароль дуже ненадійний або містить недійсні символи. Повторіть спробу.</string>
+    <string name="auth_error_bad_username">Недійсне ім’я користувача.</string>
+    <string name="auth_error_generic_server_error">"Під час під’єднання до серверів Google виникла проблема. 
+
+Спробуйте пізніше."</string>
+    <string name="auth_error_invalid_second_factor">Використовуйте пароль програми, а не звичайний пароль облікового запису.</string>
+    <string name="auth_error_login_failed">"Ваше ім’я користувача та пароль не збігаються. Повторіть спробу.
+
+Щоб відновити дані облікового запису, перейдіть на сторінку google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Щоб отримати доступ до облікового запису, ви маєте ввійти в нього в Інтернеті. Торкніться опції \"Далі\", щоб увійти у веб-переглядачі.</string>
+    <string name="auth_error_no_network">"Немає з’єднання з мережею. 
+
+Проблема може бути тимчасовою. Повторіть спробу або під’єднайте пристрій до іншої мережі Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">Користувач не ввійшов.</string>
+    <string name="auth_error_username_unavailable">Ім’я користувача не доступне.</string>
+    <string name="auth_existing_account_error_text">У цьому пристрої Android уже є обліковий запис ^1.</string>
+    <string name="auth_existing_account_error_title">Обліковий запис уже існує</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Не вдалося ввійти в обліковий запис на пристрої, оскільки ви нещодавно змінили пароль. Спробуйте ввійти через 24 години після зміни пароля.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Функції захисту пристрою не працюватимуть.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Якщо перемістити останній обліковий запис Google з особистого профілю, буде вимкнено функції захисту пристрою від викрадення. Щоб увімкнути їх знову, можна додати на пристрій інший обліковий запис.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Справді видалити?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Перемістити обліковий запис у робочий профіль?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Не вдалося ввійти в обліковий запис на пристрої, оскільки сталася невідома помилка. Спробуйте ввійти в інший обліковий запис або повторіть спробу через 24 години.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Увійдіть в один з облікових записів власника цього пристрою</string>
+    <string name="auth_field_cant_be_blank">Поле не може бути порожнім.</string>
+    <string name="auth_frp_add_account_no">Ні</string>
+    <string name="auth_frp_add_account_prompt">Додати обліковий запис ^1 на пристрій? Якщо у вас є інший обліковий запис, ви зможете додати його пізніше.</string>
+    <string name="auth_frp_add_account_yes">Так</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Немає доступу до цього облікового запису. Переконайтеся, що ваш пристрій відповідає правилам безпеки вашої організації. Якщо помилка не зникає, зв’яжіться з адміністратором організації.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Помилка облік.запису</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Для вашого домену потрібна система керування мобільними пристроями. Установіть додаток Google Apps Device Policy, щоб застосувати правила безпеки, які вимагаються для облікового запису  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Завантажити</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" може містити лише літери,
+цифри та крапки."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не містить літер.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> містить менше 6 чи більше 30 символів.</string>
+    <string name="auth_gls_is_not_available">Ім’я користувача <b>^1</b> не доступне.</string>
+    <string name="auth_gls_name_checking_info_title">Перевірка…</string>
+    <string name="auth_gls_sync_item_title">Синхронізувати %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Обліковий запис  "<b>^1</b> потрібно додати на пристрій або в службовий профіль, якими керує ваша організація. Щоб завершити, виконайте вказівки свого IT-адміністратора.</string>
+    <string name="auth_google_title_logo">Логотип Google</string>
+    <string name="auth_invalid_login_character">Недійсний символ. Дозволено лише символи 0–9, a–z, A–Z і крапки.</string>
+    <string name="auth_invalid_password_character">Недійсний символ пароля.</string>
+    <string name="auth_invalid_username">Введений текст не є дійсним ім’ям користувача.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Продовжуючи, ви погоджуєтеся, що цей пристрій може автоматично завантажувати та встановлювати оновлення й додатки від Google, вашого оператора і виробника пристрою, зокрема через мобільний Інтернет. Деякі з цих додатків можуть пропонувати покупки через додаток. Ви можете будь-коли видалити такі додатки.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Звільніть місце, коли пам’ять пристрою майже заповнена</b>, видаливши деякі дані з пристрою, як-от резервні копії фото та відео.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Автоматично зберігайте резервні копії даних пристроїв</b> (як-от паролі Wi-Fi та історію викликів) і додатків (як-от налаштування й збережені файли) на Google Диску своєї дитини.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Коли ви вмикаєте автоматичне резервне копіювання, дані пристроїв і додатків періодично зберігаються в приватній папці на Google Диску вашої дитини. Серед даних додатків може бути будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії.
+
+Резервні копії не займають місця на Диску вашої дитини. Великі файли або файли, які розробники не включили в цю службу, не копіюються."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Автоматично зберігайте резервні копії налаштувань і даних пристроїв</b> (як-от паролі Wi-Fi, SMS та історію викликів) і додатків (як-от параметри та збережені файли) на Google Диску своєї дитини.</string>
+    <string name="auth_kids_setup_wizard_services_description">Ви можете будь-коли ввімкнути або вимкнути ці служби для облікового запису своєї дитини. Дані використовуватимуться відповідно до <annotation link="google_privacy">Політики</annotation>" Google.
+
+Щоб дізнатися більше, торкніться потрібної служби."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Використовуйте службу локації Google</b>, щоб додатки могли визначати місцезнаходження вашої дитини. Коли пристрій увімкнено, анонімні геодані надсилаються в Google.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Служба локації Google використовує такі джерела, як Wi-Fi і мобільні мережі, щоб швидше й точніше визначати місцезнаходження пристрою. Ця служба працює, якщо функцію доступу до геоданих пристрою ввімкнено в режимі отримання геоданих за допомогою Wi‑Fi або мобільних мереж (\"Висока точність\" або \"Економія заряду\").
+
+Вимкнути цю службу можна двома способами:
+
+"<li>вимкнути основну функцію доступу до геоданих на пристрої;</li>"
+
+"<li>не вимикаючи основної функції доступу до геоданих, вибрати режим, у якому використовується лише GPS (\"Лише пристрій\").</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Допоможіть покращити ОС Android</b>, автоматично надсилаючи в Google дані про діагностику й використання. Ця інформація не використовуватиметься для встановлення особи вашої дитини, а допоможе подовжити роботу акумулятора, покращити стабільність додатків, з’єднання з мережею тощо.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Це загальна інформація про цей пристрій і його використання (як-от дані про рівень заряду акумулятора, використання додатків та з’єднання з мережею). Вона надсилатиметься для покращення продуктів і служб Google. Деяка сукупна інформація допомагає нашим партнерам, як-от розробникам Android, удосконалювати свої додатки та продукти.
+
+Якщо вимкнути цю функцію, пристрій усе одно зможе надсилати інформацію, потрібну для отримання важливих послуг, як-от оновлень системи та засобів безпеки."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Це загальна інформація про цей пристрій і його використання (як-от дані про рівень заряду акумулятора, використання додатків та з’єднання з мережею), яка надсилатиметься для покращення продуктів і служб Google. Деяка сукупна інформація допомагає нашим партнерам, зокрема розробникам Android, удосконалювати свої додатки та продукти.
+
+Якщо вимкнути цю функцію, пристрій усе одно зможе надсилати інформацію, потрібну для отримання важливих послуг, як-от оновлень системи та засобів безпеки.
+
+Щоб увімкнути або вимкнути цю функцію, відкрийте меню \"Налаштування\" > Google і виберіть опцію \"Використання та діагностика\"."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Ви ввели неправильний пароль або ваш обліковий запис змінено. Введіть пароль ще раз. Якщо ви забули пароль, натисніть <annotation id="help_url">тут</annotation>, щоб відновити доступ до свого облікового запису.</string>
+    <string name="auth_login_activity_task_title">Вхід…</string>
+    <string name="auth_login_activity_title">Увійти</string>
+    <string name="auth_login_task_title">Вхід</string>
+    <string name="auth_login_title">Введіть електронну адресу та пароль</string>
+    <string name="auth_minutemaid_ssl_error">"Не вдалося під’єднатися до хосту  %s."</string>
+    <string name="auth_network_unreliable_help">Можливо, це тимчасова проблема або у вашому пристрої Android не передбачено служби передавання даних. Якщо проблема не зникне, зв’яжіться зі службою підтримки.</string>
+    <string name="auth_next_button_label">Далі</string>
+    <string name="auth_no_network">З’єднання з мережею відсутнє.</string>
+    <string name="auth_no_network_help">Можливо, це тимчасова проблема або у вашому пристрої Android не передбачено служби передавання даних. Повторіть спробу під час з’єднання з мобільною мережею чи під’єднайтеся до мережі Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Можливо, це тимчасова проблема. Повторіть спробу чи під’єднайтеся до іншої мережі Wi-Fi.</string>
+    <string name="auth_otp_error">Не вдалося згенерувати код безпеки.</string>
+    <string name="auth_otp_explained_paragraph">Якщо ви забудете свій пароль або інші нові дані для входу, Google може попросити вас ввести код безпеки, щоб захистити ваш обліковий запис. Скористайтеся ним зараз або поверніться, щоб отримати новий код.</string>
+    <string name="auth_otp_header_message">Коли використовувати цей код під час входу</string>
+    <string name="auth_otp_help">Довідка й відгуки</string>
+    <string name="auth_otp_no_accounts_available_message">Облікові записи на цьому пристрої не налаштовано.</string>
+    <string name="auth_otp_progress_dialog_message">Генерування коду безпеки.</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_plus_audience_selection_description_acl">ПОДІЛИТИСЯ</string>
+    <string name="auth_plus_failure_new_account_text">Обліковий запис Google створено, але ваш запит створити профіль Google+ не виконано. Повторіть спробу пізніше в будь-якому веб-переглядачі на сторінці plus.google.com.</string>
+    <string name="auth_plus_failure_text">Ваш запит на приєднання до Google+ не виконано. Повторіть спробу пізніше в будь-якому веб-переглядачі на сторінці plus.google.com.</string>
+    <string name="auth_plus_failure_title">Створіть профіль Google+ пізніше</string>
+    <string name="auth_plus_info_fragment_app_name">Додатку %s потрібен доступ до:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">Додаток %s на пристрої %s запитує такі дозволи:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Ваші розширені кола</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Вибрані кола</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Лише ви</string>
+    <string name="auth_plus_scope_fragment_public_label">Усі користувачі Інтернету</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Ваші кола</string>
+    <string name="auth_relogin_activity_title">Введіть пароль ще раз</string>
+    <string name="auth_remove_account_start_over">Почати знову</string>
+    <string name="auth_scope_more_details">Докладніше</string>
+    <string name="auth_server_error">Під час обміну даними із серверами Google виникла проблема.</string>
+    <string name="auth_server_error_help">Повторіть спробу пізніше.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Обліковий запис додано</string>
+    <string name="auth_setup_wizard_account_added_description">Ваш обліковий запис додано. Виберіть параметри служб Google</string>
+    <string name="auth_setup_wizard_back_button_label">Назад</string>
+    <string name="auth_setup_wizard_next_button_label">Далі</string>
+    <string name="auth_setup_wizard_services_activity_title">Служби Google</string>
+    <string name="auth_setup_wizard_services_agreement">Продовжуючи, ви погоджуєтеся, що цей пристрій може автоматично завантажувати та встановлювати оновлення й додатки від Google, вашого оператора і виробника пристрою, зокрема через мобільний Інтернет. Деякі з цих додатків можуть пропонувати покупки через додаток. Ви можете будь-коли видалити такі додатки.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Щоб видалити додатки, перейдіть у меню \"Налаштування\" > \"Додатки\" або \"Менеджер додатків\" (можливо, потрібно буде гортати праворуч або ліворуч, щоб знайти потрібний додаток). Потім торкніться опції \"Видалити\" або \"Вимкнути\".</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Ви також надаєте попередньо завантаженим додаткам Google доступ до інформації та функцій на вашому пристрої. Щоб дізнатися більше про використання цих дозволів, перегляньте <annotation link="app_permissions">цю сторінку</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Установити оновлення й додатки</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Коли пам’ять пристрою майже заповнена, звільніть місце, видаливши деякі дані з пристрою, як-от резервні копії фото й відео.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Коли пристрій під’єднано, ви все ще матимете доступ до цих даних. Ви можете керувати цією функцією та контролювати, які дані видаляються, у розділі \"Налаштування\" > \"Пам’ять\" > \"Керувати пам’яттю\".</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Звільнити місце</string>
+    <string name="auth_setup_wizard_services_backup">Легко відновлюйте дані та переносьте їх на інші телефони. Резервна копія включає додатки, їх дані та налаштування пристрою (зокрема, паролі Wi-Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії.
+
+Резервні копії даних не займають місця на Диску.
+
+Цю службу можна вимкнути в налаштуваннях."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Дані з додатків – це будь-яка інформація, яку зберігають додатки (залежно від налаштувань розробника), зокрема контакти, повідомлення та фото.
+
+Фото й відео з цього пристрою синхронізуються з Google Фото, щоб ви могли шукати, редагувати, надсилати та видаляти їх на всіх своїх пристроях. За умовчанням додаються фото й відео з повною роздільною здатністю.
+
+Резервні копії даних не зменшують обсяг пам’яті на вашому Диску.
+
+Цю службу можна вимкнути в меню \"Налаштування\"."</string>
+    <string name="auth_setup_wizard_services_backup_title">Завантажувати на Google Диск</string>
+    <string name="auth_setup_wizard_services_backup_v23">Легко відновлюйте дані та змінюйте телефони будь-коли. Резервна копія включає додатки, їх дані, історію викликів, контакти та налаштування пристрою (зокрема, паролі й дозволи Wi-Fi).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Легко відновлюйте дані та змінюйте телефони будь-коли. Резервна копія включає додатки, їх дані, історію викликів, контакти, налаштування пристрою (зокрема, паролі й дозволи Wi-Fi) і SMS.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Легко відновлюйте дані та змінюйте телефони будь-коли. Резервна копія включає додатки, їх дані, історію викликів, контакти, налаштування пристрою (зокрема, паролі й дозволи Wi-Fi), фото, відео і SMS. Фото й відео синхронізуються з обліковим записом Google і доступні у всіх службах.</string>
+    <string name="auth_setup_wizard_services_description">Торкніться, щоб дізнатися більше про кожну службу (наприклад, як увімкнути або вимкнути її пізніше). Дані використовуватимуться згідно з <annotation link="google_privacy">Політикою конфіденційності</annotation> Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"У Play Маркеті можна знайти докладну інформацію про додаток, зокрема про можливість покупок у ньому. Дані та налаштування додатка синхронізуються з пристроями, на яких ви ввійшли в обліковий запис Google. 
+
+Робота додатків із миттєвим запуском регулюється "<a href="https://play.google.com/about/play-terms.html">Умовами використання Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Докладніше</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Коли ви торкаєтеся посилання, Google Play перевіряє, чи є додаток із миттєвим запуском, і відкриває його без встановлення. Додатки з миттєвим запуском зберігаються на пристрої тимчасово.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Запускайте додатки, не встановлюючи їх</string>
+    <string name="auth_setup_wizard_services_location_sharing">Використовувати службу локації Google, щоб додатки могли визначати ваше місцезнаходження. Коли пристрій увімкнено, анонімні геодані надсилаються в Google.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Служба локації Google використовує такі джерела, як Wi-Fi і мобільні мережі, щоб швидше й точніше визначати місцезнаходження пристрою. Ця служба працює, якщо функцію доступу до геоданих пристрою ввімкнено в режимі отримання геоданих із мереж Wi‑Fi або мобільних мереж (\"Висока точність\" або \"Економія заряду\").
+
+Вимкнути цю службу можна двома способами:
+
+"<li>вимкнути основну функцію доступу до геоданих на пристрої;</li>"
+
+"<li>не вимикаючи основну функцію доступу до геоданих, вибрати режим, у якому використовується лише GPS (\"Лише пристрій\").</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Допомогти додаткам визначати геодані</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Дозволити додаткам і службам знаходити мережі Wi-Fi, навіть якщо Wi-Fi вимкнено.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Ви можете вимкнути це налаштування в параметрах місцезнаходження.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Покращити точність місцезнаходження</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Дозволити додаткам і службам шукати мережі Wi-Fi та пристрої Bluetooth, навіть коли ці налаштування вимкнено.</string>
+    <string name="auth_setup_wizard_services_play">Надсилати мені новини та пропозиції з Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Резервне копіювання та пам’ять</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Технічне обслуговування пристрою</string>
+    <string name="auth_setup_wizard_services_section_location">Геодані</string>
+    <string name="auth_setup_wizard_services_tos">Продовжуючи, ви також приймаєте <annotation link="tos">Загальні положення та умови Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Під час вашого користування цим пристроєм застосовується <annotation link="google_privacy">Політика конфіденційності</annotation> та <annotation link="tos">додаткові умови</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Допоможіть покращити продукти Android, автоматично надсилаючи в Google дані про діагностику та використання пристрою й додатків. Так ми зможемо вдосконалювати роботу пристрою, стабільність додатків, з’єднання з мережею тощо. Якщо ввімкнути Історію активності в Інтернеті та додатках, ця інформація зберігатиметься в обліковому записі. Ви зможете керувати нею в розділі \"Моя активність\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Це загальна інформація про цей пристрій і його використання (як-от дані про рівень заряду акумулятора, використання додатків та з’єднання з мережею). Вона надсилатиметься для покращення продуктів і служб Google. Деяка сукупна інформація допомагає нашим партнерам, як-от розробникам Android, удосконалювати свої додатки та продукти.
+
+Якщо вимкнути цю функцію, пристрій усе одно зможе надсилати інформацію, потрібну для отримання важливих послуг, як-от оновлень системи та засобів безпеки."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Оновити налаштування розділу \"Моя активність\" можна на сторінці myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Щоб увімкнути або вимкнути цю функцію, відкрийте Налаштування Google і виберіть у меню опцію \"Використання та діагностика\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Щоб увімкнути або вимкнути цю функцію, відкрийте \"Налаштування\" > Google і виберіть у меню опцію \"Використання та діагностика\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Надсилати дані системи</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Увімкніть службу локації Google, щоб анімовані фонові малюнки Google змінювалися залежно від вашого місцезнаходження.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Щоб увімкнути чи вимкнути службу локації Google для анімованих фонових малюнків, перейдіть у меню \"Налаштування\" > \"Додатки та сповіщення\" > \"Інформація про додаток\". У додатковому меню торкніться опції \"Показати системні додатки\" > \"Анімовані малюнки з даними\" або \"Анімовані малюнки із зображенням Землі\" > \"Дозволи\".</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Дозвольте фоновим малюнкам використовувати геодані</string>
+    <string name="auth_setup_wizard_title">Майстер встановлення</string>
+    <string name="auth_show_error_activity_title">Не вдалося ввійти</string>
+    <string name="auth_show_error_title">Помилка</string>
+    <string name="auth_sign_in_agreement">Увійшовши, ви приймаєте політику конфіденційності <annotation id="google_privacy">Google</annotation> і <annotation id="android_privacy">додаткову</annotation> політику конфіденційності.</string>
+    <string name="auth_sign_in_browser">Вхід у веб-переглядач</string>
+    <string name="auth_sign_in_button_label">Увійти</string>
+    <string name="auth_sign_in_with_google_account_short">Увійдіть, використовуючи дані облікового запису Google:</string>
+    <string name="auth_skip_button_label">Пропустити</string>
+    <string name="auth_submission_error_text">Сталася помилка. Повторіть спробу.</string>
+    <string name="auth_submission_title">Помилка…</string>
+    <string name="auth_try_again_button_label">Повторити спробу</string>
+    <string name="auth_ui_activity_authenticating">Автентифікація…</string>
+    <string name="auth_ui_activity_title">Вхід у Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Вхід в обліковий запис</string>
+    <string name="auth_ui_add_account_title">Налаштування облікового запису</string>
+    <string name="auth_uncertified_notification_content">Виробник не сертифікував це пристрій</string>
+    <string name="auth_uncertified_notification_description">"Виробник цього пристрою використовує додатки Google без сертифікатів пристроїв Google. 
+
+Несертифіковані пристрої можуть бути ненадійними та можуть не отримувати оновлення системи й додатків. Додатки та функції, як-от резервне копіювання файлів або фотографій, можуть працювати неправильно. 
+
+Щоб усунути цю проблему, зв’яжіться з виробником пристрою. 
+
+ Докладніше про партнерів, які пройшли сертифікацію в Google, можна дізнатися на сторінці %s."</string>
+    <string name="auth_uncertified_notification_learn_more">Докладніше</string>
+    <string name="auth_uncertified_notification_title">Застереження: несертифікований пристрій</string>
+    <string name="auth_username">Електронна адреса</string>
+    <string name="auth_work_authenticator_label">Керований обліковий запис</string>
+    <string name="authorization_dialog">Діалогове вікно авторизації</string>
+    <string name="auto_restore_summary">Коли додаток перевстановлюється, відновлювати налаштування та дані з резервних копій</string>
+    <string name="auto_restore_title">Автоматичне відновлення</string>
+    <string name="autofill_dataset_password">Ввести пароль для імені користувача <b>^1</b></string>
+    <string name="autofill_datatype_address">Адреси</string>
+    <string name="autofill_datatype_password">Збережені паролі</string>
+    <string name="autofill_datatype_payment">Кредитні картки</string>
+    <string name="autofill_datatype_profile">Особиста інформація</string>
+    <string name="autofill_label">Автозаповнення в Google</string>
+    <string name="autofill_optin_line1"><b>Торкніться, щоб дозволити Google заповнювати ці поля</b></string>
+    <string name="autofill_optin_line2">інформацією, яка вже зберігається в Автозаповненні Chrome</string>
+    <string name="autofill_setup_points">"• Щоб визначити поля для автозаповнення, Google використовує інформацію на екрані. 
+• Ви можете переглядати дані автозаповнення та керувати ними в налаштуваннях."</string>
+    <string name="autofill_setup_summary">Одним дотиком вводьте паролі, адреси, дані кредитних карток та іншу інформацію, яка зберігається у вашому обліковому записі.</string>
+    <string name="autofill_setup_summary_single_account">Одним дотиком вводьте паролі, адреси, дані кредитних карток та іншу інформацію, яка зберігається у вашому обліковому записі (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">Зараз в облікових записах немає резервних копій даних</string>
+    <string name="backup_configure_account_title">Резервний обліковий запис</string>
+    <string name="backup_data_summary">Створювати резервні копії даних додатків, паролів Wi-Fi та інших налаштувань на Google Диску</string>
+    <string name="backup_data_summary_full">"Автоматично створюйте резервні копії даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і даних додатків (як-от налаштувань і збережених файлів). Це можна робити віддалено.
+
+Коли ви вмикаєте автоматичне резервне копіювання, дані пристроїв і додатків віддалено зберігаються через певні проміжки часу. Дані додатків – це будь-яка інформація, яка в них зберігається (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення та фотографії."</string>
+    <string name="backup_data_title">Завантажувати на Google Диск</string>
+    <string name="backup_erase_dialog_message">Припинити резервне копіювання паролів Wi-Fi, закладок, інших налаштувань і даних додатків, а також стерти всі копії з Google Диска?</string>
+    <string name="backup_erase_dialog_message_full">Припинити резервне копіювання даних пристроїв (як-от паролів Wi-Fi та історії дзвінків) і даних додатків (як-от налаштувань і збережених файлів), а також стерти всі копії з Google Диска?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Не вдалося відкрити налаштування фотографій</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Що відбувається, коли ввімкнено автоматичне резервне копіювання
+
+ ● Налаштування пристрою та дані додатків періодично зберігаються в приватній папці на Google Диску. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема такі конфіденційні дані, як контакти, повідомлення й фото.
+
+ Великі файли або файли, які розробники виключили з цієї служби, не копіюються.
+
+ ● Фото й відео синхронізуються з бібліотекою Google Фото, щоб ви могли шукати, редагувати, надсилати та видаляти їх на всіх своїх пристроях.
+
+ За умовчанням фото й відео завантажуються з повною роздільною здатністю. Вони не займають квоту пам’яті на Диску.
+
+ ● Контакти й пов’язані дані з цього пристрою синхронізуються з Контактами Google. За допомогою додатка Контакти Google ви можете шукати, редагувати, надсилати та видаляти контакти на всіх своїх пристроях.
+
+ ● Записи календаря й пов’язані дані з цього пристрою синхронізуються з Календарем Google. За допомогою додатка Календар Google ви можете шукати, редагувати, надсилати та видаляти контакти на всіх своїх пристроях.
+
+ Резервні копії даних не займають квоту пам’яті на Диску."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Переваги автоматичного резервного копіювання
+
+ ● Налаштування пристрою та дані додатків періодично зберігаються в приватну папку на Google Диску. Дані додатків – це будь-яка інформація, яку вони зберігають (залежно від налаштувань розробника), зокрема потенційно конфіденційні дані, як-от контакти, повідомлення та фотографії.
+
+ Не створюються резервні копії великих файлів або файлів, які виключили розробники.
+
+ ● Контакти та пов’язані з ними дані з цього пристрою синхронізуються з Контактами Google. У додатку Контакти Google ви можете шукати, редагувати, видаляти або надсилати контакти на всіх своїх пристроях.
+
+ ● Записи календаря та пов’язані з ними дані на цьому пристрої синхронізуються з Google Календарем. У додатку Google Календар ви можете шукати, редагувати, видаляти та надсилати контакти на всіх своїх пристроях.
+
+ Резервні копії даних не зменшують обсяг пам’яті на вашому Диску."</string>
+    <string name="backup_opt_in_backup_description_extra">Календар, контакти, фото й відео синхронізуються з вашим обліковим записом Google. Ними можна користуватися в усіх службах.</string>
+    <string name="backup_opt_in_backup_description_v2">Завдяки автоматичному резервному копіюванню ви можете будь-коли легко відновити свої дані або перенести їх на новий телефон. <annotation id="backup_opt_in_learn_more">Докладніше</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Вимкнеться резервне копіювання:
+
+додатків і їх даних;
+історії викликів;
+налаштувань пристрою;
+фотографій і відео;
+SMS.
+
+Календар і контакти продовжуватимуть синхронізуватися з обліковим записом Google. Коли налаштування завершиться, ви зможете змінити параметри синхронізації в меню "<annotation id="backup_opt_in_settings_instructions">Налаштування > Облікові записи > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Вимкнути резервне копіювання?</string>
+    <string name="backup_opt_in_backup_list">"додатки та їх дані
+календар
+історію дзвінків
+контакти
+налаштування пристрою (зокрема паролі Wi-Fi)
+фото й відео
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Резервна копія включає:</string>
+    <string name="backup_opt_in_backup_title">Створити резервні копії на Google Диску</string>
+    <string name="backup_opt_in_disable_backup">Вимкнути резервне копіювання</string>
+    <string name="backup_photos_update">Оновіть Google Фото</string>
+    <string name="backup_settings_activity_backup_title">Резервне копіювання</string>
+    <string name="backup_settings_activity_title">Резервне копіювання та скидання</string>
+    <string name="byteShort">б</string>
+    <string name="cancel_copy_button_text">Не копіювати</string>
+    <string name="chrome_privacy_title">Примітка про конфіденційність Chrome</string>
+    <string name="chrome_tos_title">Умови використання Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Ваші наявні паролі для облікового запису %1$s зашифровано за допомогою вашої парольної фрази. Якщо ви її забули, зупиніть і скиньте синхронізацію на сторінці &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Парольна фраза для синхронізації Chrome</string>
+    <string name="chromesync_enter_passphrase_hint">Введіть парольну фразу</string>
+    <string name="chromesync_entered_wrong_passphrase">Неправильна парольна фраза</string>
+    <string name="chromesync_no_browser_found">Не знайдено веб-переглядача, щоб відкрити це посилання</string>
+    <string name="close_button_label">Закрити</string>
+    <string name="cloud_restore_app_picker_button">Відновити</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Немає резервних копій додатків</string>
+    <string name="cloud_restore_app_picker_title">Виберіть додатки для відновлення</string>
+    <string name="common_accept">Прийняти</string>
+    <string name="common_account_chip_add_account_button_label">Вибрати інший обліковий запис</string>
+    <string name="common_add_account_button_label">Додати облік. запис</string>
+    <string name="common_add_account_label">Додати обліковий запис</string>
+    <string name="common_ads_settings_title">Реклама</string>
+    <string name="common_agree">Прийняти</string>
+    <string name="common_app_name">Сервіси Google Play</string>
+    <string name="common_asm_preferences_settings_title">Налаштування облікового запису</string>
+    <string name="common_asm_privacy_settings_title">Особисте та конфіденційність</string>
+    <string name="common_asm_security_settings_title">Вхід і безпека</string>
+    <string name="common_audience_edit_button_label">Редагувати</string>
+    <string name="common_cancel">Скасувати</string>
+    <string name="common_cannot_start_hangouts_security_exception">Не вдалося запустити Hangouts (помилка дозволу).</string>
+    <string name="common_car_permission_desc">Доступ до автомобільної служби.</string>
+    <string name="common_car_permission_label">Автомобільна служба</string>
+    <string name="common_chips_label_empty_circles">Без кіл</string>
+    <string name="common_chips_label_extended_circles">Розширені кола</string>
+    <string name="common_chips_label_only_you">Лише ви</string>
+    <string name="common_chips_label_public">Загальнодоступна</string>
+    <string name="common_chips_label_your_circles">Ваші кола</string>
+    <string name="common_choose_account">Вибрати обліковий запис</string>
+    <string name="common_choose_account_for_app_label">%1$s: вибрати обліковий запис</string>
+    <string name="common_choose_account_label">Виберіть обліковий запис</string>
+    <string name="common_clear_app_data_menu_item">Очистити дані програми</string>
+    <string name="common_connected">Під’єднано</string>
+    <string name="common_connected_apps_settings_title">Підключені додатки</string>
+    <string name="common_connecting">З’єднання…</string>
+    <string name="common_continue">Продовжити</string>
+    <string name="common_disagree">Відхилити</string>
+    <string name="common_disconnect">Від’єднати</string>
+    <string name="common_done">Готово</string>
+    <string name="common_fitness_settings_title">Google Фітнес</string>
+    <string name="common_from">Від:</string>
+    <string name="common_games_settings_title">Play Ігри</string>
+    <string name="common_get_started">Почати</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Увімкнути</string>
+    <string name="common_google_play_services_enable_text">Додаток %1$s не працюватиме, якщо не ввімкнути сервіси Google Play.</string>
+    <string name="common_google_play_services_enable_title">Увімкнути сервіси Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Помилка</string>
+    <string name="common_google_play_services_install_button">Установити</string>
+    <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
+    <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
+    <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
+    <string name="common_google_play_services_update_button">Оновити</string>
+    <string name="common_google_play_services_update_text">Додаток %1$s не працюватиме, якщо не оновити сервіси Google Play.</string>
+    <string name="common_google_play_services_update_title">Оновіть сервіси Google Play</string>
+    <string name="common_google_play_services_updating_text">Додаток %1$s не працюватиме без сервісів Google Play, які зараз оновлюються.</string>
+    <string name="common_google_play_services_updating_title">Сервіси Google Play оновлюються</string>
+    <string name="common_google_play_services_wear_update_text">Потрібна нова версія сервісів Google Play. Вони невдовзі оновляться.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Установлено сервіси Google Play із неправильною архітектурою.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Установлено сервіси Google Play з архітектурою (%1$s), яка відрізняється від архітектури вашого пристрою (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Неправильна архітектура</string>
+    <string name="common_google_settings">Налаштування Google</string>
+    <string name="common_google_settings_account">Обліковий запис</string>
+    <string name="common_google_settings_credentials_title">Smart Lock для паролів</string>
+    <string name="common_google_settings_developer">Для розробників</string>
+    <string name="common_google_settings_services">Сервіси</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Установити</string>
+    <string name="common_learn_more">Докладніше</string>
+    <string name="common_list_apps_menu_help">Довідка</string>
+    <string name="common_list_apps_menu_help_and_feedback">Довідка й відгуки</string>
+    <string name="common_loading">Завантаження…</string>
+    <string name="common_location_settings_title">Місцезнаходження</string>
+    <string name="common_magictether_settings_title">Миттєва точка доступу</string>
+    <string name="common_maps_settings_title">Карти та Latitude</string>
+    <string name="common_mdm_feature_name">Диспетчер пристрою Android</string>
+    <string name="common_missing_url_viewer">Немає засобу перегляду зовнішньої URL-адреси.</string>
+    <string name="common_more_options">Більше опцій</string>
+    <string name="common_networking_settings_title">Мережі</string>
+    <string name="common_no_browser_for_restricted_url">Обмежений доступ. Веб-переглядач не знайдено.</string>
+    <string name="common_no_devices_found">Пристроїв не знайдено</string>
+    <string name="common_no_network">Недоступно, оскільки пристрій офлайн</string>
+    <string name="common_no_thanks">Ні, дякую</string>
+    <string name="common_not_now">Не зараз</string>
+    <string name="common_off">Вимк.</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Увімк.</string>
+    <string name="common_open_on_phone">Відкрити на телефоні</string>
+    <string name="common_open_source_licenses">Ліцензії відкритого коду</string>
+    <string name="common_people_settings_title">Контакти</string>
+    <string name="common_permissions_enable_in_settings">Увімкнути</string>
+    <string name="common_permissions_missing_end">Щоб продовжити, відкрийте \"Налаштування > Дозволи\" та надайте потрібні дозволи.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Щоб увімкнути, перейдіть у
+Налаштування >
+Дозволи >
+Сервіси Google Play"</string>
+    <string name="common_permissions_missing_start">Щоб додаток працював належним чином, сервісам Google Play потрібно надати такі дозволи:</string>
+    <string name="common_permissions_open_settings">Налаштування</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Політика конфіденційності</string>
+    <string name="common_restore">Відновити</string>
+    <string name="common_restricted_no_accounts">Немає облікових записів</string>
+    <string name="common_retry">Повторити</string>
+    <string name="common_search_settings_title">Пошук</string>
+    <string name="common_security_ootp_setting_title">Код безпеки</string>
+    <string name="common_security_settings_title">Безпека</string>
+    <string name="common_send">Надіслати</string>
+    <string name="common_sending">Надсилання…</string>
+    <string name="common_set_up_nearby_device_settings_title">Налаштувати пристрій поруч</string>
+    <string name="common_settings">Налаштування</string>
+    <string name="common_signin_button_text">Увійти</string>
+    <string name="common_signin_button_text_long">Увійти в облік. запис Google</string>
+    <string name="common_something_went_wrong">Сталася помилка</string>
+    <string name="common_system_info">Інформація про систему</string>
+    <string name="common_take_photo_label">Зробити фото</string>
+    <string name="common_terms_of_service">Умови використання</string>
+    <string name="common_try_again">Повторити</string>
+    <string name="common_turn_on_bluetooth">Увімкнути Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Видалити</string>
+    <string name="common_ui_confirm_deleting_checkbox">Так, видалити</string>
+    <string name="common_unknown">Невідомо</string>
+    <string name="common_update">Оновити</string>
+    <string name="common_url_load_unsuccessful_message">Пристрій Android не під’єднано до служби передавання даних. Щоб переглянути цю інформацію зараз, перейдіть на %s у веб-переглядачі.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Пристрій Android не під’єднано до мережі Wi-Fi. Щоб переглянути цю інформацію, перейдіть на сторінку %s у веб-переглядачі.</string>
+    <string name="common_url_login_notice">Увійти як %1$s</string>
+    <string name="common_usage_and_diagnostics">Використання та діагностика</string>
+    <string name="common_yesterday">Учора</string>
+    <string name="confirm_copy_button_text">Копіювати</string>
+    <string name="contacts_number_device_and_icloud">%1$d на iCloud®, %2$d на пристрої</string>
+    <string name="contacts_number_device_and_icloud_with_google">Контакти Google, %1$d на iCloud®, %2$d на пристрої</string>
+    <string name="contacts_number_device_and_sim_with_google">Контакти Google, %1$d на SIM-карті, %2$d на пристрої</string>
+    <string name="contacts_number_device_with_google">Контакти Google, %1$d на пристрої</string>
+    <string name="contacts_number_icloud_with_google">Контакти Google, %1$d на iCloud®</string>
+    <string name="contacts_number_sim_with_google">Контакти Google, %1$d на SIM-карті</string>
+    <string name="continue_to_login_heading">Увійдіть в обліковий запис.</string>
+    <string name="continue_to_login_text">Облікові дані надано. Увійдіть в обліковий запис на першому пристрої.</string>
+    <string name="copy_confirmation_description">Дані облікового запису Google і додатків буде скопійовано на новий телефон</string>
+    <string name="copy_confirmation_title">Скопіювати дані на новий телефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Немає додатків</string>
+    <string name="d2d_app_picker_title">Додатки</string>
+    <string name="d2d_migration_canceled_on_source">Копіювання скасовано</string>
+    <string name="data_copied_fragment_description">Дані скопійовано на новий телефон. Можете від’єднати кабель.</string>
+    <string name="data_copied_fragment_description_cancel">Ви припинили копіювання, тому на новий телефон скопійовано лише деякі дані.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Ви припинили копіювання, тому дані не скопійовано на новий телефон.</string>
+    <string name="data_copied_fragment_description_error">Сталася помилка. Не вдалося скопіювати всі дані.</string>
+    <string name="data_copied_fragment_description_error_no_data">Сталася помилка. Не вдалося скопіювати дані.</string>
+    <string name="data_copied_fragment_no_data_title">Не вдалося скопіювати дані</string>
+    <string name="data_copied_fragment_some_data_title">Скопійовано деякі дані</string>
+    <string name="data_copied_fragment_title">Дані скопійовано</string>
+    <string name="device_backup_title">Резервне копіювання даних пристрою</string>
+    <string name="device_not_supported_fragment_new_device">Ви під’єдналися до нового телефона. Щоб продовжити, під’єднайтеся до попереднього телефона.</string>
+    <string name="device_not_supported_fragment_new_device_title">Під’єднайтеся до попереднього телефона</string>
+    <string name="device_not_supported_fragment_no_data_cable">Через цей кабель не можна передавати дані. Під’єднайтеся за допомогою іншого кабелю та повторіть спробу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Спробуйте інший кабель</string>
+    <string name="device_not_supported_fragment_retry_description">Переконайтеся, що старий телефон розблоковано. Після цього від’єднайте та знову під’єднайте кабель</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Сталася помилка</string>
+    <string name="device_not_supported_ios_supervised_description">Оскільки вашим пристроєм iPhone® керує адміністратор, виберіть інший спосіб копіювання даних</string>
+    <string name="device_picker_description">Резервні копії зберігаються на Google Диску</string>
+    <string name="device_picker_empty">Немає резервних копій, зв’язаних з обліковим записом %1$s.</string>
+    <string name="device_picker_empty_title">Немає резервних копій</string>
+    <string name="device_picker_item">Резервна копія даних пристрою %1$s</string>
+    <string name="device_picker_last_used">Востаннє використано ^1</string>
+    <string name="device_picker_skip">Не відновлювати</string>
+    <string name="device_picker_title">Виберіть резервну копію даних для відновлення</string>
+    <string name="disabled_by_admin_summary_text">Керує адміністратор</string>
+    <string name="download_msg_error_invalid">Неправильно налаштовано завантаження.</string>
+    <string name="download_msg_in_progress">Триває завантаження.</string>
+    <string name="download_msg_not_allowed_space">Замало місця для завантаження.</string>
+    <string name="download_msg_pending">Очікується завантаження.</string>
+    <string name="download_notification_description">Додаток %1$s надіслав запит на ці дані.</string>
+    <string name="download_notification_title">Отримання додаткових даних</string>
+    <string name="drive_backup_account">Резервний обліковий запис</string>
+    <string name="drive_backup_apps_in_backup">Резервні копії даних додатків</string>
+    <string name="drive_backup_apps_last_backup">Останнє резервне копіювання</string>
+    <string name="drive_backup_apps_loading">Завантаження…</string>
+    <string name="drive_backup_apps_screen_title">Дані додатків</string>
+    <string name="drive_backup_content_apps_title">Дані додатків</string>
+    <string name="drive_backup_content_calendar_dialog_message">Події, створені в Google Календарі, буде синхронізовано на всіх пристроях, на яких ви ввійшли в обліковий запис Google.</string>
+    <string name="drive_backup_content_calendar_title">Google Календар</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Резервна копія включає дату й ім’я одержувача вихідних і вхідних викликів.</string>
+    <string name="drive_backup_content_callhistory_title">Історія дзвінків</string>
+    <string name="drive_backup_content_contacts_dialog_message">Контакти, створені в Контактах Google, буде синхронізовано на всіх пристроях, на яких ви ввійшли в обліковий запис Google.</string>
+    <string name="drive_backup_content_contacts_title">Контакти Google</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Резервна копія включає конфігурацію пристрою, як-от фоновий малюнок, паролі Wi-Fi і додатки за умовчанням.</string>
+    <string name="drive_backup_content_devicesettings_title">Налаштування пристрою</string>
+    <string name="drive_backup_content_header">Вміст</string>
+    <string name="drive_backup_content_photos_dialog_message">Ваш основний обліковий запис для резервного копіювання змінено. Ви також можете змінити обліковий запис для резервного копіювання вмісту Google Фото на %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ЗАКРИТИ</string>
+    <string name="drive_backup_content_photos_dialog_title">Також змінити обліковий запис для фото та відео?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ЗМІНИТИ</string>
+    <string name="drive_backup_content_photos_title">Фото й відео</string>
+    <string name="drive_backup_content_sms_dialog_message">Резервна копія включає надіслані й отримані повідомлення, але не MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Не вдалось отримати дату останньої синхронізації</string>
+    <string name="drive_backup_content_status_lastsaved">Останнє резервне копіювання: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Остання синхронізація: %1$td %1$tb %1$tY о %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Очікується резервне копіювання</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Налаштування синхронізації</string>
+    <string name="drive_backup_content_status_sync_off">Синхронізацію ВИМКНЕНО</string>
+    <string name="drive_backup_content_status_updating">Перевірка стану…</string>
+    <string name="drive_backup_disabled_backuplist">"Резервне копіювання включає:
+\u0009- додатки та їх дані
+\u0009- історію дзвінків
+\u0009- налаштування пристрою (зокрема паролі Wi-Fi)
+\u0009- Google Календар
+\u0009- Контакти Google
+\u0009- фото й відео
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Резервна копія містить:
+\u0009- додатки та їх дані
+\u0009- історію викликів
+\u0009- налаштування пристрою (зокрема паролі Wi-Fi)
+\u0009- дані Google Календаря
+\u0009- дані Контактів Google
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Вимкнув адміністратор</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Календар, Контакти Google, фото та відео синхронізуються з вашим обліковим записом Google і можуть використовуватись у всіх службах.
+
+Синхронізація може бути ввімкнена, навіть якщо резервне копіювання вимкнено. Параметри синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Дані Google Календаря та Контактів Google синхронізуються з вашим обліковим записом Google. Їх можна використовувати в усіх службах.
+
+Синхронізацію можна ввімкнути, навіть якщо вимкнено резервне копіювання. Налаштування синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_disabled_introduction">Завдяки автоматичному резервному копіюванню ви можете легко відновити свої дані або перенести їх на новий телефон.</string>
+    <string name="drive_backup_settings_title">Резервне копіювання</string>
+    <string name="drive_backup_state">Завантажувати на Google Диск</string>
+    <string name="drive_backup_state_dialog_message">"Резервні копії даних цього пристрою буде назавжди видалено з Google Диска.
+
+Фото та відео, резервні копії яких уже створено, залишатимуться доступними на Google Диску.
+
+Google Календар і Контакти Google продовжуватимуть синхронізуватися з обліковим записом Google. Параметри синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Резервну копію даних цього пристрою буде назавжди видалено з Google Диска.
+
+Дані Google Календаря та Контактів Google надалі синхронізуватимуться з вашим обліковим записом Google. Налаштування синхронізації можна змінити в меню \"Налаштування\" > \"Облікові записи\" > \"Google\"."</string>
+    <string name="drive_backup_state_dialog_okaction">Вимкнути та видалити</string>
+    <string name="drive_backup_state_dialog_title">Вимкнути та видалити резервні копії?</string>
+    <string name="durationDayHour">%1$d дн. %2$d год</string>
+    <string name="durationDayHours">%1$d дн. %2$d год</string>
+    <string name="durationDays">%1$d дн.</string>
+    <string name="durationHourMinute">%1$d год %2$d хв</string>
+    <string name="durationHourMinutes">%1$d год %2$d хв</string>
+    <string name="durationHours">%1$d год</string>
+    <string name="durationMinute">%1$d хв</string>
+    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
+    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
+    <string name="durationMinutes">%1$d хв</string>
+    <string name="durationSecond">%1$d с</string>
+    <string name="durationSeconds">%1$d с</string>
+    <string name="encryption_warning_fragment_description">"На вашому пристрої iPhone® увімкнено шифрування резервних копій. Якщо ви не вмикали це налаштування, можливо, його ввімкнув ваш IT-адміністратор.
+
+Можна копіювати лише фотографії, музику та відео. Докладніше читайте на сторінці "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифрування резервних копій</string>
+    <string name="fido_begin_button">ПОЧАТИ</string>
+    <string name="fido_ble_device_icon_content_description">Знайдено пристрій Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Утримуйте кнопку на ключі принаймні 5 секунд, щоб переконатися, щоб увімкнути режим підключення</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">ОК</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Сталася помилка</string>
+    <string name="fido_ble_dont_see_your_key_hint">Не бачите свій ключ?</string>
+    <string name="fido_ble_enable_body">Ключ безпеки працює, лише коли на пристрої ввімкнено Bluetooth</string>
+    <string name="fido_ble_enable_title">Увімкнути Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">УВІМКНУТИ</string>
+    <string name="fido_ble_instructions_body">Просто торкніться кнопки (для більшості ключів)</string>
+    <string name="fido_ble_instructions_title">Дозволити використовувати ключ безпеки?</string>
+    <string name="fido_ble_locate_pin_body">Зазвичай PIN-код для підключення складається з 4 або 6 цифр і може бути вказаний на зворотній стороні ключа. Натисніть \"Продовжити\", коли будете готові ввести PIN-код.</string>
+    <string name="fido_ble_locate_pin_continue_button">ПРОДОВЖИТИ</string>
+    <string name="fido_ble_locate_pin_title">Знайдіть PIN-код для підключення ключа %1$s через Bluetooth</string>
+    <string name="fido_ble_pair_device_pairing">Підключення ключа безпеки…</string>
+    <string name="fido_ble_pair_instructions_body">Підключіть ключ безпеки до пристрою, щоб використовувати його в обліковому записі</string>
+    <string name="fido_ble_pair_instructions_title">Готові підключити ключ безпеки?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Увімкніть на ключі режим підключення</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">ПОВТОРИТИ СПРОБУ</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Виникла проблема</string>
+    <string name="fido_ble_pairing_mode_body">Утримуйте кнопку на ключі безпеки принаймні 5 секунд</string>
+    <string name="fido_ble_pairing_mode_title">Перейдіть у режим підключення</string>
+    <string name="fido_ble_select_device_body">У списку нижче виберіть ключ безпеки, який потрібно підключити до пристрою. Назва може бути вказана на зворотній стороні ключа.</string>
+    <string name="fido_ble_select_device_title">Виберіть ключ безпеки</string>
+    <string name="fido_cancel_button">Скасувати</string>
+    <string name="fido_nfc_enable_body">Ключ безпеки працює, лише коли на пристрої ввімкнено зв’язок малого радіуса дії (NFC)</string>
+    <string name="fido_nfc_enable_title">Увімкнути зв’язок малого радіуса дії (NFC)</string>
+    <string name="fido_nfc_enable_turn_on_button">УВІМКНУТИ</string>
+    <string name="fido_nfc_instructions_body">Прикладіть ключ до задньої панелі пристрою та втримуйте, доки він не перестане вібрувати</string>
+    <string name="fido_nfc_instructions_title">Дозволити використовувати ключ безпеки?</string>
+    <string name="fido_pair_another_security_key">Підключити інший ключ безпеки</string>
+    <string name="fido_processing">Підтвердження ключа безпеки…</string>
+    <string name="fido_transport_selection_bluetooth">Використовувати ключ безпеки з Bluetooth</string>
+    <string name="fido_transport_selection_body">Ключі безпеки працюють із Bluetooth і зв’язком малого радіуса дії (NFC). Виберіть, як використовувати ключ.</string>
+    <string name="fido_transport_selection_nfc">Використовувати ключ безпеки зі зв’язком малого радіуса дії (NFC)</string>
+    <string name="fido_transport_selection_title">Виберіть, як використовувати ключ безпеки</string>
+    <string name="fido_use_ble_instead">Використовуйте ключ безпеки з Bluetooth</string>
+    <string name="fido_use_nfc_instead">Використовуйте ключ безпеки зі зв’язком малого радіуса дії (NFC)</string>
+    <string name="fido_welcome_body">Використовуйте ключ безпеки з %1$s, щоб захистити свої дані.</string>
+    <string name="fido_welcome_title">Використовуйте ключ безпеки з %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Я не можу знайти адаптер</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Знайдіть Quick Switch Adapter у коробці телефона Pixel.^1.
+
+Під’єднайте кабель до адаптера."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Під’єднайте адаптер і кабель</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Розблокуйте старий телефон і підключіть до нього адаптер.</string>
+    <string name="fragment_usb_connect_both_phones_title">З’єднайте обидва телефони</string>
+    <string name="fragment_usb_dialog_cancel_description">За допомогою кабелю ви зможете перенести більшість вмісту. Якщо кабелі з комплекту не підходять, скористайтеся кабелем від старого телефона, як от кабелем для заряджання або передавання даних.</string>
+    <string name="fragment_usb_dialog_cancel_title">Копіювати дані іншим способом?</string>
+    <string name="fragment_usb_dont_have_cable">Я не маю кабелю</string>
+    <string name="fragment_usb_dont_have_old_phone">Я не маю старого телефона</string>
+    <string name="fragment_usb_find_cable_description">Скористайтеся кабелем від старого телефона, як от кабелем для заряджання або передавання даних.</string>
+    <string name="fragment_usb_find_cable_title">Знайдіть потрібний кабель</string>
+    <string name="fragment_usb_initial_description">Перенесіть дані зі старого телефона на цей ^1.</string>
+    <string name="fragment_usb_initial_title">Скопіюйте дані</string>
+    <string name="fragment_usb_legacy_description">"Це найшвидший спосіб скопіювати більшість даних.
+
+Знайдіть адаптер у комплекті та під’єднайте його до нового телефона. Підключіть телефони за допомогою кабелю та розблокуйте старий телефон."</string>
+    <string name="fragment_usb_other_ways">Копіювати без кабелю</string>
+    <string name="fragment_usb_plug_cable">Під’єднайте кабель до старого телефона</string>
+    <string name="fragment_waiting_title">Зачекайте…</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="google_app_permissions_title">Дозволи додатка</string>
+    <string name="google_contacts_static_text">Контакти Google синхронізуватимуться</string>
+    <string name="google_contacts_static_text_off">Контакти Google усе одно синхронізуватимуться</string>
+    <string name="google_legal_title">Юридичні умови Google</string>
+    <string name="google_play_tos_title">Умови використання Google Play</string>
+    <string name="google_plus_privacy_policy_title">Конфіденційність Google Plus</string>
+    <string name="google_privacy_policy_title">Політика конфіденційності Google</string>
+    <string name="google_terms_of_service_title">Умови використання</string>
+    <string name="header_set_backup_account">Резервний обліковий запис</string>
+    <string name="i_message_dialog_message">"Щоб надалі отримувати SMS-повідомлення від користувачів пристрою iPhone®, потрібно вимкнути iMessage®.
+
+Перегляньте вказівки на сторінці "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instant_apps_settings_title">Додатки з миттєвим запуском</string>
+    <string name="instructions_fragment_title">Продовжте на іншому телефоні</string>
+    <string name="ios_connected_fragment_description">"На наступному екрані ви можете ввійти у свій обліковий запис Google або створити новий.
+
+Якщо ви не додасте обліковий запис Google, події iOS Calendar® не перенесуться."</string>
+    <string name="ios_message_attachment_explanation">[Ваші вкладення в повідомленнях зберігаються в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленнях\"]</string>
+    <string name="ios_message_attachment_failed_explanation">[Не вдалося скопіювати деякі вкладення. Перенесені вкладення можна знайти в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленнях\"]</string>
+    <string name="ios_message_attachment_placeholder">[Вкладений файл збережено в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленні\"]</string>
+    <string name="ios_message_attachments_placeholder">[Вкладені файли збережено в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення в повідомленні\"]</string>
+    <string name="ios_migration_default_calendar_title">Календар</string>
+    <string name="ios_migration_other_contact_relation">Інше</string>
+    <string name="ios_photos_dialog_message">"Фотографії з iCloud® не можна копіювати.
+
+Щоб перенести ці фотографії на свій ^1, установіть додаток Google Фото на пристрої iPhone® і ввімкніть резервне копіювання та синхронізацію. Докладніше на сторінці "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="list_item_add_account">Додати обліковий запис</string>
+    <string name="lockscreen_smartdevice_action_next">Далі</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Розблокуйте телефон, щоб продовжити налаштування</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">З міркувань безпеки потрібно підтвердити пароль для розблокування екрана, щоб продовжити налаштування</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Підтвердьте блокування екрана</string>
+    <string name="manage_data_label">Обліковий запис Google</string>
+    <string name="master_clear_title">Відновлення заводських налаштувань</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="netrec_module_display_name">Рекомендації мережі</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Повідомлення Wi-Fi</string>
+    <string name="notification_channel_network_available">Мережа доступна</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi увімкнено</string>
+    <string name="notification_content_text_set_backup_account">Потрібно налаштувати резервний обліковий запис</string>
+    <string name="notification_content_title_set_backup_account">Резервне копіювання</string>
+    <string name="notification_ticker">Запит на доступ</string>
+    <string name="notification_ticker_set_backup_account">Потрібен резервний обліковий запис</string>
+    <string name="open_in_web_button">Відкрити у веб-переглядачі</string>
+    <string name="open_source_activity_prompt_heading">Відкрийте додаток</string>
+    <string name="open_source_activity_prompt_text">"Щоб завершити процедуру автентифікації, відкрийте на телефоні додаток SourceResponseActivity. "</string>
+    <string name="opt_in_account_content_description">Виберіть обліковий запис. Зараз вибрано: %1$s</string>
+    <string name="opt_in_account_null_state">Створити обліковий запис</string>
+    <string name="opt_in_agreement">Продовжуючи, ви приймаєте <a href="https://play.google.com/about/play-terms.html">Умови використання Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Докладніше</a></string>
+    <string name="opt_in_confirm">Прийняти</string>
+    <string name="opt_in_description">"Коли ви торкаєтеся посилання, Google Play перевіряє наявність додатка з миттєвим запуском і запускає його, не встановлюючи. Додатки з миттєвим запуском тимчасово зберігаються на вашому пристрої.
+
+Додаткам із миттєвим запуском потрібні певні дозволи. Інформацію про додатки, зокрема про покупки через них, можна знайти в Google Play. Дані й налаштування додатків синхронізуються з пристроями, на яких ви ввійшли в такий обліковий запис:"</string>
+    <string name="opt_in_description_m_plus">"Коли ви торкаєтеся посилання, Google Play перевіряє наявність додатка з миттєвим запуском і запускає його, не встановлюючи. Додатки з миттєвим запуском тимчасово зберігаються на вашому пристрої.
+
+Інформацію про додатки, зокрема про покупки через них, можна знайти в Google Play. Дані й налаштування додатків синхронізуються з пристроями, на яких ви ввійшли в такий обліковий запис:"</string>
+    <string name="opt_in_subtitle">Запускайте додатки, не встановлюючи їх</string>
+    <string name="opt_in_title">Додатки з миттєвим запуском</string>
+    <string name="permgrouplab_calendar">Календар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакти</string>
+    <string name="permgrouplab_location">Місцезнаходження</string>
+    <string name="permgrouplab_microphone">Мікрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Датчики на тілі</string>
+    <string name="permgrouplab_sms">SMS-повідомлення</string>
+    <string name="permgrouplab_storage">Пам’ять</string>
+    <string name="permissions_not_granted_text">Щоб надати дозволи, увійдіть в обліковий запис знову.</string>
+    <string name="permissions_not_granted_title">Дозволи не надано.</string>
+    <string name="petabyteShort">Пб</string>
+    <string name="photo_backup_configure_account_default_summary">Зараз в облікових записах немає резервних копій фотографій</string>
+    <string name="photos_backup_title">Резервне копіювання фотографій</string>
+    <string name="photos_filtering_option_all">Усе</string>
+    <string name="photos_filtering_option_none">Нічого</string>
+    <string name="plus_manage_app_only_you_label">Лише ви</string>
+    <string name="plus_network_unreliable">Неможливо встановити надійне з’єднання із сервером.</string>
+    <string name="plus_oob_interstitial_loading_text">Це може тривати кілька хвилин.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Скопійовані контакти буде збережено в обліковому записі Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Скопійовані контакти та календарі буде збережено в обліковому записі Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Деякі дані можуть не скопіюватися на пристрій ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Докладніше</annotation></string>
+    <string name="restore_choice_deselect_some_content">Щоб продовжити, виберіть менше вмісту</string>
+    <string name="restore_choice_learn_more_android">"Деякі дані з вашого старого телефона не можна скопіювати автоматично:
+
+ ● завантаження (як-от файли PDF);
+
+ ● фотографії, відео та музику, що зберігаються в схованих папках;
+
+ ● фотографії, відео та музику, отримані в текстових повідомленнях;
+
+ ● додатки, завантажені не з Google Play;
+
+ ● дані додатків (якщо додаток не використовує резервне копіювання Android);
+
+ ● певні налаштування пристрою;
+
+ ● облікові записи, які не належать Google (і всі пов’язані з ними дані);
+
+ ● контакти та календарі, синхронізовані зі службами, які не належать Google;
+
+ ● мелодії дзвінка.
+
+ Щоб дізнатися більше про копіювання, відвідайте сайт g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"З вашого старого телефона не можна автоматично скопіювати деякі дані:
+
+ ● додатки та їх дані;
+
+ ● фотографії, оригіналів яких немає на телефоні (наприклад, якщо ввімкнено оптимізацію пам’яті, оригінальні фотографії зберігаються в iCloud®);
+
+ ● файли та документи, що зберігаються в iCloud®;
+
+ ● налаштування пристрою (як-от паролі Wi-Fi та фоновий малюнок);
+
+ ● музику, захищену технологією керування цифровими правами (DRM) (наприклад, музику, придбану в iTunes® до квітня 2009 року або завантажену для відтворення офлайн у додатку для трансляції музики);
+
+ ● облікові записи, які не належать Google (і всі пов’язані з ними дані);
+
+ ● контакти та календарі, синхронізовані із сервісами, які не належать Google або iCloud®;
+
+ ● закладки з веб-переглядача Safari®.
+
+ Вкладення з iMessage® можна буде переглянути в меню \"Google Фото\" > \"Папки пристрою\" > \"Вкладення з повідомлень\".
+
+ Щоб дізнатися більше про копіювання цих даних і отримати допомогу, відвідайте сторінку g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Недостатньо місця</string>
+    <string name="restore_choice_total_text">з %1$s доступного обсягу. Перенесення займе %2$s</string>
+    <string name="restore_error_message">На жаль, під час відновлення сталася помилка.</string>
+    <string name="restore_instant_apps_notif_text">Потрібний файл %1$s видалено з цього пристрою</string>
+    <string name="restore_instant_apps_notif_title">Відновіть додатки з миттєвим запуском</string>
+    <string name="restore_item_appdata">Дані додатків</string>
+    <string name="restore_item_calendar">Календар</string>
+    <string name="restore_item_calendar_ical_description">iOS® Календар, Google Календар</string>
+    <string name="restore_item_calendar_ical_off_description">Google Календар все одно синхронізуватиметься</string>
+    <string name="restore_item_calendar_sync_description">Google Календар синхронізуватиметься</string>
+    <string name="restore_item_call_logs">Історія дзвінків</string>
+    <string name="restore_item_contacts">Контакти</string>
+    <string name="restore_item_device_settings_description">Паролі Wi-Fi тощо</string>
+    <string name="restore_item_downloads">Завантаження</string>
+    <string name="restore_item_email">Електронні листи</string>
+    <string name="restore_item_email_description">Gmail синхронізуватиметься</string>
+    <string name="restore_item_message_attachments">Вкладення з повідомлень</string>
+    <string name="restore_item_messages">Повідомлення</string>
+    <string name="restore_item_music">Музика</string>
+    <string name="restore_item_photos">Фото й відео</string>
+    <string name="restore_item_settings">Налаштування пристрою</string>
+    <string name="restore_item_sms">SMS-повідомлення</string>
+    <string name="restore_item_will_be_synced_text">Дані синхронізуватимуться з телефоном</string>
+    <string name="restore_progress_title">Відновлення…</string>
+    <string name="restore_supervisor_description">Щоб відкривати посилання в додатках із миттєвим запуском, відновіть файл %1$s</string>
+    <string name="restore_supervisor_success">Додатки з миттєвим запуском відновлено</string>
+    <string name="restore_supervisor_title">Відновити додатки з миттєвим запуском?</string>
+    <string name="search_menu_title">Пошук</string>
+    <string name="setup_failure_description">Не вдалося налаштувати додатки з миттєвим запуском. <a href="https://support.google.com/googleplay/?p=instant_apps">Докладніше</a></string>
+    <string name="setup_failure_title">Не вдалося налаштувати</string>
+    <string name="sharedUserLabel">Служби Google</string>
+    <string name="sid_lsid_grant_detail">Як і пароль, файли cookie для ідентифікатора сеансу (SID) та ідентифікатора локального сеансу (LSID) пов’язують вашу особу з низкою запитів із веб-переглядача. Вони надають повний доступ до всіх даних вашого облікового запису. Використовувати такі файли cookie можуть лише веб-переглядачі.</string>
+    <string name="sid_lsid_grant_label">Використовуйте файли cookie для SID та LSID, щоб отримувати доступ до всіх даних свого облікового запису Google.</string>
+    <string name="small_time_duration">Менше 1 хвилини</string>
+    <string name="smartdevice_action_copy">Копіювати</string>
+    <string name="smartdevice_action_next">Далі</string>
+    <string name="smartdevice_action_open_app">Відкрити програму</string>
+    <string name="smartdevice_action_skip">Пропустити</string>
+    <string name="smartdevice_action_try_another_way">Спробувати інший спосіб</string>
+    <string name="smartdevice_action_turn_on_location">Увімкнути геодані</string>
+    <string name="smartdevice_alert_disconnected_message">"Утрачено з’єднання з вашим пристроєм.
+ Щоб продовжити налаштування, підключіть його та почніть спочатку."</string>
+    <string name="smartdevice_alert_disconnected_title">Утрачено з’єднання з пристроєм</string>
+    <string name="smartdevice_alert_dm_backup_account_message">На жаль, ви не можете користуватися цією функцією, оскільки обліковим записом для резервного копіювання керує адміністратор пристрою.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Функція недоступна</string>
+    <string name="smartdevice_alert_exit_setup_message">Дійсно припинити налаштування іншого пристрою?</string>
+    <string name="smartdevice_alert_exit_setup_title">Припинити налаштування пристрою?</string>
+    <string name="smartdevice_alert_generic_error_title">Сталася помилка</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Сталася помилка</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Щоб налаштувати пристрій, потрібно мати принаймні один обліковий запис Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">Щоб налаштувати %s, потрібно мати принаймні один обліковий запис Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Немає облікових записів для копіювання</string>
+    <string name="smartdevice_alert_quit_button">Припинити</string>
+    <string name="smartdevice_alert_restart_setup_button">Відновити налаштування</string>
+    <string name="smartdevice_alert_setup_incomplete">Налаштування не завершено</string>
+    <string name="smartdevice_alert_skip_button">Пропустити</string>
+    <string name="smartdevice_alert_start_over_button">Розпочати знову</string>
+    <string name="smartdevice_alert_work_profile_message">Копіювання облікових записів Google for Work ще не підтримується. Скопіювавши інші облікові записи Google і дані, перейдіть у розділ \"Налаштування\" на новому пристрої, щоб додати обліковий запис Google for Work.</string>
+    <string name="smartdevice_alert_work_profile_title">Не вдалося скопіювати обл. запис Google for Work</string>
+    <string name="smartdevice_application_label">Налаштування пристрою</string>
+    <string name="smartdevice_choose_device">Виберіть пристрій</string>
+    <string name="smartdevice_companion_app_ready">Додаток %s уже встановлено на цьому пристрої.</string>
+    <string name="smartdevice_connect_to_wifi">Підключіть пристрій</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Підключення до пристрою…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Ваші облікові записи Google, інші облікові записи, додатки та дані буде скопійовано</string>
+    <string name="smartdevice_d2d_copy_account_text">Скопіювати облікові записи Google, додатки й дані на інший пристрій?</string>
+    <string name="smartdevice_d2d_copy_account_title">Копіювати на ін. пристрій?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Не розпізнано</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Натомість налаштуйте блокування екрана</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">З міркувань безпеки підтвердьте свій відбиток пальця. Ваші облікові записи Google, додатки та дані буде скопійовано на пристрій %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Розблокуйте пристрій, щоб продовжити його налаштування</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">З міркувань безпеки підтвердьте блокування екрана, щоб продовжити налаштування.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Підтвердьте й продовжуйте</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Не можна налаштувати інший пристрій, оскільки на цьому пристрої немає функції Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Цю функцію вимкнено з міркувань безпеки. На іншому пристрої виберіть \"Пропустити\" й продовжте налаштування.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Налаштування нового пристрою</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Налаштування пристрою</string>
+    <string name="smartdevice_d2d_source_notification_title">Налаштування (^1)</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Щоб скопіювати облікові записи Google, додатки й дані на правильний пристрій, відновіть налаштування та виберіть ^1.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Немає такого коду?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Немає такого коду?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Перевірте цей код на іншому пристрої, щоб підтвердити правильний вибір</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Підтвердження коду</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Не можна налаштувати новий пристрій за допомогою обмеженого профілю користувача.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Продовжіть налаштування на пристрої %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Майже готово.</string>
+    <string name="smartdevice_d2d_target_choice_description">Якщо у вас є інший пристрій Android, ви можете швидко скопіювати поточні налаштування на цей пристрій %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Використовуйте всі можливості свого попереднього пристрою Android</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Налаштувати пристрій як новий</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Скопіюйте вміст з іншого пристрою Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Ні, дякую</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Так, перейти до налаштування пристрою</string>
+    <string name="smartdevice_d2d_target_choice_title">Маєте інший пристрій?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Копіювати обліковий запис, додатки й дані з іншого пристрою</string>
+    <string name="smartdevice_d2d_target_continue_description">Продовжте налаштування на іншому пристрої.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Копіювання облікових записів…</string>
+    <string name="smartdevice_d2d_target_description">Поверніться до іншого пристрою:&lt;br/>&lt;br/> 1. Скажіть &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> або введіть \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" і підтвердьте запит&lt;br/>&lt;br/> 2. Торкніться &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> у списку та дотримуйтесь інструкцій на екрані</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Спробуйте інший спосіб</string>
+    <string name="smartdevice_d2d_target_google_settings_description">На іншому пристрої:&lt;br/>&lt;br/> 1. Відкрийте додаток &lt;b>Налаштування Google&lt;/b>&lt;br/>&lt;br/> 2. Виберіть &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Налаштувати пристрій поруч>%1$s&lt;/xliff:g>&lt;/b>&lt;br/>&lt;br/> 3. Торкніться пристрою &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> у списку та дотримуйтесь інструкцій на екрані</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Не вдається виконати ці дії</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Скористайтеся додатком Налаштування</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">На іншому пристрої:&lt;br/>&lt;br/> 1. Торкніться значка \"Усі додатки\", а потім відкрийте &lt;b>додаток Налаштування&lt;/b> &lt;br/>&lt;br/> 2. Торкніться опції &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Виберіть &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Налаштувати пристрій поблизу>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Торкніться пристрою &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> у списку та дотримуйтеся інструкцій на екрані</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Скопіюйте вміст з іншого пристрою Android</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Виникли проблеми?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Не можете знайти?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">На іншому пристрої відкрийте додаток Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">Відкрийте додаток Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">На іншому пристрої</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Щоб скопіювати дані: 
+
+1. Переконайтеся, що інший пристрій увімкнено й розблоковано 
+
+2. Розмістіть пристрої задніми панелями один до одного та тримайте так, доки не почуєте сигнал. Після цього їх можна роз’єднати."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Функція \"Торкнутися та перенести\" копіює облікові записи Google, додатки й дані з іншого пристрою за допомогою технології NFC. Переконайтеся, що функцію NFC ввімкнено в налаштуваннях.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Виникли проблеми?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Торкнутися та перенести</string>
+    <string name="smartdevice_d2d_target_other_device_description">Додаток Google попередньо встановлено на всіх пристроях Android. Торкніться пункту \"Всі додатки\" на головному екрані та знайдіть значок, зображений вище.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Цей код має збігатися з кодом на іншому пристрої:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Не пропускати</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Після налаштування цей обліковий запис і автоматично завантажені додатки й дані не буде скопійовано на пристрій.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Так, пропустити</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Пропустити цей обліковий запис?</string>
+    <string name="smartdevice_d2d_target_title">У додатку Google</string>
+    <string name="smartdevice_default_device_name">пристрій</string>
+    <string name="smartdevice_install_app">Установлення додатку</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Установіть додаток %s, щоб керувати новим %s з цього пристрою</string>
+    <string name="smartdevice_install_on_this_device">Установити</string>
+    <string name="smartdevice_search_again">Шукати знову</string>
+    <string name="smartdevice_searching_for_devices">Пошук пристроїв</string>
+    <string name="smartdevice_setup_enter_code">Введіть код на пристрої. Він відобразиться на наклейці.</string>
+    <string name="smartdevice_setup_enter_code_hint">Введіть код</string>
+    <string name="smartdevice_setup_enter_pin_4">Введіть 4-значний код, що з’явився на екрані пристрою</string>
+    <string name="smartdevice_setup_google_app_trigger">Налаштувати пристрій</string>
+    <string name="smartdevice_setup_info_installing_app">Установлення додатка…</string>
+    <string name="smartdevice_setup_intro_text">Інший пристрій буде налаштовано за допомогою функції Bluetooth вашого телефона та даних Wi-Fi.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Інший пристрій буде налаштовано за допомогою функції Bluetooth вашого телефона.</string>
+    <string name="smartdevice_setup_intro_title">Початок роботи</string>
+    <string name="smartdevice_setup_password_hint">Введіть пароль Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Показати пароль</string>
+    <string name="smartdevice_setup_title_verify_code">Підтвердження коду</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Для налаштування цього пристрою можна використовувати лише відкриті мережі та мережі WPA/WPA2</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Не можна використовувати мережу Wi-Fi</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Без з’єднання Wi-Fi пристрій може не працювати належним чином. Підключіть його до мережі Wi-Fi, щоб продовжити налаштування.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Вибрати мережу Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Щоб шукати мережу Wi-Fi, увімкніть дані про місцезнаходження.
+
+Ви можете будь-коли змінити цей параметр у налаштуваннях."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Неможливо шукати мережі Wi-Fi</string>
+    <string name="source_connected_description">Підготовка…</string>
+    <string name="source_connected_title">Під’єднано до пристрою %1$s</string>
+    <string name="source_copying_description">Вибрані дані копіюються на новий телефон</string>
+    <string name="source_copying_title">Копіювання…</string>
+    <string name="source_default_target_device_name">новий пристрій</string>
+    <string name="source_notification_device_disconnected">Знову під’єднайте кабель</string>
+    <string name="source_notification_text">Триває передавання даних між телефонами</string>
+    <string name="source_notification_title">Передавання даних</string>
+    <string name="source_success_description">Завершіть налаштування на пристрої %1$s.</string>
+    <string name="source_success_screen_title">Готово.</string>
+    <string name="source_unplugged_description">Під’єднайте пристрій %1$s ще раз</string>
+    <string name="source_unplugged_title">Кабель від’єднано</string>
+    <string name="source_waiting_title">Продовжіть налаштування на пристрої %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Відхилити</string>
+    <string name="stop_copying_dialog_message_before_transfer">Дані не було скопійовано на новий телефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Деякі дані не було скопійовано на новий телефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не копіювати</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Припинити</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не копіювати?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Припинити копіювання?</string>
+    <string name="storage_management_wear_descriptive_text">Додатки використовують пам’ять пристрою, щоб копіювати дані на носій.</string>
+    <string name="storage_management_wear_manage_size_label">Керувати пам’яттю носія</string>
+    <string name="storage_management_wear_size_label">Пам’ять носія</string>
+    <string name="storage_managment_all_storage_descriptive_text">Усі дані, які використовують сервіси Google Play, зокрема пошукова система.</string>
+    <string name="storage_managment_clear_all_data">Очистити всі дані</string>
+    <string name="storage_managment_computing_size">Обчислення…</string>
+    <string name="storage_managment_icing_size_label">Дані пошуку</string>
+    <string name="storage_managment_manage_icing_button">Керувати даними пошуку</string>
+    <string name="storage_managment_search_index_descriptive_text">Щоб пошук працював швидше, додатки на вашому пристрої можуть використовувати пошукову систему.</string>
+    <string name="storage_managment_title">Пам’ять сервісів Google Play</string>
+    <string name="storage_managment_total_size_label">Загальний обсяг пам’яті</string>
+    <string name="supervisor_downloading_description">Завантажується файл %1$s</string>
+    <string name="supervisor_downloading_title">Зачекайте, доки ми налаштуємо ваш пристрій</string>
+    <string name="supervisor_installing_description">Установлюється файл %1$s</string>
+    <string name="supervisor_title">Play для додатків із миттєвим запуском</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Більше</string>
+    <string name="suw_next_button_label">Далі</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Торкніться, щоб дізнатися більше</string>
+    <string name="system_update_activity_battery_low_text">Заряду акумулятора не вистачить, щоб установити оновлення</string>
+    <string name="system_update_activity_name">Оновлення системи</string>
+    <string name="system_update_activity_roaming_text">Оновлення системи не можна завантажити в роумінгу.</string>
+    <string name="system_update_activity_roaming_text_glif">Не можна завантажити в роумінгу</string>
+    <string name="system_update_android_version_text">Версія Android: ^1</string>
+    <string name="system_update_check_now_button_text">Шукати оновлення</string>
+    <string name="system_update_checking_status_text">Перевірка</string>
+    <string name="system_update_complete_label">Оновлення системи</string>
+    <string name="system_update_countdown_cancel_button">Скасувати встановлення</string>
+    <string name="system_update_countdown_complete">Перезавантаження…</string>
+    <string name="system_update_download_and_install_button_text">Завантажити та встановити</string>
+    <string name="system_update_download_button_text">Завантажити</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Замало місця для завантаження</string>
+    <string name="system_update_download_failed_no_space_status_text">Недостатньо місця для завантаження</string>
+    <string name="system_update_download_failed_status_text">Не вдалося завантажити</string>
+    <string name="system_update_download_manage_storage_button_text">Керувати сховищем</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Очікується підключення до мережі Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Завантаження призупинено</string>
+    <string name="system_update_download_retry_button_text">Повтор. завантаж.</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Оновлення завантажиться автоматично в період з ^1 до ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Ви можете будь-коли завантажити це оновлення через мережу Wi-Fi. Якщо ви цього не зробите, воно завантажиться автоматично в період з ^1 до ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Щоб завантажити це оновлення, виберіть іншу SIM-карту.</string>
+    <string name="system_update_download_waiting_status_text">Очікування на завантаження</string>
+    <string name="system_update_downloading_status_text">Завантаження</string>
+    <string name="system_update_downloading_title_text">Завантажується оновлення системи…</string>
+    <string name="system_update_downloading_wifi_status2_text">Лише через ^1 до ^2</string>
+    <string name="system_update_file_browser_ok_button">Вибрати</string>
+    <string name="system_update_file_browser_title">Вибрати файл оновлення</string>
+    <string name="system_update_free_up_space_button_text">Звільнити місце</string>
+    <string name="system_update_from_sd_card_button_and_title">Оновити з карти SD</string>
+    <string name="system_update_from_sd_card_unknown_status">Перевірка…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Не вдалося підтвердити</string>
+    <string name="system_update_from_sd_card_verified_description">Оновлення перевірено. Його можна встановлювати.</string>
+    <string name="system_update_from_sd_card_verifying_status">Підтвердження…</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Потрібне безлімітне з’єднання Wi-Fi</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Радимо під’єднатися до мережі Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Це оновлення можна завантажити лише через ^1 до ^2.
+
+Щоб продовжити завантаження, під’єднайте пристрій до ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Потрібна мережа Wi-Fi</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Щоб не платити за використання трафіку, під’єднайтеся до безлімітної мережі Wi-Fi.</string>
+    <string name="system_update_install_button_text">Перезавантажити й установити</string>
+    <string name="system_update_install_failed_button_qualifier_text">Не вдалося встановити</string>
+    <string name="system_update_install_failed_title_text">Не вдалося оновити</string>
+    <string name="system_update_install_steps_text">Крок ^1 із 2</string>
+    <string name="system_update_installing_title_text">Установлюється оновлення системи…</string>
+    <string name="system_update_last_checkin">Остання перевірка оновлення: ^1</string>
+    <string name="system_update_last_checkin_glif">Останній пошук оновлення: ^1</string>
+    <string name="system_update_managed_by_policy">Системне програмне забезпечення цього пристрою оновлює ваша організація.</string>
+    <string name="system_update_no_update_content_text">Ваша система оновлена.</string>
+    <string name="system_update_no_update_content_text_glif">Ваша система оновлена</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Не вдалося завантажити оновлення системи</string>
+    <string name="system_update_not_owner_text">Доступне оновлення програмного забезпечення системи, але встановити його може лише власник.</string>
+    <string name="system_update_notification_header_name">Оновлення системи Android</string>
+    <string name="system_update_pause_button_text">Призупинити завантаження</string>
+    <string name="system_update_processing_status_text">Обробка</string>
+    <string name="system_update_requires_restart_status_text">Потрібне перезавант.</string>
+    <string name="system_update_restart_to_install_button_text">Перезавантажити, щоб установити</string>
+    <string name="system_update_restart_to_update_button_text">Перезавантажити, щоб оновити</string>
+    <string name="system_update_resume_button_text">Відновити завантаження</string>
+    <string name="system_update_scheduled_status_text">Заплановано</string>
+    <string name="system_update_security_patch_level_text">Рівень виправлень системи безпеки: ^1</string>
+    <string name="system_update_security_update_available_title_text">Доступне оновлення системи безпеки</string>
+    <string name="system_update_security_update_downloading_title_text">Завантажуються оновлення системи безпеки…</string>
+    <string name="system_update_security_update_installing_title_text">Установлюються оновлення системи безпеки…</string>
+    <string name="system_update_size_label">Обсяг оновлення:</string>
+    <string name="system_update_suw_download_and_install_text">"Оновлення може завантажуватись і встановлюватись кілька хвилин.
+
+Після цього пристрій перезапуститься автоматично."</string>
+    <string name="system_update_suw_download_text">"Оновлення може завантажуватись кілька хвилин.
+
+Після цього пристрій перезапуститься автоматично."</string>
+    <string name="system_update_suw_download_title">Завантажується оновлення…</string>
+    <string name="system_update_suw_restart_text">Пристрій перезапуститься, щоб установити оновлення системи.</string>
+    <string name="system_update_suw_restart_title">Невдовзі перезапуститься</string>
+    <string name="system_update_suw_wifi_needed">Щоб продовжити завантаження, під’єднайте пристрій до ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Проведіть пальцем ліворуч, щоб завантажити.</string>
+    <string name="system_update_update_available_notification_message">Торкніться, щоб дізнатися більше та завантажити</string>
+    <string name="system_update_update_available_notification_title">Доступне оновлення системи</string>
+    <string name="system_update_update_available_tap_to_download">Торкніться, щоб завантажити</string>
+    <string name="system_update_update_available_title_text">Доступне оновлення системи</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Завантаження призупинено</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Замало місця</string>
+    <string name="system_update_update_downloaded_charge_wearable">Зарядіть акумулятор щонайменше на %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Проведіть пальцем ліворуч, щоб установити.</string>
+    <string name="system_update_update_downloaded_notification_message">Торкніться, щоб дізнатися більше та встановити</string>
+    <string name="system_update_update_downloaded_notification_title">Оновлення системи завантажено</string>
+    <string name="system_update_update_downloaded_tap_to_install">Торкніться, щоб установити</string>
+    <string name="system_update_verification_failed_text">Помилка перевірки</string>
+    <string name="system_update_verified_status_text">Завантажено та перевірено</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Не вдалося перевірити</string>
+    <string name="system_update_verifying_status_text">Перевірка</string>
+    <string name="system_update_wearable_countdown_message">Перезапуск через %d…</string>
+    <string name="target_default_source_device_model">старий пристрій</string>
+    <string name="target_device_not_supported_cant_continue_description">Виберіть інший спосіб копіювання даних</string>
+    <string name="target_device_not_supported_cant_continue_title">Інший телефон не підтримується</string>
+    <string name="target_device_not_supported_try_restarting_description">"Від’єднайте кабель, перезавантажте старий телефон, під’єднайте кабель знову та виконайте вказівки на телефоні Pixel.
+
+Якщо повідомлення про помилку не зникає, спробуйте копіювати іншим способом."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефон може не підтримуватися</string>
+    <string name="target_smart_device_timeout_add_account">ДОДАТИ ОБЛІК. ЗАПИС</string>
+    <string name="target_smart_device_timeout_description">Ви можете додати обліковий запис вручну</string>
+    <string name="target_smart_device_timeout_dismiss">ЗАКРИТИ</string>
+    <string name="target_smart_device_timeout_title">Виникли проблеми?</string>
+    <string name="terabyteShort">Тб</string>
+    <string name="toast_phones_connected">Телефони під’єднано</string>
+    <string name="toast_reconnect_cable">Знову під’єднайте кабель</string>
+    <string name="transfer_finished_fragment_title">Налаштування…</string>
+    <string name="transfer_summary_copied">Дані скопійовано</string>
+    <string name="transfer_summary_fragment_description">Можна від’єднати кабель.</string>
+    <string name="transfer_summary_fragment_finish">ГОТОВО</string>
+    <string name="transfer_summary_fragment_title">Дані майже перенесено на телефон</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Деякі фотографії не скопійовано. <annotation id="transfer_summary_learn_more">Докладніше</annotation></string>
+    <string name="transfer_summary_not_copied">Дані не скопійовано</string>
+    <string name="transfer_summary_partial">Скопійовано %1$s з %2$s</string>
+    <string name="transfer_summary_will_sync">Дані синхронізуватимуться після налаштування</string>
+    <string name="transferring_fragment_calculating_remaining_time">Обчислюється час до завершення…</string>
+    <string name="transferring_fragment_header">Копіювання…</string>
+    <string name="transferring_fragment_remaining_time">Залишилося %1$s</string>
+    <string name="trust_instructions_description">Щоб продовжити, виберіть свій пристрій iPhone® і схваліть підключення</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari та iTunes є торговельними марками корпорації Apple Inc., зареєстрованої в США й інших країнах.</string>
+    <string name="unmetered_wifi_string">безлімітної мережі Wi-Fi</string>
+    <string name="url_load_unsuccessful_message">Пристрій Android не під’єднано до мобільного Інтернету. Щоб переглянути цю інформацію, відкрийте у веб-переглядачі сторінку %s.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Пристрій Android не під’єднано до мережі Wi-Fi. Щоб переглянути цю інформацію зараз, перейдіть на %s у веб-переглядачі.</string>
+    <string name="use_nearby_device_heading">Використовувати пристрій поруч?</string>
+    <string name="use_nearby_device_text">Хочете надати облікові дані за допомогою пристрою поруч?</string>
+    <string name="waiting_for_account_info_text">Очікуються дані облікового запису…</string>
+    <string name="wifi_available_action_all_networks">Усі мережі</string>
+    <string name="wifi_available_action_connect">Під’єднатися</string>
+    <string name="wifi_available_content_failed">Торкніться, щоб побачити всі мережі</string>
+    <string name="wifi_available_title">Під’єднайтеся до відкритої мережі Wi-Fi</string>
+    <string name="wifi_available_title_connected">Під’єднано до мережі Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Під’єднання до відкритої мережі Wi-Fi</string>
+    <string name="wifi_available_title_failed">Не вдалося під’єднатися до мережі Wi-Fi</string>
+    <string name="wifi_string">мережі Wi-Fi</string>
+    <string name="wifi_wakeup_enabled_notification_context">Ви поблизу збереженої мережі: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">З’єднання Wi-Fi вмикається автоматично</string>
+</resources>

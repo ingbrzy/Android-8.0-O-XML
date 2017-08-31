@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">ამ ერთეულების წაშლილებში გადატანა ასევე წაშლის მათ აქედან</item>
+        <item quantity="one">ამ ერთეულის წაშლილებში გადატანა ასევე წაშლის მას აქედან</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">ეს ერთეულები ძალიან დიდია თქვენი მოწყობილობის წაშლილებისთვის. თუ მათ წაშლით, ისინი სამუდამოდ წაიშლება თქვენი მოწყობილობიდან და ანგარიშიდან.</item>
+        <item quantity="one">ეს ერთეული ძალიან დიდია თქვენი მოწყობილობის წაშლილებისთვის. თუ მას წაშლით, ის სამუდამოდ წაიშლება თქვენი მოწყობილობიდან და ანგარიშიდან.</item>
+    </plurals>
+    <plurals name="moved_to_trash_undo_text">
+        <item quantity="other">%d ერთეული გადატანილია წაშლილებში</item>
+        <item quantity="one">ერთეული გადატანილია წაშლილებში</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">ახალი ალბომის ზომა შესაძლოა იყო ახლანდელ ლიმიტზე (%1$d ერთეული) მეტი.</item>
+        <item quantity="one">ახალი ალბომის ზომა შესაძლოა იყო ახლანდელ ლიმიტზე (%1$d ერთეული) მეტი.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">ალბომს შეიძლება ჰქონდეს %1$d ერთეული.</item>
+        <item quantity="one">ალბომს შეიძლება ჰქონდეს %1$d ერთეული.</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">გსურთ %1$d ერთეულის ამოშლა ალბომიდან?</item>
+        <item quantity="one">გსურთ %1$d ერთეულის ამოშლა ალბომიდან?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">ალბომიდან იშლება %d ერთეული…</item>
+        <item quantity="one">ალბომიდან იშლება %d ერთეული…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">დაემატა %d მდებარეობა</item>
+        <item quantity="one">დაემატა %d მდებარეობა</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%d მდებარეობა</item>
+        <item quantity="one">%d მდებარეობა</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%d რუკა</item>
+        <item quantity="one">%d რუკა</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">დაემატა %d რუკა</item>
+        <item quantity="one">დაემატა %d რუკა</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">ერთეულის ამოშლა ამ ალბომებიდან…</item>
+        <item quantity="one">ერთეულის ამოშლა ამ ალბომიდან…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">წაიშალა %d ერთეული</item>
+        <item quantity="one">წაიშალა %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">ფოტოების ამოშლა ამ ალბომიდან…</item>
+        <item quantity="one">ფოტოს ამოშლა ამ ალბომიდან…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">ვიდეოების ამოშლა ამ ალბომიდან…</item>
+        <item quantity="one">ვიდეოს ამოშლა ამ ალბომიდან…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$d ერთეული</item>
+        <item quantity="one">%1$d ერთეული</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%d ერთეული</item>
+        <item quantity="one">%d ერთეული</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">გსურთ მოწყობილობაზე არსებული ასლების წაშლა?</item>
+        <item quantity="one">გსურთ მოწყობილობაზე არსებული ასლის წაშლა?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">ამ ერთეულების სარეზერვო ასლები არ არის შექმნილი თქვენს Photos ბიბლიოთეკაში და ახლა წაშლა სამუდამოდ წაშლის მათ Photos-იდან</item>
+        <item quantity="one">ამ ერთეულის სარეზერვო ასლი არ არის შექმნილი თქვენს Photos ბიბლიოთეკაში და ახლა წაშლა სამუდამოდ წაშლის მას Photos-იდან</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">დაარქივდა %d ერთეული</item>
+        <item quantity="one">დაარქივდა %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">მოხდა %d ერთეულის დეარქივაცია</item>
+        <item quantity="one">მოხდა %d ერთეულის დეარქივაცია</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_items_left">
+        <item quantity="other">დარჩენილია %d ერთეული</item>
+        <item quantity="one">დარჩენილია %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_photos_to_back_up">
+        <item quantity="other">სარეზერვო ასლის შესაქმნელად არის %d ერთეული</item>
+        <item quantity="one">სარეზერვო ასლის შესაქმნელად არის %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">დარჩენილია %d ფოტო</item>
+        <item quantity="one">დარჩენილია %d ფოტო</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">დარჩენილია %d დასარეზერვებელი ფოტო</item>
+        <item quantity="one">დარჩენილია %d დასარეზერვებელი ფოტო</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%d ფოტო შესაძლოა დაკარგულია</item>
+        <item quantity="one">%d ფოტო შესაძლოა დაკარგულია</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$d ფოტოს სარეზერვო ასლი არ არის შექმნილი</item>
+        <item quantity="one">%1$d ფოტოს სარეზერვო ასლი არ არის შექმნილი</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%d-ვე ფოტო</item>
+        <item quantity="one">%d-ვე ფოტო</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%d ფოტოს სარეზერვო ასლი შექმნილი არ არის</item>
+        <item quantity="one">%d ფოტოს სარეზერვო ასლი შექმნილი არ არის</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">ახალი ალბომის ზომა შესაძლოა იყო ახლანდელ ლიმიტზე (%1$d ერთეული) მეტი.</item>
+        <item quantity="one">ახალი ალბომის ზომა შესაძლოა იყო ახლანდელ ლიმიტზე (%1$d ერთეული) მეტი.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">ალბომს შეიძლება ჰქონდეს %1$d ერთეული.</item>
+        <item quantity="one">ალბომს შეიძლება ჰქონდეს %1$d ერთეული.</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">დაემატა %1$d ერთეული</item>
+        <item quantity="one">დაემატა %1$d ერთეული</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">%d ერთეული არის მაქსიმუმი, რასაც ალბომი იტევს.</item>
+        <item quantity="one">%d ერთეული არის მაქსიმუმი, რასაც ალბომი იტევს.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">აირჩიეთ მაქსიმუმ %d ერთეული.</item>
+        <item quantity="one">აირჩიეთ მაქსიმუმ %d ერთეული.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">აირჩიეთ მინიმუმ %d ერთეული.</item>
+        <item quantity="one">აირჩიეთ მინიმუმ %d ერთეული.</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">გთხოვთ, აირჩიოთ ერთეულები %d დღის დიაპაზონში.</item>
+        <item quantity="one">გთხოვთ, აირჩიოთ ერთეულები %d დღის დიაპაზონში.</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">ალბომს %d ერთეული ემატება…</item>
+        <item quantity="one">ალბომს %d ერთეული ემატება…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">დაემატა %d ერთეული</item>
+        <item quantity="one">დაემატა %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d დღის წინ</item>
+        <item quantity="one">%d დღის წინ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d სთ.</item>
+        <item quantity="one">%d სთ.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d კვ.</item>
+        <item quantity="one">%d კვ.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d წთ.</item>
+        <item quantity="one">%d წთ.</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d დღე</item>
+        <item quantity="one">%d დღე</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">გსურთ, წაშალოთ %1$d ერთეული?</item>
+        <item quantity="one">გსურთ, წაშალოთ %1$d ერთეული?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">მიმდინარეობს %1$d ორიგინალი ფოტოს და ვიდეოს წაშლა</item>
+        <item quantity="one">მიმდინარეობს %1$d ორიგინალი ფოტოს ან ვიდეო წაშლა</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%d ახალი ბარათი</item>
+        <item quantity="one">1 ახალი ბარათი</item>
+    </plurals>
+    <plurals name="photos_envelope_feednoresources_commentbanner_num_comments">
+        <item quantity="other">%1$d კომენტარი</item>
+        <item quantity="one">%1$d კომენტარი</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">ერთეულების შენახვა ბიბლიოთეკაში…</item>
+        <item quantity="one">ერთეულის შენახვა ბიბლიოთეკაში…</item>
+    </plurals>
+    <plurals name="photos_envelope_suggest_banner_related_photos_found">
+        <item quantity="other">ნაპოვნია %d დაკავშირებული ფოტო. გსურთ მათი დამატება?</item>
+        <item quantity="one">ნაპოვნია %d დაკავშირებული ფოტო. გსურთ მისი დამატება?</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">დაემატა %d ერთეული</item>
+        <item quantity="one">დაემატა %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">კიდევ %d ერთეულის დამატება შეგიძლიათ მხოლოდ.</item>
+        <item quantity="one">კიდევ %d ერთეულის დამატება შეგიძლიათ მხოლოდ.</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">წაშალეთ საქაღალდე და მასში არსებული %d ერთეული</item>
+        <item quantity="one">წაშალეთ საქაღალდე და მასში არსებული %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%d ერთეულის კოპირებისას წარმოიშვა პრობლემა</item>
+        <item quantity="one">%d ერთეულის კოპირებისას წარმოიშვა პრობლემა</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">კოპირებულია %d ერთეული</item>
+        <item quantity="one">კოპირებულია %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%d ერთეულის გადატანისას წარმოიშვა პრობლემა</item>
+        <item quantity="one">%d ერთეულის გადატანისას წარმოიშვა პრობლემა</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">გადატანილია %d ერთეული</item>
+        <item quantity="one">გადატანილია %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">პლუს %1$d ადგილი თქვენს ფოტოებში</item>
+        <item quantity="one">პლუს %1$d ადგილი თქვენს ფოტოებში</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">პლუს %1$d ნივთი თქვენს ფოტოებში</item>
+        <item quantity="one">პლუს %1$d ნივთი თქვენს ფოტოებში</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">პლუს %1$d ადგილი და საგანი თქვენს ფოტოებში</item>
+        <item quantity="one">პლუს %1$d ადგილი და საგანი თქვენს ფოტოებში</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">მოიძებნა %1$d ადამიანი</item>
+        <item quantity="one">მოიძებნა %1$d ადამიანი</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">მოიძებნა %1$d ადგილი</item>
+        <item quantity="one">მოიძებნა %1$d ადგილი</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">მოიძებნა %1$d ნივთი</item>
+        <item quantity="one">მოიძებნა %1$d ნივთი</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%d ფოტო</item>
+        <item quantity="one">%d ფოტო</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">არჩეულია %1$d ერთეული</item>
+        <item quantity="one">არჩეულია %1$d ერთეული</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">არჩეულია %d</item>
+        <item quantity="one">არჩეულია %d</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">%1$d ფოტოსა და ვიდეოს წაშლა ვერ მოხერხდა</item>
+        <item quantity="one">ერთი ფოტოსა და ვიდეოს წაშლა ვერ მოხერხდა</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">%1$d ფოტოს და ვიდეოს წაშლა…</item>
+        <item quantity="one">1 ფოტოს ან ვიდეოს წაშლა…</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">ალბომს %d ერთეული დაემატა</item>
+        <item quantity="one">ალბომს %d ერთეული დაემატა</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">დაკავშირებისას %d ერთეული აიტვირთება</item>
+        <item quantity="one">დაკავშირებისას %d ერთეული აიტვირთება</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s და %2$d სხვა</item>
+        <item quantity="one">%1$s და %2$d სხვა</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%d ერთეული</item>
+        <item quantity="one">%d ერთეული</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">ერთეულების წაშლა შეუძლებელია</item>
+        <item quantity="one">ერთეულის წაშლა შეუძლებელია</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">მოწყობილობაზე არსებული ასლების წაშლა შეუძლებელია</item>
+        <item quantity="one">მოწყობილობაზე არსებული ასლის წაშლა შეუძლებელია</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">მოწყობილობაზე არსებული ასლები წაიშალა</item>
+        <item quantity="one">მოწყობილობაზე არსებული ასლი წაიშალა</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%d ერთეულის წაშლა შეუძლებელია</item>
+        <item quantity="one">%d ერთეულის წაშლა შეუძლებელია</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%d ერთეულის სამუდამოდ წაშლა შეუძლებელია</item>
+        <item quantity="one">%d ერთეულის სამუდამოდ წაშლა შეუძლებელია</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">ერთეულების სამუდამოდ წაშლა…</item>
+        <item quantity="one">ერთეულის სამუდამოდ წაშლა…</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%d ერთეული სამუდამოდ წაიშალა</item>
+        <item quantity="one">%d ერთეული სამუდამოდ წაიშალა</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">ერთეულების აღდგენა…</item>
+        <item quantity="one">ერთეულის აღდგენა…</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%d ერთეულის აღდგენა შეუძლებელია</item>
+        <item quantity="one">%d ერთეულის აღდგენა შეუძლებელია</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">წაშლილებიდან აღდგენილია %d ერთეული</item>
+        <item quantity="one">წაშლილებიდან აღდგენილია %d ერთეული</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">გსურთ, ერთეულები სამუდამოდ წაშალოთ?</item>
+        <item quantity="one">გსურთ, ერთეული სამუდამოდ წაშალოთ?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">ერთეულების წაშლა წაშლილებიდან სამუდამოა</item>
+        <item quantity="one">ერთეულის წაშლა წაშლილებიდან სამუდამოა</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">გსურთ, წაშალოთ ერთეულები?</item>
+        <item quantity="one">გსურთ, წაშალოთ ერთეული?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">%d ერთეულის სამუდამოდ წაშლა</item>
+        <item quantity="one">ერთი ერთეულის სამუდამოდ წაშლა</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">ამ ვერსიის ვადის ამოწურვამდე დარჩა ერთი %d დღე. Google Photos-ის გამოყენების გასაგრძელებლად განაახლეთ ახლავე.</item>
+        <item quantity="one">ამ ვერსიის ვადის ამოწურვამდე დარჩა ერთი დღე. Google Photos-ის გამოყენების გასაგრძელებლად განაახლეთ ახლავე.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">ამ ერთეულების სარეზერვო ასლების ახლავე შესაქმნელად, გამოიყენებთ მობილური ინტერნეტის დაახლოებით %s-ს. დაუკავშირდით Wi-Fi-ს, რათა თავიდან აიცილოთ მობილური ინტერნეტის გამოყენება.</item>
+        <item quantity="one">ამ ერთეულის სარეზერვო ასლის ახლავე შესაქმნელად, გამოიყენებთ მობილური ინტერნეტის დაახლოებით %s-ს. დაუკავშირდით Wi-Fi-ს, რათა თავიდან აიცილოთ მობილური ინტერნეტის გამოყენება.</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">ამ ერთეულების სარეზერვო ასლების შექმნით მოხდება თქვენი მობილური ინტერნეტის ნაწილის გამოყენება. დაუკავშირდით Wi-Fi-ს, რათა თავიდან აიცილოთ მობილური ინტერნეტის გამოყენება.</item>
+        <item quantity="one">ამ ერთეულის სარეზერვო ასლის შექმნით მოხდება თქვენი მობილური ინტერნეტის ნაწილის გამოყენება. დაუკავშირდით Wi-Fi-ს, რათა თავიდან აიცილოთ მობილური ინტერნეტის გამოყენება.</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">მიმდინარეობს ატვირთვა…დარჩა %d</item>
+        <item quantity="one">მიმდინარეობს ატვირთვა…დარჩა %d</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%d ფაილი</item>
+        <item quantity="one">%d ფაილი</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%s ფოტო</item>
+        <item quantity="one">%s ფოტო</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%s ერთეული</item>
+        <item quantity="one">%s ერთეული</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%s ვიდეო</item>
+        <item quantity="one">%s ვიდეო</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">აირჩიეთ ფოტოები</item>
+        <item quantity="one">აირჩიეთ ფოტო</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">აირჩიეთ ერთეულები</item>
+        <item quantity="one">აირჩიეთ ერთეული</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">აირჩიეთ ვიდეოები</item>
+        <item quantity="one">აირჩიეთ ვიდეო</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">თქვენი მოწყობილობის წაშლილები სავსეა. თუ ამ ერთეულებს წაშლით, ისინი სამუდამოდ წაიშლება თქვენი მოწყობილობიდან და ანგარიშიდან.</item>
+        <item quantity="one">თქვენი მოწყობილობის წაშლილები სავსეა. თუ ამ ერთეულს წაშლით, ის სამუდამოდ წაიშლება თქვენი მოწყობილობიდან და ანგარიშიდან.</item>
+    </plurals>
+</resources>

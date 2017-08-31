@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">پیمایش به صفحه اصلی</string>
+    <string name="abc_action_bar_home_description_format">‏%1$s‏، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">‏%1$s‏، %2$s‏، %3$s</string>
+    <string name="abc_action_bar_up_description">پیمایش به بالا</string>
+    <string name="abc_action_menu_overflow_description">گزینه‌های بیشتر</string>
+    <string name="abc_action_mode_done">تمام</string>
+    <string name="abc_activity_chooser_view_see_all">مشاهده همه</string>
+    <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
+    <string name="abc_capital_off">خاموش</string>
+    <string name="abc_capital_on">روشن</string>
+    <string name="abc_search_hint">جستجو…</string>
+    <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
+    <string name="abc_searchview_description_query">عبارت جستجو</string>
+    <string name="abc_searchview_description_search">جستجو</string>
+    <string name="abc_searchview_description_submit">ارسال عبارت جستجو</string>
+    <string name="abc_searchview_description_voice">جستجوی شفاهی</string>
+    <string name="abc_shareactionprovider_share_with">اشتراک‌گذاری با</string>
+    <string name="abc_shareactionprovider_share_with_application">‏اشتراک‌گذاری با %s</string>
+    <string name="abc_toolbar_collapse_description">کوچک کردن</string>
+    <string name="account_blocked_title">حساب مسدود شد</string>
+    <string name="account_level_title">اقدامی در حساب لازم است</string>
+    <string name="account_removed_notification_text">‏%1$s از دستگاه برداشته شد زیرا «مدیریت دستگاه» کامل نشده بود</string>
+    <string name="account_removed_notification_title">حساب برداشته شد</string>
+    <string name="android_privacy_policy_title">خط‌مشی رازداری دیگر</string>
+    <string name="app_has_in_app_purchases">خریدهای درون‌برنامه</string>
+    <string name="app_has_permissions">‏مجوزها: %s</string>
+    <string name="app_has_runtime_permissions">برنامه مجوز درخواست خواهد کرد</string>
+    <string name="app_level_title">درخواست ورود به سیستم</string>
+    <string name="app_level_title_secondary">درخواست ورود به سیستم توسط %s</string>
+    <string name="app_picker_app_already_installed_toast">این برنامه از قبل نصب شده است</string>
+    <string name="app_picker_loading">درحال پیدا کردن برنامه‌های دردسترس…</string>
+    <string name="app_picker_loading_toast">برنامه‌های دردسترس به‌زودی بار می‌شوند</string>
+    <string name="app_picker_no_apps">برنامه‌ای انتخاب نشده است</string>
+    <string name="app_picker_no_apps_found">برنامه‌ای پیدا نشد</string>
+    <string name="apps_in_app_purchases_disclaimer_all">خریدهای درون‌برنامه به ^1 شما منتقل نخواهند شد.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">برخی خریدهای درون‌برنامه ممکن است به ^1 شما منتقل نشوند.</string>
+    <string name="apps_permissions_described_v2">"‏فقط برنامه‌های پرطرفدار و رایگان iOS®‎ می‌توانند با برنامه‌های Android مطابقت داده شوند. اکثر خریدهای درون‌برنامه منتقل نخواهند شد. بعد از پایان راه‌اندازی، می‌توانید در «فروشگاه Play» برنامه‌های بیشتری پیدا کنید.
+
+شاید نیاز باشد از ابتدا به بعضی از برنامه‌ها اجازه دهید به قابلیت‌ها یا اطلاعات خاصی در دستگاهتان دسترسی داشته باشند. مجوزها در گروه‌های مجوز سازمان‌دهی می‌شوند. با انتخاب نصب این برنامه‌ها، با مجوزهایی که بخشی از هر گروه هستند موافقت می‌کنید. توضیحی درباره هر گروه مجوزها در زیر آمده است.
+
+شاید بعضی از برنامه‌ها به موافقت با مجوزهای اولیه نیاز نداشته باشند. وقتی از یکی از این برنامه‌ها استفاده می‌کنید، می‌توانید قبل از اینکه برنامه بتواند از نوع داده خاصی استفاده کند، مجوز مربوط به آن را بپذیرید یا آن را رد کنید.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">با نصب هر برنامه، با مجوزهای آن موافقت می‌کنید. <annotation id="apps_permissions_learn_more">بیشتر بدانید</annotation></string>
+    <string name="audience_selection_done">تمام</string>
+    <string name="auth_account_already_has_gmail">‏حساب از قبل دارای Gmail است.</string>
+    <string name="auth_account_content_provider_label">‏داده حساب Google</string>
+    <string name="auth_account_removed_default_description">نصب «مدیریت دستگاه» کامل نشد. دوباره شروع کنید و وارد سیستم شوید.</string>
+    <string name="auth_account_removed_default_title">راه‌اندازی لغو شد</string>
+    <string name="auth_account_removed_dm_bad_result_description">نصب «مدیریت دستگاه» کامل نشد. دوباره شروع کنید و وارد سیستم شوید.</string>
+    <string name="auth_account_removed_dm_not_supported_description">دامنه شما به مدیریت دستگاه همراه نیاز دارد، اما در این دستگاه پشتیبانی نمی‌شود. سعی کنید از حساب دیگری استفاده کنید.</string>
+    <string name="auth_account_removed_dm_not_supported_title">مدیریت دستگاه پشتیبانی نمی‌شود</string>
+    <string name="auth_account_removed_dm_setup_failed_description">«مدیریت دستگاه» درست نصب نشد. دوباره شروع کنید و وارد سیستم شوید.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">مشکل در نصب</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">نصب «مدیریت دستگاه» کامل نشد. دوباره شروع کنید و وارد سیستم شوید.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">نصب لغو شد</string>
+    <string name="auth_account_settings_title">تنظیمات حساب</string>
+    <string name="auth_account_setup_title">‏حساب Google</string>
+    <string name="auth_account_state_sync_title">همگام‌سازی وضعیت حساب</string>
+    <string name="auth_allow_button_label">اجازه دادن</string>
+    <string name="auth_allow_external_site_access">با دسترسی موجود به داده‌های خود در %s</string>
+    <string name="auth_app_permission_ok_footnote">‏با ادامه دادن، به این برنامه و Google اجازه می‌دهید از اطلاعات شما مطابق با شرایط خدمات و خط‌مشی‌های رازداری مربوط به آنها استفاده کنند.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">ورود به سیستم مجاز است</string>
+    <string name="auth_authzen_allow_reset_button_text">بازنشانی گذرواژه مجاز است</string>
+    <string name="auth_authzen_google_logo_label">‏نشان‌واره Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">ورود به سیستم تأیید شد</string>
+    <string name="auth_authzen_login_challenge_canceled_text">ورود به سیستم لغو شد</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">ورود به سیستم مجاز است</string>
+    <string name="auth_authzen_login_challenge_desc_text">از %s وارد سیستم می‌شوید؟</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">‏Google تلاش ورود به سیستم را متوقف کرد.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">شماره نادرست</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">شماره‌ای را که روی صفحه دیگر نشان داده شده لمس کنید. با این کار در رایانه‌تان وارد سیستم می‌شوید.</string>
+    <string name="auth_authzen_login_challenge_title_text">تلاش دارید وارد سیستم شوید؟</string>
+    <string name="auth_authzen_profile_picture_label">عکس نمایه</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">حسابی را که می‌خواهید با آن وارد سیستم شوید انتخاب کنید:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">سعی دارید وارد سیستم شوید؟</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">هیچ اعلانی در مورد ورود به سیستم پیدا نشد.</string>
+    <string name="auth_authzen_pull_offline_error">خطای داخلی</string>
+    <string name="auth_authzen_pull_offline_instructions_text">در رایانه‌تان، روی «کد دارید؟» کلیک کنید، سپس تایپ کنید:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">‏هم اکنون سعی کردید به Google وارد شوید؟</string>
+    <string name="auth_authzen_recovery_approved_text">بازنشانی گذرواژه تأیید شد</string>
+    <string name="auth_authzen_recovery_canceled_text">بازنشانی گذرواژه لغو شد</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">بازنشانی گذرواژه از %s مجاز باشد؟</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">به تأییدتان نیاز داریم</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">‏Google تلاش بازنشانی گذرواژه را متوقف کرد.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">شماره نادرست</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">شماره نشان داده شده در صفحه دیگر را لمس کنید. این کار گذرواژه‌تان را بازنشانی می‌کند.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">بازنشانی گذرواژه مجاز است</string>
+    <string name="auth_authzen_recovery_reject_desc_text">‏شخصی تقاضای بازنشانی گذرواژه حساب Google شما را داشت. Google تلاش بازنشانی گذرواژه را متوقف کرد.</string>
+    <string name="auth_authzen_recovery_reject_title_text">از بازنشانی گذرواژه جلوگیری شد</string>
+    <string name="auth_authzen_recovery_verification_desc_text">درخواست کردید گذرواژه‌تان از %s بازنشانی شود؟</string>
+    <string name="auth_authzen_recovery_verification_title_text">سعی داشتید گذرواژه‌تان را بازنشانی کنید؟</string>
+    <string name="auth_authzen_secure_account_button_text">ایمن کردن حساب</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">در جستجوی اعلان‌های ورود به سیستم...</string>
+    <string name="auth_back_button_label">برگشت</string>
+    <string name="auth_cant_add_work_account_message">این نوع حساب توسط سازمان شما مدیریت می‌شود</string>
+    <string name="auth_captcha_instructions">نوشته‌ای را که می‌بینید اینجا تایپ کنید:</string>
+    <string name="auth_captcha_title">باید گذرتصویر را وارد کنید</string>
+    <string name="auth_common_next_button">بعدی</string>
+    <string name="auth_common_skip">رد شدن</string>
+    <string name="auth_common_switch_accounts">رفتن به حساب دیگر</string>
+    <string name="auth_communicating_message">‏دستگاه شما در حال برقراری ارتباط با Google جهت ذخیره اطلاعات در حسابتان است. این کار ممکن است تا ۵ دقیقه طول بکشد.</string>
+    <string name="auth_confirm_creds_sync_title">وضعیت اعتبارنامه</string>
+    <string name="auth_d2d_source_alert_title">ضربه زدن و رفتن</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">قفل و تأیید</string>
+    <string name="auth_d2d_source_copy_notice">حساب‌ها و اطلاعات در دستگاه دیگر شما کپی شود؟</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">بعد از تأیید شما، بلوتوث روشن می‌شود، بنابراین دستگاهتان می‌تواند ارتباط برقرار کند.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">بعد از تأیید شما، دستگاه‌هایتان از طریق بلوتوث متصل می‌شوند.</string>
+    <string name="auth_d2d_source_lock_notice">برای ادامه، صفحه شما قفل می‌شود و باید قفل آن را برای تأیید باز کنید.</string>
+    <string name="auth_d2d_source_no_accounts_toast">نمی‌توان از «ضربه‌زدن و رفتن» استفاده کرد، چون حسابی در این دستگاه نیست.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">نمی‌توان از «ضربه‌زدن و رفتن» استفاده کرد، چون دستگاهتان بلوتوث ندارد.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">بلوتوث روشن می‌شود، بنابراین دستگاهتان می‌تواند ارتباط برقرار کند.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">این کار از بلوتوث استفاده می‌کند.</string>
+    <string name="auth_d2d_source_notification_title">«ضربه‌زدن و رفتن» انجام شد</string>
+    <string name="auth_d2d_source_restricted_user_toast">از نمایه محدود شده کاربر نمی‌توان ضربه زد و بازیابی کرد.</string>
+    <string name="auth_d2d_source_title">بازیابی حساب‌ها</string>
+    <string name="auth_d2d_source_unknown_device_name">دستگاه ناشناس</string>
+    <string name="auth_d2d_target_sorry_alert">متأسفیم، مشکلی روی داد</string>
+    <string name="auth_d2d_target_tap_progress_message">برای ادامه، در دستگاه دیگرتان روی «تأیید» ضربه بزنید</string>
+    <string name="auth_d2d_target_title">ضربه زدن و ادامه</string>
+    <string name="auth_d2d_target_unlock_progress_message">بررسی دستگاه دیگرتان</string>
+    <string name="auth_d2d_target_wait_progress_message">در حال دریافت حساب‌ها و داده‌ها...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">رد کردن</string>
+    <string name="auth_device_management_download_app_icon">نماد برنامه %s</string>
+    <string name="auth_device_management_download_description">این حساب به مدیریت دستگاه همراه نیاز دارد. برنامه ^1 را نصب کنید تا خط‌مشی‌های امنیتی لازم برای حساب اجرا شود.</string>
+    <string name="auth_device_management_download_description_kids">برای افزودن حساب به این دستگاه، ابتدا <b>^1</b>" را نصب کنید. 
+
+^1 در راه‌اندازی این دستگاه برای فرزندتان به شما کمک می‌کند."</string>
+    <string name="auth_device_management_download_failed_message">همچنان می‌توانید راه‌اندازی را بدون این برنامه ادامه دهید</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">مدیریت دستگاه نصب نشد. این حساب پاک می‌شود. بعداً دوباره امتحان کنید.</string>
+    <string name="auth_device_management_download_failed_title">برنامه بارگیری نشد</string>
+    <string name="auth_device_management_download_not_updated_message">همچنان می‌توانید راه‌اندازی را با استفاده از نسخه کنونی،‌ ادامه دهید</string>
+    <string name="auth_device_management_download_paused">موقتاً متوقف شد</string>
+    <string name="auth_device_management_download_progress">در حال بارگیری…</string>
+    <string name="auth_device_management_download_skip_message">این حساب به مدیریت دستگاه نیاز دارد. بدون آن ادامه می‌دهید؟</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">برای افزودن این حساب، «مدیریت دستگاه» لازم است. می‌خواهید با یک حساب دیگر دوباره شروع کنید؟</string>
+    <string name="auth_device_management_go_back">برگشت به عقب</string>
+    <string name="auth_device_management_screenlock_description">برای دسترسی به حساب کاری‌تان در این دستگاه، باید یک «صفحه در حالت قفل» تنظیم کنید. این خط‌مشی دستگاه همراه سازمان شماست.</string>
+    <string name="auth_device_management_screenlock_skip_message">این حساب به امنیت قفل صفحه نیاز دارد. می‌خواهید با حساب دیگری دوباره شروع کنید؟</string>
+    <string name="auth_device_management_start_description">این حساب به مدیریت دستگاه همراه نیاز دارد. وقتی روی «بعدی» ضربه می‌زنید، برنامه ^1 به شما کمک می‌کند خط‌مشی‌های امنیتی موردنیاز برای این حساب را اجرا کنید.</string>
+    <string name="auth_device_management_start_description_kids">برای افزودن حساب به این دستگاه، از <b>^1</b>" استفاده کنید. 
+
+^1 در راه‌اندازی این دستگاه برای فرزندتان به شما کمک می‌کند."</string>
+    <string name="auth_device_management_title">مدیریت دستگاه</string>
+    <string name="auth_device_management_update_description">این حساب به مدیریت دستگاه همراه نیاز دارد. برای مطابقت با خط‌مشی‌های امنیتی مرتبط با حساب، باید نسخه جدیدتری از برنامه ^1 را نصب کنید.</string>
+    <string name="auth_device_management_update_description_kids">برای افزودن حساب به این دستگاه، ابتدا آخرین نسخه <b>^1</b>" را نصب کنید. 
+
+^1 در راه‌اندازی این دستگاه برای فرزندتان به شما کمک می‌کند."</string>
+    <string name="auth_dismiss_button_label">نپذیرفتن</string>
+    <string name="auth_doesnt_use_gmail">" ‏"<b>^1</b> از Gmail استفاده نمی‌کند.</string>
+    <string name="auth_error_account_disabled">"‏این حساب غیرفعال شده است. 
+
+(برای اطلاع از جزئیات، با یک مرورگر وب به آدرس http://google.com/accounts مراجعه کنید.)"</string>
+    <string name="auth_error_account_not_verified">"‏این حساب تأیید نشده است. لطفاً رایانامه خود را بررسی کنید و برای تأیید این حساب پیوند ارائه شده را دنبال کنید. 
+
+(برای بازیابی اطلاعات حسابتان، از طریق رایانه خود به آدرس http://www.google.com/accounts/recovery مراجعه کنید.)"</string>
+    <string name="auth_error_bad_password">گذرواژه خیلی ضعیف است یا حاوی نویسه‌های نامعتبر است. دوباره امتحان کنید.</string>
+    <string name="auth_error_bad_username">نام کاربری نامعتبر است.</string>
+    <string name="auth_error_generic_server_error">"‏هنگام برقراری ارتباط با سرورهای Google مشکلی رخ داد. 
+
+بعداً دوباره امتحان کنید."</string>
+    <string name="auth_error_invalid_second_factor">به جای گذرواژه معمولی حسابتان از گذرواژه مخصوص برنامه استفاده کنید.</string>
+    <string name="auth_error_login_failed">"‏نام کاربری و گذرواژه شما مطابقت ندارند. دوباره سعی کنید. 
+
+برای بازیابی اطلاعات حساب خود، به google.com/accounts/recovery/‎ بروید."</string>
+    <string name="auth_error_needs_browser">برای دسترسی به حسابتان، باید در وب به سیستم وارد شوید. برای شروع روند ورود به سیستم مرورگر، روی «بعدی» ضربه بزنید.</string>
+    <string name="auth_error_no_network">"‏به شبکه وصل نیستید. 
+
+این مشکل موقتی است. دوباره امتحان کنید یا به شبکه Wi-Fi دیگری وصل شوید."</string>
+    <string name="auth_error_not_logged_in">کاربر وارد سیستم نشده است.</string>
+    <string name="auth_error_username_unavailable">نام کاربری در دسترس نیست.</string>
+    <string name="auth_existing_account_error_text">‏یک حساب ^1 در این دستگاه Android از قبل وجود دارد.</string>
+    <string name="auth_existing_account_error_title">حساب از قبل موجود است</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">به‌علت تغییر اخیر گذرواژه، ورود به سیستم دستگاه ممکن نیست. لطفاً ۲۴ ساعت بعد از تغییر گذرواژه دوباره سعی کنید به سیستم وارد شوید.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">قابلیت‌های محافظت دستگاه دیگر کار نمی‌کنند.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">‏برداشتن آخرین حساب Google در دستگاه از نمایه شخصی‌تان، قابلیت‌های محافظت از سرقت دستگاه را غیرفعال می‌کند. برای دوباره فعال کردن این قابلیت‌ها می‌توانید بعداً حساب دیگری اضافه کنید.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">مطمئن هستید؟</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">حساب به نمایه کاری منتقل شود؟</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">به‌علت خطای نامشخصی، ورود به سیستم دستگاه ممکن نیست. لطفاً حساب دیگری را امتحان کنید یا پس از ۲۴ ساعت دوباره سعی کنید به سیستم وارد شوید.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">لطفاً با یکی از حساب‌های مالک برای این دستگاه، به سیستم وارد شوید</string>
+    <string name="auth_field_cant_be_blank">این قسمت نمی‌تواند خالی باشد.</string>
+    <string name="auth_frp_add_account_no">نه</string>
+    <string name="auth_frp_add_account_prompt">^1 در این لحظه به دستگاهتان اضافه شود؟ اگر حساب دیگری دارید، می‌توانید بعداً آن را اضافه کنید.</string>
+    <string name="auth_frp_add_account_yes">بله</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">دسترسی به این حساب امکان‌پذیر نبود. مطمئن شوید که دستگاهتان از خط‌مشی‌های امنیتی سازمانتان پیروی می‌کند. اگر مرتب این خطا را مشاهده می‌کنید، با سرپرست سازمانتان تماس بگیرید.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">خطای حساب</string>
+    <string name="auth_gls_dmagent_activity_download_message">" ‏دامنه شما به مدیریت دستگاه همراه نیاز دارد. برنامه «Google Apps Device Policy» را نصب کنید تا خط‌مشی‌های امنیتی لازم برای حساب  "<b>^1</b> را اجرا کند.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">بارگیری</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" می‌تواند فقط دارای حروف، 
+عدد و نقطه باشد."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> فاقد حرف است.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> کمتر از ۶ یا بیش از ۳۰ نویسه دارد.</string>
+    <string name="auth_gls_is_not_available">نام کاربری <b>^1</b> در دسترس نیست.</string>
+    <string name="auth_gls_name_checking_info_title">درحال بررسی اطلاعات…</string>
+    <string name="auth_gls_sync_item_title">همگام‌سازی %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" حساب  "<b>^1</b> باید به یک دستگاه یا نمایه کاری سرپرستی‌شده توسط سازمانتان اضافه شود. لطفاً دستورالعمل‌های ارائه‌شده توسط سرپرست فناوری اطلاعات خودتان را دنبال کنید تا این مورد را کامل کنید.</string>
+    <string name="auth_google_title_logo">‏نشان‌واره Google</string>
+    <string name="auth_invalid_login_character">‏نویسه نامعتبر. فقط 9-0، a-z ،A-Z و نقطه‌ مجاز هستند.</string>
+    <string name="auth_invalid_password_character">نویسه گذرواژه نامعتبر است.</string>
+    <string name="auth_invalid_username">نوشتاری که تایپ نموده‌اید یک نام کاربری معتبر نیست.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">‏با ادامه، موافقت می‌کنید این دستگاه همچنین می‌تواند به‌طور خودکار به‌روزرسانی‌ها و برنامه‌ها را از Google، شرکت مخابراتی شما و سازنده این دستگاه بارگیری (احتمالاً با استفاده از داده شبکه تلفن همراه) و نصب کند. ممکن است بعضی از این برنامه‌ها خریدهای درون‌برنامه پیشنهاد دهند. هرزمان خواستید می‌توانید این برنامه‌ها را حذف کنید.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager">وقتی حافظه دستگاه تقریباً پر است، با پاک کردن برخی از داده‌های این دستگاه (مانند عکس‌ها و ویدیوهای پشتیبان‌گیری‌شده) <b>فضا را آزاد کنید</b>.</string>
+    <string name="auth_kids_setup_wizard_services_backup">‏به‌طور خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مانند تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) در Google Drive فرزندتان <b>پشتیبان‌گیری کنید</b>.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"‏وقتی پشتیبان‌گیری خودکار را روشن می‌کنید، داده‌های دستگاه و برنامه به‌صورت دوره‌ای در پوشه‌ای خصوصی در Google Drive ذخیره می‌شود. داده‌های برنامه می‌تواند هر نوع داده‌ای باشد که یک برنامه (بر اساس تنظیمات تولیدکننده) ذخیره کرده است، از جمله داده‌های به‌طور بالقوه حساس (مثل مخاطبین، پیام‌ها و عکس‌ها).
+
+داده‌های پشتیبان‌گیری‌شده در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند. فایل‌های بزرگ یا فایل‌هایی که طبق انتخاب تولیدکنندگان در سرویس وارد نمی‌شوند، پشتیبان‌گیری نخواهند شد."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26">‏به‌طور خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi، پیامک و سابقه تماس)، تنظیمات و داده‌های برنامه (مانند تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) در Google Drive فرزندتان <b>پشتیبان‌گیری کنید</b>.</string>
+    <string name="auth_kids_setup_wizard_services_description">‏به‌عنوان پدر یا مادر، هرزمان خواستید می‌توانید این سرویس‌ها را برای حساب فرزندتان روشن یا خاموش کنید. داده‌ها طبق <annotation link="google_privacy">خط‌مشی‌های</annotation>" ‏Google استفاده خواهند شد.
+
+می‌توانید با ضربه زدن روی هر سرویس، اطلاعات بیشتری دریافت کنید."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing">‏<b>از سرویس مکان Google استفاده کنید تا به برنامه‌ها کمک کند</b> مکان فرزندتان را مشخص کند. وقتی این دستگاه روشن باشد، داده‌های مکان بدون نام به Google ارسال خواهد شد.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"‏سرویس مکان Google برای کمک به تخمین سریع‌تر و دقیق‌تر مکان این دستگاه از منابعی مانند شبکه‌های Wi-Fi و داده تلفن همراه استفاده می‌کند. وقتی تنظیم «مکان» دستگاه روشن باشد و دستگاه در حالتی باشد که از شبکه‌های Wi-Fi یا داده تلفن همراه برای تخمین مکان استفاده می‌کند (مانند حالت «دقت بالا» یا «صرفه‌جویی در باتری»)، این سرویس فعال است.
+
+می‌توانید به این روش‌ها این سرویس را خاموش کنید:
+
+"<li>خاموش کردن تنظیم اصلی «مکان» در دستگاه.</li>"
+
+"<li>روشن گذاشتن تنظیم اصلی «مکان» و انتخاب حالتی که فقط از GPS استفاده می‌کند (برخی موارد «فقط دستگاه» نامیده می‌شود).</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">‏با ارسال خودکار داده‌های تشخیص عیب و داده‌های استفاده از دستگاه و برنامه به Google <b>به بهبود تجربه Android خود کمک کنید</b>. این داده‌ها برای شناسایی فرزندتان استفاده نخواهند شد و به بهبود ماندگاری شارژ باتری، پایداری برنامه، اتصال شبکه و موارد دیگر کمک خواهند کرد.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"‏این اطلاعاتی عمومی درباره این دستگاه و نحوه استفاده از آن است (ازجمله میزان شارژ باتری، مصرف برنامه و اتصال شبکه). از این داده‌ها برای بهبود محصولات و سرویس‌های Google برای همه استفاده می‌شود. برخی از اطلاعات جمع‌آوری‌شده به شریکان (مانند برنامه‌نویسان Android) نیز کمک می‌کند برنامه‌ها و محصولاتشان را بهتر کنند.
+
+خاموش کردن این قابلیت بر توانایی این دستگاه برای ارسال اطلاعات موردنیاز برای خدمات ضروری (مانند به‌روزرسانی‌های سیستم و امنیت) بی‌تأثیر است."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"‏این اطلاعاتی عمومی درباره این دستگاه و چگونگی استفاده از آن است (مانند میزان شارژ باتری، استفاده برنامه و اتصال شبکه). این داده‌ها برای بهبود محصولات و خدمات Google برای همه استفاده می‌شوند. بعضی از اطلاعات انبوه به شریکان (مانند تولیدکنندگان Android) نیز کمک می‌کند برنامه‌ها و محصولاتشان را بهتر کنند.
+
+خاموش کردن این قابلیت توانایی این دستگاه را برای ارسال اطلاعات موردنیاز برای خدمات ضروری مانند به‌روزرسانی‌های سیستم و امنیت تحت تأثیر قرار نمی‌دهد.
+
+می‌توانید از «تنظیمات > Google» این قابلیت را کنترل کنید. «استفاده و عیب‌یابی» را از منو انتخاب کنید."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">گذرواژه تایپ‌شده نادرست است یا حساب شما تغییر کرده است. گذرواژه خود را مجدداً تایپ کنید. اگر گذرواژه خود را فراموش کرده‌اید و نیاز به بازیابی حساب خود دارید، <annotation id="help_url">اینجا</annotation> را کلیک کنید.</string>
+    <string name="auth_login_activity_task_title">درحال ورود به سیستم…</string>
+    <string name="auth_login_activity_title">ورود به سیستم</string>
+    <string name="auth_login_task_title">ورود به سیستم</string>
+    <string name="auth_login_title">رایانامه و گذرواژه را تایپ کنید</string>
+    <string name="auth_minutemaid_ssl_error">"در اتصال به  %s مشکلی پیش آمد."</string>
+    <string name="auth_network_unreliable_help">‏ممکن است یک مشکل موقتی باشد یا خدمات داده برای دستگاه Android شما فعال نشده باشد. در صورت ادامه این وضعیت، با خدمات مشتریان اپراتور خود تماس بگیرید.</string>
+    <string name="auth_next_button_label">بعدی</string>
+    <string name="auth_no_network">شما فاقد اتصال شبکه هستید.</string>
+    <string name="auth_no_network_help">‏ممکن است یک مشکل موقتی باشد یا خدمات داده برای دستگاه Android شما فعال نشده باشد. پس از اتصال به یک شبکهٔ تلفن همراه یا اتصال به یک شبکه Wi-Fi دوباره امتحان کنید.</string>
+    <string name="auth_no_network_help_wifi_only">‏ممکن است این یک مشکل موقتی باشد. دوباره امتحان کرده یا به یک شبکه Wi-Fi دیگر متصل شوید.</string>
+    <string name="auth_otp_error">مشکلی در ایجاد کد امنیتی وجود داشت.</string>
+    <string name="auth_otp_explained_paragraph">‏اگر گذرواژه‌تان را فراموش کنید یا اگر روند ورود به سیستمتان مثل همیشه نباشد،‌ Google‌ ممکن است برای محافظت از حسابتان کد امنیتی درخواست کند. هم‌اکنون از این کد استفاده کنید یا برای دریافت کد جدید، بعداً دوباره به اینجا برگردید.</string>
+    <string name="auth_otp_header_message">چه زمانی از این کد برای ورود به سیستم استفاده شود</string>
+    <string name="auth_otp_help">راهنما و بازخورد</string>
+    <string name="auth_otp_no_accounts_available_message">هیچ حسابی در این دستگاه پیکربندی نشده است.</string>
+    <string name="auth_otp_progress_dialog_message">در حال ایجاد کد امنیتی.</string>
+    <string name="auth_password">گذرواژه</string>
+    <string name="auth_plus_audience_selection_description_acl">اشتراک‌گذاری با</string>
+    <string name="auth_plus_failure_new_account_text">‏حساب Google شما ایجاد شده است، اما درخواست شما برای ایجاد یک نمایه Google+‎ انجام نشد. بعداً از هر مرورگر وبی در plus.google.com دوباره امتحان کنید.</string>
+    <string name="auth_plus_failure_text">‏درخواست شما برای پیوستن به Google+‎ انجام نشد. در فرصتی دیگر با هر مرورگر وبی در plus.google.com دوباره امتحان کنید.</string>
+    <string name="auth_plus_failure_title">‏ایجاد نمایه +Google در فرصتی دیگر</string>
+    <string name="auth_plus_info_fragment_app_name">%s می‌خواهد:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s از دستگاه %s می‌خواهد:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">حلقه‌های گسترده شما</string>
+    <string name="auth_plus_scope_fragment_mixed_label">حلقه‌های انتخابی</string>
+    <string name="auth_plus_scope_fragment_only_you_label">فقط شما</string>
+    <string name="auth_plus_scope_fragment_public_label">هر کسی در وب</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">حلقه‌های شما</string>
+    <string name="auth_relogin_activity_title">گذرواژه را دوباره تایپ کنید</string>
+    <string name="auth_remove_account_start_over">شروع مجدد</string>
+    <string name="auth_scope_more_details">اطلاعات بیشتر</string>
+    <string name="auth_server_error">‏مشکلی در برقراری ارتباط با سرورهای Google پیش آمد.</string>
+    <string name="auth_server_error_help">بعداً دوباره امتحان کنید.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">حساب اضافه شد</string>
+    <string name="auth_setup_wizard_account_added_description">‏حسابتان اضافه شد. برای انتخاب گزینه‌های خدمات Google لطفاً ادامه دهید</string>
+    <string name="auth_setup_wizard_back_button_label">برگشت</string>
+    <string name="auth_setup_wizard_next_button_label">بعدی</string>
+    <string name="auth_setup_wizard_services_activity_title">‏سرویس‌های Google</string>
+    <string name="auth_setup_wizard_services_agreement">‏با ادامه دادن، موافقت می‌کنید این دستگاه همچنین می‌تواند به‌طور خودکار به‌روزرسانی‌ها و برنامه‌ها را از Google، شرکت مخابراتی شما و سازنده این دستگاه بارگیری (احتمالاً با استفاده از داده شبکه تلفن همراه) و نصب کند. ممکن است بعضی از این برنامه‌ها خریدهای درون‌برنامه پیشنهاد دهند. هرزمان خواستید می‌توانید این برنامه‌ها را حذف کنید.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">برای حذف برنامه‌ها به «تنظیمات > برنامه‌ها یا مدیر برنامه» بروید. سپس روی برنامه‌ای که می‌خواهید حذف نصب کنید ضربه بزنید (ممکن است برای پیدا کردن برنامه نیاز باشد صفحه را تند به راست یا چپ بکشید). سپس روی «حذف نصب» یا «غیرفعال کردن» ضربه بزنید.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">‏همچنین بدینوسیله رضایت خود را اعلام می‌کنید که برنامه‌های Google از پیش نصب‌شده به اطلاعات و عملکردهای دستگاه شما دسترسی داشته باشند و مجوز این دسترسی را به آن‌ها اعطا می‌کنید. برای اطلاعات بیشتر درباره استفاده از این مجوزها، <annotation link="app_permissions">این صفحه</annotation> را ببینید.</string>
+    <string name="auth_setup_wizard_services_agreement_title">نصب به‌روزرسانی‌ها و برنامه‌ها</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">وقتی حافظه تلفنتان تقریباً پر است، با پاک کردن برخی داده‌ها (مانند عکس‌ها و ویدیوهای پشتیبان‌گیری‌شده) فضا را آزاد کنید.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">وقتی به اینترنت متصل هستید، همچنان می‌توانید به این داده‌ها دسترسی داشته باشید. می‌توانید در «تنظیمات > حافظه > ذ‌خیره‌سازی هوشمند»، این قابلیت و آنچه پاک می‌شود را کنترل کنید.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">آزاد کردن فضا</string>
+    <string name="auth_setup_wizard_services_backup">‏هرزمان خواستید به‌آسانی تلفن‌ها را بازیابی یا تعویض کنید. پشتیبان شامل برنامه‌ها، داده‌های برنامه و تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi) می‌شود.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"‏داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (بنابر تنظیمات برنامه‌نویس) ذخیره کرده است، از جمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها.
+
+داده‌های پشتیبان در سهمیه فضای ذخیره‌سازی Drive حساب نمی‌شوند.
+
+می‌توانید این سرویس را در «تنظیمات» خاموش کنید."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"‏داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (بنابر تنظیمات برنامه‌نویس) ذخیره کرده است، ازجمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها.
+
+عکس‌ها و ویدیوها از این دستگاه با Google Photos همگام‌سازی می‌شوند تا بتوانید در همه دستگاه‌هایتان آن‌ها را جستجو، ویرایش، حذف و اشتراک‌گذاری کنید. به‌صورت پیش‌فرض عکس‌ها و ویدیوهای با وضوح کامل بارگذاری می‌شوند.
+
+داده‌های پشتیبان در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند.
+
+می‌توانید این سرویس را در «تنظیمات» خاموش کنید."</string>
+    <string name="auth_setup_wizard_services_backup_title">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="auth_setup_wizard_services_backup_v23">‏هرزمان خواستید به‌آسانی تلفن‌ها را بازیابی کنید یا تغییر دهید. پشتیبان شامل برنامه‌ها، داده‌های برنامه، سابقه تماس، مخاطبین و تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi و مجوزها) می‌شود.</string>
+    <string name="auth_setup_wizard_services_backup_v26">‏هرزمان خواستید به‌آسانی تلفن‌ها را بازیابی کنید یا تغییر دهید. پشتیبان شامل برنامه‌ها، داده‌های برنامه، سابقه تماس،‌ مخاطبین، تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi و مجوزها) و پیامک‌ها می‌شود.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">‏هرزمان خواستید به‌آسانی تلفن‌ها را بازیابی کنید یا تغییر دهید. پشتیبان شامل برنامه‌ها، داده‌های برنامه، سابقه تماس،‌ مخاطبین، تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi و مجوزها)، عکس‌ها، ویدیوها و پیامک‌ها می‌شود. عکس‌ها و ویدیوها با حساب Google شما همگام‌سازی می‌شوند و در همه سرویس‌ها قابل استفاده است.</string>
+    <string name="auth_setup_wizard_services_description">‏برای دریافت اطلاعات بیشتر درباره هر سرویس (ازجمله چگونه روشن یا خاموش کردن آن‌ها در فرصتی دیگر) ضربه بزنید. داده‌ها براساس <annotation link="google_privacy">خط‌مشی رازداری</annotation> Google استفاده می‌شوند.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"‏‏می‌توان جزئیات برنامه (شامل خریدهای درون‌برنامه) را در «فروشگاه Play» پیدا کرد. داده‌ها و تنظیمات برنامه در دستگاه‌هایی که با حساب Google شما به سیستم وارد شده‌اند همگام‌سازی می‌شوند. 
+
+استفاده از برنامه‌های فوری تحت کنترل "<a href="https://play.google.com/about/play-terms.html">شرایط و ضوابط ‏‏Google Play</a>" است. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">بیشتر بدانید</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">‏وقتی روی پیوندی ضربه می‌زنید، Google Play در صورت پیدا کردن برنامه فوری، آن را بدون نصب کردن اجرا می‌کند. برنامه‌های فوری به‌صورت موقت در دستگاهتان نگه‌داشته می‌شوند.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">بدون نصب کردن از برنامه‌ها استفاده کنید</string>
+    <string name="auth_setup_wizard_services_location_sharing">‏از سرویس مکان Google برای کمک به برنامه‌ها در تعیین کردن مکانتان استفاده کنید. وقتی دستگاهتان روشن است، داده‌های مکان ناشناس به Google ارسال خواهد شد.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"‏سرویس‌ مکان Google برای کمک به تخمین سریع‌تر و دقیق‌تر مکان دستگاهتان از منابعی مانند شبکه‌های Wi‑Fi و داده تلفن همراه استفاده می‌کند. وقتی تنظیم «مکان» دستگاه روشن باشد و دستگاه درحالتی باشد که از شبکه‌های Wi-Fi یا داده تلفن همراه برای تخمین مکان استفاده می‌کند (مانند حالت «دقت بالا» یا «صرفه‌جویی در باتری») این سرویس فعال است.
+
+می‌توانید به این روش‌ها این سرویس را خاموش کنید:
+
+"<li>خاموش کردن تنظیم اصلی «مکان» در دستگاه.</li>"
+
+"<li>روشن گذاشتن تنظیم اصلی «مکان» و انتخاب حالتی که فقط از GPS استفاده می‌کند (برخی موارد حالت «فقط دستگاه» نامیده می‌شود).</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">به برنامه‌ها کمک کنید مکان را پیدا کنند</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">‏به برنامه‌ها و سرویس‌ها اجازه دهید Wi‑Fi را حتی وقتی خاموش است جستجو کنند.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">می‌توانید این قابلیت را در تنظیمات مکان خاموش کنید.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">بهبود دقت مکان</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">‏به برنامه‌ها و سرویس‌ها اجازه دهید Wi‑Fi و بلوتوث را حتی وقتی این تنظیمات خاموش هستند جستجو کنند.</string>
+    <string name="auth_setup_wizard_services_play">‏به‌روز ماندن با اخبار و پیشنهادهای ویژه از Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">پشتیبان و حافظه</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">مراقبت و نگه‌داری از دستگاه</string>
+    <string name="auth_setup_wizard_services_section_location">مکان</string>
+    <string name="auth_setup_wizard_services_tos">‏اگر ادامه دهید، با <annotation link="tos">شرایط خدمات Google</annotation> نیز موافقت می‌کنید.</string>
+    <string name="auth_setup_wizard_services_tos_germany">وقتی از این دستگاه استفاده می‌کنید، ما به <annotation link="google_privacy">خط‌مشی رازداری</annotation> خود پایبندیم و <annotation link="tos">شرایط اضافی</annotation> اعمال می‌شود.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">‏با ارسال خودکار داده‌های تشخیص عیب و استفاده از دستگاه و برنامه به Google، به بهبود تجربه Android خود کمک کنید. این کار به بهبود ماندگاری شارژ باتری، پایداری برنامه، اتصال شبکه و موارد دیگر کمک می‌کند. اگر «فعالیت وب و برنامه» دیگری را روشن کنید، این اطلاعات در حسابتان ذخیره می‌شود تا بتوانید آن‌ها را در «فعالیت من» مدیریت کنید.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"‏این اطلاعاتی عمومی درباره دستگاه شما و نحوه استفاده‌تان از آن است (ازجمله میزان شارژ باتری، مصرف برنامه و اتصال شبکه). از این داده‌ها برای بهبود محصولات و سرویس‌های Google برای همه استفاده می‌شود. برخی از اطلاعات جمع‌آوری‌شده به شریکان (مانند برنامه‌نویسان Android) نیز کمک می‌کند برنامه‌ها و محصولاتشان را بهتر کنند.
+
+خاموش کردن این قابلیت بر توانایی این دستگاه برای ارسال اطلاعات موردنیاز برای خدمات ضروری (مانند به‌روزرسانی‌های سیستم و امنیت) بی‌تأثیر است."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">‏می‌توانید تنظیمات «فعالیت من» را در myactivity.google.com به‌روزرسانی کنید.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">‏می‌توانید این قابلیت را در «تنظیمات Google» کنترل کنید. «استفاده و عیب‌یابی» را در منو انتخاب کنید.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">‏می‌توانید این قابلیت را در «تنظیمات > Google» کنترل کنید. «استفاده و عیب‌یابی» را در منو انتخاب کنید.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">ارسال داده‌های سیستم</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">‏به «کاغذدیواری‌های پویای Google» اجازه دهید با دسترسی به سرویس مکان Google به مکان شما پاسخ دهند.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">‏می‌توانید با رفتن به «تنظیمات > برنامه‌ها و اعلان‌ها > اطلاعات برنامه»، دسترسی به سرویس مکان Google را برای «کاغذدیواری‌های پویا» روشن یا خاموش کنید. در منوی لبریزشده، روی «نمایش سیستم > کاغذدیواری‌های داده‌های پویا -یا- کاغذدیواری‌های پویای زمین > مجوزها» ضربه بزنید.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">اجازه دادن به کاغذدیواری‌ها برای استفاده از مکان</string>
+    <string name="auth_setup_wizard_title">دستیار تنظیمات راه‌اندازی</string>
+    <string name="auth_show_error_activity_title">ورود به سیستم انجام نشد</string>
+    <string name="auth_show_error_title">خطا</string>
+    <string name="auth_sign_in_agreement">‏با ورود به سیستم، با خط‌مشی رازداری <annotation id="google_privacy">Google</annotation> و <annotation id="android_privacy">اضافات</annotation> خط‌مشی رازداری موافقت می‎کنید.</string>
+    <string name="auth_sign_in_browser">ورود به سیستم مرورگر</string>
+    <string name="auth_sign_in_button_label">ورود به سیستم</string>
+    <string name="auth_sign_in_with_google_account_short">‏ورود به سیستم با حساب Google خود:</string>
+    <string name="auth_skip_button_label">رد شدن</string>
+    <string name="auth_submission_error_text">خطایی وجود داشت. دوباره امتحان کنید.</string>
+    <string name="auth_submission_title">متأسفیم...</string>
+    <string name="auth_try_again_button_label">دوباره امتحان کنید</string>
+    <string name="auth_ui_activity_authenticating">در حال راستی‌آزمایی...</string>
+    <string name="auth_ui_activity_title">‏ورود به سیستم Google</string>
+    <string name="auth_ui_activity_title_browser_signin">ورود به سیستم</string>
+    <string name="auth_ui_add_account_title">تنظیم حساب</string>
+    <string name="auth_uncertified_notification_content">سازنده این دستگاه را تأیید نکرده است</string>
+    <string name="auth_uncertified_notification_description">"‏سازنده این دستگاه بدون تأیید این دستگاه با Google، از برنامه‌های Google استفاده می‌کند.
+
+ممکن است دستگاه‌های تأییدنشده غیرایمن باشند و به‌روزرسانی‌های سیستم یا برنامه را دریافت نکنند. ممکن است برنامه‌ها و قابلیت‌ها (مانند پشتیبان‌گیری فایل‌ها یاعکس‌ها) به‌درستی کار نکنند.
+
+برای برطرف کردن این مشکل، با سازنده دستگاهتان تماس بگیرید.
+
+برای اطلاعات بیشتر درباره شریکان دارای گواهی از Google از %s دیدن کنید."</string>
+    <string name="auth_uncertified_notification_learn_more">بیشتر بدانید</string>
+    <string name="auth_uncertified_notification_title">هشدار: دستگاه تأییدنشده</string>
+    <string name="auth_username">رایانامه</string>
+    <string name="auth_work_authenticator_label">حساب تحت مدیریت</string>
+    <string name="authorization_dialog">کادر گفتگوی مجوز</string>
+    <string name="auto_restore_summary">هنگام نصب مجدد یک برنامه، تنظیمات و داده‌های پشتیبان‌گیری شده بازیابی شود</string>
+    <string name="auto_restore_title">بازیابی خودکار</string>
+    <string name="autofill_dataset_password">استفاده از گذرواژه: <b>^1</b></string>
+    <string name="autofill_datatype_address">نشانی‌ها</string>
+    <string name="autofill_datatype_password">گذرواژه‌های ذخیره‌شده</string>
+    <string name="autofill_datatype_payment">کارت‌های اعتباری</string>
+    <string name="autofill_datatype_profile">اطلاعات شخصی</string>
+    <string name="autofill_label">‏تکمیل خودکار با Google</string>
+    <string name="autofill_optin_line1">‏<b>با ضربه زدن به Google اجازه دهید این فرم را برایتان پر کند</b></string>
+    <string name="autofill_optin_line2">‏با اطلاعاتی که قبلاً در «تکمیل خودکار Chrome» ذخیره شده است</string>
+    <string name="autofill_setup_points">"‏• Google با استفاده از محتوای روی صفحه‌نمایش شما متوجه می‌شود که چه مواردی قابل تکمیل خودکار هستند. 
+• می‌توانید در «تنظیمات»، اطلاعات تکمیل خودکار خود را مشاهده و مدیریت کنید."</string>
+    <string name="autofill_setup_summary">با یک ضربه، گذرواژه‌ها، نشانی‌ها، کارت‌های اعتباری و سایر اطلاعات ذخیره‌شده در حسابتان را پر کنید.</string>
+    <string name="autofill_setup_summary_single_account">با یک ضربه، گذرواژه‌ها، نشانی‌ها، کارت‌های اعتباری و سایر اطلاعات ذخیره‌شده در حسابتان (<b>^1</b>) را پر کنید.</string>
+    <string name="backup_configure_account_default_summary">هیچ حسابی درحال حاضر داده‌های پشتیبان‌گیری‌شده را ذخیره نمی‌کند</string>
+    <string name="backup_configure_account_title">حساب پشتیبان</string>
+    <string name="backup_data_summary">‏پشتیبان‌گیری از داده‌های برنامه، گذرواژه‌های Wi-Fi و سایر تنظیمات در Google Drive</string>
+    <string name="backup_data_summary_full">"‏پشتیبان‌گیری خودکار از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) از راه دور.
+
+وقتی پشتیبان‌گیری خودکار را روشن می‌کنید، داده‌های دستگاه و برنامه به‌صورت دوره‌ای از راه دور ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (براساس تنظیمات تولیدکننده) ذخیره کرده است، از جمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها."</string>
+    <string name="backup_data_title">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="backup_erase_dialog_message">‏پشتیبان‌گیری از گذرواژه‌های Wi-Fi، نشانک‌ها، سایر تنظیمات و داده‌های برنامه متوقف شود و همچنین همه نسخه‌های موجود در Google Drive پاک شود؟</string>
+    <string name="backup_erase_dialog_message_full">‏پشتیبان‌گیری از داده‌های دستگاه (مانند گذرواژه‌های Wi-Fi و سابقه تماس) و داده‌های برنامه (مثل تنظیمات و فایل‌های ذخیره‌شده توسط برنامه‌ها) متوقف شود و همچنین همه رونوشت‌ها در Google Drive پاک شوند؟</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">هنگام باز کردن تنظیمات عکس خطایی روی داد</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏اگر پشتیبان‌گیری خودکار را روشن کنید:
+
+ ● تنظیمات دستگاه و داده‌های برنامه‌ها به‌صورت دوره‌ای در یک پوشه خصوصی در Google Drive ذخیره می‌شوند. داده‌های برنامه می‌تواند شامل هر نوع داده‌ای که آن برنامه (براساس تنظیمات تولیدکننده) ذخیره کرده است باشد، ازجمله داده‌های بالقوه حساس مانند مخاطبین، پیام‌ها و عکس‌ها.
+
+ فایل‌های بزرگ یا فایل‌هایی که طبق انتخاب تولیدکنندگان در سرویس وارد نمی‌شوند، پشتیبان‌گیری نخواهند شد.
+
+ ● عکس‌ها و ویدئوهای ضبط‌شده توسط این دستگاه با کتابخانه Google Photos همگام‌سازی می‌شوند تا بتوانند در همه دستگاه‌های شما جستجو، ویرایش، حذف و به اشتراک گذاشته شوند.
+
+ به‌طور پیش‌فرض، عکس‌ها و ویدئوها با وضوح کامل بارگذاری می‌شوند. این موارد در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند.
+
+ ● مخاطبین و داده‌های مرتبط از این دستگاه با Google Contacts همگام‌سازی می‌شود. می‌توانید از برنامه Google Contacts برای جستجو، ویرایش، حذف و به اشتراک گذاشتن مخاطبین در همه دستگاه‌هایتان استفاده کنید.
+
+ ● ورودی‌های تقویم و داده‌های مرتبط از این دستگاه با «تقویم Google» همگام‌سازی می‌شود. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و به اشتراک گذاتشن مخاطبین در همه دستگاه‌هایتان استفاده کنید.
+
+ داده‌های پشتیبان‌گیری‌شده در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"‏وقتی پشتیبان‌گیری خودکار را روشن می‌کنید:
+
+ ● تنظیمات دستگاه و داده‌های برنامه به‌صورت منظم در یک پوشه خصوصی در Google Drive ذخیره می‌شوند. داده‌های برنامه می‌تواند هر داده‌ای باشد که برنامه (بسته به تنظیمات برنامه‌نویس) ذخیره کرده است، ازجمله داده‌های بالقوه حساس مثل مخاطبین، پیام‌ها و عکس‌ها.
+
+ از فایل‌های بزرگ یا فایل‌هایی که طبق انتخاب برنامه‌نویسان از این سرویس مستثنی شدند، پشتیبان‌گیری نمی‌شود.
+
+ ● مخاطبین و داده‌های مرتبط این دستگاه در «تقویم‌های Google» همگام‌سازی می‌شوند. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و اشتراک‌گذاری مخاطبین از هر یک از دستگاه‌هایتان استفاده کنید.
+
+ ● ورودی‌های تقویم و داده‌های مرتبط این دستگاه در «تقویم Google»‌ همگام‌سازی می‌شوند. می‌توانید از برنامه «تقویم Google» برای جستجو، ویرایش، حذف و اشتراک‌گذاری مخاطبین از هر یک از دستگاه‌هایتان استفاده کنید.
+
+ داده‌های پشتیبان‌گیری‌شده در سهمیه فضای ذخیره‌سازی Drive شما حساب نمی‌شوند."</string>
+    <string name="backup_opt_in_backup_description_extra">‏تقویم، مخاطبین، عکس‌ها و ویدئوها با حساب Google شما همگام‌سازی می‌شوند و می‌توانند در تمام خدمات استفاده شوند.</string>
+    <string name="backup_opt_in_backup_description_v2">پشتیبان‌گیری خودکار، این اطمینان را به‌وجود می‌آورد که می‌توانید به‌آسانی در هرزمانی تلفن‌هایتان را بازیابی کنید یا تغییر دهید. <annotation id="backup_opt_in_learn_more">بیشتر بدانید</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"‏با این انتخاب، پشتیبان‌گیری برای این موارد خاموش می‌شود:
+
+برنامه‌ها و داده‌های برنامه
+سابقه تماس
+تنظیمات دستگاه
+عکس‌ها و ویدیوها
+پیامک
+
+تقویم و مخاطبین همچنان در حساب Google شما همگام‌سازی می‌شوند. بعد از پایان راه‌اندازی، می‌توانید تنظیمات همگام‌سازی را در "<annotation id="backup_opt_in_settings_instructions">تنظیمات > حساب‌ها > Google</annotation> تغییر دهید.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">پشتیبان‌گیری خاموش شود؟</string>
+    <string name="backup_opt_in_backup_list">"‏برنامه‌ها و داده‌های برنامه
+تقویم
+سابقه تماس
+مخاطبین
+تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi‏)
+عکس‌ها و ویدیوها
+پیامک"</string>
+    <string name="backup_opt_in_backup_list_header">پشتیبان‌گیری شامل این موارد است:</string>
+    <string name="backup_opt_in_backup_title">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="backup_opt_in_disable_backup">خاموش کردن پشتیبان‌گیری</string>
+    <string name="backup_photos_update">‏لطفاً Google Photos را به‌روز کنید</string>
+    <string name="backup_settings_activity_backup_title">پشتیبان‌گیری</string>
+    <string name="backup_settings_activity_title">پشتیبان‌گیری و بازنشانی</string>
+    <string name="byteShort">بایت</string>
+    <string name="cancel_copy_button_text">کپی نشود</string>
+    <string name="chrome_privacy_title">‏اعلامیه حریم خصوصی Chrome</string>
+    <string name="chrome_tos_title">‏شرایط خدمات Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">گذرواژه موجود شما برای %1$s با عبارت عبورتان رمزگذاری شده است. اگر عبارت عبورتان را فراموش کرده‌اید، دست نگه‌دارید و همگام‌سازی را از طریق &lt;a href=%2$s>Google Dashboard&lt;/a> بازنشانی کنید.</string>
+    <string name="chromesync_custom_passphrase_title">‏عبارت عبور همگام‌سازی Chrome</string>
+    <string name="chromesync_enter_passphrase_hint">عبارت عبور را وارد کنید</string>
+    <string name="chromesync_entered_wrong_passphrase">عبارت عبور اشتباه است</string>
+    <string name="chromesync_no_browser_found">هیچ مرورگری برای باز کردن این پیوند پیدا نشد</string>
+    <string name="close_button_label">بستن</string>
+    <string name="cloud_restore_app_picker_button">بازیابی</string>
+    <string name="cloud_restore_app_picker_description_no_apps">پشتیبان شما برنامه‌ای ندارد</string>
+    <string name="cloud_restore_app_picker_title">برنامه‌ها را برای بازیابی انتخاب کنید</string>
+    <string name="common_accept">پذیرفتن</string>
+    <string name="common_account_chip_add_account_button_label">استفاده از حساب دیگر</string>
+    <string name="common_add_account_button_label">افزودن حساب</string>
+    <string name="common_add_account_label">افزودن حساب</string>
+    <string name="common_ads_settings_title">تبلیغات</string>
+    <string name="common_agree">موافق</string>
+    <string name="common_app_name">‏خدمات Google Play</string>
+    <string name="common_asm_preferences_settings_title">تنظیمات برگزیده حساب</string>
+    <string name="common_asm_privacy_settings_title">اطلاعات شخصی و حریم خصوصی</string>
+    <string name="common_asm_security_settings_title">ورود به سیستم و امنیت</string>
+    <string name="common_audience_edit_button_label">ویرایش</string>
+    <string name="common_cancel">لغو</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏Hangouts راه‌اندازی نمی‌شود (خطای مجوز).</string>
+    <string name="common_car_permission_desc">دسترسی به سرویس خودرو.</string>
+    <string name="common_car_permission_label">سرویس خودرو</string>
+    <string name="common_chips_label_empty_circles">بدون حلقه</string>
+    <string name="common_chips_label_extended_circles">حلقه‌های گسترده</string>
+    <string name="common_chips_label_only_you">فقط شما</string>
+    <string name="common_chips_label_public">عمومی</string>
+    <string name="common_chips_label_your_circles">حلقه‌های شما</string>
+    <string name="common_choose_account">انتخاب حساب</string>
+    <string name="common_choose_account_for_app_label">انتخاب حساب برای %1$s</string>
+    <string name="common_choose_account_label">یک حساب انتخاب کنید</string>
+    <string name="common_clear_app_data_menu_item">پاک کردن داده‌های برنامه</string>
+    <string name="common_connected">متصل</string>
+    <string name="common_connected_apps_settings_title">برنامه‌های متصل</string>
+    <string name="common_connecting">درحال اتصال…</string>
+    <string name="common_continue">ادامه</string>
+    <string name="common_disagree">مخالف</string>
+    <string name="common_disconnect">قطع ارتباط</string>
+    <string name="common_done">تمام</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">از:</string>
+    <string name="common_games_settings_title">‏بازی‌های Play</string>
+    <string name="common_get_started">شروع</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">فعال کردن</string>
+    <string name="common_google_play_services_enable_text">‏تا وقتی سرویس‌های Google Play را فعال نکنید، %1$s کار نمی‌کند.</string>
+    <string name="common_google_play_services_enable_title">‏‫فعال کردن سرویس‌های Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">خطا</string>
+    <string name="common_google_play_services_install_button">نصب</string>
+    <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
+    <string name="common_google_play_services_update_button">به‌روزرسانی</string>
+    <string name="common_google_play_services_update_text">‏تاز مانی که سرویس‌های Google Play را به‌روزرسانی نکنید، %1$s اجرا نمی‌شود.</string>
+    <string name="common_google_play_services_update_title">‏‫به‌روزرسانی سرویس‌های Google Play</string>
+    <string name="common_google_play_services_updating_text">‏%1$s بدون سرویس‌های Google Play که درحال حاضر درحال به‌روزرسانی هستند، کار نمی‌کند.</string>
+    <string name="common_google_play_services_updating_title">‏خدمات Google Play درحال به‌روزرسانی</string>
+    <string name="common_google_play_services_wear_update_text">‏نسخه جدید سرویس‌های Google Play نیاز است. به‌زودی به‌طور خودکار به‌روزرسانی می‌شود.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏سرویس‌های Google Play با معماری اشتباه نصب شده است.</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏سرویس‌های Google Play با معماری (%1$s) نصب شده است که متفاوت از معماری دستگاه شما (%2$s) است.</string>
+    <string name="common_google_play_services_wrong_architecture_title">معماری اشتباه</string>
+    <string name="common_google_settings">‏تنظیمات Google‎</string>
+    <string name="common_google_settings_account">حساب</string>
+    <string name="common_google_settings_credentials_title">‏Smart Lock برای گذرواژه‌ها</string>
+    <string name="common_google_settings_developer">برنامه‌نویس</string>
+    <string name="common_google_settings_services">سرویس‌ها</string>
+    <string name="common_got_it">متوجه شدم</string>
+    <string name="common_install">نصب</string>
+    <string name="common_learn_more">بیشتر بدانید</string>
+    <string name="common_list_apps_menu_help">راهنما</string>
+    <string name="common_list_apps_menu_help_and_feedback">راهنما و بازخورد</string>
+    <string name="common_loading">در حال بارکردن…</string>
+    <string name="common_location_settings_title">مکان</string>
+    <string name="common_magictether_settings_title">اتصال فوری به اینترنت با تلفن همراه</string>
+    <string name="common_maps_settings_title">‏Maps و Latitude</string>
+    <string name="common_mdm_feature_name">‏مدیریت دستگاه Android</string>
+    <string name="common_missing_url_viewer">برای نمایش نشانی وب خارجی، بیننده وجود ندارد.</string>
+    <string name="common_more_options">گزینه‌های بیشتر</string>
+    <string name="common_networking_settings_title">ایجاد شبکه</string>
+    <string name="common_no_browser_for_restricted_url">دسترسی محدودشده. مرورگری پیدا نشد.</string>
+    <string name="common_no_devices_found">دستگاهی پیدا نشد</string>
+    <string name="common_no_network">در دسترس نیست زیرا دستگاه آفلاین است</string>
+    <string name="common_no_thanks">نه متشكرم</string>
+    <string name="common_not_now">اکنون نه</string>
+    <string name="common_off">خاموش</string>
+    <string name="common_ok">تأیید</string>
+    <string name="common_on">روشن</string>
+    <string name="common_open_on_phone">باز کردن در تلفن</string>
+    <string name="common_open_source_licenses">مجوزهای منبع آزاد</string>
+    <string name="common_people_settings_title">مخاطبین</string>
+    <string name="common_permissions_enable_in_settings">فعال‌سازی در تنظیمات</string>
+    <string name="common_permissions_missing_end">برای ادامه، تنظیمات را باز کنید، سپس به مجوزها بروید و همه موارد فهرست شده را مجاز کنید.</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+برای فعال کردن، به
+تنظیمات >
+مجوزها >
+خدمات Google Play بروید"</string>
+    <string name="common_permissions_missing_start">‏تا زمانی‌ که به درخواست خدمات Google Play برای دسترسی به موارد زیر اجازه ندهید این برنامه کار نمی‌کند:</string>
+    <string name="common_permissions_open_settings">باز کردن تنظیمات</string>
+    <string name="common_phone">تلفن</string>
+    <string name="common_plus_settings_title">‫Google+‎‬</string>
+    <string name="common_privacy_policy">خط‌مشی رازداری</string>
+    <string name="common_restore">بازیابی</string>
+    <string name="common_restricted_no_accounts">هیچ حسابی برای انتخاب وجود ندارد</string>
+    <string name="common_retry">امتحان مجدد</string>
+    <string name="common_search_settings_title">جستجو</string>
+    <string name="common_security_ootp_setting_title">کد امنیتی</string>
+    <string name="common_security_settings_title">امنیت</string>
+    <string name="common_send">ارسال</string>
+    <string name="common_sending">درحال ارسال…</string>
+    <string name="common_set_up_nearby_device_settings_title">تنظیم دستگاه اطراف</string>
+    <string name="common_settings">تنظیمات</string>
+    <string name="common_signin_button_text">ورود به سیستم</string>
+    <string name="common_signin_button_text_long">‏ورود به سیستم با Google‎</string>
+    <string name="common_something_went_wrong">مشکلی پیش آمد</string>
+    <string name="common_system_info">اطلاعات سیستم</string>
+    <string name="common_take_photo_label">عکس گرفتن</string>
+    <string name="common_terms_of_service">شرایط و ضوابط</string>
+    <string name="common_try_again">دوباره امتحان کنید</string>
+    <string name="common_turn_on_bluetooth">روشن کردن بلوتوث</string>
+    <string name="common_ui_confirm_deleting_button">حذف</string>
+    <string name="common_ui_confirm_deleting_checkbox">متوجه هستم و می‌خواهم حذف شود</string>
+    <string name="common_unknown">نامشخص</string>
+    <string name="common_update">به‌روزرسانی</string>
+    <string name="common_url_load_unsuccessful_message">‏دستگاه Android شما به سرویس اطلاعات متصل نیست. برای اینکه هم اکنون این اطلاعات را مشاهده کنید، با مرورگری در وب به %s مراجعه کنید.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏دستگاه Android شما به شبکه Wi-Fi متصل نیست. برای اینکه هم اکنون این اطلاعات را مشاهده کنید، با مرورگری در وب به %s مراجعه کنید.</string>
+    <string name="common_url_login_notice">ورود به سیستم به عنوان %1$s</string>
+    <string name="common_usage_and_diagnostics">استفاده و عیب‌یابی</string>
+    <string name="common_yesterday">دیروز</string>
+    <string name="confirm_copy_button_text">کپی</string>
+    <string name="contacts_number_device_and_icloud">‏%1$d iCloud®‎،‏ %2$d دستگاه</string>
+    <string name="contacts_number_device_and_icloud_with_google">‏Google Contacts،‏ %1$d iCloud®‎،‏ %2$d دستگاه</string>
+    <string name="contacts_number_device_and_sim_with_google">‏Google Contacts،‏ %1$d سیم‌کارت، %2$d دستگاه</string>
+    <string name="contacts_number_device_with_google">‏Google Contacts،‏ %1$d دستگاه</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d iCloud®‎</string>
+    <string name="contacts_number_sim_with_google">‏Google Contacts‏، %1$d سیم‌کارت</string>
+    <string name="continue_to_login_heading">لطفاً به سیستم وارد شوید.</string>
+    <string name="continue_to_login_text">اعتبارنامه ارائه شد. در دستگاه اول به سیستم وارد شوید.</string>
+    <string name="copy_confirmation_description">‏داده‌هایی مانند حساب Google و برنامه‌هایتان را در تلفن جدیدتان کپی خواهید کرد</string>
+    <string name="copy_confirmation_title">در تلفن جدیدتان کپی شود؟</string>
+    <string name="d2d_app_picker_description_no_apps">برنامه‌ای پیدا نکردیم</string>
+    <string name="d2d_app_picker_title">برنامه‌ها</string>
+    <string name="d2d_migration_canceled_on_source">کپی لغو شد</string>
+    <string name="data_copied_fragment_description">داده‌های شما در تلفن جدیدتان کپی شد. می‌توانید کابل را جدا کنید.</string>
+    <string name="data_copied_fragment_description_cancel">توقف کپی کردن را انتخاب کردید، بنابراین فقط بعضی از داده‌ها در تلفن جدیدتان کپی شدند.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">توقف کپی کردن را انتخاب کردید، بنابراین هیچ داده‌ای در تلفن جدیدتان کپی نشده است.</string>
+    <string name="data_copied_fragment_description_error">مشکلی پیش آمد و نتوانستیم همه‌چیز را کپی کنیم.</string>
+    <string name="data_copied_fragment_description_error_no_data">مشکلی پیش آمد، بنابراین نتوانستیم داده‌هایتان را کپی کنیم.</string>
+    <string name="data_copied_fragment_no_data_title">کپی نشد</string>
+    <string name="data_copied_fragment_some_data_title">بعضی از داده‌ها کپی شدند</string>
+    <string name="data_copied_fragment_title">داده‌ها کپی شد</string>
+    <string name="device_backup_title">پشتیبان‌گیری دستگاه</string>
+    <string name="device_not_supported_fragment_new_device">به تلفن جدیدی متصل شدید. برای ادامه، دوباره به تلفن قبلی متصل شوید.</string>
+    <string name="device_not_supported_fragment_new_device_title">به تلفن قبلی دوباره وصل شوید</string>
+    <string name="device_not_supported_fragment_no_data_cable">این کابل نمی‌تواند داده منتقل کند. با‌ استفاده از کابل دیگری مجدداً متصل شوید و دوباره امتحان کنید.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">کابل دیگری امتحان کنید</string>
+    <string name="device_not_supported_fragment_retry_description">مطمئن شوید که تلفن قدیمی‌تان قفل نیست سپس کابل را جدا کرده و دوباره وصل کنید</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">مشکلی وجود دارد</string>
+    <string name="device_not_supported_ios_supervised_description">‏چون دستگاه iPhone®‎ شما تحت نظارت است، برای کپی کردن داده‌ها باید راه دیگری پیدا کنید</string>
+    <string name="device_picker_description">‏نسخه‌های پشتیبان در Google Drive ذخیره شده‌اند</string>
+    <string name="device_picker_empty">هیچ پشتیبانی با %1$s پیوند ندارد.</string>
+    <string name="device_picker_empty_title">هیچ پشتیبانی پیدا نشد</string>
+    <string name="device_picker_item">پشتیبان %1$s</string>
+    <string name="device_picker_last_used">آخرین استفاده: ^1</string>
+    <string name="device_picker_skip">بازیابی نشود</string>
+    <string name="device_picker_title">پشتیبانی را برای بازیابی انتخاب کنید</string>
+    <string name="disabled_by_admin_summary_text">توسط سرپرست سیستم کنترل می‌شود</string>
+    <string name="download_msg_error_invalid">بارگیری پیکربندی درستی نداشت.</string>
+    <string name="download_msg_in_progress">بارگیری در حال انجام است.</string>
+    <string name="download_msg_not_allowed_space">فضای کافی برای انجام بارگیری وجود ندارد.</string>
+    <string name="download_msg_pending">بارگیری در انتظار است.</string>
+    <string name="download_notification_description">%1$s این مورد را درخواست کرده است.</string>
+    <string name="download_notification_title">واکشی اطلاعات بیشتر</string>
+    <string name="drive_backup_account">حساب پشتیبان‌گیری</string>
+    <string name="drive_backup_apps_in_backup">داده‌های پشتیبان‌گیری‌شده برنامه</string>
+    <string name="drive_backup_apps_last_backup">آخرین پشتیبان‌گیری</string>
+    <string name="drive_backup_apps_loading">درحال بارکردن…‏</string>
+    <string name="drive_backup_apps_screen_title">داده‌های برنامه</string>
+    <string name="drive_backup_content_apps_title">داده‌های برنامه</string>
+    <string name="drive_backup_content_calendar_dialog_message">‏رویدادهای ایجادشده در «تقویم Google» در همه دستگاه‌هایی که به سیستم حساب Google شما وارد شده‌اند، همگام‌سازی خواهد شد.</string>
+    <string name="drive_backup_content_calendar_title">‏تقویم Google</string>
+    <string name="drive_backup_content_callhistory_dialog_message">پشتیبان‌گیری شامل تاریخ و گیرنده تماس‌های ارسالی و دریافتی می‌شود.</string>
+    <string name="drive_backup_content_callhistory_title">سابقه تماس</string>
+    <string name="drive_backup_content_contacts_dialog_message">‏مخاطبین ایجادشده در Google Contacts در همه دستگاه‌هایی که به سیستم حساب Google شما وارد شده‌اند، همگام‌سازی خواهد شد.</string>
+    <string name="drive_backup_content_contacts_title">Google Contacts</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">‏پشتیبان‌گیری، شامل پیکربندی دستگاه مانند کاغذ‌دیواری، گذرواژه‌های WiFi و برنامه‌های پیش‌فرض می‌شود.</string>
+    <string name="drive_backup_content_devicesettings_title">تنظیمات دستگاه</string>
+    <string name="drive_backup_content_header">محتوا</string>
+    <string name="drive_backup_content_photos_dialog_message">‏حساب پشتیبان‌گیری اصلی شما تغییر کرد. می‌توانید حساب «پشتیبان‌گیری Google Photos» را نیز به %s تغییر دهید.</string>
+    <string name="drive_backup_content_photos_dialog_no">نپذیرفتن</string>
+    <string name="drive_backup_content_photos_dialog_title">حساب عکس و ویدیو هم تغییر کند؟</string>
+    <string name="drive_backup_content_photos_dialog_yes">تغییر</string>
+    <string name="drive_backup_content_photos_title">عکس‌ها و ویدئوها</string>
+    <string name="drive_backup_content_sms_dialog_message">پشتیبان‌گیری شامل پیام‌های ارسالی و دریافتی می‌شود اما رسانه فراپیام را شامل نمی‌شود.</string>
+    <string name="drive_backup_content_sms_title">پیامک</string>
+    <string name="drive_backup_content_status_dolly_action">متوجه شدم</string>
+    <string name="drive_backup_content_status_error">خطا در دریافت داده‌های آخرین همگام‌سازی</string>
+    <string name="drive_backup_content_status_lastsaved">‏آخرین پشتیبان‌گیری: %1$tb %1$td،‏ %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">‏آخرین همگام‌سازی: %1$tb %1$td،‏ %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">درانتظار پشتیبان</string>
+    <string name="drive_backup_content_status_sync_adapter_action">همگام‌سازی تنظیمات</string>
+    <string name="drive_backup_content_status_sync_off">همگام‌سازی خاموش است</string>
+    <string name="drive_backup_content_status_updating">درحال بررسی وضعیت…‏</string>
+    <string name="drive_backup_disabled_backuplist">"‏پشتیبان‌گیری شامل این موارد است:
+\u0009- داده‌های برنامه‌ها و بازی‌ها
+\u0009- سابقه تماس
+\u0009- تنظیمات دستگاه (ازجمله گذرواژه‌های Wi-Fi)
+\u0009- «تقویم Google»‏
+\u0009- ‏Google Contacts‏
+\u0009- ویدیوها و عکس‌ها
+\u0009- پیامک"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"‏پشتیبان‌گیری شامل این موارد می‌شود:
+\u0009- برنامه‌ها و داده‌های برنامه
+\u0009- سابقه تماس
+\u0009- تنظیمات دستگاه (شامل گذرواژه‌های Wi-Fi)
+\u0009- تقویم Google‏
+\u0009- Google Contacts
+\u0009- پیامک"</string>
+    <string name="drive_backup_disabled_by_device_owner">توسط سرپرست سیستم غیرفعال شده است</string>
+    <string name="drive_backup_disabled_detailedinfo">"‏«تقویم Google»‏، Google Contacts، عکس‌ها و ویدیوها با حساب Google شما همگام‌سازی می‌شوند و می‌توانند در همه سرویس‌ها استفاده شوند.
+
+حتی اگر پشتیبان‌گیری خاموش باشد، همگام‌سازی می‌تواند فعال شود. می‌توانید تنظیمات همگام‌سازی را در «تنظیمات > حساب‌ها > Google» تغییر دهید."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"‏«تقویم Google» و Google Contacts در «حساب Google» شما همگام‌سازی می‌شوند و ممکن است در سرویس‌های مختلف از آن‌ها استفاده شود.
+
+حتی اگر پشتیبان‌گیری خاموش باشد، می‌توان همگام‌سازی را فعال کرد. تنظیمات همگام‌سازی را می‌توان در «تنظیمات» > «حساب‌ها» > Google تغییر داد."</string>
+    <string name="drive_backup_disabled_introduction">با پشتیبان‌گیری خودکار مطمئن می‌شوید که درهر زمانی می‌توانید به‌آسانی تلفنتان را عوض یا بازیابی کنید.</string>
+    <string name="drive_backup_settings_title">پشتیبان‌گیری</string>
+    <string name="drive_backup_state">‏پشتیبان‌گیری در Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"‏داده‌های پشتیبان‌گیری‌شده این دستگاه در Google Drive برای همیشه حذف خواهد شد.
+
+عکس‌ها و ویدیوهایی که قبلاً پشتیبان‌گیری شده‌اند همچنان در Google Drive دردسترس خواهند بود.
+
+«تقویم Google» و Google Contacts همچنان در حساب Google شما پشتیبان‌گیری خواهند شد. می‌توانید تنظیمات همگام‌سازی را در «تنظیمات > حساب‌ها > Google» تغییر دهید."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"‏داده‌های پشتیبان‌گیری‌شده این دستگاه در Google Drive برای همیشه حذف می‌شوند.
+
+«تقویم Google» و Google Contacts همچنان در «حساب Google» شما همگام‌سازی می‌شوند. تنظیمات همگام‌سازی را می‌توان در «تنظیمات» > «حساب‌ها» > Google تغییر داد."</string>
+    <string name="drive_backup_state_dialog_okaction">خاموش کردن و حذف</string>
+    <string name="drive_backup_state_dialog_title">تنظیم خاموش شود و پشتیبان پاک شود؟</string>
+    <string name="durationDayHour">%1$d روز و %2$d ساعت</string>
+    <string name="durationDayHours">%1$d روز و %2$d ساعت</string>
+    <string name="durationDays">%1$d روز</string>
+    <string name="durationHourMinute">%1$d ساعت و %2$d دقیقه</string>
+    <string name="durationHourMinutes">%1$d ساعت و %2$d دقیقه</string>
+    <string name="durationHours">%1$d ساعت</string>
+    <string name="durationMinute">%1$d دقیقه</string>
+    <string name="durationMinuteSecond">%1$d دقیقه %2$d ثانیه</string>
+    <string name="durationMinuteSeconds">%1$d دقیقه %2$d ثانیه</string>
+    <string name="durationMinutes">%1$d دقیقه</string>
+    <string name="durationSecond">%1$d ثانیه</string>
+    <string name="durationSeconds">%1$d ثانیه</string>
+    <string name="encryption_warning_fragment_description">"‏رمزگذاری پشتیبان‌گیری برای دستگاه iPhone®‎ روشن شده است. اگر خودتان آن را روشن نکردید احتمالاً سرپرست فناوری اطلاعات شما آن را روشن کرده است.
+
+تنها عکس‌، موسیقی و ویدیو را می‌توان کپی کرد. برای اطلاعات بیشتر به "<b>g.co/datatransferhelp</b> سربزنید.</string>
+    <string name="encryption_warning_fragment_title">رمزگذاری پشتیبان‌گیری</string>
+    <string name="fido_begin_button">شروع</string>
+    <string name="fido_ble_device_icon_content_description">دستگاه بلوتوث تأییدشده</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">دکمه روی کلیدتان را حداقل ۵ ثانیه فشار دهید تا مطمئن شوید در حالت مرتبط‌سازی است</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">تأیید</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">مشکلی پیش آمد</string>
+    <string name="fido_ble_dont_see_your_key_hint">کلیدتان را نمی‌بینید؟</string>
+    <string name="fido_ble_enable_body">وقتی بلوتوث دستگاه روشن باشد، «کلید امنیتی» شما کار می‌کند</string>
+    <string name="fido_ble_enable_title">روشن کردن بلوتوث</string>
+    <string name="fido_ble_enable_turn_on_button">روشن کردن</string>
+    <string name="fido_ble_instructions_body">برای استفاده از اکثر کلیدها، تنها کافی است روی دکمه ضربه بزنید</string>
+    <string name="fido_ble_instructions_title">استفاده از کلید امنیتی‌تان مجاز است؟</string>
+    <string name="fido_ble_locate_pin_body">پین مرتبط‌سازی معمولاً یک عدد ۴ تا ۶ رقمی است و ممکن است در پشت کلیدتان موجود است. وقتی برای وارد کردن کد پین آمادگی داشتید ادامه دهید.</string>
+    <string name="fido_ble_locate_pin_continue_button">ادامه</string>
+    <string name="fido_ble_locate_pin_title">‏پین مرتبط‌سازی بلوتوث را برای کلید %1$s خود پیدا کنید</string>
+    <string name="fido_ble_pair_device_pairing">درحال مرتبط‌سازی کلید امنیتی…</string>
+    <string name="fido_ble_pair_instructions_body">کلیدتان را با این دستگاه مرتبط‌سازی کنید تا بتوانید از آن با حسابتان استفاده کنید</string>
+    <string name="fido_ble_pair_instructions_title">آماده‌اید «کلید امنیتی»تان را مرتبط کنید؟</string>
+    <string name="fido_ble_pairing_failure_dialog_message">دوباره کلیدتان را به حالت مرتبط‌سازی ببرید</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">امتحان مجدد</string>
+    <string name="fido_ble_pairing_failure_dialog_title">مشکلی وجود دارد</string>
+    <string name="fido_ble_pairing_mode_body">دکمه روی «کلید امنیتی» را حداقل ۵ ثانیه فشار دهید</string>
+    <string name="fido_ble_pairing_mode_title">رفتن به حالت مرتبط‌سازی</string>
+    <string name="fido_ble_select_device_body">از فهرست زیر، کلید امنیتی موردنظرتان را برای مرتبط کردن با دستگاهتان انتخاب کنید. نام ممکن است پشت کلیدتان چاپ شده باشد.</string>
+    <string name="fido_ble_select_device_title">انتخاب کلید امنیتی</string>
+    <string name="fido_cancel_button">لغو</string>
+    <string name="fido_nfc_enable_body">‏فقط وقتی NFC دستگاه روشن باشد، «کلید امنیتی» شما کار می‌کند</string>
+    <string name="fido_nfc_enable_title">‏روشن کردن NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">روشن کردن</string>
+    <string name="fido_nfc_instructions_body">کلیدتان را صاف پشت دستگاه نگه‌دارید تا وقتی دیگر نلرزد</string>
+    <string name="fido_nfc_instructions_title">استفاده از کلید امنیتی‌تان مجاز است؟</string>
+    <string name="fido_pair_another_security_key">مرتبط‌سازی کلید امنیتی دیگری</string>
+    <string name="fido_processing">درحال به تأیید رساندن کلید امنیتی…</string>
+    <string name="fido_transport_selection_bluetooth">استفاده از «کلید امنیتی» با بلوتوث</string>
+    <string name="fido_transport_selection_body">‏«کلید امنیتی» با بلوتوث و NFC قابل استفاده است. نحوه استفاده از کلیدتان را انتخاب کنید.</string>
+    <string name="fido_transport_selection_nfc">‏استفاده از «کلید امنیتی» با NFC</string>
+    <string name="fido_transport_selection_title">انتخاب نحوه استفاده از کلید امنیتی</string>
+    <string name="fido_use_ble_instead">استفاده از کلید امنیتی با بلوتوث</string>
+    <string name="fido_use_nfc_instead">‏استفاده از کلید امنیتی با NFC</string>
+    <string name="fido_welcome_body">‏استفاده از «کلید امنیتی» با %1$s به محافظت از داده‌های خصوصی‌تان کمک می‌کند.</string>
+    <string name="fido_welcome_title">‏استفاده از «کلید امنیتی» با %1$s</string>
+    <string name="fileSizeSuffix">%1$s ‏%2$s</string>
+    <string name="fragment_usb_cant_find_adapter">آداپتور را پیدا نکردم</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"‏Quick Switch Adapter را که در همان جعبه ^1 شما ارائه شده است پیدا کنید.
+
+کابل را به آداپتور وصل کنید."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">آداپتور و کابل را وصل کنید</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">قفل تلفن قدیمی‌تان را باز کنید، سپس آداپتور را به این تلفن وصل کنید.</string>
+    <string name="fragment_usb_connect_both_phones_title">تلفن‌ها را به هم وصل کنید</string>
+    <string name="fragment_usb_dialog_cancel_description">اگر از کابل استفاده کنید، بیشتر محتوا را می‌توانید منتقل کنید. اگر کابل داخل جعبه، مناسب تلفن قدیمی‌تان نیست، از کابل شارژ یا داده‌ای که با تلفن قدیمی‌تان کار می‌کند استفاده کنید.</string>
+    <string name="fragment_usb_dialog_cancel_title">می‌توان داده‌ها را به‌روش دیگری کپی کرد؟</string>
+    <string name="fragment_usb_dont_have_cable">کابل ندارم</string>
+    <string name="fragment_usb_dont_have_old_phone">تلفن قدیمی‌ام را ندارم</string>
+    <string name="fragment_usb_find_cable_description">از کابل مناسب تلفن قدیمی‌تان (مثل کابل داده یا شارژ) استفاده کنید.</string>
+    <string name="fragment_usb_find_cable_title">کابل مناسب را پیدا کنید</string>
+    <string name="fragment_usb_initial_description">داده‌های تلفن قدیمی‌تان را به این ^1 منتقل کنید.</string>
+    <string name="fragment_usb_initial_title">بیایید داده‌هایتان را کپی کنیم</string>
+    <string name="fragment_usb_legacy_description">"این سریع‌ترین روش برای انتقال اکثر داده‌هاست.
+
+آداپتور را در جعبه پیدا کنید، آن را به تلفن جدید وصل کنید. تلفن‌ها را با استفاده از کابل به هم وصل کنید، سپس قفل تلفن قدیمی را باز کنید."</string>
+    <string name="fragment_usb_other_ways">کپی کردن بدون کابل</string>
+    <string name="fragment_usb_plug_cable">کابل را به تلفن قدیمی‌تان وصل کنید</string>
+    <string name="fragment_waiting_title">یک لحظه صبر کنید…</string>
+    <string name="gigabyteShort">گیگابایت</string>
+    <string name="google_app_permissions_title">مجوزهای برنامه</string>
+    <string name="google_contacts_static_text">‏Google Contacts همگام‌سازی می‌شود</string>
+    <string name="google_contacts_static_text_off">‏Google Contacts همچنان همگام‌سازی خواهد شد</string>
+    <string name="google_legal_title">‏شرایط حقوقی Google</string>
+    <string name="google_play_tos_title">‏شرایط خدمات Google Play</string>
+    <string name="google_plus_privacy_policy_title">‏خط‌مشی رازداری Google Plus</string>
+    <string name="google_privacy_policy_title">‏خط‌مشی رازداری Google</string>
+    <string name="google_terms_of_service_title">‏شرایط خدمات Google</string>
+    <string name="header_set_backup_account">تنظیم حساب پشتیبان</string>
+    <string name="i_message_dialog_message">"‏برای اینکه دریافت پیامک از کاربران iPhone®‎ ادامه داشته باشد، باید iMessage®‎ را خاموش کنید. دستورالعمل‌ها را در 
+
+"<b>g.co/iMessageHelp</b> ببینید.</string>
+    <string name="instant_apps_settings_title">برنامه‌های فوری</string>
+    <string name="instructions_fragment_title">در تلفن دیگرتان ادامه دهید</string>
+    <string name="ios_connected_fragment_description">"‏در صفحه بعد می‌توانید به سیستم حساب Google خود وارد شوید یا حساب جدیدی ایجاد کنید.
+
+اگر حساب Google خود را اضافه نکنید، رویدادهای iOS Calendar®‎ شما منتقل نخواهند شد."</string>
+    <string name="ios_message_attachment_explanation">‏[پیوست‌های پیام شما در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام هستند]</string>
+    <string name="ios_message_attachment_failed_explanation">‏[برخی از پیوست‌ها را نمی‌توان کپی کرد. پیوست‌های منتقل‌شده را می‌توان در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام پیدا کرد]</string>
+    <string name="ios_message_attachment_placeholder">‏[پیوست در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام ذخیره شد]</string>
+    <string name="ios_message_attachments_placeholder">‏[پیوست‌ها در Google Photos > پوشه‌های دستگاه > پیوست‌های پیام ذخیره شدند]</string>
+    <string name="ios_migration_default_calendar_title">تقویم</string>
+    <string name="ios_migration_other_contact_relation">سایر موارد</string>
+    <string name="ios_photos_dialog_message">"‏عکس‌های ذخیره‌شده در iCloud®‎ کپی نمی‌شوند.
+
+برای آوردن این عکس‌ها به ^1 خود، برنامه Google Photos را در دستگاه iPhone®‎ خود نصب کنید. برای اطلاع از دستورالعمل‌های بیشتر، به "<b>g.co/datatransferhelp</b> سر بزنید.</string>
+    <string name="kilobyteShort">کیلوبایت</string>
+    <string name="list_item_add_account">افزودن حساب</string>
+    <string name="lockscreen_smartdevice_action_next">بعدی</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">برای ادامه راه‌اندازی تلفنتان، قفل آن را باز کنید</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">به دلایل امنیتی، باید قفل صفحه‌تان را تأیید کنید تا راه‌اندازی ادامه یابد</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">قفل صفحه‌تان را تأیید کنید</string>
+    <string name="manage_data_label">‏حساب Google</string>
+    <string name="master_clear_title">بازنشانی داده‌های کارخانه</string>
+    <string name="megabyteShort">مگابایت</string>
+    <string name="netrec_module_display_name">توصیه‌های شبکه</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">‏پیام‌های Wi‑Fi</string>
+    <string name="notification_channel_network_available">شبکه دردسترس است</string>
+    <string name="notification_channel_wakeup_name">‏Wi-Fi روشن شد</string>
+    <string name="notification_content_text_set_backup_account">باید حساب پشتیبان تنظیم شود</string>
+    <string name="notification_content_title_set_backup_account">پشتیبان‌گیری</string>
+    <string name="notification_ticker">دسترسی درخواست ‌شد</string>
+    <string name="notification_ticker_set_backup_account">حساب پشتیبان مورد نیاز است</string>
+    <string name="open_in_web_button">باز کردن در وب</string>
+    <string name="open_source_activity_prompt_heading">باز کردن برنامه</string>
+    <string name="open_source_activity_prompt_text">"‏برای تکمیل روند احراز هویت، SourceResponseActivity را در تلفنتان باز کنید. "</string>
+    <string name="opt_in_account_content_description">حسابی انتخاب کنید. حساب %1$s درحال حاضر انتخاب شده است</string>
+    <string name="opt_in_account_null_state">ایجاد حساب</string>
+    <string name="opt_in_agreement">‏درصورت ادامه دادن، با <a href="https://play.google.com/about/play-terms.html">شرایط و ضوابط Play‏</a> موافقت می‌کنید. <a href="https://support.google.com/googleplay/?p=instant_apps">بیشتر بدانید</a></string>
+    <string name="opt_in_confirm">بله، موافقم</string>
+    <string name="opt_in_description">"‏وقتی  روی پیوندی ضربه می‌زنید، Google Play در صورت پیدا کردن برنامه فوری، آن را بدون نصب اجرا می‌کند. برنامه‌های فوری به‌صورت موقت در دستگاهتان نگه‌داشته می‌شوند.
+
+وقتی از برنامه‌های فوری استفاده می‌کنید، اجازه‌هایی از شما درخواست می‌کنند. جزئیات برنامه (شامل خریدهای درون‌برنامه) را می‌توانید در «فروشگاه Play» پیدا کنید. تنظیمات و داده‌های برنامه در دستگاه‌هایی که با حساب زیر در آن‌ها به سیستم وارد شده‌اید همگام‌سازی می‌شوند:"</string>
+    <string name="opt_in_description_m_plus">"‏وقتی روی پیوندی ضربه می‌زنید، Google Play درصورت پیدا کردن برنامه فوری، آن را بدون نصب اجرا می‌کند. برنامه‌های فوری به‌صورت موقت در دستگاهتان نگه‌داشته می‌شود. 
+
+جزئیات برنامه (شامل خریدهای درون‌برنامه) را می‌توانید در فروشگاه Google Play پیدا کنید. تنظیمات و داده‌های برنامه در دستگاه‌هایی که با حساب زیر در آن‌ها به سیستم وارد شده‌اید همگام‌سازی می‌شوند:"</string>
+    <string name="opt_in_subtitle">بدون نصب کردن از برنامه‌ها استفاده کنید</string>
+    <string name="opt_in_title">برنامه‌های فوری</string>
+    <string name="permgrouplab_calendar">تقویم</string>
+    <string name="permgrouplab_camera">دوربین</string>
+    <string name="permgrouplab_contacts">مخاطبین</string>
+    <string name="permgrouplab_location">مکان</string>
+    <string name="permgrouplab_microphone">میکروفون</string>
+    <string name="permgrouplab_phone">تلفن</string>
+    <string name="permgrouplab_sensors">حسگرهای بدن</string>
+    <string name="permgrouplab_sms">پیامک</string>
+    <string name="permgrouplab_storage">فضای ذخیره‌سازی</string>
+    <string name="permissions_not_granted_text">برای ارائه اجازه، به سیستم وارد شوید.</string>
+    <string name="permissions_not_granted_title">اجازه ارائه نشد.</string>
+    <string name="petabyteShort">پتابایت</string>
+    <string name="photo_backup_configure_account_default_summary">هیچ حسابی در حال حاضر عکس‌های پشتیبان‌گیری‌شده را ذخیره نمی‌کند</string>
+    <string name="photos_backup_title">پشتیبان‌گیری عکس‌ها</string>
+    <string name="photos_filtering_option_all">همه موارد</string>
+    <string name="photos_filtering_option_none">هیچ‌کدام</string>
+    <string name="plus_manage_app_only_you_label">فقط شما</string>
+    <string name="plus_network_unreliable">برقراری اتصال قابل اعتماد به سرور امکان‌پذیر نیست.</string>
+    <string name="plus_oob_interstitial_loading_text">این کار ممکن است چند دقیقه طول بکشد.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏مخاطبین کپی‌شده در «حساب Google» شما ذخیره خواهند شد.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏مخاطبین و تقویم‌های کپی‌شده در «حساب Google» شما ذخیره خواهند شد.</string>
+    <string name="restore_choice_data_disclaimer_v2">شاید بعضی از داده‌هایتان در ^1 کپی نشود. <annotation id="restore_choice_data_disclaimer_learn_more">بیشتر بدانید</annotation></string>
+    <string name="restore_choice_deselect_some_content">برای ادامه دادن بعضی از محتوا را لغو انتخاب کنید</string>
+    <string name="restore_choice_learn_more_android">"‏بعضی از داده‌های تلفن قدیمی‌تان به‌طور خودکار کپی نمی‌شوند:
+
+ ● بارگیری‌ها (مانند فایل‌های PDF)‏
+
+ ● عکس‌ها، ویدیوها و موسیقی ذخیره‌شده در پوشه‌های مخفی
+
+ ● عکس‌ها، ویدیوها و موسیقی دریافت‌شده ازطریق پیامک
+
+ ● برنامه‌هایی که از «فروشگاه Google Play» نیستند
+
+ ● داده‌های برنامه (درصورتی‌که برنامه از پشتیبان‌گیری Android استفاده نمی‌کند)
+
+ ● تنظیمات مشخص دستگاه
+
+ ● حساب‌هایی به‌جز «حساب‌های Google» (و داده‌های مرتبط)
+
+ ● مخاطبین و تقویم‌های همگام‌سازی‌شده با سرویس‌هایی به‌جز Google‏
+
+ ● آهنگ‌های زنگ
+
+ برای دریافت جزئیات و راهنمایی بیشتر درباره کپی کردن بعضی از این داده‌ها، به g.co/datatransferhelp بروید."</string>
+    <string name="restore_choice_learn_more_ios">"‏بعضی از داده‌های تلفن قدیمی‌تان نمی‌توانند به‌طور خودکار کپی شوند:
+
+ ● برنامه‌ها و داده‌های برنامه
+
+ ● عکس‌هایی که اصل آن‌ها در تلفنتان ذخیره نشده است (برای مثال، اگر تنظیم Optimize Storage (بهینه‌سازی فضای ذخیره‌سازی) روشن باشد، عکس‌های اصلی در iCloud®‎ ذخیره می‌شوند)
+
+ ● فایل‌ها و اسناد ذخیره‌شده در iCloud®‎‏
+
+ ● تنظیمات دستگاه (مانند گذرواژه Wi-Fi و کاغذدیواری)
+
+ ● موسیقی محافظت‌شده با محافظ «مدیریت حقوق دیجیتال» (DRM) (برای مثال، موسیقی iTunes®‎ که قبل از آوریل ۲۰۰۹ خریداری شده‌اند یا موسیقی بارگیری‌شده برای گوش دادن آفلاین در یک برنامه پخش موسیقی)‏
+
+ ● حساب‌هایی به‌جز حساب‌های Google (و داده‌های مرتبط)
+
+ ● مخاطبین و تقویم‌های همگام‌سازی‌شده با سرویس‌هایی به‌جز Google یا iCloud®‎‏
+
+ ● نشانک‌های Safari®‎‏
+
+ پیوست‌های iMessage®‎ در «Google Photos > ‏Device folders (پوشه‌های دستگاه) > ‏Message attachments (پیوست‌های پیام)» دردسترس خواهند بود.
+
+ برای دریافت جزئیات و راهنمایی بیشتر درباره کپی کردن بعضی از این داده‌ها، به g.co/datatransferhelp بروید."</string>
+    <string name="restore_choice_not_enough_space">فضای کافی وجود ندارد</string>
+    <string name="restore_choice_total_text">از %1$s موجود شما / %2$s انتقال</string>
+    <string name="restore_error_message">در بازیابی مشکلی رخ داد. متأسفیم.</string>
+    <string name="restore_instant_apps_notif_text">%1$s ضروری از این دستگاه برداشته شد</string>
+    <string name="restore_instant_apps_notif_title">بازیابی «برنامه‌های فوری»</string>
+    <string name="restore_item_appdata">داده‌های برنامه</string>
+    <string name="restore_item_calendar">تقویم</string>
+    <string name="restore_item_calendar_ical_description">‏iOS® Calendar‎، تقویم Google</string>
+    <string name="restore_item_calendar_ical_off_description">‏«تقویم Google» همچنان همگام‌سازی می‌شود</string>
+    <string name="restore_item_calendar_sync_description">‏«تقویم Google» همگام‌سازی می‌شود</string>
+    <string name="restore_item_call_logs">سابقه تماس</string>
+    <string name="restore_item_contacts">مخاطبین</string>
+    <string name="restore_item_device_settings_description">‏گذرواژه‌های Wi-Fi و موارد دیگر</string>
+    <string name="restore_item_downloads">بارگیری‌ها</string>
+    <string name="restore_item_email">رایانامه</string>
+    <string name="restore_item_email_description">‏Gmail همگام‌سازی می‌شود</string>
+    <string name="restore_item_message_attachments">پیوست‌های پیام</string>
+    <string name="restore_item_messages">پیام‌ها</string>
+    <string name="restore_item_music">موسیقی</string>
+    <string name="restore_item_photos">عکس‌ها و ویدئوها</string>
+    <string name="restore_item_settings">تنظیمات دستگاه</string>
+    <string name="restore_item_sms">پیامک‌ها</string>
+    <string name="restore_item_will_be_synced_text">این در تلفن شما همگام‌سازی می‌شود</string>
+    <string name="restore_progress_title">درحال بازیابی...</string>
+    <string name="restore_supervisor_description">برای باز کردن پیوند‌ها در برنامه‌های فوری، %1$s را بازیابی کنید</string>
+    <string name="restore_supervisor_success">«برنامه‌های فوری» با موفقیت بازیابی شد</string>
+    <string name="restore_supervisor_title">«برنامه‌های فوری» بازیابی شود؟</string>
+    <string name="search_menu_title">جستجو</string>
+    <string name="setup_failure_description">«برنامه‌های فوری» راه‌اندازی نشدند. <a href="https://support.google.com/googleplay/?p=instant_apps">بیشتر بدانید</a></string>
+    <string name="setup_failure_title">راه‌اندازی نشد</string>
+    <string name="sharedUserLabel">‏سرویس‌های Google</string>
+    <string name="sid_lsid_grant_detail">‏بسیار شبیه به یک گذرواژه، کوکی‌های شناسایی جلسه (SID) و شناسایی جلسه محلی (LSID)، هویت شما را با مجموعه‌ای از درخواست‌ها از یک مرورگر مرتبط می‌کنند. آنها دسترسی کامل به همه داده‌های حساب شما را فراهم می‌آورند. فقط مرورگرها حق استفاده مشروع از این کوکی‌ها را دارند.</string>
+    <string name="sid_lsid_grant_label">‏برای دسترسی به همه داده‌های حساب Google خود، از کوکی‌های SID و LSID استفاده کنید.</string>
+    <string name="small_time_duration">کمتر از ۱ دقیقه</string>
+    <string name="smartdevice_action_copy">کپی</string>
+    <string name="smartdevice_action_next">بعدی</string>
+    <string name="smartdevice_action_open_app">باز کردن برنامه</string>
+    <string name="smartdevice_action_skip">رد شدن</string>
+    <string name="smartdevice_action_try_another_way">امتحان روش دیگر</string>
+    <string name="smartdevice_action_turn_on_location">روشن کردن مکان</string>
+    <string name="smartdevice_alert_disconnected_message">"ارتباط دستگاهتان قطع شد.
+برای ادامه راه‌اندازی، آن را متصل کنید و مجدداً شروع کنید."</string>
+    <string name="smartdevice_alert_disconnected_title">ارتباط دستگاه قطع شد</string>
+    <string name="smartdevice_alert_dm_backup_account_message">متأسفانه، نمی‌توانید از این قابلیت استفاده کنید چون حساب پشتیبان شما توسط سرپرست دستگاه مدیریت می‌شود.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">قابلیت دردسترس نیست</string>
+    <string name="smartdevice_alert_exit_setup_message">مطمئنید می‌خواهید از راه‌اندازی دستگاه دیگرتان انصراف دهید؟</string>
+    <string name="smartdevice_alert_exit_setup_title">از راه‌اندازی دستگاه انصراف می‌دهید؟</string>
+    <string name="smartdevice_alert_generic_error_title">متأسفیم، مشکلی پیش آمد</string>
+    <string name="smartdevice_alert_generic_error_toast_text">متأسفیم، مشکلی پیش آمد</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">‏برای راه‌اندازی دستگاهتان، به حداقل یک حساب Google نیاز دارید.</string>
+    <string name="smartdevice_alert_no_accounts_text">‏برای راه‌اندازی %s، به حداقل یک حساب Google نیاز دارید.</string>
+    <string name="smartdevice_alert_no_accounts_title">هیچ حسابی برای کپی وجود ندارد</string>
+    <string name="smartdevice_alert_quit_button">انصراف</string>
+    <string name="smartdevice_alert_restart_setup_button">راه‌اندازی مجدد تنظیم</string>
+    <string name="smartdevice_alert_setup_incomplete">راه‌اندازی کامل نشده است</string>
+    <string name="smartdevice_alert_skip_button">رد شدن</string>
+    <string name="smartdevice_alert_start_over_button">شروع مجدد</string>
+    <string name="smartdevice_alert_work_profile_message">‏هنوز نمی‌توان حساب‌های کاری را کپی کرد. بعد از کپی کردن سایر حساب‌ها و داده‌های Google خود، برای اضافه کردن حساب کاری‌تان به «تنظیمات» در دستگاه جدیدتان بروید.</string>
+    <string name="smartdevice_alert_work_profile_title">نمی‌توان حساب کاری را کپی کرد</string>
+    <string name="smartdevice_application_label">راه‌اندازی دستگاه</string>
+    <string name="smartdevice_choose_device">دستگاهتان را انتخاب کنید</string>
+    <string name="smartdevice_companion_app_ready">برنامه %s قبلاً در این دستگاه نصب شده است.</string>
+    <string name="smartdevice_connect_to_wifi">دستگاهتان را متصل کنید</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">در حال اتصال به دستگاهتان...</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">‏حساب‌های Google، سایر حساب‌ها، برنامه‌ها و داده‌های شما کپی خواهد شد</string>
+    <string name="smartdevice_d2d_copy_account_text">‏حساب‌های Google، برنامه‌ها و داده‌هایتان در دستگاه دیگرتان کپی شود؟</string>
+    <string name="smartdevice_d2d_copy_account_title">در دستگاه دیگرتان کپی شود؟</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">شناخته نشد</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">به‌جای آن صفحه درحالت قفل را امتحان کنید</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">‏به دلایل امنیتی، اثر انگشتتان را تأیید کنید. حساب‌های Google، برنامه‌ها و داده‌های شما در %s شما کپی خواهند شد.</string>
+    <string name="smartdevice_d2d_lockscreen_description">برای ادامه راه‌اندازی دستگاهتان، قفل آن را باز کنید</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">برای امنیت، قفل صفحه‌تان را تأیید کنید تا راه‌اندازی ادامه یابد.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">برای ادامه تأیید کنید</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">به دلیل عدم وجود بلوتوث در دستگاه شما، تنظیم دستگاه دیگر امکان‌پذیر نیست.</string>
+    <string name="smartdevice_d2d_source_disabled_text">برای حفظ امنیت، این ویژگی غیرفعال شده است. در دستگاه دیگرتان، «رد شدن» را لمس کنید و به تنظیم ادامه دهید.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">تنظیم دستگاه جدید</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">راه‌اندازی دستگاه</string>
+    <string name="smartdevice_d2d_source_notification_title">راه‌اندازی ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">‏برای اطمینان از اینکه حساب‌های Google، برنامه‌ها و داده‌هایتان را در دستگاه درستی کپی می‌کنید، تنظیم را راه‌اندازی مجدد کنید و ^1 خودتان را انتخاب کنید.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">کد را نمی‌بینید؟</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">کد را نمی‌بینید؟</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">برای تأیید اینکه دستگاه درست را انتخاب کردید، باید این کد را در دستگاه دیگرتان ببینید.</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">تأیید کد</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">تنظیم دستگاه جدید از نمایه کاربر محدودشده امکان‌پذیر نیست.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">راه‌اندازی را در %s خود تمام کنید</string>
+    <string name="smartdevice_d2d_source_setup_success">تقريباً تمام است!</string>
+    <string name="smartdevice_d2d_target_choice_description">‏اگر از دستگاه Android دیگری استفاده می‌کنید، می‌توانید به‌سرعت تنظیمات فعلی‌تان را در این %s کپی کنید.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">‏اگر دستگاه قبلی‌تان Android است بیشترین موارد را از آن بگیرید</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">تنظیم به‌عنوان جدید</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">‏کپی کردن از یک دستگاه Android دیگر</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">نه متشكرم</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">بسیار خوب، مراحل بعدی را برای تنظیم این دستگاه دنبال کنید</string>
+    <string name="smartdevice_d2d_target_choice_title">دستگاه دیگری گرفته‌اید؟</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">‏حساب‌های Google، برنامه‌ها و داده را از دستگاه دیگر کپی کنید</string>
+    <string name="smartdevice_d2d_target_continue_description">در دستگاه دیگرتان، راه‌اندازی را ادامه دهید.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">"در حال کپی کردن  حساب‌ها…"</string>
+    <string name="smartdevice_d2d_target_description">‏به دستگاه دیگرتان برگردید:&lt;br/>&lt;br/> ۱.بگویید &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>، &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> یا \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" را تایپ کنید و برای تأیید ضربه بزنید&lt;br/>&lt;br/> ۲. &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> را در فهرست لمس کنید و دستورالعمل‌های روی صفحه را دنبال کنید</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">به جای آن، این روش را امتحان کنید</string>
+    <string name="smartdevice_d2d_target_google_settings_description">‏در دستگاه دیگرتان:&lt;br/>&lt;br/> ۱. برنامه &lt;b>تنظیمات Google&lt;/b> را باز کنید&lt;br/>&lt;br/> ۲. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> را انتخاب کنید &lt;br/>&lt;br/> ۳. &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> را در فهرست لمس کنید و دستورالعمل‌های روی صفحه را دنبال کنید</string>
+    <string name="smartdevice_d2d_target_google_settings_link">این مراحل کامل نمی‌شود</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">بیایید از تنظیمات استفاده کنیم</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">‏در دستگاه دیگرتان:&lt;br/>&lt;br/> ۱. روی نماد «همه برنامه‌ها» ضربه بزنید، سپس &lt;b>برنامه تنظیمات&lt;/b> را باز کنید&lt;br/>&lt;br/> ۲. روی &lt;b>Google&lt;/b> ضربه بزنید&lt;br/>&lt;br/> ۳. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> را انتخاب کنید &lt;br/>&lt;br/> ۴. &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> را در فهرست لمس کنید و دستورالعمل‌های روی صفحه را دنبال کنید</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">‏کپی کردن از یک دستگاه Android دیگر</string>
+    <string name="smartdevice_d2d_target_help_needed_link">مشکلی دارید؟</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">نمی‌توانید آن را پیدا کنید؟</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">‏در دستگاه دیگرتان، برنامه Google را باز کنید</string>
+    <string name="smartdevice_d2d_target_instruction_description">‏برنامه Google+‎ را باز کنید</string>
+    <string name="smartdevice_d2d_target_instruction_title">در دستگاه دیگرتان</string>
+    <string name="smartdevice_d2d_target_nfc_description">"برای کپی کردن: 
+
+‏۱. مطمئن شوید دستگاه دیگرتان روشن و قفل آن باز است 
+
+‏۲. دو دستگاه را از پشت روی یکدیگر بگذارید تا زنگ آهنگی بشنوید، سپس آنها را از هم جدا کنید"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">‏«ضربه زدن و رفتن» برای کپی کردن حساب‌های Google، برنامه‌ها و داده‌ها از دستگاه دیگرتان، از NFC استفاده می‌کند. با رفتن به «تنظیمات»، مطمئن شوید NFC آن دستگاه دیگر روشن است.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">با مشکل مواجه هستید؟</string>
+    <string name="smartdevice_d2d_target_nfc_title">ضربه زدن و رفتن</string>
+    <string name="smartdevice_d2d_target_other_device_description">‏برنامه Google از قبل روی همه دستگاه‌های Android نصب شده است. دکمه «همه برنامه‌ها» را در صفحه اصلی‌تان لمس کنید و به دنبال نماد نشان داده شده در بالا بگردید.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">این کد باید با کد روی دستگاه دیگر شما مطابقت داشته باشد:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">رد نشود</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">تنظیم، این حساب یا برنامه‌های پشتیبان‌گیری شده و داده‌ها را در این دستگاه کپی نمی‌کند.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">به هرحال رد شود</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">از این حساب رد می‌شوید؟</string>
+    <string name="smartdevice_d2d_target_title">‏در برنامه Google</string>
+    <string name="smartdevice_default_device_name">دستگاه</string>
+    <string name="smartdevice_install_app">نصب برنامه</string>
+    <string name="smartdevice_install_app_reason" formatted="false">برای کنترل و مدیریت %s جدیدتان از این دستگاه، برنامه %s را نصب کنید</string>
+    <string name="smartdevice_install_on_this_device">نصب</string>
+    <string name="smartdevice_search_again">دوباره جستجو کنید</string>
+    <string name="smartdevice_searching_for_devices">در حال جستجوی دستگاه‌ها</string>
+    <string name="smartdevice_setup_enter_code">کد را در دستگاهتان وارد کنید. باید در یک برچسب نشان داده شود.</string>
+    <string name="smartdevice_setup_enter_code_hint">کدتان را وارد کنید</string>
+    <string name="smartdevice_setup_enter_pin_4">کد ۴ رقمی را که در این لحظه در دستگاهتان نشان داده می‌شود، وارد کنید</string>
+    <string name="smartdevice_setup_info_installing_app">در حال نصب برنامه...</string>
+    <string name="smartdevice_setup_intro_text">‏برای تنظیم دستگاه دیگرتان، از بلوتوث تلفن و داده Wi-Fi شما استفاده می‌شود.</string>
+    <string name="smartdevice_setup_intro_text_nfc">برای تنظیم دستگاه دیگرتان، از بلوتوث تلفنتان استفاده می‌شود.</string>
+    <string name="smartdevice_setup_intro_title">راهنمای شروع به کار</string>
+    <string name="smartdevice_setup_password_hint">‏گذرواژه WiFi را وارد کنید</string>
+    <string name="smartdevice_setup_show_password">نمایش گذرواژه</string>
+    <string name="smartdevice_setup_title_verify_code">تأیید کد</string>
+    <string name="smartdevice_wifi_cannot_connect_description">‏برای تنظیم این دستگاه، تنها از شبکه‌های باز و شبکه‌های WPA/WPA2 می‌توان استفاده کرد.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">‏از شبکه WiFi نمی‌توان استفاده کرد</string>
+    <string name="smartdevice_wifi_skip_dialog_text">‏ممکن است دستگاه شما بدون اتصال Wi-Fi عملکرد درستی نداشته باشد. برای ادامه راه‌اندازی، آن را به یک شبکه Wi-Fi متصل کنید.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">‏انتخاب شبکه Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"‏برای جستجوی Wi-Fi، «مکان» را روشن کنید.
+
+هرزمان خواستید می‌توانید این مورد را در «تنظیمات» تغییر دهید."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">‏نمی‌توان شبکه‌های Wi-Fi را جستجو کرد</string>
+    <string name="source_connected_description">در حال آماده‌سازی...</string>
+    <string name="source_connected_title">به %1$s شما متصل شد</string>
+    <string name="source_copying_description">داده‌هایی که انتخاب کرده‌اید در تلفن جدیدتان کپی می‌شوند</string>
+    <string name="source_copying_title">درحال کپی کردن…</string>
+    <string name="source_default_target_device_name">دستگاه جدید</string>
+    <string name="source_notification_device_disconnected">کابلتان را دوباره متصل کنید</string>
+    <string name="source_notification_text">انتقال تلفن به تلفن درحال انجام است</string>
+    <string name="source_notification_title">انتقال داده‌ها</string>
+    <string name="source_success_description">راه‌اندازی %1$s شما تمام شد.</string>
+    <string name="source_success_screen_title">تمام شد!</string>
+    <string name="source_unplugged_description">دوباره آن را به %1$s خود وصل کنید</string>
+    <string name="source_unplugged_title">کابل جدا شد</string>
+    <string name="source_waiting_title">ادامه راه‌اندازی در %1$s</string>
+    <string name="status_bar_notification_info_overflow">۹۹۹+</string>
+    <string name="stop_copying_dialog_continue_button">رد کردن</string>
+    <string name="stop_copying_dialog_message_before_transfer">داده‌هایتان در تلفن جدید کپی نشده‌اند</string>
+    <string name="stop_copying_dialog_message_during_transfer">بعضی از داده‌هایتان در تلفن جدید کپی نشده‌اند</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">کپی نشود</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">توقف</string>
+    <string name="stop_copying_dialog_title_before_transfer">کپی نشود؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">کپی کردن متوقف شود؟</string>
+    <string name="storage_management_wear_descriptive_text">برنامه‌هایی که از فضای ذخیره‌سازی دستگاه\u009d‌تان برای تکرار داده‌ها در فناوری‌های پوشیدنی استفاده می‌کنند.</string>
+    <string name="storage_management_wear_manage_size_label">مدیریت فضای ذخیره‌سازی فناوری پوشیدنی</string>
+    <string name="storage_management_wear_size_label">فضای ذخیره‌سازی فناوری پوشیدنی</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏کل داده‌های استفاده شده توسط خدمات Google Play، از جمله داده‌های موتور جستجو و داده‌های دیگر.</string>
+    <string name="storage_managment_clear_all_data">پاک کردن همه داده‌ها</string>
+    <string name="storage_managment_computing_size">در حال محاسبه...</string>
+    <string name="storage_managment_icing_size_label">جستجوی اطلاعات</string>
+    <string name="storage_managment_manage_icing_button">مدیریت اطلاعات جستجو</string>
+    <string name="storage_managment_search_index_descriptive_text">ما با فراهم کردن موتور جستجویی برای استفاده برنامه‌های شما، جستجو را در دستگاهتان سرعت می‌بخشیم.</string>
+    <string name="storage_managment_title">‏فضای ذخیره‌سازی خدمات Google Play</string>
+    <string name="storage_managment_total_size_label">کل فضای ذخیره‌سازی</string>
+    <string name="supervisor_downloading_description">درحال بارگیری %1$s</string>
+    <string name="supervisor_downloading_title">چند لحظه صبر کنید تا دستگاهتان را راه‌اندازی کنیم</string>
+    <string name="supervisor_installing_description">درحال نصب %1$s</string>
+    <string name="supervisor_title">‏خدمات Google Play برای برنامه‌های فوری</string>
+    <string name="suw_back_button_label">برگشت</string>
+    <string name="suw_more_button_label">بیشتر</string>
+    <string name="suw_next_button_label">بعدی</string>
+    <string name="system_update_ab_update_downloaded_notification_message">برای کسب اطلاعات بیشتر، ضربه بزنید</string>
+    <string name="system_update_activity_battery_low_text">شارژ باتری برای نصب به‌روزرسانی خیلی کم است</string>
+    <string name="system_update_activity_name">به‌روزرسانی‌های سیستم</string>
+    <string name="system_update_activity_roaming_text">هنگام رومینگ به‌روزرسانی‌های سیستم قابل بارگیری نیستند.</string>
+    <string name="system_update_activity_roaming_text_glif">هنگام رومینگ بارگیری نمی‌شود</string>
+    <string name="system_update_android_version_text">‏نسخه Android:‏ ^1</string>
+    <string name="system_update_check_now_button_text">بررسی برای به‌روزرسانی</string>
+    <string name="system_update_checking_status_text">در حال بررسی</string>
+    <string name="system_update_complete_label">به‌روزرسانی سیستم</string>
+    <string name="system_update_countdown_cancel_button">لغو نصب</string>
+    <string name="system_update_countdown_complete">راه‌اندازی مجدد اکنون...</string>
+    <string name="system_update_download_and_install_button_text">بارگیری و نصب</string>
+    <string name="system_update_download_button_text">بارگیری</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">فضای کافی برای بارگیری موجود نیست</string>
+    <string name="system_update_download_failed_no_space_status_text">فضای کافی برای بارگیری در دسترس نیست</string>
+    <string name="system_update_download_failed_status_text">بارگیری نشد</string>
+    <string name="system_update_download_manage_storage_button_text">مدیریت فضای ذخیره‌سازی</string>
+    <string name="system_update_download_paused_no_wifi_status_text">‏درانتظار Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">بارگیری موقتاً متوقف شد</string>
+    <string name="system_update_download_retry_button_text">امتحان مجدد برای بارگیری</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">بارگیری نسخه به‌روز به صورت خودکار بین ^1 و ^2 شروع می‌شود.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">‏این نسخه به‌روز را می‌توانید هر زمان مایل بودید از طریق Wi-Fi بارگیری کنید. در غیراین‌صورت بارگیری به صورت خودکار بین ^1 و ^2 شروع می‌شود.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">برای بارگیری این نسخه به‌روز، ابتدا به سیم کارت دیگرتان جابه‌جا شوید.</string>
+    <string name="system_update_download_waiting_status_text">در حال انتظار برای بارگیری</string>
+    <string name="system_update_downloading_status_text">در حال بارگیری</string>
+    <string name="system_update_downloading_title_text">درحال بارگیری به‌روزرسانی سیستم…‏</string>
+    <string name="system_update_downloading_wifi_status2_text">‏از طریق ‎ ^1‎‎ فقط تا قبل از ‎^2‎</string>
+    <string name="system_update_file_browser_ok_button">انتخاب</string>
+    <string name="system_update_file_browser_title">انتخاب فایل به‌روزرسانی</string>
+    <string name="system_update_free_up_space_button_text">آزاد کردن فضا</string>
+    <string name="system_update_from_sd_card_button_and_title">‏به‌روزرسانی از کارت SD</string>
+    <string name="system_update_from_sd_card_unknown_status">در حال بررسی...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">تأیید نشد</string>
+    <string name="system_update_from_sd_card_verified_description">به‌روزرسانی تأیید شده است و آماده نصب می‌باشد.</string>
+    <string name="system_update_from_sd_card_verifying_status">در حال تأیید...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">‏به شبکه Wi‑Fi نامحددود نیاز است</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">‏Wi-Fi توصیه می‌شود</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"‏این به‌روزرسانی فقط تا ‎^1 می‌تواند از طریق ‎^2 بارگیری شود.
+
+برای ادامه بارگیری، به ‎^3 متصل شوید."</string>
+    <string name="system_update_glif_wifi_needed_title">‏شبکه WiFi لازم است</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">‏برای جلوگیری از هزینه‌های داده احتمالی، به شبکه Wi-Fi نامحدود وصل شوید.</string>
+    <string name="system_update_install_button_text">راه‌اندازی مجدد و نصب</string>
+    <string name="system_update_install_failed_button_qualifier_text">مشکل نصب</string>
+    <string name="system_update_install_failed_title_text">به‌روزرسانی نشد</string>
+    <string name="system_update_install_steps_text">مرحله ^1 از ۲</string>
+    <string name="system_update_installing_title_text">درحال نصب به‌روزرسانی سیستم…‏</string>
+    <string name="system_update_last_checkin">آخرین بار ^1 برای به‌روزرسانی چک شد.</string>
+    <string name="system_update_last_checkin_glif">تاریخ آخرین بررسی برای به‌روزرسانی ^1</string>
+    <string name="system_update_managed_by_policy">به‌روزرسانی نرم‌افزار سیستم این دستگاه توسط سازمان شما کنترل می‌شود.</string>
+    <string name="system_update_no_update_content_text">سیستم شما به روز است.</string>
+    <string name="system_update_no_update_content_text_glif">سیستم شما به روز است</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">به‌روزرسانی سیستم بارگیری نشد</string>
+    <string name="system_update_not_owner_text">به‌روزرسانی نرم‌افزار سیستم در دسترس است، اما فقط مالک می‌تواند آن را نصب کند.</string>
+    <string name="system_update_notification_header_name">‏به‌روزرسانی سیستم Android</string>
+    <string name="system_update_pause_button_text">توقف موقت بارگیری</string>
+    <string name="system_update_processing_status_text">درحال پردازش</string>
+    <string name="system_update_requires_restart_status_text">به یک راه‌اندازی مجدد نیاز دارد</string>
+    <string name="system_update_restart_to_install_button_text">برای نصب هم‌اکنون راه‌اندازی مجدد کنید</string>
+    <string name="system_update_restart_to_update_button_text">برای به‌روزسانی، هم‌اکنون راه‌اندازی مجدد کنید</string>
+    <string name="system_update_resume_button_text">از سر‌گیری</string>
+    <string name="system_update_scheduled_status_text">برنامه‌ریزی شده</string>
+    <string name="system_update_security_patch_level_text">سطح وصله امنیتی: ^1</string>
+    <string name="system_update_security_update_available_title_text">به‌روزرسانی امنیتی در دسترس است</string>
+    <string name="system_update_security_update_downloading_title_text">درحال بارگیری به‌روزرسانی امنیتی…‏</string>
+    <string name="system_update_security_update_installing_title_text">درحال نصب به‌روزرسانی امنیتی…‏</string>
+    <string name="system_update_size_label">اندازه به‌روزرسانی:</string>
+    <string name="system_update_suw_download_and_install_text">"ممکن است بارگیری و نصب این به‌روزرسانی چند دقیقه طول بکشد.
+
+بعد از آن، دستگاه به‌طور خودکار راه‌اندازی مجدد خواهد شد."</string>
+    <string name="system_update_suw_download_text">"ممکن است بارگیری این به‌روزرسانی چند دقیقه طول بکشد.
+
+بعد از آن، دستگاه به‌طور خودکار راه‌اندازی مجدد خواهد شد."</string>
+    <string name="system_update_suw_download_title">درحال بارگیری به‌روزرسانی…</string>
+    <string name="system_update_suw_restart_text">برای اینکه به‌روزرسانی سیستم شما بتواند نصب شود، دستگاه راه‌اندازی مجدد خواهد شد.</string>
+    <string name="system_update_suw_restart_title">در شرف راه‌اندازی مجدد</string>
+    <string name="system_update_suw_wifi_needed">‏برای ادامه بارگیری، ‎^1‎ را انتخاب کنید.</string>
+    <string name="system_update_update_available_download_message_wearable">برای بارگیری، به سمت چپ بکشید.</string>
+    <string name="system_update_update_available_notification_message">برای کسب اطلاعات بیشتر و بارگیری ضربه بزنید</string>
+    <string name="system_update_update_available_notification_title">به‌روزرسانی سیستم موجود است</string>
+    <string name="system_update_update_available_tap_to_download">برای بارگیری، ضربه بزنید</string>
+    <string name="system_update_update_available_title_text">به‌روزرسانی سیستم در دسترس است</string>
+    <string name="system_update_update_download_auto_paused_notification_title">بارگیری موقتاً متوقف شد</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">فضای کافی در دسترس نیست</string>
+    <string name="system_update_update_downloaded_charge_wearable">لطفاً باتری‌تان را دست‌کم تا %d%% شارژ کنید</string>
+    <string name="system_update_update_downloaded_install_message_wearable">برای نصب، به سمت چپ بکشید.</string>
+    <string name="system_update_update_downloaded_notification_message">برای کسب اطلاعات بیشتر و نصب ضربه بزنید</string>
+    <string name="system_update_update_downloaded_notification_title">به‌روزرسانی سیستم بارگیری شد</string>
+    <string name="system_update_update_downloaded_tap_to_install">برای نصب ضربه بزنید</string>
+    <string name="system_update_verification_failed_text">تأیید نشد</string>
+    <string name="system_update_verified_status_text">بارگیری و تأیید شد</string>
+    <string name="system_update_verify_failed_button_qualifier_text">مشکل تأیید شماره</string>
+    <string name="system_update_verifying_status_text">در حال تأیید</string>
+    <string name="system_update_wearable_countdown_message">%d دیگر راه‌اندازی مجدد می‌شود...</string>
+    <string name="target_default_source_device_model">دستگاه قدیمی</string>
+    <string name="target_device_not_supported_cant_continue_description">باید روش دیگری را برای کپی کردن داده‌ها انتخاب کنید</string>
+    <string name="target_device_not_supported_cant_continue_title">تلفنِ دیگر پشتیبانی نمی‌شود</string>
+    <string name="target_device_not_supported_try_restarting_description">"‏کابل را جدا کنید و تلفن قدیمی‌تان را راه‌اندازی مجدد کنید، سپس دوباره کابل را وصل کنید و دستورالعمل‌های روی Pixel را دنبال کنید.
+
+اگر مرتب این خطا را می‌بینید، شاید لازم باشد روش کپی کردن دیگری را امتحان کنید."</string>
+    <string name="target_device_not_supported_try_restarting_title">ممکن است تلفن پشتیبانی نشود</string>
+    <string name="target_smart_device_timeout_add_account">افزودن حساب</string>
+    <string name="target_smart_device_timeout_description">درصورت تمایل می‌توانید به‌صورت دستی حساب را اضافه کنید</string>
+    <string name="target_smart_device_timeout_dismiss">نپذیرفتن</string>
+    <string name="target_smart_device_timeout_title">با مشکل مواجه هستید؟</string>
+    <string name="terabyteShort">ترابایت</string>
+    <string name="toast_phones_connected">تلفن‌ها مرتبط شدند</string>
+    <string name="toast_reconnect_cable">کابل را دوباره متصل کنید</string>
+    <string name="transfer_finished_fragment_title">درحال افزودن نکات تکمیلی…‏</string>
+    <string name="transfer_summary_copied">داده‌ها کپی شد</string>
+    <string name="transfer_summary_fragment_description">می‌توانید کابل را جدا کنید.</string>
+    <string name="transfer_summary_fragment_finish">پایان</string>
+    <string name="transfer_summary_fragment_title">تلفتنان تقریباً آماده است</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">بعضی از عکس‌هایتان کپی نشدند. <annotation id="transfer_summary_learn_more">بیشتر بدانید</annotation></string>
+    <string name="transfer_summary_not_copied">داده‌ها کپی نشد</string>
+    <string name="transfer_summary_partial">%1$s / %2$s کپی شد</string>
+    <string name="transfer_summary_will_sync">داده‌ها پس از راه‌اندازی همگام‌سازی می‌شوند</string>
+    <string name="transferring_fragment_calculating_remaining_time">درحال محاسبه زمان باقی‌مانده…</string>
+    <string name="transferring_fragment_header">درحال کپی کردن…</string>
+    <string name="transferring_fragment_remaining_time">%1$s باقی است</string>
+    <string name="trust_instructions_description">‏برای ادامه دادن، دستگاه iPhone®‎ خود را بررسی و اتصال را تأیید کنید</string>
+    <string name="trust_instructions_trademark_disclaimer">‏iPhone،‏ iPad،‏ iOS،‏ iMessage،‏ iCloud،‏ Safari و iTunes علامت‌های تجاری ثبت‌شده Apple Inc.‎ در ایالات متحده و سایر کشورها هستند.</string>
+    <string name="unmetered_wifi_string">‏شبکه Wi‑Fi نامحدود</string>
+    <string name="url_load_unsuccessful_message">‏دستگاه Android شما به سرویس داده همراه وصل نیست. در حال حاضر برای مشاهده این اطلاعات، به %s در مرورگر وب بروید.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">‏دستگاه Android شما به شبکه Wi-Fi متصل نیست. برای اینکه هم اکنون این اطلاعات را مشاهده کنید، با مرورگری در وب به %s مراجعه کنید.</string>
+    <string name="use_nearby_device_heading">از دستگاهی در این اطراف استفاده می‌کنید؟</string>
+    <string name="use_nearby_device_text">می‌خواهید از دستگاهی در اطراف برای اعطای اعتبارنامه استفاده کنید؟</string>
+    <string name="waiting_for_account_info_text">در انتظار اطلاعات حساب…</string>
+    <string name="wifi_available_action_all_networks">همه شبکه‌ها</string>
+    <string name="wifi_available_action_connect">اتصال</string>
+    <string name="wifi_available_content_failed">برای دیدن همه شبکه‌ها ضربه بزنید</string>
+    <string name="wifi_available_title">‏اتصال به شبکه Wi‑Fi باز</string>
+    <string name="wifi_available_title_connected">‏به شبکه Wi‑Fi متصل شد</string>
+    <string name="wifi_available_title_connecting">‏درحال اتصال به شبکه Wi‑Fi باز</string>
+    <string name="wifi_available_title_failed">‏به شبکه Wi‑Fi متصل نشد</string>
+    <string name="wifi_string">‏شبکه WiFi</string>
+    <string name="wifi_wakeup_enabled_notification_context">‏نزدیک یک شبکه ذخیره‌شده هستید: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">‏Wi‑Fi به‌صورت خودکار روشن شد</string>
+</resources>

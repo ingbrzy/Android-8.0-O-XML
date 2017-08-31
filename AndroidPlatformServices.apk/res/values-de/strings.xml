@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Zur Startseite</string>
+    <string name="abc_action_bar_home_description_format">%1$s: %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s: %3$s</string>
+    <string name="abc_action_bar_up_description">Nach oben</string>
+    <string name="abc_action_menu_overflow_description">Weitere Optionen</string>
+    <string name="abc_action_mode_done">Fertig</string>
+    <string name="abc_activity_chooser_view_see_all">Alle ansehen</string>
+    <string name="abc_activitychooserview_choose_application">App auswählen</string>
+    <string name="abc_capital_off">Aus</string>
+    <string name="abc_capital_on">An</string>
+    <string name="abc_search_hint">Suchen…</string>
+    <string name="abc_searchview_description_clear">Suchanfrage löschen</string>
+    <string name="abc_searchview_description_query">Suchanfrage</string>
+    <string name="abc_searchview_description_search">Suchen</string>
+    <string name="abc_searchview_description_submit">Suchanfrage senden</string>
+    <string name="abc_searchview_description_voice">Sprachsuche</string>
+    <string name="abc_shareactionprovider_share_with">Freigeben für</string>
+    <string name="abc_shareactionprovider_share_with_application">Freigeben für %s</string>
+    <string name="abc_toolbar_collapse_description">Minimieren</string>
+    <string name="account_blocked_title">Konto gesperrt</string>
+    <string name="account_level_title">Kontoaktion erforderlich</string>
+    <string name="account_removed_notification_text">%1$s wurde entfernt, weil die Geräteverwaltung nicht abgeschlossen wurde</string>
+    <string name="account_removed_notification_title">Konto entfernt</string>
+    <string name="android_privacy_policy_title">Zusätzliche Datenschutzerklärung</string>
+    <string name="app_has_in_app_purchases">In-App-Käufe</string>
+    <string name="app_has_permissions">Berechtigungen: %s</string>
+    <string name="app_has_runtime_permissions">In dieser App wirst du aufgefordert, Berechtigungen zu akzeptieren</string>
+    <string name="app_level_title">Anmeldeanfrage</string>
+    <string name="app_level_title_secondary">Anmeldeanfrage von %s</string>
+    <string name="app_picker_app_already_installed_toast">Diese App wurde bereits installiert</string>
+    <string name="app_picker_loading">Verfügbare Apps werden gesucht…</string>
+    <string name="app_picker_loading_toast">Verfügbare Apps werden gleich geladen</string>
+    <string name="app_picker_no_apps">Keine Apps ausgewählt</string>
+    <string name="app_picker_no_apps_found">Keine Apps gefunden</string>
+    <string name="apps_in_app_purchases_disclaimer_all">In-App-Käufe werden nicht auf dein ^1 übertragen.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Einige In-App-Käufe können möglicherweise nicht auf dein ^1 übertragen werden.</string>
+    <string name="apps_permissions_described_v2">"Nur beliebte, kostenlose iOS® Apps können auf Übereinstimmung mit Android-Apps geprüft werden. Die meisten In-App-Käufe lassen sich nicht übertragen. Du kannst nach Abschluss der Einrichtung nach weiteren Apps im Play Store suchen.
+
+Du musst einigen Apps unter Umständen im Voraus Zugriff auf bestimmte Funktionen oder Daten auf deinem Gerät gewähren. Berechtigungen sind in Berechtigungsgruppen sortiert. Durch das Installieren dieser Apps akzeptierst du die Berechtigungen in jeder Gruppe. Eine Beschreibung der einzelnen Berechtigungsgruppen findest du unten.
+
+Bei einigen Apps müssen unter Umständen keine Berechtigungen im Voraus akzeptiert werden. Wenn du eine dieser Apps einsetzt, kannst du die jeweilige Berechtigung gewähren oder verweigern, bevor die App auf die entsprechenden Daten zugreift.
+
+"</string>
+    <string name="apps_permissions_disclaimer_v2">Durch das Installieren der jeweiligen App akzeptierst du deren Berechtigungen. <annotation id="apps_permissions_learn_more">Weitere Informationen</annotation></string>
+    <string name="audience_selection_done">Fertig</string>
+    <string name="auth_account_already_has_gmail">Das Konto verfügt bereits über eine Gmail-Adresse.</string>
+    <string name="auth_account_content_provider_label">Google-Kontodaten</string>
+    <string name="auth_account_removed_default_description">Geräteverwaltung wurde nicht abgeschlossen. Bitte versuche es erneut und melde dich wieder an.</string>
+    <string name="auth_account_removed_default_title">Einrichtung abgebrochen</string>
+    <string name="auth_account_removed_dm_bad_result_description">Geräteverwaltung konnte nicht abgeschlossen werden. Bitte versuche es erneut und melde dich wieder an.</string>
+    <string name="auth_account_removed_dm_not_supported_description">In deiner Domain ist die Mobilgeräteverwaltung erforderlich. Diese wird jedoch auf diesem Gerät nicht unterstützt. Verwende ein anderes Konto.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Geräteverwaltung nicht unterstützt</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Geräteverwaltung wurde nicht ordnungsgemäß installiert. Bitte versuche es erneut und melde dich wieder an.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Probleme bei der Installation</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Geräteverwaltung wurde nicht abgeschlossen. Bitte versuche es erneut und melde dich wieder an.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Einrichtung abgebrochen</string>
+    <string name="auth_account_settings_title">Kontoeinstellungen</string>
+    <string name="auth_account_setup_title">Google-Konto</string>
+    <string name="auth_account_state_sync_title">Status der Kontosynchronisierung</string>
+    <string name="auth_allow_button_label">Zulassen</string>
+    <string name="auth_allow_external_site_access">Permanenten Zugriff auf Ihre Daten auf %s</string>
+    <string name="auth_app_permission_ok_footnote">Durch die Fortsetzung des Vorgangs stimmen Sie zu, dass diese App und Google Ihre Daten entsprechend den jeweiligen Nutzungsbedingungen und Datenschutzbestimmungen nutzen dürfen.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Anmeldung zulassen</string>
+    <string name="auth_authzen_allow_reset_button_text">Passwortrücksetzung zulassen</string>
+    <string name="auth_authzen_google_logo_label">Google-Logo</string>
+    <string name="auth_authzen_login_challenge_approved_text">Anmeldung genehmigt</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Anmeldung abgebrochen</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Anmeldung zulassen</string>
+    <string name="auth_authzen_login_challenge_desc_text">Meldest du dich von %s aus an?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google hat den Anmeldeversuch blockiert.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Falsche Nummer</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Tippe auf die Nummer auf dem anderen Bildschirm. Du wirst dann auf deinem Computer angemeldet.</string>
+    <string name="auth_authzen_login_challenge_title_text">Versuchst du, dich anzumelden?</string>
+    <string name="auth_authzen_profile_picture_label">Profilbild</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Wähle das Konto aus, mit dem du dich anmelden möchtest:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Versuchst du, dich anzumelden?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Keine Anmeldebenachrichtigungen gefunden</string>
+    <string name="auth_authzen_pull_offline_error">Interner Fehler</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Klicke auf deinem Computer auf \"Haben Sie einen Code?\" und gib dann Folgendes ein:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Hast du gerade versucht, dich in Google anzumelden?</string>
+    <string name="auth_authzen_recovery_approved_text">Zurücksetzen des Passworts genehmigt</string>
+    <string name="auth_authzen_recovery_canceled_text">Zurücksetzen des Passworts abgebrochen</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Zurücksetzen des Passworts von %s aus zulassen?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Wir benötigen deine Zustimmung</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google hat den Versuch, das Passwort zurückzusetzen, blockiert.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Falsche Nummer</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Tippe auf die Nummer auf dem anderen Bildschirm. Dadurch wird dein Passwort zurückgesetzt.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Zurücksetzen des Passworts zulassen</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Jemand hat versucht, das Passwort deines Google-Kontos zurückzusetzen. Google hat diesen Versuch blockiert.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Zurücksetzen des Passworts wurde verhindert</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Hast du versucht, dein Passwort von %s aus zurückzusetzen?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Hast du versucht, dein Passwort zurückzusetzen?</string>
+    <string name="auth_authzen_secure_account_button_text">Konto schützen</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Anmeldebenachrichtigungen werden gesucht…</string>
+    <string name="auth_back_button_label">Zurück</string>
+    <string name="auth_cant_add_work_account_message">Dieser Kontotyp wird von Ihrer Organisation verwaltet.</string>
+    <string name="auth_captcha_instructions">Gib den angezeigten Text ein:</string>
+    <string name="auth_captcha_title">CAPTCHA muss eingegeben werden</string>
+    <string name="auth_common_next_button">Weiter</string>
+    <string name="auth_common_skip">Überspringen</string>
+    <string name="auth_common_switch_accounts">Konto wechseln</string>
+    <string name="auth_communicating_message">Dein Gerät stellt zur Informationsspeicherung in deinem Konto eine Verbindung zu Google her. Dies kann bis zu 5 Minuten dauern.</string>
+    <string name="auth_confirm_creds_sync_title">Status der Anmeldedaten</string>
+    <string name="auth_d2d_source_alert_title">Per NFC übertragen</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Sperren &amp; bestätigen</string>
+    <string name="auth_d2d_source_copy_notice">Konten und Daten auf dein anderes Gerät kopieren?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Nach der Bestätigung wird Bluetooth aktiviert, sodass deine Geräte kommunizieren können.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Nach der Bestätigung wird eine Bluetooth-Verbindung zwischen deinen Geräten hergestellt.</string>
+    <string name="auth_d2d_source_lock_notice">Um fortzufahren, wird dein Bildschirm gesperrt und du musst ihn für die Bestätigung entsperren.</string>
+    <string name="auth_d2d_source_no_accounts_toast">\"Per NFC übertragen\" ist nicht möglich, weil es auf diesem Gerät keine Konten gibt.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">\"Per NFC übertragen\" ist nicht möglich, weil Bluetooth auf diesem Gerät nicht verfügbar ist.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth wird aktiviert, sodass deine Geräte kommunizieren können.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Dieses Gerät verwendet Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">\"Per NFC übertragen\" fertig</string>
+    <string name="auth_d2d_source_restricted_user_toast">\"Tippen und Wiederherstellen\" in eingeschränkten Nutzerprofilen nicht möglich</string>
+    <string name="auth_d2d_source_title">Konten wiederherstellen</string>
+    <string name="auth_d2d_source_unknown_device_name">Unbekanntes Gerät</string>
+    <string name="auth_d2d_target_sorry_alert">Ein Fehler ist aufgetreten.</string>
+    <string name="auth_d2d_target_tap_progress_message">Tippe zum Fortfahren auf deinem anderen Gerät auf \"OK\"</string>
+    <string name="auth_d2d_target_title">Per NFC übertragen</string>
+    <string name="auth_d2d_target_unlock_progress_message">Anderes Gerät überprüfen</string>
+    <string name="auth_d2d_target_wait_progress_message">Konten und Daten werden abgerufen...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Nicht zulassen</string>
+    <string name="auth_device_management_download_app_icon">App-Symbol von %s</string>
+    <string name="auth_device_management_download_description">Für dieses Konto ist die Mobilgeräteverwaltung erforderlich. Installiere die App \"^1\", um die für das Konto erforderlichen Sicherheitsrichtlinien durchzusetzen.</string>
+    <string name="auth_device_management_download_description_kids">Um diesem Gerät das Konto hinzuzufügen, musst du zuerst <b>^1</b>" installieren. Mit 
+
+^1 kannst du dieses Gerät für dein Kind einrichten."</string>
+    <string name="auth_device_management_download_failed_message">Du kannst die Einrichtung auch ohne diese App fortsetzen</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Fehler beim Installieren der Geräteverwaltung. Dieses Konto wird entfernt. Versuche es später erneut.</string>
+    <string name="auth_device_management_download_failed_title">App kann nicht heruntergeladen werden</string>
+    <string name="auth_device_management_download_not_updated_message">Du kannst die Einrichtung auch mit der vorhandenen Version fortsetzen</string>
+    <string name="auth_device_management_download_paused">Pausiert</string>
+    <string name="auth_device_management_download_progress">Wird heruntergeladen…</string>
+    <string name="auth_device_management_download_skip_message">Für dieses Konto ist die Geräteverwaltung erforderlich. Möchtest du ohne diese Funktion fortfahren?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Für das Hinzufügen dieses Kontos muss die Geräteverwaltung eingerichtet werden. Möchtest du es mit einem anderen Konto erneut versuchen?</string>
+    <string name="auth_device_management_go_back">Zurück</string>
+    <string name="auth_device_management_screenlock_description">Wenn du auf diesem Gerät auf dein Google for Work-Konto zugreifen möchtest, musst du einen Sperrbildschirm einrichten. Das ist eine Vorschrift der Richtlinien für Mobilgeräte deines Unternehmens.</string>
+    <string name="auth_device_management_screenlock_skip_message">Für dieses Konto muss die Displaysperre eingerichtet werden. Möchtest du es mit einem anderen Konto noch einmal versuchen?</string>
+    <string name="auth_device_management_start_description">Für dieses Konto ist die Mobilgeräteverwaltung erforderlich. Wenn du auf \"Weiter\" tippst, werden mithilfe der App \"^1\" die für das Konto erforderlichen Sicherheitsrichtlinien durchgesetzt.</string>
+    <string name="auth_device_management_start_description_kids">Um diesem Gerät das Konto hinzuzufügen, verwende <b>^1</b>". Mit 
+
+^1 kannst du dieses Gerät für dein Kind einrichten."</string>
+    <string name="auth_device_management_title">Geräteverwaltung</string>
+    <string name="auth_device_management_update_description">Für dieses Konto ist die Mobilgeräteverwaltung erforderlich. Um die Sicherheitsrichtlinien in Verbindung mit diesem Konto zu erfüllen, musst du eine neuere Version der App \"^1\" installieren.</string>
+    <string name="auth_device_management_update_description_kids">Um diesem Gerät das Konto hinzuzufügen, musst du zuerst die neueste Version von <b>^1</b>" installieren. Mit 
+
+^1 kannst du dieses Gerät für dein Kind einrichten."</string>
+    <string name="auth_dismiss_button_label">Schließen</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> verwendet Gmail nicht.</string>
+    <string name="auth_error_account_disabled">"Dieses Konto wurde deaktiviert. 
+
+Rufe für weitere Informationen http://google.com/accounts in einem Webbrowser auf."</string>
+    <string name="auth_error_account_not_verified">"Dieses Konto wurde nicht bestätigt. Bitte überprüfe deine E-Mails und rufe den Link zur Kontobestätigung auf.
+
+Gehe auf deinem Computer zu http://www.google.com/accounts/recovery, wenn du deine Kontoinformationen abrufen möchtest."</string>
+    <string name="auth_error_bad_password">Das Passwort ist zu schwach oder enthält ungültige Zeichen. Bitte versuche es erneut.</string>
+    <string name="auth_error_bad_username">Ungültiger Nutzername</string>
+    <string name="auth_error_generic_server_error">"Bei der Kommunikation mit den Google-Servern ist ein Problem aufgetreten. 
+
+Versuche es später erneut."</string>
+    <string name="auth_error_invalid_second_factor">Verwende anstelle deines regulären Kontopassworts ein App-spezifisches Passwort.</string>
+    <string name="auth_error_login_failed">"Dein Nutzername und dein Passwort stimmen nicht überein. Bitte versuche es noch einmal.
+
+Wenn du deine Kontoinformationen wiederherstellen möchtest, gehe zu google.com/accounts/recovery."</string>
+    <string name="auth_error_needs_browser">Um auf dein Konto zugreifen zu können, melde dich online an. Tippe auf \"Weiter\", um die Browseranmeldung zu starten.</string>
+    <string name="auth_error_no_network">"Du hast keine Verbindung mit dem Netzwerk. 
+
+Dabei könnte es sich um ein vorübergehendes Problem handeln. Versuche es erneut oder stelle eine Verbindung mit einem anderen WLAN-Netzwerk her."</string>
+    <string name="auth_error_not_logged_in">Nutzer ist nicht angemeldet.</string>
+    <string name="auth_error_username_unavailable">Nutzername ist nicht verfügbar.</string>
+    <string name="auth_existing_account_error_text">Auf diesem Android-Gerät ist bereits ein Konto \"^1\" vorhanden.</string>
+    <string name="auth_existing_account_error_title">Konto ist bereits vorhanden.</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Anmeldung beim Gerät wegen einer kürzlich erfolgten Änderung des Passworts nicht möglich. Versuche 24 Stunden nach dem Ändern des Passworts noch einmal, dich einzuloggen.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Geräteschutzfunktionen funktionieren dann nicht mehr.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Wenn du das letzte Google-Konto auf dem Gerät aus deinem persönlichen Profil in ein anderes Profil verschiebst, werden die Funktionen zum Schutz vor Diebstahl auf dem Gerät deaktiviert. Du kannst zu einem späteren Zeitpunkt wieder ein Konto hinzufügen, um diese Funktionen erneut zu aktivieren.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Bist du sicher?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Konto in Arbeitsprofil verschieben?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Anmeldung beim Gerät wegen eines unbekannten Fehlers nicht möglich. Versuche es mit einem anderen Konto oder versuche in 24 Stunden noch einmal, dich einzuloggen.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Bitte melde dich mit einem der Konten des Eigentümers für dieses Gerät an.</string>
+    <string name="auth_field_cant_be_blank">Das Feld darf nicht leer sein.</string>
+    <string name="auth_frp_add_account_no">Nein</string>
+    <string name="auth_frp_add_account_prompt">Jetzt ^1 zu deinem Gerät hinzufügen? Wenn du ein anderes Konto hast, kannst du es später hinzufügen.</string>
+    <string name="auth_frp_add_account_yes">Ja</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Auf dieses Konto konnte nicht zugegriffen werden. Sorge dafür, dass dein Gerät den Sicherheitsrichtlinien deiner Organisation entspricht. Wenn dieser Fehler weiterhin auftritt, wende dich an den Administrator deiner Organisation.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Kontofehler</string>
+    <string name="auth_gls_dmagent_activity_download_message">" In deiner Domain ist die Mobilgeräteverwaltung erforderlich. Installiere die App \"Google Apps Device Policy\", um die für das Konto  "<b>^1</b> erforderlichen Sicherheitsrichtlinien durchzusetzen.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Herunterladen</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" darf nur Buchstaben,
+Zahlen und Punkte enthalten."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> enthält keine Buchstaben.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> enthält weniger als 6 oder mehr als 30 Zeichen.</string>
+    <string name="auth_gls_is_not_available">Der Nutzername <b>^1</b> ist nicht verfügbar.</string>
+    <string name="auth_gls_name_checking_info_title">Daten werden überprüft…</string>
+    <string name="auth_gls_sync_item_title">%s synchronisieren</string>
+    <string name="auth_gls_third_party_activity_download_message">" Das Konto  "<b>^1</b> muss einem von deiner Organisation verwalteten Gerät oder Arbeitsprofil hinzugefügt werden. Folge der Anleitung deines IT-Administrators, um diesen Vorgang abzuschließen.</string>
+    <string name="auth_google_title_logo">Google-Logo</string>
+    <string name="auth_invalid_login_character">Ungültiges Zeichen. Nur 0-9, a-z, A-Z und Punkte sind zulässig.</string>
+    <string name="auth_invalid_password_character">Ungültiges Passwortzeichen</string>
+    <string name="auth_invalid_username">Der eingegebene Text ist kein gültiger Nutzername.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Wenn du fortfährst, stimmst du zu, dass dieses Gerät auch automatisch Updates und Apps von Google, deinem Mobilfunkanbieter und dem Hersteller dieses Geräts herunterladen und installieren darf, möglicherweise auch über eine mobile Datenverbindung. Bei einigen dieser Apps werden vielleicht In-App-Käufe angeboten. Diese Apps kannst du jederzeit entfernen.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Du kannst Speicherplatz freigeben, wenn der Gerätespeicher fast voll ist</b>, indem du Daten von diesem Gerät entfernst, beispielsweise bereits gesicherte Fotos und Videos.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Sichere Gerätedaten</b> wie WLAN-Passwörter und Anruflisten und App-Daten wie Einstellungen und von Apps gespeicherte Dateien automatisch im Google Drive-Konto deines Kindes.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Wenn du die automatische Sicherung aktivierst, werden Daten auf dem Gerät und App-Daten regelmäßig in einem privaten Ordner im Google Drive-Konto deines Kindes gesichert. App-Daten können beliebige Daten sein, die von einer App auf Grundlage der Entwicklereinstellungen gespeichert werden, einschließlich möglicherweise sensibler Daten wie Kontakten, Nachrichten und Fotos.
+
+Sicherungsdaten werden nicht vom Speicherkontingent des Drive-Kontos deines Kindes abgezogen. Große Dateien oder solche, die von den Entwicklern vom Dienst ausgenommen wurden, werden nicht gesichert."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Sichere Gerätedaten</b> wie WLAN-Passwörter, SMS-Verlauf und Anruflisten sowie Einstellungen und App-Daten wie App-Einstellungen und von Apps gespeicherte Dateien automatisch im Google Drive-Konto deines Kindes.</string>
+    <string name="auth_kids_setup_wizard_services_description">Als Elternteil kannst du diese Dienste für das Konto deines Kindes jederzeit aktivieren oder deaktivieren. Die Daten werden gemäß den <annotation link="google_privacy">Richtlinien von Google</annotation>" genutzt.
+
+Wenn du mehr erfahren möchtest, kannst du die einzelnen Dienste antippen."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Verwende den Standortdienst von Google</b>, um mithilfe von Apps herauszufinden, wo sich dein Kind aufhält. Wenn dieses Gerät eingeschaltet ist, werden anonyme Standortdaten an Google gesendet.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Der Standortdienst von Google greift auf Quellen wie WLAN-Netzwerke und Mobilfunknetze zurück, um den Standort dieses Geräts schneller und genauer zu bestimmen. Dieser Dienst ist aktiv, wenn die Einstellung \"Standort\" auf dem Gerät aktiviert ist und sich in einem Modus befindet, der WLAN-Netzwerke oder Mobilfunknetze zur Standortermittlung nutzt, zum Beispiel der Modus \"Hohe Genauigkeit\" oder der \"Energiesparmodus\".
+
+So deaktivierst du diesen Dienst:
+
+"<li>Deaktiviere die Haupteinstellung \"Standort\" auf diesem Gerät.</li>"
+
+"<li>Lasse die Haupteinstellung \"Standort\" aktiviert und wähle einen Modus aus, der nur auf GPS zurückgreift, manchmal \"Nur Gerät\" genannt.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Unterstütze uns beim Verbessern der Android-Erfahrung</b>, indem du Google automatisch Diagnosedaten und Nutzungsdaten zum Gerät und zu Apps sendest. Dein Kind wird mithilfe dieser Daten nicht identifiziert, sie helfen uns jedoch dabei, Aspekte wie die Akkulaufzeit, App-Stabilität und Netzwerkkonnektivität zu verbessern.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Dies sind allgemeine Informationen zu diesem Gerät und dessen Nutzung, zum Beispiel der Ladestatus des Akkus, die App-Nutzung und die Netzwerkkonnektivität. Die Daten werden dazu verwendet, die Produkte und Dienste von Google für alle Nutzer zu verbessern. Einige Informationen in zusammengefasster Form helfen auch Partnern wie Android-Entwicklern dabei, ihre Apps und Produkte zu verbessern.
+
+Wenn du diese Funktion deaktivierst, kann dieses Gerät weiterhin Informationen senden, die für grundlegende Dienste wie Systemupdates und Sicherheit erforderlich sind."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Hierbei handelt es sich um allgemeine Informationen zu diesem Gerät und zur Nutzung, zum Beispiel Ladestatus des Akkus, App-Nutzung und Netzwerkkonnektivität. Die Daten werden dazu verwendet, die Produkte und Dienste von Google für alle Nutzer zu verbessern. Einige Informationen in zusammengefasster Form helfen auch Partnern wie zum Beispiel Android-Entwicklern dabei, ihre Apps und Produkte zu verbessern.
+
+Wenn du diese Funktion deaktivierst, kann dieses Gerät weiterhin Informationen senden, die für grundlegende Dienste wie Systemupdates und Sicherheit erforderlich sind.
+
+Du kannst diese Funktion in den Google Einstellungen konfigurieren, indem du im Menü \"Nutzung &amp; Diagnose\" auswählst."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Du hast ein falsches Passwort eingegeben oder dein Konto wurde geändert. Gib dein Passwort erneut ein. Falls du dein Passwort vergessen hast und es wiederherstellen möchtest, <annotation id="help_url">klicke hier</annotation>.</string>
+    <string name="auth_login_activity_task_title">Anmeldung…</string>
+    <string name="auth_login_activity_title">Anmelden</string>
+    <string name="auth_login_task_title">Anmeldung läuft</string>
+    <string name="auth_login_title">E-Mail-Adresse und Passwort eingeben</string>
+    <string name="auth_minutemaid_ssl_error">"Beim Herstellen der Verbindung mit  %s ist ein Problem aufgetreten."</string>
+    <string name="auth_network_unreliable_help">Dies könnte ein vorübergehendes Problem sein oder dein Android-Gerät unterstützt keine Datendienste. Sollte das Problem weiterhin bestehen, wende dich an den Kundendienst.</string>
+    <string name="auth_next_button_label">Weiter</string>
+    <string name="auth_no_network">Es besteht keine Netzwerkverbindung.</string>
+    <string name="auth_no_network_help">Eventuell handelt es sich um ein vorübergehendes Problem oder dein Android-Gerät ist nicht für Datendienste ausgerüstet. Bitte versuche es erneut, sobald eine Verbindung zu einem Mobilfunknetz besteht, oder stelle eine WLAN-Verbindung her.</string>
+    <string name="auth_no_network_help_wifi_only">Möglicherweise handelt es sich um ein vorübergehendes Problem. Versuche es erneut oder stelle eine Verbindung mit einem anderen WLAN-Netzwerk her.</string>
+    <string name="auth_otp_error">Beim Generieren des Sicherheitscodes ist ein Problem aufgetreten.</string>
+    <string name="auth_otp_explained_paragraph">Wenn du dein Passwort vergessen hast oder bei der Anmeldung etwas ungewöhnlich ist, fragt Google zum Schutz deines Kontos möglicherweise nach einem Sicherheitscode. Gib jetzt den Sicherheitscode ein oder komm später für einen neuen wieder.</string>
+    <string name="auth_otp_header_message">Wann der Code bei der Anmeldung verwendet wird</string>
+    <string name="auth_otp_help">Hilfe &amp; Feedback</string>
+    <string name="auth_otp_no_accounts_available_message">Auf diesem Gerät ist kein Konto konfiguriert.</string>
+    <string name="auth_otp_progress_dialog_message">Es wird ein Sicherheitscode erstellt.</string>
+    <string name="auth_password">Passwort</string>
+    <string name="auth_plus_audience_selection_description_acl">TEILEN MIT</string>
+    <string name="auth_plus_failure_new_account_text">Dein Google-Konto wurde eingerichtet, dein Google+ Profil konnte jedoch nicht erstellt werden. Bitte versuche es später erneut über einen beliebigen Webbrowser. Gib dazu folgende Adresse ein: plus.google.com.</string>
+    <string name="auth_plus_failure_text">Deine Registrierung bei Google+ konnte nicht durchgeführt werden. Bitte versuche es später über einen beliebigen Webbrowser erneut. Gib dazu folgende Adresse ein: plus.google.com.</string>
+    <string name="auth_plus_failure_title">Google+ Profil später erstellen</string>
+    <string name="auth_plus_info_fragment_app_name">%s würde gerne:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s vom Gerät %s möchte folgende Aktionen ausführen:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Meine erweiterten Kreise</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Ausgewählte Kreise</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Nur für mich</string>
+    <string name="auth_plus_scope_fragment_public_label">Alle im Web</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Meine Kreise</string>
+    <string name="auth_relogin_activity_title">Passwort erneut eingeben</string>
+    <string name="auth_remove_account_start_over">Neu starten</string>
+    <string name="auth_scope_more_details">Weitere Informationen</string>
+    <string name="auth_server_error">Bei der Kommunikation mit den Google-Servern ist ein Problem aufgetreten.</string>
+    <string name="auth_server_error_help">Versuche es später erneut.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Konto hinzugefügt</string>
+    <string name="auth_setup_wizard_account_added_description">Dein Konto wurde hinzugefügt. Bitte fahre fort, um die Optionen für Google-Dienste auszuwählen</string>
+    <string name="auth_setup_wizard_back_button_label">Zurück</string>
+    <string name="auth_setup_wizard_next_button_label">Weiter</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-Dienste</string>
+    <string name="auth_setup_wizard_services_agreement">Wenn du fortfährst, stimmst du zu, dass dieses Gerät auch automatisch Updates und Apps von Google, deinem Mobilfunkanbieter und dem Hersteller deines Geräts herunterladen und installieren darf, möglicherweise auch über eine mobile Datenverbindung. Bei einigen dieser Apps werden vielleicht In-App-Käufe angeboten. Diese Apps kannst du jederzeit entfernen.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Du kannst Apps deinstallieren, indem du zu \"Einstellungen\" > \"Apps\" gehst oder den Anwendungsmanager aufrufst. Tippe dann die App an, die du deinstallieren möchtest, und wähle \"Deinstallieren\" oder \"Deaktivieren\" aus. Möglicherweise musst du nach rechts oder links wischen, um die App zu finden.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Hiermit stimmst du außerdem zu, dass vorab geladene Google-Apps auf Informationen und Funktionen auf deinem Gerät zugreifen dürfen. <annotation link="app_permissions">Weitere Informationen zur Verwendung dieser Berechtigungen findest du hier</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Updates &amp; Apps installieren</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Wenn der Smartphone-Speicher fast voll ist, kannst du Speicherplatz freigeben, indem du Daten entfernst, beispielsweise bereits gesicherte Fotos und Videos.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Wenn eine Verbindung besteht, kannst du trotzdem auf diese Daten zugreifen. Um diese Funktion zu nutzen und zu bestimmen, was gelöscht werden soll, geh zu \"Einstellungen\" > \"Speicher\" > \"Intelligenter Speicher\".</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Speicherplatz freigeben</string>
+    <string name="auth_setup_wizard_services_backup">Du kannst dein Smartphone jederzeit einfach wiederherstellen oder wechseln. Die Sicherung umfasst Apps, App-Daten und Geräteeinstellungen wie WLAN-Passwörter.</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"App-Daten können alle Daten sein, die von einer App basierend auf den Entwicklereinstellungen gespeichert wurden, einschließlich potenziell vertraulicher Daten wie Kontakten, Nachrichten und Fotos.
+
+Die Sicherungsdaten werden nicht auf dein Google Drive-Speicherkontingent angerechnet.
+
+Du kannst diesen Dienst unter \"Einstellungen\" deaktivieren."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"App-Daten können alle Daten sein, die von einer App basierend auf den Entwicklereinstellungen gespeichert wurden, einschließlich potenziell vertraulicher Daten wie Kontakten, Nachrichten und Fotos.
+
+Fotos und Videos von diesem Gerät werden mit Google Fotos synchronisiert, sodass du sie über jedes deiner Geräte suchen, bearbeiten, löschen und teilen kannst. Standardmäßig werden Fotos und Videos mit voller Auflösung hochgeladen.
+
+Die Sicherungsdaten werden nicht auf dein Google Drive-Speicherkontingent angerechnet.
+
+Du kannst diesen Dienst unter \"Einstellungen\" deaktivieren."</string>
+    <string name="auth_setup_wizard_services_backup_title">In Google Drive sichern</string>
+    <string name="auth_setup_wizard_services_backup_v23">Du kannst dein Smartphone jederzeit einfach wiederherstellen oder wechseln. Die Sicherung umfasst Apps, App-Daten, Anrufliste, Kontakte und Geräteeinstellungen wie WLAN-Passwörter und Berechtigungen.</string>
+    <string name="auth_setup_wizard_services_backup_v26">Du kannst dein Smartphone jederzeit einfach wiederherstellen oder wechseln. Die Sicherung umfasst Apps, App-Daten, Anrufliste, Kontakte, Geräteeinstellungen wie WLAN-Passwörter und Berechtigungen sowie SMS.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Du kannst dein Smartphone jederzeit einfach wiederherstellen oder wechseln. Die Sicherung umfasst Apps, App-Daten, Anrufliste, Kontakte, Geräteeinstellungen wie WLAN-Passwörter und Berechtigungen sowie Fotos, Videos und SMS. Fotos und Videos werden mit deinem Google-Konto synchronisiert und können in verschiedenen Diensten genutzt werden.</string>
+    <string name="auth_setup_wizard_services_description">Tippe hier, um mehr zu jedem Dienst zu erfahren, beispielsweise dazu, wie du ihn später aktivieren oder deaktivieren kannst. Die Daten werden entsprechend der <annotation link="google_privacy">Datenschutzerklärung von Google</annotation> genutzt.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Die App-Details einschließlich der In-App-Käufe findest du im Play Store. Die App-Daten und -Einstellungen werden mit Geräten synchronisiert, auf denen du mit deinem Google-Konto angemeldet bist. 
+
+Die Nutzung von Instant-Apps unterliegt den "<a href="https://play.google.com/about/play-terms.html">Nutzungsbedingungen von Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Weitere Informationen.</a></string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Wenn du auf einen Link tippst, überprüft Google Play, ob eine Instant-App existiert, und führt sie ohne Installation aus. Instant-Apps werden vorübergehend auf deinem Gerät gespeichert.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Apps ohne Installation verwenden</string>
+    <string name="auth_setup_wizard_services_location_sharing">Apps dürfen den Standortdienst von Google nutzen, um meinen Standort zu ermitteln. Wenn mein Gerät eingeschaltet ist, werden anonyme Standortdaten an Google gesendet.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Der Standortdienst von Google greift auf Quellen wie WLAN-Netzwerke und Mobilfunknetze zurück, um den Standort deines Geräts schneller und genauer zu bestimmen. Dieser Dienst ist aktiv, wenn die Einstellung \"Standort\" auf deinem Gerät aktiviert ist und sich in einem Modus befindet, der WLAN-Netzwerke und Mobilfunknetze zur Standortermittlung nutzt, zum Beispiel der Modus \"Hohe Genauigkeit\" oder der \"Energiesparmodus\".
+
+So deaktivierst du diesen Dienst:
+
+"<li>Deaktiviere die Haupteinstellung \"Standort\" auf deinem Gerät.</li>"
+
+"<li>Lasse die Haupteinstellung \"Standort\" aktiviert und wähle einen Modus aus, der nur auf GPS zurückgreift, manchmal \"Nur Gerät\" genannt.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Apps dürfen den Standort ermitteln</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Apps und Dienste dürfen nach WLAN-Netzwerken suchen, auch wenn diese Funktion deaktiviert ist.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Du kannst dieses Verhalten in den Standorteinstellungen deaktivieren.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Standortgenauigkeit verbessern</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Apps und Dienste dürfen nach WLAN-Netzwerken und Bluetooth-Geräten suchen, auch wenn diese Funktionen deaktiviert sind.</string>
+    <string name="auth_setup_wizard_services_play">Ich möchte Nachrichten und Angebote von Google Play erhalten.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Sicherung &amp; Speicher</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Gerätewartung</string>
+    <string name="auth_setup_wizard_services_section_location">Standort</string>
+    <string name="auth_setup_wizard_services_tos">Wenn du fortfährst, stimmst du auch den <annotation link="tos">Nutzungsbedingungen von Google</annotation> zu.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Wenn du dieses Gerät verwendest, halten wir uns an unsere <annotation link="google_privacy">Datenschutzbestimmungen</annotation>. Außerdem gelten <annotation link="tos">zusätzliche Nutzungsbedingungen</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Du kannst zur Verbesserung von Android beitragen, indem du automatisch Diagnose- und Nutzungsdaten zum Gerät und zu Apps an Google sendest. Dadurch werden die Akkulaufzeit, die App-Stabilität und die Netzwerkkonnektivität verbessert. Wenn du zusätzlich \"Web- &amp; App-Aktivitäten von Apps\" aktiviert hast, werden diese Informationen in deinem Konto gespeichert. Du kannst sie dann unter \"Meine Aktivitäten\" verwalten.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Dies sind allgemeine Informationen zu deinem Gerät und dessen Nutzung, zum Beispiel der Ladestatus des Akkus, die App-Nutzung und die Netzwerkkonnektivität. Die Daten werden dazu verwendet, die Produkte und Dienste von Google für alle Nutzer zu verbessern. Einige Informationen in zusammengefasster Form helfen auch Partnern wie Android-Entwicklern dabei, ihre Apps und Produkte zu verbessern.
+
+Wenn du diese Funktion deaktivierst, kann dein Gerät weiterhin Informationen senden, die für grundlegende Dienste wie Systemupdates und Sicherheit erforderlich sind."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Du kannst die Einstellungen für \"Meine Aktivitäten\" unter myactivity.google.com aktualisieren.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Du kannst diese Funktion über Google Einstellungen festlegen. Wähle dazu im Menü die Option \"Nutzung &amp; Diagnose\" aus.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Du kannst diese Funktion über \"Einstellungen\" > \"Google\" festlegen. Wähle dazu im Menü die Option \"Nutzung &amp; Diagnose\" aus.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Systemdaten senden</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Google Live-Hintergründe dürfen entsprechend meinem Standort angepasst werden, indem der Standortdienst von Google genutzt wird.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Du kannst den Zugriff auf den Standortdienst von Google durch Live-Hintergründe ein- oder ausschalten, indem du \"Einstellungen\" > \"Apps &amp; Benachrichtigungen\" > \"App-Info\" auswählst. Tippe im Überlaufmenü auf \"Systemprozesse anzeigen\" > \"Hintergründe mit Live-Daten\" oder \"Live-Hintergründe der Erde\" > \"Berechtigungen\".</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Nutzung von Standortinformationen durch Hintergründe zulassen</string>
+    <string name="auth_setup_wizard_title">Setup-Assistent</string>
+    <string name="auth_show_error_activity_title">Anmeldung nicht möglich</string>
+    <string name="auth_show_error_title">Fehler</string>
+    <string name="auth_sign_in_agreement">Durch die Anmeldung stimmst du der <annotation id="google_privacy">Google-Datenschutzerklärung</annotation> und den <annotation id="android_privacy">zusätzlichen</annotation> Datenschutzbestimmungen zu.</string>
+    <string name="auth_sign_in_browser">Browseranmeldung</string>
+    <string name="auth_sign_in_button_label">Anmelden</string>
+    <string name="auth_sign_in_with_google_account_short">Mit Google-Konto anmelden</string>
+    <string name="auth_skip_button_label">Überspringen</string>
+    <string name="auth_submission_error_text">Es ist ein Fehler aufgetreten. Bitte versuche es erneut.</string>
+    <string name="auth_submission_title">Tut uns leid…</string>
+    <string name="auth_try_again_button_label">Erneut versuchen</string>
+    <string name="auth_ui_activity_authenticating">Authentifizierung erfolgt…</string>
+    <string name="auth_ui_activity_title">Google-Anmeldung</string>
+    <string name="auth_ui_activity_title_browser_signin">Anmelden</string>
+    <string name="auth_ui_add_account_title">Kontoeinrichtung</string>
+    <string name="auth_uncertified_notification_content">Der Hersteller hat dieses Gerät nicht zertifiziert</string>
+    <string name="auth_uncertified_notification_description">"Dieser Gerätehersteller nutzt Google-Apps, hat dieses Gerät jedoch nicht durch Google zertifizieren lassen. 
+
+Nicht zertifizierte Geräte können unsicher sein und erhalten möglicherweise keine System- oder App-Updates. Apps und Funktionen wie die Sicherung von Dateien oder Fotos funktionieren möglicherweise nicht richtig. 
+
+Wende dich an den Gerätehersteller, um dieses Problem zu beheben. 
+
+Weitere Informationen zu von Google zertifizierten Partnern erhältst du unter %s."</string>
+    <string name="auth_uncertified_notification_learn_more">Weitere Informationen</string>
+    <string name="auth_uncertified_notification_title">Warnung: nicht zertifiziertes Gerät</string>
+    <string name="auth_username">E-Mail</string>
+    <string name="auth_work_authenticator_label">Verwaltetes Konto</string>
+    <string name="authorization_dialog">Dialogfeld \"Autorisierung\"</string>
+    <string name="auto_restore_summary">Stelle nach der Neuinstallation einer App gesicherte Einstellungen und Daten wieder her.</string>
+    <string name="auto_restore_title">Automatische Wiederherstellung</string>
+    <string name="autofill_dataset_password">Passwort verwenden für: <b>^1</b></string>
+    <string name="autofill_datatype_address">Adressen</string>
+    <string name="autofill_datatype_password">Gespeicherte Passwörter</string>
+    <string name="autofill_datatype_payment">Kreditkarten</string>
+    <string name="autofill_datatype_profile">Personenbezogene Daten</string>
+    <string name="autofill_label">Formulare von Google ausfüllen lassen</string>
+    <string name="autofill_optin_line1"><b>Tippen, um das Formular automatisch von Google ausfüllen zu lassen</b></string>
+    <string name="autofill_optin_line2">Dafür werden die schon in Chrome AutoFill gespeicherten Informationen benutzt</string>
+    <string name="autofill_setup_points">"• Google ermittelt anhand der Inhalte auf deinem Bildschirm, welche Informationen automatisch ausgefüllt werden können. 
+• Du kannst die für die AutoFill-Funktion verwendeten Informationen in deinen Einstellungen einsehen und verwalten."</string>
+    <string name="autofill_setup_summary">Du kannst Formulare durch einmaliges Tippen mit deinen Passwörtern, Adressen, Kreditkartendaten und anderen in deinem Konto gespeicherten Informationen ausfüllen.</string>
+    <string name="autofill_setup_summary_single_account">Du kannst Formulare durch einmaliges Tippen mit deinen Passwörtern, Adressen, Kreditkartendaten und anderen im Konto (<b>^1</b>) gespeicherten Informationen ausfüllen.</string>
+    <string name="backup_configure_account_default_summary">Zurzeit werden in keinem Konto gesicherte Daten gespeichert</string>
+    <string name="backup_configure_account_title">Sicherungskonto</string>
+    <string name="backup_data_summary">App-Daten, WLAN-Passwörter und andere Einstellungen bei Google Drive sichern</string>
+    <string name="backup_data_summary_full">"Führe eine automatische Fernsicherung von Gerätedaten wie WLAN-Passwörtern und Anrufliste sowie App-Daten, z. B. Einstellungen und von Apps gespeicherte Dateien, durch.
+
+Wenn du die automatische Sicherung aktivierst, werden Geräte- und App-Daten regelmäßig per Remote-Zugriff gespeichert. Bei App-Daten kann es sich um alle Daten handeln, die von einer App entsprechend den Entwicklereinstellungen gespeichert wurden, einschließlich potenziell sensibler Daten wie Kontakten, Nachrichten und Fotos."</string>
+    <string name="backup_data_title">Auf Google Drive sichern</string>
+    <string name="backup_erase_dialog_message">Sicherung deiner WLAN-Passwörter, Lesezeichen, anderer Einstellungen und App-Daten beenden und alle Kopien bei Google Drive löschen?</string>
+    <string name="backup_erase_dialog_message_full">Sicherung von Gerätedaten, z. B. WLAN-Passwörter und Anrufliste, sowie App-Daten wie Einstellungen und von Apps gespeicherte Dateien beenden und alle Kopien bei Google Drive löschen?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Beim Öffnen der Einstellungen von Google Fotos ist ein Fehler aufgetreten</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Wenn du die automatische Sicherung aktivierst, geschieht Folgendes:
+
+ ● Geräteeinstellungen und App-Daten werden regelmäßig in einem privaten Ordner bei Google Drive gespeichert. App-Daten können Daten sein, die eine App entsprechend den Entwicklereinstellungen gespeichert hat, einschließlich potenziell vertraulicher Daten, wie z. B. Kontakten, Nachrichten und Fotos.
+
+ Große Dateien oder Dateien, die die Entwickler vom Dienst ausgeschlossen haben, werden nicht gesichert.
+
+ ● Fotos und Videos von diesem Gerät werden mit deiner Google Fotos-Bibliothek synchronisiert, sodass du sie über jedes deiner Geräte suchen, bearbeiten, löschen und teilen kannst.
+
+ Standardmäßig werden Fotos und Videos mit voller Auflösung hochgeladen. Sie werden nicht in dein Google Drive-Speicherplatzkontingent einberechnet.
+
+ ● Kontakte und zugehörige Daten von diesem Gerät werden mit Google Kontakte synchronisiert. Mit der Google Kontakte App kannst du Kontakte über jedes deiner Geräte suchen, bearbeiten, löschen und teilen.
+
+ ● Kalendereinträge und zugehörige Daten von diesem Gerät werden mit Google Kalender synchronisiert. Mit der Google Kalender App kannst du Kontakte über jedes deiner Geräte suchen, bearbeiten, löschen und teilen.
+
+ Sicherungsdaten werden nicht in dein Google Drive-Speicherplatzkontingent einberechnet."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Wenn du die automatische Sicherung aktivierst, geschieht Folgendes:
+
+ ● Geräteeinstellungen und App-Daten werden regelmäßig in einem privaten Ordner in Google Drive gespeichert. App-Daten können alle Daten sein, die eine App entsprechend den Entwicklereinstellungen gespeichert hat, einschließlich potenziell vertraulicher Daten, wie z. B. Kontakten, Nachrichten und Fotos.
+
+ Große Dateien oder Dateien, die die Entwickler vom Dienst ausgeschlossen haben, werden nicht gesichert.
+
+ ● Kontakte und zugehörige Daten von diesem Gerät werden mit Google Kontakte synchronisiert. Mit der Google Kontakte App kannst du Kontakte über jedes deiner Geräte suchen, bearbeiten, löschen und teilen.
+
+ ● Kalendereinträge und zugehörige Daten von diesem Gerät werden mit Google Kalender synchronisiert. Mit der Google Kalender App kannst du Kontakte über jedes deiner Geräte suchen, bearbeiten, löschen und teilen.
+
+ Sicherungsdaten werden nicht in dein Google Drive-Speicherplatzkontingent einberechnet."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalender, Kontakte, Fotos und Videos werden zu deinem Google-Konto übertragen und können in unterschiedlichen Diensten verwendet werden.</string>
+    <string name="backup_opt_in_backup_description_v2">Durch die automatische Sicherung kannst du dein Smartphone jederzeit ganz einfach wiederherstellen oder ein anderes Smartphone verwenden. <annotation id="backup_opt_in_learn_more">Weitere Informationen</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Dadurch wird die Sicherung für Folgendes deaktiviert:
+
+Apps und App-Daten
+Anrufliste
+Geräteeinstellungen
+Fotos und Videos
+SMS
+
+Kalender und Kontakte werden weiterhin mit deinem Google-Konto synchronisiert. Sobald die Einrichtung abgeschlossen ist, kannst du die Synchronisierungseinstellungen unter "<annotation id="backup_opt_in_settings_instructions">Einstellungen > Konten > Google</annotation> ändern.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Sicherung deaktivieren?</string>
+    <string name="backup_opt_in_backup_list">"Apps und App-Daten
+Kalender
+Anrufliste
+Kontakte
+Geräteeinstellungen (einschließlich WLAN-Passwörter)
+Fotos und Videos
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Die Sicherung beinhaltet</string>
+    <string name="backup_opt_in_backup_title">In Google Drive sichern</string>
+    <string name="backup_opt_in_disable_backup">Sicherung deaktivieren</string>
+    <string name="backup_photos_update">Aktualisiere Google Fotos</string>
+    <string name="backup_settings_activity_backup_title">Sicherung</string>
+    <string name="backup_settings_activity_title">Sichern &amp; zurücksetzen</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nicht kopieren</string>
+    <string name="chrome_privacy_title">Google Chrome-Datenschutzhinweise</string>
+    <string name="chrome_tos_title">Google Chrome-Nutzungsbedingungen</string>
+    <string name="chromesync_custom_passphrase_explanation">Deine bestehenden Passwörter für %1$s wurden mit deiner Passphrase verschlüsselt. Wenn du deine Passphrase vergessen hast, kannst du die Synchronisierung über &lt;a href=%2$s>Google Dashboard&lt;/a> beenden und zurücksetzen.</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync-Passphrase</string>
+    <string name="chromesync_enter_passphrase_hint">Passphrase eingeben</string>
+    <string name="chromesync_entered_wrong_passphrase">Falsche Passphrase</string>
+    <string name="chromesync_no_browser_found">Kein Browser zum Öffnen dieses Links gefunden</string>
+    <string name="close_button_label">Schließen</string>
+    <string name="cloud_restore_app_picker_button">Wiederherstellen</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Deine Sicherung enthält keine Apps</string>
+    <string name="cloud_restore_app_picker_title">Apps zum Wiederherstellen auswählen</string>
+    <string name="common_accept">Akzeptieren</string>
+    <string name="common_account_chip_add_account_button_label">Anderes Konto verwenden</string>
+    <string name="common_add_account_button_label">Konto hinzufügen</string>
+    <string name="common_add_account_label">Konten hinzufügen</string>
+    <string name="common_ads_settings_title">Anzeigen</string>
+    <string name="common_agree">Zustimmen</string>
+    <string name="common_app_name">Google Play-Dienste</string>
+    <string name="common_asm_preferences_settings_title">Kontoeinstellungen</string>
+    <string name="common_asm_privacy_settings_title">Persönliche Daten &amp; Privatsphäre</string>
+    <string name="common_asm_security_settings_title">Anmeldung &amp; Sicherheit</string>
+    <string name="common_audience_edit_button_label">Bearbeiten</string>
+    <string name="common_cancel">Abbrechen</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kann aufgrund eines Berechtigungsfehlers nicht gestartet werden.</string>
+    <string name="common_car_permission_desc">Zugriff auf den Autodienst</string>
+    <string name="common_car_permission_label">Autodienst</string>
+    <string name="common_chips_label_empty_circles">Keine Kreise</string>
+    <string name="common_chips_label_extended_circles">Erweiterte Kreise</string>
+    <string name="common_chips_label_only_you">Nur für mich</string>
+    <string name="common_chips_label_public">Öffentlich</string>
+    <string name="common_chips_label_your_circles">Meine Kreise</string>
+    <string name="common_choose_account">Konto auswählen</string>
+    <string name="common_choose_account_for_app_label">Konto wählen für %1$s</string>
+    <string name="common_choose_account_label">Konto auswählen</string>
+    <string name="common_clear_app_data_menu_item">App-Daten löschen</string>
+    <string name="common_connected">Verbunden</string>
+    <string name="common_connected_apps_settings_title">Verbundene Apps</string>
+    <string name="common_connecting">Wird verbunden…</string>
+    <string name="common_continue">Weiter</string>
+    <string name="common_disagree">Ablehnen</string>
+    <string name="common_disconnect">Verbindung trennen</string>
+    <string name="common_done">Fertig</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Von:</string>
+    <string name="common_games_settings_title">Play Spiele</string>
+    <string name="common_get_started">Jetzt starten</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Aktivieren</string>
+    <string name="common_google_play_services_enable_text">%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste.</string>
+    <string name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
+    <string name="common_google_play_services_error_dialog_title">Fehler</string>
+    <string name="common_google_play_services_install_button">Installieren</string>
+    <string name="common_google_play_services_install_text">Zur Nutzung von %1$s sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind.</string>
+    <string name="common_google_play_services_install_title">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_notification_ticker">Fehler bei Zugriff auf Google Play-Dienste</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.</string>
+    <string name="common_google_play_services_unsupported_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden.</string>
+    <string name="common_google_play_services_update_button">Aktualisieren</string>
+    <string name="common_google_play_services_update_text">%1$s wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst.</string>
+    <string name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="common_google_play_services_updating_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden.</string>
+    <string name="common_google_play_services_updating_title">Google Play-Dienste werden aktualisiert</string>
+    <string name="common_google_play_services_wear_update_text">Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Die Google Play-Dienste wurden mit einer falschen Architektur installiert.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Die Google Play-Dienste wurden mit einer Architektur installiert (%1$s), die sich von der Gerätearchitektur (%2$s) unterscheidet.</string>
+    <string name="common_google_play_services_wrong_architecture_title">Falsche Architektur</string>
+    <string name="common_google_settings">Google Einstellungen</string>
+    <string name="common_google_settings_account">Konto</string>
+    <string name="common_google_settings_credentials_title">Smart Lock für Passwörter</string>
+    <string name="common_google_settings_developer">Entwickler</string>
+    <string name="common_google_settings_services">Dienste</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">Installieren</string>
+    <string name="common_learn_more">Weitere Informationen</string>
+    <string name="common_list_apps_menu_help">Hilfe</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hilfe &amp; Feedback</string>
+    <string name="common_loading">Wird geladen…</string>
+    <string name="common_location_settings_title">Standort</string>
+    <string name="common_magictether_settings_title">Instant Tethering</string>
+    <string name="common_maps_settings_title">Maps &amp; Latitude</string>
+    <string name="common_mdm_feature_name">Android Geräte-Manager</string>
+    <string name="common_missing_url_viewer">Kein Viewer zur Darstellung einer externen URL</string>
+    <string name="common_more_options">Weitere Optionen</string>
+    <string name="common_networking_settings_title">Netzwerke</string>
+    <string name="common_no_browser_for_restricted_url">Eingeschränkter Zugriff. Es wurde kein Browser gefunden.</string>
+    <string name="common_no_devices_found">Keine Geräte gefunden</string>
+    <string name="common_no_network">Nicht verfügbar, da das Gerät offline ist</string>
+    <string name="common_no_thanks">Nein danke</string>
+    <string name="common_not_now">Nicht jetzt</string>
+    <string name="common_off">Aus</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">An</string>
+    <string name="common_open_on_phone">Auf Smartphone öffnen</string>
+    <string name="common_open_source_licenses">Open-Source-Lizenzen</string>
+    <string name="common_people_settings_title">Kontakte</string>
+    <string name="common_permissions_enable_in_settings">Einstellungen öffnen</string>
+    <string name="common_permissions_missing_end">Um fortzufahren, gehe zu \"Einstellungen\" > \"Berechtigungen\" und aktiviere alle aufgelisteten Optionen.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Gehe zum Aktivieren zu
+\"Einstellungen\" >
+\"Berechtigungen\" >
+\"Google Play-Dienste\""</string>
+    <string name="common_permissions_missing_start">Diese App funktioniert nur dann richtig, wenn du den Google Play-Diensten Zugriff auf Folgendes gewährst:</string>
+    <string name="common_permissions_open_settings">Einstellungen öffnen</string>
+    <string name="common_phone">Smartphone</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Datenschutzerklärung</string>
+    <string name="common_restore">Wiederherstellen</string>
+    <string name="common_restricted_no_accounts">Es sind keine Konten zur Auswahl vorhanden.</string>
+    <string name="common_retry">Nochmal versuchen</string>
+    <string name="common_search_settings_title">Suche</string>
+    <string name="common_security_ootp_setting_title">Sicherheitscode</string>
+    <string name="common_security_settings_title">Sicherheit</string>
+    <string name="common_send">Senden</string>
+    <string name="common_sending">Wird gesendet…</string>
+    <string name="common_set_up_nearby_device_settings_title">Nearby-Gerät einrichten</string>
+    <string name="common_settings">Einstellungen</string>
+    <string name="common_signin_button_text">Anmelden</string>
+    <string name="common_signin_button_text_long">Über Google anmelden</string>
+    <string name="common_something_went_wrong">Ein Fehler ist aufgetreten</string>
+    <string name="common_system_info">Produktinformationen</string>
+    <string name="common_take_photo_label">Foto aufnehmen</string>
+    <string name="common_terms_of_service">Nutzungsbedingungen</string>
+    <string name="common_try_again">Erneut versuchen</string>
+    <string name="common_turn_on_bluetooth">Bluetooth aktivieren</string>
+    <string name="common_ui_confirm_deleting_button">Löschen</string>
+    <string name="common_ui_confirm_deleting_checkbox">Trotzdem löschen</string>
+    <string name="common_unknown">Unbekannt</string>
+    <string name="common_update">Aktualisieren</string>
+    <string name="common_url_load_unsuccessful_message">Dein Android-Gerät ist mit keinem Datendienst verbunden. Bitte rufe %s in einem Webbrowser auf.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Dein Android-Gerät ist mit keinem WLAN verbunden. Rufe %s in einem Webbrowser auf, um diese Informationen jetzt anzusehen.</string>
+    <string name="common_url_login_notice">Als %1$s anmelden</string>
+    <string name="common_usage_and_diagnostics">Nutzung &amp; Diagnose</string>
+    <string name="common_yesterday">Gestern</string>
+    <string name="confirm_copy_button_text">Kopieren</string>
+    <string name="contacts_number_device_and_icloud">%1$d von iCloud®, %2$d von Gerät</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Kontakte, %1$d von iCloud®, %2$d von Gerät</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Kontakte, %1$d von SIM-Karte, %2$d von Gerät</string>
+    <string name="contacts_number_device_with_google">Google Kontakte, %1$d von Gerät</string>
+    <string name="contacts_number_icloud_with_google">Google Kontakte, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Kontakte, %1$d SIM-Karte</string>
+    <string name="continue_to_login_heading">Bitte anmelden.</string>
+    <string name="continue_to_login_text">Anmeldedaten genehmigt. Melden Sie sich jetzt auf Ihrem ersten Gerät an.</string>
+    <string name="copy_confirmation_description">Apps und Daten wie dein Google-Konto werden auf dein neues Smartphone kopiert</string>
+    <string name="copy_confirmation_title">Auf dein neues Smartphone kopieren?</string>
+    <string name="d2d_app_picker_description_no_apps">Keine Apps gefunden</string>
+    <string name="d2d_app_picker_title">Apps</string>
+    <string name="d2d_migration_canceled_on_source">Kopieren abgebrochen</string>
+    <string name="data_copied_fragment_description">Deine Daten wurden auf dein neues Smartphone kopiert. Du kannst das Kabel herausziehen.</string>
+    <string name="data_copied_fragment_description_cancel">Du hast das Kopieren abgebrochen. Nur ein Teil der Daten wurde auf dein neues Smartphone kopiert.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Du hast das Kopieren abgebrochen, deshalb wurden keine Daten auf dein neues Smartphone kopiert.</string>
+    <string name="data_copied_fragment_description_error">Ein Fehler ist aufgetreten. Deshalb konnte nicht alles kopiert werden.</string>
+    <string name="data_copied_fragment_description_error_no_data">Ein Fehler ist aufgetreten. Deshalb konnten deine Daten nicht kopiert werden.</string>
+    <string name="data_copied_fragment_no_data_title">Fehler beim Kopieren</string>
+    <string name="data_copied_fragment_some_data_title">Ein Teil der Daten wurde kopiert</string>
+    <string name="data_copied_fragment_title">Daten kopiert</string>
+    <string name="device_backup_title">Gerät sichern</string>
+    <string name="device_not_supported_fragment_new_device">Ein neues Smartphone ist angeschlossen. Um fortzufahren, schließe wieder das vorherige Smartphone an.</string>
+    <string name="device_not_supported_fragment_new_device_title">Wieder mit vorherigem Smartphone verbinden</string>
+    <string name="device_not_supported_fragment_no_data_cable">Mit diesem Kabel können keine Daten übertragen werden. Verwende ein anderes Kabel und versuche es noch einmal.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Versuche es mit einem anderen Kabel</string>
+    <string name="device_not_supported_fragment_retry_description">Vergewissere dich, dass dein altes Smartphone entsperrt ist. Zieh dann das Kabel heraus und schließe es wieder an</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Ein Problem ist aufgetreten</string>
+    <string name="device_not_supported_ios_supervised_description">Dein iPhone® wird betreut. Deshalb musst du eine andere Methode wählen, um Daten zu kopieren.</string>
+    <string name="device_picker_description">Sicherungen werden in Google Drive gespeichert</string>
+    <string name="device_picker_empty">Keine Sicherungen verknüpft mit %1$s.</string>
+    <string name="device_picker_empty_title">Keine Sicherungen gefunden</string>
+    <string name="device_picker_item">%1$s-Sicherung</string>
+    <string name="device_picker_last_used">Zuletzt verwendet: ^1</string>
+    <string name="device_picker_skip">Nicht wiederherstellen</string>
+    <string name="device_picker_title">Wähle zum Wiederherstellen eine Sicherung aus</string>
+    <string name="disabled_by_admin_summary_text">Durch den Administrator verwaltet</string>
+    <string name="download_msg_error_invalid">Der Download wurde nicht richtig konfiguriert.</string>
+    <string name="download_msg_in_progress">Download läuft.</string>
+    <string name="download_msg_not_allowed_space">Es ist nicht genug Speicherplatz für den Download vorhanden.</string>
+    <string name="download_msg_pending">Der Download steht aus.</string>
+    <string name="download_notification_description">%1$s hat dies angefragt.</string>
+    <string name="download_notification_title">Weitere Daten werden abgerufen</string>
+    <string name="drive_backup_account">Sicherungskonto</string>
+    <string name="drive_backup_apps_in_backup">Gesicherte App-Daten</string>
+    <string name="drive_backup_apps_last_backup">Letzte Sicherung</string>
+    <string name="drive_backup_apps_loading">Wird geladen…</string>
+    <string name="drive_backup_apps_screen_title">App-Daten</string>
+    <string name="drive_backup_content_apps_title">App-Daten</string>
+    <string name="drive_backup_content_calendar_dialog_message">In Google Kalender erstellte Termine werden auf allen Geräten synchronisiert, auf denen du in deinem Google-Konto angemeldet bist.</string>
+    <string name="drive_backup_content_calendar_title">Google Kalender</string>
+    <string name="drive_backup_content_callhistory_dialog_message">In die Sicherung eingeschlossen sind das Datum und der Empfänger getätigter und erhaltener Aufrufe.</string>
+    <string name="drive_backup_content_callhistory_title">Anrufliste</string>
+    <string name="drive_backup_content_contacts_dialog_message">In Google Kontakte erstellte Kontakte werden auf allen Geräten synchronisiert, auf denen du in deinem Google-Konto angemeldet bist.</string>
+    <string name="drive_backup_content_contacts_title">Google Kontakte</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">In die Sicherung eingeschlossen ist die Gerätekonfiguration, wie z. B. der Hintergrund, WLAN-Passwörter und Standard-Apps.</string>
+    <string name="drive_backup_content_devicesettings_title">Geräteeinstellungen</string>
+    <string name="drive_backup_content_header">Inhalte</string>
+    <string name="drive_backup_content_photos_dialog_message">Dein Hauptkonto für Sicherungen wurde geändert. Du kannst auch das Sicherungskonto für Google Fotos zu %s ändern.</string>
+    <string name="drive_backup_content_photos_dialog_no">SCHLIESSEN</string>
+    <string name="drive_backup_content_photos_dialog_title">Konto für Fotos und Videos auch ändern?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ÄNDERN</string>
+    <string name="drive_backup_content_photos_title">Fotos und Videos</string>
+    <string name="drive_backup_content_sms_dialog_message">In die Sicherung eingeschlossen sind gesendete und empfangene Nachrichten. Nicht inbegriffen sind dabei MMS-Medien.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Fehler beim Abrufen des Datums der letzten Synchronisierung</string>
+    <string name="drive_backup_content_status_lastsaved">Letzte Sicherung: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Letzte Synchronisierung: %1$td. %1$tb %1$tY, %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Auf Sicherung wird gewartet</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Synchronisierungseinstellungen</string>
+    <string name="drive_backup_content_status_sync_off">Synchronisierung deaktiviert</string>
+    <string name="drive_backup_content_status_updating">Status wird geprüft…</string>
+    <string name="drive_backup_disabled_backuplist">"In Sicherungen enthaltene Inhalte:
+\u0009- Apps und Apps-Daten
+\u0009- Anrufliste
+\u0009- Geräteeinstellungen (inklusive WLAN-Passwörter)
+\u0009- Google Kalender
+\u0009- Google Kontakte
+\u0009- Fotos und Videos
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"In Sicherungen enthaltene Inhalte:
+ – Apps und App-Daten
+ – Anrufliste
+ – Geräteeinstellungen (einschließlich WLAN-Passwörtern)
+ – Google Kalender
+ – Google Kontakte
+ – SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Von deinem Administrator deaktiviert</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Kalender, Google Kontakte, Fotos und Videos werden mit deinem Google-Konto synchronisiert und können dienstübergreifend verwendet werden.
+
+Die Synchronisierung kann aktiviert sein, auch wenn die Sicherung deaktiviert ist. Die Synchronisierungseinstellungen können unter \"Einstellungen > \"Konten\" > \"Google\" geändert werden."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Kalender und Google Kontakte werden mit deinem Google-Konto synchronisiert und können in verschiedenen Diensten genutzt werden.
+
+Die Synchronisierung kann selbst dann aktiviert werden, wenn die Sicherung deaktiviert ist. Die Synchronisierungseinstellungen können unter \"Einstellungen\" > \"Konten\" > \"Google\" geändert werden."</string>
+    <string name="drive_backup_disabled_introduction">Die automatische Sicherung gewährleistet, dass du dein Smartphone jederzeit wiederherstellen oder wechseln kannst.</string>
+    <string name="drive_backup_settings_title">Sicherung</string>
+    <string name="drive_backup_state">Auf Google Drive sichern</string>
+    <string name="drive_backup_state_dialog_message">"Sicherungsdaten des Geräts in Google Drive werden dauerhaft gelöscht.
+
+Fotos und Videos, die bereits gesichert wurden, bleiben in Google Drive verfügbar.
+
+Dein Kalender und deine Kontakte werden weiterhin mit deinem Google-Konto synchronisiert. Die Synchronisierungseinstellungen können unter \"Einstellungen\" > \"Konten\" > \"Google\" geändert werden."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Sicherungsdaten des Geräts in Google Drive werden dauerhaft gelöscht.
+
+Google Kalender und Google Kontakte werden weiterhin mit deinem Google-Konto synchronisiert. Die Synchronisierungseinstellungen können unter \"Einstellungen\" > \"Konten\" > \"Google\" geändert werden."</string>
+    <string name="drive_backup_state_dialog_okaction">Deaktivieren und löschen</string>
+    <string name="drive_backup_state_dialog_title">Deaktivieren und Sicherung löschen?</string>
+    <string name="durationDayHour">%1$d Tag, %2$d h</string>
+    <string name="durationDayHours">%1$d Tag, %2$d h</string>
+    <string name="durationDays">%1$d Tage</string>
+    <string name="durationHourMinute">%1$d h, %2$d min</string>
+    <string name="durationHourMinutes">%1$d h, %2$d min</string>
+    <string name="durationHours">%1$d Stunden</string>
+    <string name="durationMinute">%1$d Minute</string>
+    <string name="durationMinuteSecond">%1$d min, %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min, %2$d s</string>
+    <string name="durationMinutes">%1$d Minuten</string>
+    <string name="durationSecond">%1$d Sekunde</string>
+    <string name="durationSeconds">%1$d Sekunden</string>
+    <string name="encryption_warning_fragment_description">"Auf deinem iPhone® ist die Backup-Verschlüsselung aktiviert. Wenn du diese nicht selbst aktiviert hast, wurde sie möglicherweise von deinem IT-Administrator aktiviert.
+
+Nur Fotos, Musik und Videos können kopiert werden. Weitere Informationen erhältst du unter "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Backup-Verschlüsselung</string>
+    <string name="fido_begin_button">STARTEN</string>
+    <string name="fido_ble_device_icon_content_description">Bluetooth-Gerät erkannt</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Drücke die Taste auf deinem Sicherheitsschlüssel und halte sie mindestens fünf Sekunden lang gedrückt, um sicherzugehen, dass er sich im Kopplungsmodus befindet</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">OK</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Ein Problem ist aufgetreten</string>
+    <string name="fido_ble_dont_see_your_key_hint">Du findest deinen Schlüssel nicht?</string>
+    <string name="fido_ble_enable_body">Dein Sicherheitsschlüssel funktioniert nur, wenn auf deinem Gerät Bluetooth aktiviert ist</string>
+    <string name="fido_ble_enable_title">Bluetooth aktivieren</string>
+    <string name="fido_ble_enable_turn_on_button">AKTIVIEREN</string>
+    <string name="fido_ble_instructions_body">Bei den meisten Schlüsseln genügt es, zur Verwendung die Taste anzutippen</string>
+    <string name="fido_ble_instructions_title">Möchtest du die Verwendung deines Sicherheitsschlüssels erlauben?</string>
+    <string name="fido_ble_locate_pin_body">Die Kopplungs-PIN besteht in der Regel aus vier bis sechs Ziffern. Möglicherweise findest du sie auf der Rückseite deines Schlüssels. Fahre fort, wenn du bereit zur Eingabe der PIN bist.</string>
+    <string name="fido_ble_locate_pin_continue_button">WEITER</string>
+    <string name="fido_ble_locate_pin_title">Bluetooth-Kopplungs-PIN für deinen Schlüssel \"%1$s\" herausfinden</string>
+    <string name="fido_ble_pair_device_pairing">Kopplung mit deinem Sicherheitsschlüssel wird durchgeführt...</string>
+    <string name="fido_ble_pair_instructions_body">Kopple deinen Schlüssel mit diesem Gerät, um ihn mit deinem Konto zu verwenden</string>
+    <string name="fido_ble_pair_instructions_title">Bereit, eine Kopplung für deinen Sicherheitsschlüssel durchzuführen?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Versetze deinen Schlüssel wieder in den Kopplungsmodus</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">NOCH EINMAL VERSUCHEN</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Ein Problem ist aufgetreten</string>
+    <string name="fido_ble_pairing_mode_body">Drücke die Taste auf deinem Sicherheitsschlüssel und halte sie mindestens fünf Sekunden lang gedrückt</string>
+    <string name="fido_ble_pairing_mode_title">In den Kopplungsmodus wechseln</string>
+    <string name="fido_ble_select_device_body">Wähle in der folgenden Liste den Sicherheitsschlüssel aus, den du mit deinem Gerät koppeln möchtest. Den Namen findest du möglicherweise auf der Rückseite deines Schlüssels.</string>
+    <string name="fido_ble_select_device_title">Sicherheitsschlüssel auswählen</string>
+    <string name="fido_cancel_button">Abbrechen</string>
+    <string name="fido_nfc_enable_body">Dein Sicherheitsschlüssel funktioniert nur, wenn auf deinem Gerät NFC aktiviert ist</string>
+    <string name="fido_nfc_enable_title">NFC aktivieren</string>
+    <string name="fido_nfc_enable_turn_on_button">AKTIVIEREN</string>
+    <string name="fido_nfc_instructions_body">Halte deinen Schlüssel flach gegen die Rückseite deines Geräts, bis er nicht mehr vibriert</string>
+    <string name="fido_nfc_instructions_title">Möchtest du die Verwendung deines Sicherheitsschlüssels erlauben?</string>
+    <string name="fido_pair_another_security_key">Einen weiteren Sicherheitsschlüssel koppeln</string>
+    <string name="fido_processing">Dein Sicherheitsschlüssel wird überprüft...</string>
+    <string name="fido_transport_selection_bluetooth">Sicherheitsschlüssel mit Bluetooth verwenden</string>
+    <string name="fido_transport_selection_body">Sicherheitsschlüssel funktionieren mit Bluetooth und NFC. Wähle eine dieser Optionen aus, um deinen Schlüssel zu verwenden.</string>
+    <string name="fido_transport_selection_nfc">Sicherheitsschlüssel mit NFC verwenden</string>
+    <string name="fido_transport_selection_title">Option für Sicherheitsschlüssel auswählen</string>
+    <string name="fido_use_ble_instead">Sicherheitsschlüssel mit Bluetooth verwenden</string>
+    <string name="fido_use_nfc_instead">Sicherheitsschlüssel mit NFC verwenden</string>
+    <string name="fido_welcome_body">Wenn du deinen Sicherheitsschlüssel mit %1$s verwendest, werden deine Daten besser geschützt.</string>
+    <string name="fido_welcome_title">Sicherheitsschlüssel mit %1$s verwenden</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ich kann den Adapter nicht finden</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Such dir den Quick Switch Adapter heraus, der sich im Lieferumfang des ^1 befindet.
+
+Schließ das Kabel am Adapter an."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Adapter und Kabel verbinden</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Entsperre dein altes Smartphone und verbinde den Adapter mit dem neuen Smartphone.</string>
+    <string name="fragment_usb_connect_both_phones_title">Beide Smartphones verbinden</string>
+    <string name="fragment_usb_dialog_cancel_description">Mit einem Kabel kannst du Inhalte am besten kopieren. Wenn die mitgelieferten Kabel nicht mit dem Gerät kompatibel sind, kannst du es mit dem Daten- oder Ladekabel deines alten Smartphones versuchen.</string>
+    <string name="fragment_usb_dialog_cancel_title">Daten anders kopieren?</string>
+    <string name="fragment_usb_dont_have_cable">Ich habe kein Kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Ich habe mein altes Smartphone nicht mehr</string>
+    <string name="fragment_usb_find_cable_description">Verwende ein Kabel, das mit deinem alten Smartphone kompatibel ist, beispielsweise dein Daten- oder Ladekabel.</string>
+    <string name="fragment_usb_find_cable_title">Das passende Kabel finden</string>
+    <string name="fragment_usb_initial_description">Übertrage Daten von deinem alten Smartphone auf dieses ^1.</string>
+    <string name="fragment_usb_initial_title">Daten kopieren</string>
+    <string name="fragment_usb_legacy_description">"So kannst du am schnellsten die meisten Daten übertragen.
+
+Schließ den mitgelieferten Adapter an dein neues Smartphone an. Verbinde die beiden Smartphones mit einem Kabel und entsperre dann dein altes Smartphone."</string>
+    <string name="fragment_usb_other_ways">Ohne Kabel kopieren</string>
+    <string name="fragment_usb_plug_cable">Kabel am alten Smartphone anschließen</string>
+    <string name="fragment_waiting_title">Bitte warten…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">App-Berechtigungen</string>
+    <string name="google_contacts_static_text">Google Kontakte wird synchronisiert</string>
+    <string name="google_contacts_static_text_off">Google Kontakte werden trotzdem synchronisiert</string>
+    <string name="google_legal_title">Rechtliche Hinweise</string>
+    <string name="google_play_tos_title">Google Play-Nutzungsbedingungen</string>
+    <string name="google_plus_privacy_policy_title">Datenschutzerklärung von Google+</string>
+    <string name="google_privacy_policy_title">Google-Datenschutzerklärung</string>
+    <string name="google_terms_of_service_title">Google-Nutzungsbedingungen</string>
+    <string name="header_set_backup_account">Sicherungskonto einrichten</string>
+    <string name="i_message_dialog_message">"Um weiterhin SMS von iPhone®-Nutzern zu erhalten, musst du iMessage® deaktivieren.
+
+Weitere Informationen hierzu findest du unter "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instant_apps_settings_title">Instant-Apps</string>
+    <string name="instructions_fragment_title">Auf deinem anderen Smartphone fortfahren</string>
+    <string name="ios_connected_fragment_description">"Auf dem nächsten Bildschirm kannst du dich in deinem Google-Konto anmelden oder ein neues erstellen.
+
+Wenn du kein Google-Konto hinzufügst, werden deine iOS Kalender®-Termine nicht übertragen."</string>
+    <string name="ios_message_attachment_explanation">[Anhänge deiner Nachrichten findest du in \"Google Fotos\" > \"Geräteordner\" > \"Anhänge in Nachrichten\"]</string>
+    <string name="ios_message_attachment_failed_explanation">[Einige Anhänge konnten nicht kopiert werden. Die übertragenen Anhänge findest du in \"Google Fotos\" > \"Geräteordern\" > \"Anhänge in Nachrichten\"]</string>
+    <string name="ios_message_attachment_placeholder">[Anhang gespeichert in Google Fotos > Geräteordner > Anhänge in Nachrichten]</string>
+    <string name="ios_message_attachments_placeholder">[Anhänge gespeichert in Google Fotos > Geräteordner > Anhänge in Nachrichten]</string>
+    <string name="ios_migration_default_calendar_title">Kalender</string>
+    <string name="ios_migration_other_contact_relation">Anderer</string>
+    <string name="ios_photos_dialog_message">"In iCloud® gespeicherte Fotos können nicht kopiert werden.
+
+Du kannst diese Fotos auf dein ^1 übertragen, indem du die Google Fotos App auf deinem iPhone® installierst und \"Sichern und synchronisieren\" aktivierst. Unter "<b>g.co/datatransferhelp</b> erhältst du weitere Informationen.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Konto hinzufügen</string>
+    <string name="lockscreen_smartdevice_action_next">Weiter</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Entsperren, um mit der Einrichtung deines Smartphones fortzufahren</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Aus Sicherheitsgründen musst du die Displaysperre bestätigen, um mit der Einrichtung fortfahren zu können</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Displaysperre bestätigen</string>
+    <string name="manage_data_label">Google-Konto</string>
+    <string name="master_clear_title">Zurücksetzen auf Werkseinstellungen</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Netzwerkempfehlungen</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">WLAN-Benachrichtigungen</string>
+    <string name="notification_channel_network_available">Netzwerk verfügbar</string>
+    <string name="notification_channel_wakeup_name">WLAN ist aktiviert</string>
+    <string name="notification_content_text_set_backup_account">Sicherungskonto muss eingerichtet werden</string>
+    <string name="notification_content_title_set_backup_account">Sicherung</string>
+    <string name="notification_ticker">Zugriff angefragt</string>
+    <string name="notification_ticker_set_backup_account">Sicherungskonto erforderlich</string>
+    <string name="open_in_web_button">Im Web öffnen</string>
+    <string name="open_source_activity_prompt_heading">App öffnen</string>
+    <string name="open_source_activity_prompt_text">"Öffne auf deinem Smartphone SourceResponseActivity, um die Authentifizierung abzuschließen. "</string>
+    <string name="opt_in_account_content_description">Konto auswählen. Aktuell ausgewählt: %1$s</string>
+    <string name="opt_in_account_null_state">Konto erstellen</string>
+    <string name="opt_in_agreement">Indem du fortfährst, stimmst du den <a href="https://play.google.com/about/play-terms.html">Nutzungsbedingungen von Google Play</a> zu. <a href="https://support.google.com/googleplay/?p=instant_apps">Weitere Informationen</a></string>
+    <string name="opt_in_confirm">Ich bin dabei</string>
+    <string name="opt_in_description">"Wenn du auf einen Link tippst, überprüft Google Play, ob eine Instant-App existiert, und führt sie ohne Installation aus. Instant-Apps werden vorübergehend auf deinem Gerät gespeichert.
+
+Instant-Apps fordern die entsprechenden Berechtigungen an, sobald du sie nutzt. Die App-Details einschließlich der In-App-Käufe findest du im Google Play Store. Die App-Daten und -Einstellungen werden mit Geräten synchronisiert, auf denen du im folgenden Konto angemeldet bist:"</string>
+    <string name="opt_in_description_m_plus">"Wenn du auf einen Link tippst, überprüft Google Play, ob eine Instant-App existiert, und führt sie ohne Installation aus. Instant-Apps werden vorübergehend auf deinem Gerät gespeichert.
+
+Die App-Details einschließlich der In-App-Käufe findest du im Google Play Store. Die App-Daten und -Einstellungen werden mit Geräten synchronisiert, auf denen du im folgenden Konto angemeldet bist:"</string>
+    <string name="opt_in_subtitle">Apps ohne Installation verwenden</string>
+    <string name="opt_in_title">Instant-Apps</string>
+    <string name="permgrouplab_calendar">Kalender</string>
+    <string name="permgrouplab_camera">Kamera</string>
+    <string name="permgrouplab_contacts">Kontakte</string>
+    <string name="permgrouplab_location">Standort</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Smartphone</string>
+    <string name="permgrouplab_sensors">Körpersensoren</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Speicher</string>
+    <string name="permissions_not_granted_text">Um Zugriffe zu gewähren, melden Sie sich noch einmal an.</string>
+    <string name="permissions_not_granted_title">Zugriffe nicht gewährt.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Zurzeit werden in keinem Konto gesicherte Fotos gespeichert</string>
+    <string name="photos_backup_title">Fotos sichern</string>
+    <string name="photos_filtering_option_all">Alle</string>
+    <string name="photos_filtering_option_none">Keine</string>
+    <string name="plus_manage_app_only_you_label">Nur für mich</string>
+    <string name="plus_network_unreliable">Es kann keine stabile Verbindung zum Server hergestellt werden.</string>
+    <string name="plus_oob_interstitial_loading_text">Dies kann einige Minuten dauern.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopierte Kontakte werden in deinem Google-Konto gespeichert.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopierte Kontakte und Kalender werden in deinem Google-Konto gespeichert.</string>
+    <string name="restore_choice_data_disclaimer_v2">Einige der Daten werden unter Umständen nicht auf dein Gerät ^1 kopiert. <annotation id="restore_choice_data_disclaimer_learn_more">Weitere Informationen</annotation></string>
+    <string name="restore_choice_deselect_some_content">Hebe die Auswahl einiger Inhalte auf, um fortzufahren</string>
+    <string name="restore_choice_learn_more_android">"Einige Daten von deinem alten Gerät können nicht automatisch kopiert werden:
+
+ ● Downloads, z. B. PDF-Dateien
+
+ ● Fotos, Videos &amp; Musik in ausgeblendeten Ordnern
+
+ ● Per SMS empfangene Fotos, Videos &amp; Musik
+
+ ● Apps, die nicht aus dem Google Play Store stammen
+
+ ● App-Daten, wenn die App nicht den Android Backup Service verwendet
+
+ ● Bestimmte Geräteeinstellungen
+
+ ● Andere Konten als Google-Konten (und alle dazugehörigen Daten)
+
+ ● Kontakte &amp; Kalender, die mit anderen Diensten als Google synchronisiert wurden
+
+ ● Klingeltöne
+
+ Weitere Informationen und Hilfe beim Übertragen von Daten erhältst du unter g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Einige Daten von deinem alten Smartphone können nicht automatisch kopiert werden:
+
+ ● Apps und App-Daten
+
+ ● Fotos, für die kein Original auf dem Gerät gespeichert ist (wenn z. B. \"Speicher optimieren\" aktiviert ist, werden Originale in iCloud® gespeichert)
+
+ ● In iCloud® gespeicherte Dateien und Dokumente
+
+ ● Geräteeinstellungen wie WLAN-Passwörter und Hintergründe
+
+ ● Musik mit DRM-Schutz (Digital Rights Management), z. B. Musik, die vor April 2009 in iTunes® gekauft oder zum Offlinehören in eine Musikstreaming-App heruntergeladen wurde
+
+ ● Andere Konten als Google-Konten (und alle dazugehörigen Daten)
+
+ ● Kontakte und Kalender, die mit anderen Diensten als Google oder iCloud® synchronisiert wurden
+
+ ● Lesezeichen aus Safari®
+
+ iMessage®-Anhänge sind unter \"Google Fotos\" > \"Geräteordner\" > \"Anhänge in Nachrichten\" verfügbar.
+
+ Weitere Informationen und Hilfe beim Übertragen von Daten erhältst du unter g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Zu wenig Speicherplatz</string>
+    <string name="restore_choice_total_text">der verfügbaren %1$s / %2$s zum Übertragen</string>
+    <string name="restore_error_message">Bei der Wiederherstellung ist ein Fehler aufgetreten.</string>
+    <string name="restore_instant_apps_notif_text">%1$s (erforderlich) wurde von diesem Gerät entfernt</string>
+    <string name="restore_instant_apps_notif_title">Instant-Apps wiederherstellen</string>
+    <string name="restore_item_appdata">App-Daten</string>
+    <string name="restore_item_calendar">Kalender</string>
+    <string name="restore_item_calendar_ical_description">iOS® Kalender, Google Kalender</string>
+    <string name="restore_item_calendar_ical_off_description">Google Kalender wird trotzdem synchronisiert</string>
+    <string name="restore_item_calendar_sync_description">Google Kalender wird synchronisiert</string>
+    <string name="restore_item_call_logs">Anrufliste</string>
+    <string name="restore_item_contacts">Kontakte</string>
+    <string name="restore_item_device_settings_description">WLAN-Passwörter und mehr</string>
+    <string name="restore_item_downloads">Downloads</string>
+    <string name="restore_item_email">E-Mail</string>
+    <string name="restore_item_email_description">Gmail wird synchronisiert</string>
+    <string name="restore_item_message_attachments">Anhänge in Nachrichten</string>
+    <string name="restore_item_messages">Nachrichten</string>
+    <string name="restore_item_music">Musik</string>
+    <string name="restore_item_photos">Fotos &amp; Videos</string>
+    <string name="restore_item_settings">Geräteeinstellungen</string>
+    <string name="restore_item_sms">SMS</string>
+    <string name="restore_item_will_be_synced_text">Diese Daten werden mit deinem Smartphone synchronisiert</string>
+    <string name="restore_progress_title">Wird wiederhergestellt…</string>
+    <string name="restore_supervisor_description">%1$s wiederherstellen, um Links in Instant-Apps zu öffnen</string>
+    <string name="restore_supervisor_success">Instant-Apps wiederhergestellt</string>
+    <string name="restore_supervisor_title">Instant-Apps wiederherstellen?</string>
+    <string name="search_menu_title">Suchen</string>
+    <string name="setup_failure_description">Android Instant Apps können nicht eingerichtet werden.<a href="https://support.google.com/googleplay/?p=instant_apps">Weitere Informationen</a></string>
+    <string name="setup_failure_title">Kann nicht eingerichtet werden</string>
+    <string name="sharedUserLabel">Google-Dienste</string>
+    <string name="sid_lsid_grant_detail">Über Cookies für die Sitzungs-ID (SID) und lokale Sitzungs-ID (LSID) wird deine Identität – ähnlich wie über ein Passwort – mit verschiedenen Anfragen eines Browsers verknüpft. Sie gewähren vollen Zugriff auf alle deine Kontodaten. Diese Cookies können nur von Browsern sinnvoll und in zulässigem Rahmen genutzt werden.</string>
+    <string name="sid_lsid_grant_label">SID- und LSID-Cookies für den Zugriff auf deine gesamten Google-Kontodaten verwenden.</string>
+    <string name="small_time_duration">Weniger als 1 Minute</string>
+    <string name="smartdevice_action_copy">Kopieren</string>
+    <string name="smartdevice_action_next">Weiter</string>
+    <string name="smartdevice_action_open_app">App öffnen</string>
+    <string name="smartdevice_action_skip">Überspringen</string>
+    <string name="smartdevice_action_try_another_way">Andere Methode versuchen</string>
+    <string name="smartdevice_action_turn_on_location">Standortdienste aktivieren</string>
+    <string name="smartdevice_alert_disconnected_message">"Das Gerät wurde getrennt.
+Um mit der Einrichtung fortzufahren, stelle die Verbindung wieder her und versuche es noch einmal."</string>
+    <string name="smartdevice_alert_disconnected_title">Gerät getrennt</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Diese Funktion kann nicht verwendet werden, weil dein Sicherungskonto von deinem Geräteadministrator verwaltet wird.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funktion nicht verfügbar</string>
+    <string name="smartdevice_alert_exit_setup_message">Möchtest du die Einrichtung deines anderen Geräts wirklich beenden?</string>
+    <string name="smartdevice_alert_exit_setup_title">Geräteeinrichtung beenden?</string>
+    <string name="smartdevice_alert_generic_error_title">Ein Problem ist aufgetreten</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Ein Problem ist aufgetreten.</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Du brauchst ein Google-Konto, um dein Gerät einzurichten.</string>
+    <string name="smartdevice_alert_no_accounts_text">Du brauchst ein Google-Konto, um das Gerät \"%s\" einzurichten.</string>
+    <string name="smartdevice_alert_no_accounts_title">Keine Konten zum Kopieren vorhanden</string>
+    <string name="smartdevice_alert_quit_button">Beenden</string>
+    <string name="smartdevice_alert_restart_setup_button">Einrichtung neu starten</string>
+    <string name="smartdevice_alert_setup_incomplete">Einrichtung wurde nicht abgeschlossen.</string>
+    <string name="smartdevice_alert_skip_button">Überspringen</string>
+    <string name="smartdevice_alert_start_over_button">Erneut versuchen</string>
+    <string name="smartdevice_alert_work_profile_message">Google for Work-Konten können noch nicht kopiert werden. Rufe nach dem Kopieren deiner anderen Google-Konten und Daten die Einstellungen auf deinem neuen Gerät auf, um dein Google for Work-Konto hinzuzufügen.</string>
+    <string name="smartdevice_alert_work_profile_title">Google for Work-Konto kann nicht kopiert werden</string>
+    <string name="smartdevice_application_label">Einrichten des Geräts</string>
+    <string name="smartdevice_choose_device">Wähle ein Gerät aus.</string>
+    <string name="smartdevice_companion_app_ready">Die %s App ist auf diesem Gerät bereits installiert.</string>
+    <string name="smartdevice_connect_to_wifi">Verbinde dein Gerät.</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Verbindung zu deinem Gerät wird hergestellt…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Deine Google- und Drittanbieter-Konten, Apps und Daten werden kopiert</string>
+    <string name="smartdevice_d2d_copy_account_text">Google-Konten, Apps und Daten auf dein anderes Gerät kopieren?</string>
+    <string name="smartdevice_d2d_copy_account_title">Auf anderes Gerät kopieren?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Nicht erkannt</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Stattdessen über Sperrbildschirm versuchen</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Bestätige zur Sicherheit deinen Fingerabdruck. Deine Google-Konten, Apps und Daten werden auf das Gerät \"%s\" kopiert.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Entsperre das Gerät, um die Einrichtung fortzusetzen.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Bestätige zur Sicherheit deine Displaysperre, um mit der Einrichtung fortzufahren.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Zum Fortfahren bestätigen</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Anderes Gerät kann nicht eingerichtet werden, weil auf deinem Gerät kein Bluetooth verfügbar ist.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Diese Funktion wurde aus Sicherheitsgründen deaktiviert. Tippe auf dem anderen Gerät auf \"Überspringen\" und fahre mit der Einrichtung fort.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Neues Gerät einrichten</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Einrichten des Geräts</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 einrichten</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Starte die Einrichtung neu und wähle dein ^1 aus, um sicherzustellen, dass du deine Google-Konten, Apps und Daten auf das richtige Gerät kopierst.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Der Code stimmt nicht überein?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Der Code stimmt nicht überein?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Vergewissere dich, dass auf deinem anderen Gerät dieser Code angezeigt wird. So stellst du sicher, dass du das richtige Gerät auswählst.</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Code bestätigen</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Mit einem eingeschränkten Nutzerprofil kann kein neues Gerät eingerichtet werden.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Einrichtung auf Gerät \"%s\" fertigstellen</string>
+    <string name="smartdevice_d2d_source_setup_success">Fast fertig!</string>
+    <string name="smartdevice_d2d_target_choice_description">Wenn du ein anderes Android-Gerät verwendest, kannst du deine aktuellen Einstellungen schnell auf dieses %s kopieren.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Hole das Beste aus deinem alten Android-Gerät heraus</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Als neues Gerät einrichten</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Von anderem Android-Gerät kopieren</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Nein danke</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK. Folge den nächsten Schritten, um dieses Gerät einzurichten.</string>
+    <string name="smartdevice_d2d_target_choice_title">Anderes Gerät vorhanden?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google-Konten, -Apps und -Daten von anderem Gerät kopieren</string>
+    <string name="smartdevice_d2d_target_continue_description">Fahre auf dem anderen Gerät mit der Einrichtung fort.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Konten werden kopiert…</string>
+    <string name="smartdevice_d2d_target_description">Zurück zu deinem anderen Gerät:&lt;br/>&lt;br/> 1. Sage &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> oder gib \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" ein und tippe zur Bestätigung&lt;br/>&lt;br/> 2. Tippe in der Liste auf &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> und folge der Anleitung auf dem Bildschirm</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Alternative Methode ausprobieren</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Auf deinem anderen Gerät:&lt;br/>&lt;br/> 1. Öffne die App &lt;b>Google Einstellungen&lt;/b>.&lt;br/>&lt;br/> 2. Wähle &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Nearby-Gerät einrichten>%1$s&lt;/xliff:g>&lt;/b> aus.&lt;br/>&lt;br/> 3. Tippe in der Liste auf &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> und folge der Anleitung auf dem Bildschirm.</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Ich kann diese Schritte nicht ausführen</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Einstellungen verwenden</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">Auf deinem anderen Gerät:&lt;br/>&lt;br/> 1. Tippe auf das Symbol \"Alle Apps\" und öffne dann die App &lt;b>Einstellungen&lt;/b> &lt;br/>&lt;br/> 2. Tippe auf &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Wähle &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Nearby-Gerät einrichten>%1$s&lt;/xliff:g>&lt;/b> aus &lt;br/>&lt;br/> 4. Tippe in der Liste auf &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> und folge der Anleitung auf dem Bildschirm</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Von einem anderen Android-Gerät kopieren</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Probleme?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Gerät wird nicht erkannt?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Google App auf deinem anderen Gerät öffnen</string>
+    <string name="smartdevice_d2d_target_instruction_description">Öffne die Google App.</string>
+    <string name="smartdevice_d2d_target_instruction_title">Auf deinem anderen Gerät</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Zum Kopieren: 
+
+1. Vergewissere dich, dass das andere Gerät eingeschaltet und entsperrt ist. 
+
+2. Halte beide Geräte Rücken an Rücken, bis du einen Ton hörst. Lege sie dann beiseite."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Bei \"Per NFC übertragen\" werden deine Google-Konten, Apps und Daten mittels NFC von einem anderen Gerät kopiert. Vergewissere dich in den Einstellungen des Geräts, dass NFC aktiviert ist.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Probleme?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Per NFC übertragen</string>
+    <string name="smartdevice_d2d_target_other_device_description">Die Google App ist auf allen Android-Geräten vorinstalliert. Tippe auf dem Startbildschirm auf \"Alle Apps\" und suche das oben angezeigte Symbol.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Dieser Code sollte mit dem Code auf deinem anderen Gerät übereinstimmen:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Nicht überspr.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Dieses Konto oder gesicherte Apps und Daten werden bei der Einrichtung nicht auf dieses Gerät kopiert.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Trotzd.überspr.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Dieses Konto überspringen?</string>
+    <string name="smartdevice_d2d_target_title">In der Google App</string>
+    <string name="smartdevice_default_device_name">Gerät</string>
+    <string name="smartdevice_install_app">App installieren</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Lade die App \"%s\" herunter und steuere und verwalte dein neues Gerät \"%s\" über dieses Gerät.</string>
+    <string name="smartdevice_install_on_this_device">Installieren</string>
+    <string name="smartdevice_search_again">Noch einmal suchen</string>
+    <string name="smartdevice_searching_for_devices">Suche nach Geräten</string>
+    <string name="smartdevice_setup_enter_code">Gib den Code auf deinem Gerät ein. Er müsste auf einem Sticker angezeigt werden.</string>
+    <string name="smartdevice_setup_enter_code_hint">Code eingeben</string>
+    <string name="smartdevice_setup_enter_pin_4">Gib den 4-stelligen Code ein, der zurzeit auf deinem Gerät angezeigt wird.</string>
+    <string name="smartdevice_setup_google_app_trigger">Mein Gerät einrichten</string>
+    <string name="smartdevice_setup_info_installing_app">App wird installiert…</string>
+    <string name="smartdevice_setup_intro_text">Für die Einrichtung des anderen Geräts werden das Bluetoothmodul deines Smartphones und deine WLAN-Daten verwendet.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Für die Einrichtung des anderen Geräts wird das Bluetoothmodul deines Smartphones verwendet.</string>
+    <string name="smartdevice_setup_intro_title">Erste Schritte</string>
+    <string name="smartdevice_setup_password_hint">WLAN-Passwort eingeben</string>
+    <string name="smartdevice_setup_show_password">Passwort anzeigen</string>
+    <string name="smartdevice_setup_title_verify_code">Code bestätigen</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Für die Einrichtung dieses Geräts können nur offene Netzwerke und WPA/WPA2-Netzwerke verwendet werden.</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WLAN-Netzwerk kann nicht verwendet werden</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Ohne WLAN funktioniert dein Gerät möglicherweise nicht richtig. Verbinde es mit einem WLAN-Netzwerk, um mit der Einrichtung fortzufahren.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">WLAN-Netzwerk auswählen</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Aktivier die Standortdienste, um nach einem WLAN zu suchen.
+
+Du kannst dies später jederzeit in den Einstellungen ändern."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Suche nach WLANs nicht möglich</string>
+    <string name="source_connected_description">Wird vorbereitet...</string>
+    <string name="source_connected_title">Verbunden mit \"%1$s\"</string>
+    <string name="source_copying_description">Die ausgewählten Daten werden auf dein neues Smartphone kopiert</string>
+    <string name="source_copying_title">Wird kopiert...</string>
+    <string name="source_default_target_device_name">neues Gerät</string>
+    <string name="source_notification_device_disconnected">Verbinde das Kabel noch einmal neu</string>
+    <string name="source_notification_text">Daten werden von Smartphone zu Smartphone übertragen</string>
+    <string name="source_notification_title">Datenübertragung</string>
+    <string name="source_success_description">Schließe die Einrichtung von \"%1$s\" ab.</string>
+    <string name="source_success_screen_title">Fertig!</string>
+    <string name="source_unplugged_description">\"%1$s\" wieder anschließen</string>
+    <string name="source_unplugged_title">Kabel getrennt</string>
+    <string name="source_waiting_title">Mit der Einrichtung von \"%1$s\" fortfahren</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Schließen</string>
+    <string name="stop_copying_dialog_message_before_transfer">Deine Daten wurden nicht auf dein neues Smartphone kopiert</string>
+    <string name="stop_copying_dialog_message_during_transfer">Einige deiner Daten wurden nicht auf dein neues Smartphone kopiert</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nicht kopieren</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Abbrechen</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nicht kopieren?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Kopieren abbrechen?</string>
+    <string name="storage_management_wear_descriptive_text">Apps nutzen den Speicher Ihres Geräts zur Replikation von Daten auf einem Wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Wearable-Speicher verwalten</string>
+    <string name="storage_management_wear_size_label">Wearable-Speicher</string>
+    <string name="storage_managment_all_storage_descriptive_text">Gesamtmenge der von den Google Play-Diensten verwendeten Daten, einschließlich von Suchmaschinendaten und weiteren Daten</string>
+    <string name="storage_managment_clear_all_data">Alle Daten löschen</string>
+    <string name="storage_managment_computing_size">Berechnung läuft...</string>
+    <string name="storage_managment_icing_size_label">Suchdaten</string>
+    <string name="storage_managment_manage_icing_button">Suchdaten verwalten</string>
+    <string name="storage_managment_search_index_descriptive_text">Die Suche auf deinem Gerät wird durch die Bereitstellung einer Suchmaschine beschleunigt, die deine Apps nutzen können.</string>
+    <string name="storage_managment_title">Speicher für Google Play-Dienste</string>
+    <string name="storage_managment_total_size_label">Gesamtspeicherplatz</string>
+    <string name="supervisor_downloading_description">%1$s wird heruntergeladen</string>
+    <string name="supervisor_downloading_title">Wir richten noch schnell dein Gerät ein</string>
+    <string name="supervisor_installing_description">%1$s wird installiert</string>
+    <string name="supervisor_title">Google Play-Dienste für Instant-Apps</string>
+    <string name="suw_back_button_label">Zurück</string>
+    <string name="suw_more_button_label">Mehr</string>
+    <string name="suw_next_button_label">Weiter</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Für weitere Informationen tippen</string>
+    <string name="system_update_activity_battery_low_text">Akku ist zu schwach für die Installation des Updates</string>
+    <string name="system_update_activity_name">Systemupdates</string>
+    <string name="system_update_activity_roaming_text">Während des Roamings können keine Systemupdates heruntergeladen werden.</string>
+    <string name="system_update_activity_roaming_text_glif">Download während Roaming nicht möglich</string>
+    <string name="system_update_android_version_text">Android-Version: ^1</string>
+    <string name="system_update_check_now_button_text">Auf Updates überprüfen</string>
+    <string name="system_update_checking_status_text">Wird überprüft...</string>
+    <string name="system_update_complete_label">Systemupdate</string>
+    <string name="system_update_countdown_cancel_button">Installation abbrechen</string>
+    <string name="system_update_countdown_complete">Neustart…</string>
+    <string name="system_update_download_and_install_button_text">Herunterladen und installieren</string>
+    <string name="system_update_download_button_text">Download</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Nicht genug Speicherplatz für Download</string>
+    <string name="system_update_download_failed_no_space_status_text">Nicht genügend Speicherplatz für Download</string>
+    <string name="system_update_download_failed_status_text">Downloadfehler</string>
+    <string name="system_update_download_manage_storage_button_text">Speicher verwalten</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Auf WLAN wird gewartet</string>
+    <string name="system_update_download_paused_title_text">Download angehalten</string>
+    <string name="system_update_download_retry_button_text">Download wiederholen</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Update wird automatisch zwischen ^1 und ^2 heruntergeladen.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Du kannst dieses Update jederzeit über WLAN herunterladen. Ansonsten wird es automatisch zwischen ^1 und ^2 heruntergeladen.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Um dieses Update herunterzuladen, wechsle zuerst zu deiner anderen SIM-Karte.</string>
+    <string name="system_update_download_waiting_status_text">Wartet auf Download</string>
+    <string name="system_update_downloading_status_text">Download läuft</string>
+    <string name="system_update_downloading_title_text">Systemupdate wird heruntergeladen…</string>
+    <string name="system_update_downloading_wifi_status2_text">Über ^1 nur bis ^2</string>
+    <string name="system_update_file_browser_ok_button">Auswählen</string>
+    <string name="system_update_file_browser_title">Updatedatei auswählen</string>
+    <string name="system_update_free_up_space_button_text">Speicherplatz freigeben</string>
+    <string name="system_update_from_sd_card_button_and_title">Von SD-Karte aktualisieren</string>
+    <string name="system_update_from_sd_card_unknown_status">Überprüfung erfolgt...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Verifizierung nicht möglich</string>
+    <string name="system_update_from_sd_card_verified_description">Das Update ist verifiziert und bereit zur Installation.</string>
+    <string name="system_update_from_sd_card_verifying_status">Verifizieren...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Nicht getaktetes WLAN erforderlich</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">WLAN empfohlen</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Dieses Update kann über ^1 nur bis ^2 heruntergeladen werden.
+
+Stelle eine Verbindung zu ^3 her, um mit dem Download fortzufahren."</string>
+    <string name="system_update_glif_wifi_needed_title">WLAN erforderlich</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Um mögliche Kosten für die Datennutzung zu vermeiden, stelle eine Verbindung zu einem nicht getakteten WLAN her.</string>
+    <string name="system_update_install_button_text">Neu starten &amp; installieren</string>
+    <string name="system_update_install_failed_button_qualifier_text">Installationsproblem</string>
+    <string name="system_update_install_failed_title_text">Fehler bei Update</string>
+    <string name="system_update_install_steps_text">Schritt 1 von 2</string>
+    <string name="system_update_installing_title_text">Systemupdate wird installiert…</string>
+    <string name="system_update_last_checkin">Letzte Überprüfung auf Updates ^1</string>
+    <string name="system_update_last_checkin_glif">Letzte Überprüfung auf Updates ^1</string>
+    <string name="system_update_managed_by_policy">Das Update der Systemsoftware dieses Geräts wird von deiner Organisation verwaltet.</string>
+    <string name="system_update_no_update_content_text">Dein System ist momentan auf dem neuesten Stand.</string>
+    <string name="system_update_no_update_content_text_glif">Dein System ist auf dem neuesten Stand</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Systemupdate konnte nicht heruntergeladen werden.</string>
+    <string name="system_update_not_owner_text">Ein Systemsoftware-Update ist verfügbar, es kann jedoch nur vom Eigentümer installiert werden.</string>
+    <string name="system_update_notification_header_name">Android-Systemupdate</string>
+    <string name="system_update_pause_button_text">Download anhalten</string>
+    <string name="system_update_processing_status_text">In Bearbeitung</string>
+    <string name="system_update_requires_restart_status_text">Erfordert Neustart</string>
+    <string name="system_update_restart_to_install_button_text">Zum Installieren jetzt neu starten</string>
+    <string name="system_update_restart_to_update_button_text">Zum Aktualisieren jetzt neu starten</string>
+    <string name="system_update_resume_button_text">Fortfahren</string>
+    <string name="system_update_scheduled_status_text">Geplant</string>
+    <string name="system_update_security_patch_level_text">Stand der Sicherheitsupdates: ^1</string>
+    <string name="system_update_security_update_available_title_text">Sicherheitsupdate verfügbar</string>
+    <string name="system_update_security_update_downloading_title_text">Sicherheitsupdate wird heruntergeladen…</string>
+    <string name="system_update_security_update_installing_title_text">Sicherheitsupdate wird installiert…</string>
+    <string name="system_update_size_label">Updategröße:</string>
+    <string name="system_update_suw_download_and_install_text">"Das Herunterladen und Installieren dieses Updates dauert einige Minuten.
+
+Danach startet dein Gerät automatisch neu."</string>
+    <string name="system_update_suw_download_text">"Das Herunterladen dieses Updates dauert einige Minuten.
+
+Danach startet dein Gerät automatisch neu."</string>
+    <string name="system_update_suw_download_title">Update wird heruntergeladen…</string>
+    <string name="system_update_suw_restart_text">Das Gerät wird neu gestartet, damit dein Systemupdate installiert werden kann.</string>
+    <string name="system_update_suw_restart_title">Gerät wird in Kürze neu gestartet</string>
+    <string name="system_update_suw_wifi_needed">Wähle ^1 aus, um den Download fortzusetzen.</string>
+    <string name="system_update_update_available_download_message_wearable">Zum Herunterladen nach links wischen</string>
+    <string name="system_update_update_available_notification_message">Für weitere Informationen und zum Herunterladen tippen</string>
+    <string name="system_update_update_available_notification_title">Systemupdate verfügbar</string>
+    <string name="system_update_update_available_tap_to_download">Zum Herunterladen tippen</string>
+    <string name="system_update_update_available_title_text">Systemupdate verfügbar</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Download angehalten</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Nicht genug Speicherplatz verfügbar</string>
+    <string name="system_update_update_downloaded_charge_wearable">Lade den Akku auf mindestens %d %% auf.</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Zum Installieren nach links wischen</string>
+    <string name="system_update_update_downloaded_notification_message">Für weitere Informationen und zum Installieren tippen</string>
+    <string name="system_update_update_downloaded_notification_title">Systemupdate heruntergeladen</string>
+    <string name="system_update_update_downloaded_tap_to_install">Zum Installieren tippen</string>
+    <string name="system_update_verification_failed_text">Fehler bei der Überprüfung</string>
+    <string name="system_update_verified_status_text">Heruntergeladen und überprüft</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Problem beim Bestätigen</string>
+    <string name="system_update_verifying_status_text">Überprüfung</string>
+    <string name="system_update_wearable_countdown_message">Neustart in %d…</string>
+    <string name="target_default_source_device_model">altes Gerät</string>
+    <string name="target_device_not_supported_cant_continue_description">Wähle zum Kopieren der Daten eine andere Methode</string>
+    <string name="target_device_not_supported_cant_continue_title">Anderes Smartphone wird nicht unterstützt</string>
+    <string name="target_device_not_supported_try_restarting_description">"Zieh das Kabel heraus und starte dein altes Smartphone neu, schließ das Kabel dann wieder an und folge der Anleitung auf dem Pixel.
+
+Wenn dieser Fehler weiterhin auftritt, musst du die Daten möglicherweise auf andere Art kopieren."</string>
+    <string name="target_device_not_supported_try_restarting_title">Smartphone wird möglicherweise nicht unterstützt</string>
+    <string name="target_smart_device_timeout_add_account">KONTO HINZUFÜGEN</string>
+    <string name="target_smart_device_timeout_description">Du kannst versuchen, dein Konto manuell hinzuzufügen</string>
+    <string name="target_smart_device_timeout_dismiss">SCHLIESSEN</string>
+    <string name="target_smart_device_timeout_title">Probleme?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Smartphones sind verbunden</string>
+    <string name="toast_reconnect_cable">Verbinde das Kabel noch einmal neu</string>
+    <string name="transfer_finished_fragment_title">Ein paar Kleinigkeiten werden angepasst…</string>
+    <string name="transfer_summary_copied">Daten kopiert</string>
+    <string name="transfer_summary_fragment_description">Du kannst das Kabel herausziehen.</string>
+    <string name="transfer_summary_fragment_finish">FERTIGSTELLEN</string>
+    <string name="transfer_summary_fragment_title">Die Übertragung auf dein Smartphone ist fast fertig</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Einige deiner Fotos wurden nicht kopiert. <annotation id="transfer_summary_learn_more">Weitere Informationen</annotation></string>
+    <string name="transfer_summary_not_copied">Daten nicht kopiert</string>
+    <string name="transfer_summary_partial">%1$s / %2$s kopiert</string>
+    <string name="transfer_summary_will_sync">Daten werden nach der Einrichtung synchronisiert</string>
+    <string name="transferring_fragment_calculating_remaining_time">Verbleibende Zeit wird berechnet…</string>
+    <string name="transferring_fragment_header">Wird kopiert...</string>
+    <string name="transferring_fragment_remaining_time">noch %1$s</string>
+    <string name="trust_instructions_description">Um fortzufahren, prüfe dein iPhone®-Gerät und gib die Verbindung frei</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari und iTunes sind in den USA und anderen Ländern eingetragene Marken von Apple Inc.</string>
+    <string name="unmetered_wifi_string">einem nicht getakteten WLAN</string>
+    <string name="url_load_unsuccessful_message">Dein Android-Gerät ist nicht mit einem mobilen Datendienst verbunden. Wenn du dir diese Informationen jetzt ansehen möchtest, rufe %s in einem Webbrowser auf.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Dein Android-Gerät ist mit keinem WLAN verbunden. Rufe %s in einem Webbrowser auf, um diese Informationen jetzt anzusehen.</string>
+    <string name="use_nearby_device_heading">Gerät in der Nähe verwenden?</string>
+    <string name="use_nearby_device_text">Möchtest du ein Gerät in der Nähe verwenden, um Anmeldedaten zu genehmigen?</string>
+    <string name="waiting_for_account_info_text">Warten auf Kontoinformationen…</string>
+    <string name="wifi_available_action_all_networks">Alle Netzwerke</string>
+    <string name="wifi_available_action_connect">Verbinden</string>
+    <string name="wifi_available_content_failed">Tippen, um alle Netzwerke zu sehen</string>
+    <string name="wifi_available_title">Mit offenem WLAN verbinden</string>
+    <string name="wifi_available_title_connected">Mit WLAN verbunden</string>
+    <string name="wifi_available_title_connecting">Verbindung mit offenem WLAN wird hergestellt</string>
+    <string name="wifi_available_title_failed">WLAN-Verbindung konnte nicht hergestellt werden</string>
+    <string name="wifi_string">ein WLAN</string>
+    <string name="wifi_wakeup_enabled_notification_context">Du bist in der Nähe eines gespeicherten Netzwerks: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">WLAN automatisch aktiviert</string>
+</resources>

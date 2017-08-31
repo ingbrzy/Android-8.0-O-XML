@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messages">
+        <item>{Method:\"getPIN\", Id:\"-1\", Message:\"Lo sentimos. Tenemos un error en el sistema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getPIN\", Id:\"-220\", Message:\"Tu cuenta no es elegible para este servicio. Para mas informacion por favor llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getPIN\", Id:\"1002\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getToken\", Id:\"-111\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getToken\", Id:\"-230\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-1\", Message:\"Lo sentimos. No podemos completar tu solicitud. Por favor llamanos al 800-922-0204. Codigo de Error ACL 10\", button1:\"Salir\", title:\"ALERTA\", show_code:\"false\"}</item>
+        <item>{Method:\"getACL\", Id:\"-160\", Message:\"Lo sentimos. No podemos completar tu solicitud. Por favor llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-170\", Message:\"Lo sentimos. No podemos completar tu solicitud. Por favor llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-220\", Message:\"Lo sentimos. No podemos completar tu solicitud. Por favor llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"permissions\", Id:\"91003\", Message:\"Verizon Login no puede funcionar porque requiere un permiso que ha sido revocado. Para restaurar la funcionalidad, por favor acepte los permisos solicitados cuando se le solicite. (1003)\", button1:\"Salir\", button2:\"Continuar\", title:\"ALERTA\", show_code:\"false\"}</item>
+        <item>{Method:\"permissions\", Id:\"1003\", Message:\"Verizon Login no puede funcionar porque requiere un permiso que ha sido revocado.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"-100\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"-160\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"1000\", Message:\"Lo sentimos. Tenemos un problema. Por favor intenta mas tarde. Si el problema continua, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"1001\", Message:\"Lo sentimos. Tenemos problemas con la conexión. Asegurate que tienes buena senal e intenta de nuevo. Si todavia no puedes conectarte, llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"3000\", Message:\"La aplicación estará lista para usarse en unos momentos...\", title:\"Processing\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"*\", Message:\"Lo sentimos. Tenemos un problema. Por favor llamanos al 800-922-0204.\", button1:\"Salir\", title:\"ALERTA\", show_code:\"false\"}</item>
+    </string-array>
+</resources>

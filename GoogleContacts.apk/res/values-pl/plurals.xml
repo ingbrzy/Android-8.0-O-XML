@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d zduplikowanego kontaktu</item>
+        <item quantity="one">1 zduplikowany kontakt</item>
+        <item quantity="few">%d zduplikowane kontakty</item>
+        <item quantity="many">%d zduplikowanych kontaktów</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d niedawnej rozmowy • Ostatnia %2$s</item>
+        <item quantity="one">%1$d niedawna rozmowa • Ostatnia %2$s</item>
+        <item quantity="few">%1$d niedawne rozmowy • Ostatnia %2$s</item>
+        <item quantity="many">%1$d niedawnych rozmów • Ostatnia %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktów</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktu · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+        <item quantity="few">%1$d kontakty · %2$s</item>
+        <item quantity="many">%1$d kontaktów · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakty zostały usunięte</item>
+        <item quantity="one">Kontakt został usunięty</item>
+        <item quantity="few">Kontakty zostały usunięte</item>
+        <item quantity="many">Kontakty zostały usunięte</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktu</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d kontaktów</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktu • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+        <item quantity="few">^1 kontakty • ^2</item>
+        <item quantity="many">^1 kontaktów • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importuj z kart SIM</item>
+        <item quantity="one">Importuj z karty SIM</item>
+        <item quantity="few">Importuj z kart SIM</item>
+        <item quantity="many">Importuj z kart SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktu</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktów</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Zaimportowano %d kontaktu z karty SIM</item>
+        <item quantity="one">Zaimportowano 1 kontakt z karty SIM</item>
+        <item quantity="few">Zaimportowano %d kontakty z karty SIM</item>
+        <item quantity="many">Zaimportowano %d kontaktów z karty SIM</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Udostępnij kontakty przez:</item>
+        <item quantity="one">Udostępnij kontakt przez:</item>
+        <item quantity="few">Udostępnij kontakty przez:</item>
+        <item quantity="many">Udostępnij kontakty przez:</item>
+    </plurals>
+</resources>

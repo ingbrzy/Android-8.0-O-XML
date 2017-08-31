@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d podvojenih stikov</item>
+        <item quantity="one">%d podvojen stik</item>
+        <item quantity="two">%d podvojena stika</item>
+        <item quantity="few">%d podvojeni stiki</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nedavnih klicev • Zadnji klic dne %2$s</item>
+        <item quantity="one">%1$d nedaven klic • Zadnji klic dne %2$s</item>
+        <item quantity="two">%1$d nedavna klica • Zadnji klic dne %2$s</item>
+        <item quantity="few">%1$d nedavni klici • Zadnji klic dne %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">%d stik</item>
+        <item quantity="two">%d stika</item>
+        <item quantity="few">%d stiki</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d stikov · %2$s</item>
+        <item quantity="one">%1$d stik · %2$s</item>
+        <item quantity="two">%1$d stika · %2$s</item>
+        <item quantity="few">%1$d stiki · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Stiki so izbrisani</item>
+        <item quantity="one">Stik je izbrisan</item>
+        <item quantity="two">Stiki so izbrisani</item>
+        <item quantity="few">Stiki so izbrisani</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d stikov</item>
+        <item quantity="one">%1$d stik</item>
+        <item quantity="two">%1$d stika</item>
+        <item quantity="few">%1$d stiki</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 stikov • ^2</item>
+        <item quantity="one">^1 stik • ^2</item>
+        <item quantity="two">^1 stika • ^2</item>
+        <item quantity="few">^1 stiki • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Uvoz s kartic SIM</item>
+        <item quantity="one">Uvoz s kartic SIM</item>
+        <item quantity="two">Uvoz s kartic SIM</item>
+        <item quantity="few">Uvoz s kartic SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d stikov</item>
+        <item quantity="one">%d stik</item>
+        <item quantity="two">%d stika</item>
+        <item quantity="few">%d stiki</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">S kartice SIM je uvoženih %d stikov</item>
+        <item quantity="one">S kartice SIM je uvožen %d stik</item>
+        <item quantity="two">S kartice SIM sta uvožena %d stika</item>
+        <item quantity="few">S kartice SIM so uvoženi %d stiki</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Skupna raba stikov prek aplikacije</item>
+        <item quantity="one">Skupna raba stikov prek aplikacije</item>
+        <item quantity="two">Skupna raba stikov prek aplikacije</item>
+        <item quantity="few">Skupna raba stikov prek aplikacije</item>
+    </plurals>
+</resources>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">כל %1$d האפליקציות</item>
+        <item quantity="one">אפליקציה אחת</item>
+        <item quantity="two">כל %1$d האפליקציות</item>
+        <item quantity="many">כל %1$d האפליקציות</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d אפליקציות נבחרו</item>
+        <item quantity="one">נבחרה אפליקציה אחת</item>
+        <item quantity="two">%1$d אפליקציות נבחרו</item>
+        <item quantity="many">%1$d אפליקציות נבחרו</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d אפליקציות כבר מותקנות</item>
+        <item quantity="one">אפליקציה אחת כבר מותקנת</item>
+        <item quantity="two">%1$d אפליקציות כבר מותקנות</item>
+        <item quantity="many">%1$d אפליקציות כבר מותקנות</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">‏%d חשבונות Google</item>
+        <item quantity="one">‏חשבון Google ‏%d</item>
+        <item quantity="two">‏%d חשבונות Google</item>
+        <item quantity="many">‏%d חשבונות Google</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">‏ המכשיר הזה שימש להגדרת ^1 עם חשבונות Google שלך והנתונים שהם מכילים</item>
+        <item quantity="one">‏ המכשיר הזה שימש להגדרת ^1 עם חשבון Google שלך והנתונים שהוא מכיל</item>
+        <item quantity="two">‏ המכשיר הזה שימש להגדרת ^1 עם חשבונות Google שלך והנתונים שהם מכילים</item>
+        <item quantity="many">‏ המכשיר הזה שימש להגדרת ^1 עם חשבונות Google שלך והנתונים שהם מכילים</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">בגיבוי יש %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+        <item quantity="one">בגיבוי יש %1$d אפליקציה.</item>
+        <item quantity="two">בגיבוי יש %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+        <item quantity="many">בגיבוי יש %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">%1$d אנשי קשר במכשיר</item>
+        <item quantity="one">איש קשר אחד במכשיר</item>
+        <item quantity="two">%1$d אנשי קשר במכשיר</item>
+        <item quantity="many">%1$d אנשי קשר במכשיר</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">‏%1$d ב-SIM, %2$d במכשיר</item>
+        <item quantity="one">‏%1$d ב-SIM, %2$d במכשיר</item>
+        <item quantity="two">‏%1$d ב-SIM, %2$d במכשיר</item>
+        <item quantity="many">‏%1$d ב-SIM, %2$d במכשיר</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">‏%1$d אנשי קשר ב-®iCloud</item>
+        <item quantity="one">‏איש קשר אחד ב-®iCloud</item>
+        <item quantity="two">‏%1$d אנשי קשר ב-®iCloud</item>
+        <item quantity="many">‏%1$d אנשי קשר ב-®iCloud</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">‏%1$d אנשי קשר ב-SIM</item>
+        <item quantity="one">‏איש קשר אחד ב-SIM</item>
+        <item quantity="two">‏%1$d אנשי קשר ב-SIM</item>
+        <item quantity="many">‏%1$d אנשי קשר ב-SIM</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">מצאנו %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+        <item quantity="one">מצאנו %1$d אפליקציה. האם אתה רוצה להעביר אותה?</item>
+        <item quantity="two">מצאנו %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+        <item quantity="many">מצאנו %1$d אפליקציות. בחר כמה או העבר את כולן.</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">‏מצאנו התאמה ל-%1$d מאפליקציות ®iOS שלך. בהתקנה של כל אחת מהאפליקציות, אתה מביע הסכמה להרשאות שלה. &lt;annotation id="apps_permissions_learn_more">למידע נוסף&lt;/annotation></item>
+        <item quantity="one">‏מצאנו התאמה לאחת מאפליקציות ®iOS שלך. בהתקנת האפליקציה, אתה מביע הסכמה להרשאות שלה. &lt;annotation id="apps_permissions_learn_more">למידע נוסף&lt;/annotation></item>
+        <item quantity="two">‏מצאנו התאמה ל-%1$d מאפליקציות ®iOS שלך. בהתקנה של כל אחת מהאפליקציות, אתה מביע הסכמה להרשאות שלה. &lt;annotation id="apps_permissions_learn_more">למידע נוסף&lt;/annotation></item>
+        <item quantity="many">‏מצאנו התאמה ל-%1$d מאפליקציות ®iOS שלך. בהתקנה של כל אחת מהאפליקציות, אתה מביע הסכמה להרשאות שלה. &lt;annotation id="apps_permissions_learn_more">למידע נוסף&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d פריטים נשארו…</item>
+        <item quantity="one">%1$d פריט נשאר…</item>
+        <item quantity="two">%1$d פריטים נשארו…</item>
+        <item quantity="many">%1$d פריטים נשארו…</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">שים לב! האירוע הזה כבר לא כולל את המשתתפים הבאים:</item>
+        <item quantity="one">שים לב! האירוע הזה כבר לא כולל את המשתתף הבא:</item>
+        <item quantity="two">שים לב! האירוע הזה כבר לא כולל את המשתתפים הבאים:</item>
+        <item quantity="many">שים לב! האירוע הזה כבר לא כולל את המשתתפים הבאים:</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">‏ מעתיק את החשבונות והנתונים שלך ב-Google…</item>
+        <item quantity="one">‏ מעתיק את החשבון והנתונים שלך ב-Google…</item>
+        <item quantity="two">‏ מעתיק את החשבונות והנתונים שלך ב-Google…</item>
+        <item quantity="many">‏ מעתיק את החשבונות והנתונים שלך ב-Google…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_generic_text">
+        <item quantity="other">‏מכשיר זה שימש להגדרת מכשיר אחר באמצעות חשבונות Google והנתונים שלך</item>
+        <item quantity="one">‏מכשיר זה שימש להגדרת מכשיר אחר באמצעות חשבון Google והנתונים שלך</item>
+        <item quantity="two">‏מכשיר זה שימש להגדרת מכשיר אחר באמצעות חשבונות Google והנתונים שלך</item>
+        <item quantity="many">‏מכשיר זה שימש להגדרת מכשיר אחר באמצעות חשבונות Google והנתונים שלך</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">‏המכשיר הזה שימש להגדרת ^1 עם החשבונות שלך ב-Google והנתונים שלהם</item>
+        <item quantity="one">‏המכשיר הזה שימש להגדרת ^1 עם החשבון שלך ב-Google והנתונים שלו</item>
+        <item quantity="two">‏המכשיר הזה שימש להגדרת ^1 עם החשבונות שלך ב-Google והנתונים שלהם</item>
+        <item quantity="many">‏המכשיר הזה שימש להגדרת ^1 עם החשבונות שלך ב-Google והנתונים שלהם</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">מאתחל כדי לבצע התקנה בעוד %d שניות…</item>
+        <item quantity="one">מאתחל כדי לבצע התקנה בעוד שנייה אחת…</item>
+        <item quantity="two">מאתחל כדי לבצע התקנה בעוד %d שניות…</item>
+        <item quantity="many">מאתחל כדי לבצע התקנה בעוד %d שניות…</item>
+    </plurals>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="messages">
+        <item>{Method:\"getPIN\", Id:\"-1\", Message:\"Sorry, we ran into a system error. Please try again later. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getPIN\", Id:\"-220\", Message:\"Your account is not eligible for this service. For more information, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getPIN\", Id:\"1002\", Message:\"Sorry, we ran into a problem. Please try again later. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getToken\", Id:\"-111\", Message:\"Sorry, we ran into a problem. Please try again later. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getToken\", Id:\"-230\", Message:\"Sorry, we ran into a problem. Please try again later. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-1\", Message:\"Sorry, we are unable to complete your request. Please call us at 800-922-0204. Error Code ACL 10\", button1:\"Close\", title:\"ALERT\", show_code:\"false\"}</item>
+        <item>{Method:\"getACL\", Id:\"-160\", Message:\"Sorry, we are unable to complete your request. Please call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-170\", Message:\"Sorry, we are unable to complete your request. Please call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"getACL\", Id:\"-220\", Message:\"Sorry, we are unable to complete your request. Please call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"permissions\", Id:\"91003\", Message:\"Verizon Login cannot function because a required permission has been revoked. To restore functionality, please allow the requested permissions when prompted. (1003)\", button1:\"Exit\", button2:\"Continue\", title:\"ALERT\", show_code:\"false\"}</item>
+        <item>{Method:\"permissions\", Id:\"1003\", Message:\"Verizon Login cannot function because a required permission has been revoked.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"-100\", Message:\"Sorry, we ran into a problem. Please try again or call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"-160\", Message:\"Sorry, we ran into a problem. Please try again. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>{Method:\"*\", Id:\"1000\", Message:\"Sorry, we ran into a problem. Please try again. If the problem persists, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+        <item>"{Method:\"*\", Id:\"1001\", Message:\"Sorry, we're having trouble connecting. Make sure you have a good signal and try again. If you still can't connect, call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}"</item>
+        <item>{Method:\"*\", Id:\"3000\", Message:\"Just a few moments while we prepare this application for use...\", title:\"Processing\", show_code:\"false\"}</item>
+        <item>{Method:\"*\", Id:\"*\", Message:\"Sorry, we ran into a problem. Please call us at 800-922-0204.\", button1:\"Close\", title:\"ALERT\", show_code:\"true\"}</item>
+    </string-array>
+</resources>

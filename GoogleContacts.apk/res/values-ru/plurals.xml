@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d повторяющегося контакта</item>
+        <item quantity="one">%d повторяющийся контакт</item>
+        <item quantity="few">%d повторяющихся контакта</item>
+        <item quantity="many">%d повторяющихся контактов</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d недавнего вызова • Последний: %2$s</item>
+        <item quantity="one">%1$d недавний вызов • Последний: %2$s</item>
+        <item quantity="few">%1$d недавних вызова • Последний: %2$s</item>
+        <item quantity="many">%1$d недавних вызовов • Последний: %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+        <item quantity="many">%d контактов</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d контакта · %2$s</item>
+        <item quantity="one">%1$d контакт · %2$s</item>
+        <item quantity="few">%1$d контакта · %2$s</item>
+        <item quantity="many">%1$d контактов · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Контакты удалены</item>
+        <item quantity="one">Контакты удалены</item>
+        <item quantity="few">Контакты удалены</item>
+        <item quantity="many">Контакты удалены</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d контакта</item>
+        <item quantity="one">%1$d контакт</item>
+        <item quantity="few">%1$d контакта</item>
+        <item quantity="many">%1$d контактов</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 контакта • ^2</item>
+        <item quantity="one">^1 контакт • ^2</item>
+        <item quantity="few">^1 контакта • ^2</item>
+        <item quantity="many">^1 контактов • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Импорт с SIM-карт</item>
+        <item quantity="one">Импорт с SIM-карт</item>
+        <item quantity="few">Импорт с SIM-карт</item>
+        <item quantity="many">Импорт с SIM-карт</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d контакта</item>
+        <item quantity="one">%d контакт</item>
+        <item quantity="few">%d контакта</item>
+        <item quantity="many">%d контактов</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Импортировано %d контакта с SIM-карты</item>
+        <item quantity="one">Импортирован %d контакт с SIM-карты</item>
+        <item quantity="few">Импортировано %d контакта с SIM-карты</item>
+        <item quantity="many">Импортировано %d контактов с SIM-карты</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Выберите способ отправки</item>
+        <item quantity="one">Выберите способ отправки</item>
+        <item quantity="few">Выберите способ отправки</item>
+        <item quantity="many">Выберите способ отправки</item>
+    </plurals>
+</resources>

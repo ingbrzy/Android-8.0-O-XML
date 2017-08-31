@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_capital_off">I-OFF</string>
+    <string name="abc_capital_on">I-ON</string>
+    <string name="abc_search_hint">Maghanap…</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi sa/kay %s</string>
+    <string name="abc_toolbar_collapse_description">I-collapse</string>
+    <string name="account_blocked_title">Naka-block ang Account</string>
+    <string name="account_level_title">Account Action Required</string>
+    <string name="account_removed_notification_text">Inalis ang %1$s dahil hindi naisagawa ang pamamahala ng device</string>
+    <string name="account_removed_notification_title">Naalis ang account</string>
+    <string name="android_privacy_policy_title">Karagdagang Patakaran sa Privacy</string>
+    <string name="app_has_in_app_purchases">Mga in-app na pagbili</string>
+    <string name="app_has_permissions">Mga Pahintulot: %s</string>
+    <string name="app_has_runtime_permissions">Hihingi ang app ng mga pahintulot</string>
+    <string name="app_level_title">Kahilingan sa Pag-sign in</string>
+    <string name="app_level_title_secondary">Hiling sa Pag-sign-in ng %s</string>
+    <string name="app_picker_app_already_installed_toast">Na-install na ang app na ito</string>
+    <string name="app_picker_loading">Naghahanap ng mga available na app…</string>
+    <string name="app_picker_loading_toast">Malapit nang mag-load ang mga available na app</string>
+    <string name="app_picker_no_apps">Walang mga napiling app</string>
+    <string name="app_picker_no_apps_found">Walang nakitang app</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Hindi maililipat sa iyong ^1 ang mga in-app na pagbili.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Maaaring hindi malipat sa iyong ^1 ang ilang in-app na pagbili.</string>
+    <string name="apps_permissions_described_v2">"Tanging mga sikat at libreng iOS® app lang ang maitutugma sa mga Android app. Hindi maililipat ang karamihan ng mga in-app na pagbili. Makakakita ka ng higit pang app sa Play Store kapag tapos na ang pag-set up.
+
+Maaaring kailanganin mong bigyan ang ilang app ng paunang pahintulot na i-access ang mga partikular na kakayahan o impormasyon sa iyong device. Nakaayos ang mga pahintulot ayon sa mga pangkat ng pahintulot. Sa pamamagitan ng pagpili na i-install ang mga app na ito, tinatanggap mo ang mga pahintulot na bahagi ng bawat pangkat. Nasa ibaba ang paglalarawan ng bawat pangkat ng mga pahintulot.
+
+Maaaring hindi kailangan ng ilang app ng paunang pagtanggap ng mga pahintulot. Kapag ginamit mo ang isa sa mga app na ito, maaari mong payagan o tanggihan ang indibidwal na pahintulot bago gamitin ng app ang ganoong uri ng data.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Sa pamamagitan ng pag-install sa bawat app, sumasang-ayon ka sa mga pahintulot nito. <annotation id="apps_permissions_learn_more">Matuto pa</annotation></string>
+    <string name="audience_selection_done">Tapos na</string>
+    <string name="auth_account_already_has_gmail">Mayroon nang Gmail ang account.</string>
+    <string name="auth_account_content_provider_label">Data ng Google Account</string>
+    <string name="auth_account_removed_default_description">Hindi nakumpleto ang pamamahala sa device. Magsimulang muli at mag-sign in ulit.</string>
+    <string name="auth_account_removed_default_title">Kinansela ang pag-setup</string>
+    <string name="auth_account_removed_dm_bad_result_description">Hindi makumpleto ang pamamahala sa device. Magsimulang muli at mag-sign in ulit.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Kailangan ng iyong domain ng pamamahala ng mobile device, ngunit hindi ito sinusuportahan sa device na ito. Subukang gumamit ng ibang account.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Di suportado ang pamamahala ng device</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Hindi maayos na na-install ang pamamahala sa device. Magsimulang muli at mag-sign in ulit.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Hindi ma-install</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Hindi nakumpleto ang pamamahala sa device. Magsimulang muli at mag-sign in ulit.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Kinansela ang setup</string>
+    <string name="auth_account_settings_title">Mga setting ng account</string>
+    <string name="auth_account_setup_title">Google Account</string>
+    <string name="auth_account_state_sync_title">Pag-sync sa Status ng Account</string>
+    <string name="auth_allow_button_label">Payagan</string>
+    <string name="auth_allow_external_site_access">Magkaroon ng tuluy-tuloy na access sa iyong data sa %s</string>
+    <string name="auth_app_permission_ok_footnote">Kapag nagpatuloy ka, papayagan mo ang app na ito at ang Google na gamitin ang iyong impormasyon alinsunod sa mga naaayong tuntunin ng serbisyo at patakaran sa privacy ng mga ito.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Payagan ang pag-login</string>
+    <string name="auth_authzen_allow_reset_button_text">Password reset</string>
+    <string name="auth_authzen_google_logo_label">Logo ng Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Naaprubahan ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Nakansela ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Payagan ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_desc_text">Nagsa-sign in mula sa %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Pinigilan ng Google ang pagtatangkang mag-sign in.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Maling numero</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Pindutin ang numerong ipinapakita sa ibang screen. Isa-sign in ka nito sa iyong computer.</string>
+    <string name="auth_authzen_login_challenge_title_text">Sinusubukang mag-sign in?</string>
+    <string name="auth_authzen_profile_picture_label">Larawan sa profile</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Piliin ang account kung saan sinusubukan mong mag-sign in:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Sinusubukang mag-sign in?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Walang nakitang mga notification ng pag-sign in.</string>
+    <string name="auth_authzen_pull_offline_error">Internal na Error</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Sa iyong computer, i-click ang \"Mayroong code?\" at pagkatapos ay i-type ang:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Kakasubok mo lang bang mag-login sa Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Naaprubahan ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_canceled_text">Nakansela ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Payagan ang pag-reset ng password mula sa %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Kailangan namin ang iyong pagkumpirma</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Pinigilan ng Google ang pagtatangkang i-reset ang password.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Maling numero</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Pindutin ang numerong ipinapakita sa kabilang screen. Ire-reset nito ang iyong password.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Payagan ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_reject_desc_text">May humiling na i-reset ang password ng iyong Google Account. Pinigilan ng Google ang pagtatangkang i-reset ang password.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Pinigilan ang pag-reset ng password.</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Hiniling mo ba na i-reset ang iyong password mula sa %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Sinubukang i-reset ang iyong password?</string>
+    <string name="auth_authzen_secure_account_button_text">I-secure account mo</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Naghahanap ng mga notification ng pag-sign in...</string>
+    <string name="auth_back_button_label">Bumalik</string>
+    <string name="auth_cant_add_work_account_message">Ang iyong organisasyon ang namamahala sa ganitong uri ng account.</string>
+    <string name="auth_captcha_instructions">I-type ang tekstong nakikita mo rito:</string>
+    <string name="auth_captcha_title">Kailangang Ilagay ang CAPTCHA</string>
+    <string name="auth_common_next_button">Susunod</string>
+    <string name="auth_common_skip">Laktawan</string>
+    <string name="auth_common_switch_accounts">Magpalit ng Account</string>
+    <string name="auth_communicating_message">Nakikipag-ugnay ang iyong device sa Google upang mag-save ng impormasyon sa iyong account. Maaari itong umabot ng hanggang 5 minuto.</string>
+    <string name="auth_confirm_creds_sync_title">Status ng Mga Kredensyal</string>
+    <string name="auth_d2d_source_alert_title">Tap &amp; Go</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">I-lock at i-verify</string>
+    <string name="auth_d2d_source_copy_notice">Kopyahin ang mga account at data sa isa mo pang device?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Pagkatapos mong patunayan, mao-on ang Bluetooth nang sa gayon ay maaaring makapag-ugnayan ang iyong mga device.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Pagkatapos mong patunayan, kokonekta ang iyong mga device sa pamamagitan ng Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Upang magpatuloy, ang iyong screen ay mala-lock at kakailanganin mong i-unlock ito para sa pagpapatunay.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Hindi magamit ang Tap &amp; Go dahil walang mga account sa device na ito.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Hindi magamit ang Tap &amp; Go dahil hindi available ang Bluetooth sa iyong device.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Mao-on ang Bluetooth nang sa gayon ay maaaring makapag-ugnayan ang iyong mga device.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Gumagamit ito ng Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Nakumpleto na ang Tap &amp; Go</string>
+    <string name="auth_d2d_source_restricted_user_toast">Hindi maaaring Mag-tap at Magpanumbalik mula sa isang pinaghihigpitang profile ng user.</string>
+    <string name="auth_d2d_source_title">I-restore ang Mga Account</string>
+    <string name="auth_d2d_source_unknown_device_name">Hindi Kilalang Device</string>
+    <string name="auth_d2d_target_sorry_alert">Paumanhin, may maling nangyari</string>
+    <string name="auth_d2d_target_tap_progress_message">Upang magpatuloy, i-tap ang OK sa isa mo pang device</string>
+    <string name="auth_d2d_target_title">Tap &amp; Go</string>
+    <string name="auth_d2d_target_unlock_progress_message">Tingnan ang iba mo pang device</string>
+    <string name="auth_d2d_target_wait_progress_message">Kinukuha ang mga account at data...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Tanggihan</string>
+    <string name="auth_device_management_download_app_icon">Icon ng app ng %s</string>
+    <string name="auth_device_management_download_description">Nangangailangan ng pamamahala sa mobile device ang account na ito. I-install ang ^1 app upang ipatupad ang mga patakaran sa seguridad na kinakailangan ng account.</string>
+    <string name="auth_device_management_download_description_kids">Upang idagdag ang account sa device na ito, i-install muna ang <b>^1</b>". Nakakatulong sa iyo ang 
+
+^1 sa pag-set up ng device na ito para sa iyong anak."</string>
+    <string name="auth_device_management_download_failed_message">Maipagpapatuloy mo pa rin ang pag-setup nang wala ang app na ito</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Hindi na-install ang pamamahala sa device. Maaalis ang account na ito. Subukang muli sa ibang pagkakataon.</string>
+    <string name="auth_device_management_download_failed_title">Hindi ma-download ang app</string>
+    <string name="auth_device_management_download_not_updated_message">Maipagpapatuloy mo pa rin ang pag-setup gamit ang kasalukuyang bersyon</string>
+    <string name="auth_device_management_download_paused">Naka-pause</string>
+    <string name="auth_device_management_download_progress">Nagda-download...</string>
+    <string name="auth_device_management_download_skip_message">Nangangailangan ang account na ito ng pamamahala sa device. Magpatuloy nang wala ito?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Nangangailangan ng pamamahala sa device ang pagdaragdag sa account na ito. Gusto mo bang magsimulang muli gamit ang ibang account?</string>
+    <string name="auth_device_management_go_back">Bumalik</string>
+    <string name="auth_device_management_screenlock_description">Upang ma-access ang iyong account sa trabaho sa device na ito, kakailanganin mong magtakda ng lock screen. Ito ang patakaran sa mobile device ng iyong organisasyon.</string>
+    <string name="auth_device_management_screenlock_skip_message">Kinakailangan ng account na ito ang seguridad ng screenlock. Gusto mo bang magsimula sa umpisa gamit ang ibang account?</string>
+    <string name="auth_device_management_start_description">Nangangailangan ng pamamahala sa mobile device ang account na ito. Kapag na-tap mo ang Susunod, tutulungan ka ng ^1 app na ipatupad ang mga patakaran sa seguridad na kinakailangan para sa account.</string>
+    <string name="auth_device_management_start_description_kids">Upang idagdag ang account sa device na ito, gamitin ang <b>^1</b>". Nakakatulong sa iyo ang 
+
+^1 sa pag-set up ng device na ito para sa iyong anak."</string>
+    <string name="auth_device_management_title">Pamamahala sa device</string>
+    <string name="auth_device_management_update_description">Nangangailangan ng pamamahala sa mobile device ang account na ito. Upang matugunan ang mga patakaran sa seguridad na nauugnay sa account, kailangan mong mag-install ng mas bagong bersyon ng ^1 app.</string>
+    <string name="auth_device_management_update_description_kids">Upang idagdag ang account sa device na ito, i-install muna ang pinakabagong bersyon ng <b>^1</b>". Nakakatulong sa iyo ang 
+
+^1 sa pag-set up ng device na ito para sa iyong anak."</string>
+    <string name="auth_dismiss_button_label">I-dismiss</string>
+    <string name="auth_doesnt_use_gmail">" Hindi gumagamit ng Gmail si "<b>^1</b>.</string>
+    <string name="auth_error_account_disabled">"Na-disable ang account na ito. 
+
+(Para sa mga detalye, bisitahin ang http://google.com/accounts gamit ang isang web browser.)"</string>
+    <string name="auth_error_account_not_verified">"Hindi pa nabe-verify ang account na ito. Tingnan ang iyong email at sundin ang isinamang link upang i-verify ang account na ito. 
+
+(Upang mabawi ang impormasyon ng iyong account, pumunta sa http://www.google.com/accounts/recovery sa iyong computer.)"</string>
+    <string name="auth_error_bad_password">Masyadong mahina o naglalaman ng mga di-wastong character ang password. Subukang muli.</string>
+    <string name="auth_error_bad_username">Di-wasto ang username.</string>
+    <string name="auth_error_generic_server_error">"Mayroong problema sa pakikipag-ugnayan sa mga server ng Google. 
+
+Subukang muli sa ibang pagkakataon."</string>
+    <string name="auth_error_invalid_second_factor">Gumamit ng password na partikular sa app sa halip na iyong regular password sa account.</string>
+    <string name="auth_error_login_failed">"Hindi nagtutugma ang iyong username at password. Subukang muli.
+
+Upang mabawi ang impormasyon ng iyong account, pumunta sa google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Upang ma-access ang iyong account, dapat kang mag-sign in sa web. I-tap ang Susunod upang simulan ang Pag-sign in sa browser.</string>
+    <string name="auth_error_no_network">"Wala kang koneksyon sa network. 
+
+Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network."</string>
+    <string name="auth_error_not_logged_in">Hindi naka-sign in ang user.</string>
+    <string name="auth_error_username_unavailable">Hindi available ang username.</string>
+    <string name="auth_existing_account_error_text">Mayroon nang account sa ^1 sa Android device na ito.</string>
+    <string name="auth_existing_account_error_title">Umiiral na ang account</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Hindi makapag-sign in sa device dahil sa kamakailang pagpapalit ng password. Pakisubukang mag-sign in muli pagkalipas ng 24 na oras mula noong nagpalit ng password.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Hindi na gagana ang mga feature ng proteksyon sa device.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Kapag nilipat ang huling Google account sa device sa labas ng iyong personal na profile, madi-disable ang mga feature sa proteksyon sa pagnanakaw sa device. Maaari kang magdagdag ng isa pang account sa device upang i-enable muli ang mga ito sa ibang pagkakataon.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Sigurado ka ba?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Ilipat ang account sa Profile sa Trabaho?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Hindi makapag-sign in sa device dahil sa hindi matukoy na error. Mangyaring sumubok ng isa pang account o subukang mag-sign in muli pagkalipas ng 24 na oras.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Mangyaring mag-sign in gamit ang isa sa mga account ng may-ari para sa device na ito</string>
+    <string name="auth_field_cant_be_blank">Hindi maaaring blangko ang field.</string>
+    <string name="auth_frp_add_account_no">Hindi</string>
+    <string name="auth_frp_add_account_prompt">Gusto mo na bang idagdag ang ^1 sa iyong device ngayon? Kung may isa ka pang account, maaari mo itong idagdag sa ibang pagkakataon.</string>
+    <string name="auth_frp_add_account_yes">Oo</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Hindi ma-access ang account na ito. Tiyaking sinusunod ng iyong device ang mga patakaran sa seguridad ng iyong organisasyon. Kung patuloy mong nakikita ang error na ito, makipag-ugnayan sa admin ng iyong organisasyon.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Error sa account</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Ang iyong domain ay nangangailangan ng pamamahala ng mobile device. I-install ang \"Google Apps Device Policy\" app upang maipatupad ang mga patakaran sa seguridad na kinakailangan ng  "<b>^1</b> account.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">I-download</string>
+    <string name="auth_gls_hint_illegal_chars">" Ang "<b>^1</b>" ay maaaring maglaman lang ng mga titik,
+numero, at tuldok."</string>
+    <string name="auth_gls_hint_numbers_only">" Hindi naglalaman ng anumang mga titik ang "<b>^1</b>.</string>
+    <string name="auth_gls_hint_size">" Ang "<b>^1</b> ay naglalaman ng wala pang 6 na character o mahigit sa 30 character.</string>
+    <string name="auth_gls_is_not_available">Hindi available ang username na <b>^1</b>.</string>
+    <string name="auth_gls_name_checking_info_title">Sinusuri ang impormasyon...</string>
+    <string name="auth_gls_sync_item_title">I-sync ang %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Dapat idagdag ang account na  "<b>^1</b> sa isang device o profile sa trabaho na pinapangasiwaan ng iyong organisasyon. Pakisunod ang mga ibinigay na tagubilin ng iyong IT admin upang magawa ito.</string>
+    <string name="auth_google_title_logo">Logo ng Google</string>
+    <string name="auth_invalid_login_character">Di-wastong character. 0-9, a-z, A-Z, at mga tuldok lang ang pinapayagan.</string>
+    <string name="auth_invalid_password_character">Di-wastong character sa password.</string>
+    <string name="auth_invalid_username">Hindi isang wastong username ang tekstong iyong na-type.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Kapag nagpatuloy, sumasang-ayon kang maaari ding awtomatikong mag-download at mag-install ng mga update at app ang device na ito mula sa Google, sa iyong carrier at sa manufacturer ng device na ito, kung posible ay sa pamamagitan ng cellular data. Maaaring mag-alok ng mga in-app na pagbili ang ilan sa mga app na ito. Maaari mong alisin ang mga app na ito anumang oras.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Magbakante ng espasyo kapag malapit nang mapuno ang storage ng device</b> sa pamamagitan ng pag-aalis ng ilang data sa device na ito, tulad ng mga naka-back up na larawan at video.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Awtomatikong i-back up ang data ng device</b> (gaya ng mga password ng Wi‑Fi at history ng tawag) at data ng app (gaya ng mga setting at file na inimbak ng mga app) sa Google Drive ng iyong anak.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Kapag na-on mo ang awtomatikong pag-back up, pana-panahong ise-save ang data ng device at app sa isang pribadong folder sa Google Drive ng iyong anak. Ang data ng app ay maaaring anumang data na na-save ng isang app (batay sa mga setting ng developer), kasama na ang posibleng sensitibong data gaya ng mga contact, mensahe at larawan.
+
+Hindi isasama sa bilang ang backup na data sa quota ng storage ng Drive ng iyong anak. Hindi maba-back up ang malalaking file o ang mga file na piniling ibukod ng mga developer mula sa serbisyo."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Awtomatikong i-back up ang data ng device</b> (gaya ng mga password ng Wi‑Fi, SMS at history ng tawag), mga setting at data ng app (gaya ng mga setting at file na na-store ng mga app) sa Google Drive ng iyong anak.</string>
+    <string name="auth_kids_setup_wizard_services_description">Bilang isang magulang, maaari mong i-on o i-off ang mga serbisyong ito anumang oras para sa account ng iyong anak. Gagamitin ang data alinsunod sa <annotation link="google_privacy">mga patakaran</annotation>" ng Google.
+
+Kung gusto mong matuto nang higit pa, maaari mong i-tap ang bawat serbisyo."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Gamitin ang serbisyo ng lokasyon ng Google upang makatulong sa mga app</b> na matukoy ang lokasyon ng iyong anak. Ipapadala sa Google ang anonymous na data ng lokasyon kapag naka-on ang device na ito.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Gumagamit ang serbisyo ng lokasyon ng Google ng mga pinagkukunan gaya ng mga Wi‑Fi at cellular network upang makatulong na matantya ang lokasyon ng device na ito nang mas mabilis at mas tumpak. Aktibo ang serbisyong ito kapag naka-on ang setting ng Lokasyon ng device na ito at nasa mode na gumagamit ng mga Wi‑Fi o mobile network upang matantya ang lokasyon, gaya ng High accuracy o Battery saving (Power saving) mode.
+
+Mao-off mo ang serbisyong ito sa pamamagitan ng:
+
+"<li>Pag-o-off sa pangunahing setting ng Lokasyon sa device na ito.</li>"
+
+"<li>Pagpapanatiling naka-on sa pangunahing setting ng Lokasyon at pagpili ng mode na gumagamit lang ng GPS, na tinatawag minsan na Device lang.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Tumulong sa pagpapaganda ng iyong karanasan sa Android</b> sa pamamagitan ng awtomatikong pagpapadala ng data ng diagnostic at data ng paggamit ng device at app sa Google. Hindi ito gagamitin upang matukoy ang pagkakakilanlan ng iyong anak at makakatulong ito sa pagpapatagal ng baterya, pagpapahusay sa stability ng app, koneksyon sa network at iba pa.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Ito ay pangkalahatang impormasyon tungkol sa device na ito at kung paano ito ginagamit (gaya ng antas ng baterya, paggamit ng app, at koneksyon sa network). Gagamitin ang data upang mapahusay ang mga produkto at serbisyo ng Google para sa lahat. Makakatulong ang ilang pinagsama-samang impormasyon sa mga kasosyo, gaya ng mga Android developer, na mas mapahusay rin ang kanilang mga app at produkto.
+
+Kapag na-off ang feature na ito, hindi maaapektuhan ang kakayahan ng device na ito na magpadala ng impormasyong kinakailangan para sa mahahalagang serbisyo gaya ng mga pag-update ng system at seguridad."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Ito ay pangkalahatang impormasyon tungkol sa device na ito at kung paano ito ginagamit (gaya ng antas ng baterya, paggamit ng app at koneksyon sa network). Gagamitin ang data upang mapahusay ang mga produkto at serbisyo ng Google para sa lahat. Makakatulong din ang ilang pinagsama-samang impormasyon sa mga kasosyo, gaya ng mga developer ng Android, na mapahusay ang kanilang mga app at produkto.
+
+Kapag na-off ang feature na ito, hindi ito makakaapekto sa kakayahan ng device na ito na maipadala ang impormasyong kinakailangan para sa mahahalagang serbisyo gaya ng mga update sa system at seguridad.
+
+Maaari mong kontrolin ang feature na ito mula sa Mga Setting > Google. Piliin ang Paggamit at diagnostics mula sa menu."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Nag-type ka ng maling password o nagbago ang iyong account. I-type muli ang iyong password. Kung nakalimutan mo ang password mo at kailangan mong bawiin ang iyong account, mag-click <annotation id="help_url">dito</annotation>.</string>
+    <string name="auth_login_activity_task_title">Nagsa-sign in…</string>
+    <string name="auth_login_activity_title">Mag-sign in</string>
+    <string name="auth_login_task_title">Nagsa-sign in</string>
+    <string name="auth_login_title">I-type ang Email at Password</string>
+    <string name="auth_minutemaid_ssl_error">Nagkaroon ng problema sa pagkonekta sa %s.</string>
+    <string name="auth_network_unreliable_help">Maaaring isa itong pansamantalang problema o maaaring hindi nailaan ang iyong Android device para sa mga serbisyo sa data. Kung magpatuloy ito, tumawag sa Customer Care.</string>
+    <string name="auth_next_button_label">Susunod</string>
+    <string name="auth_no_network">Wala kang koneksyon sa network.</string>
+    <string name="auth_no_network_help">Maaaring isa itong pansamantalang problema o maaaring hindi nailaan ang iyong Android device para sa mga serbisyo sa data. Subukang muli kapag nakakonekta sa isang mobile network, o kumonekta sa isang Wi-Fi network.</string>
+    <string name="auth_no_network_help_wifi_only">Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network.</string>
+    <string name="auth_otp_error">Nagkaroon ng problema sa pagbuo ng security code.</string>
+    <string name="auth_otp_explained_paragraph">Kung makalimutan mo ang iyong password o kung may maging bago sa iyong pag-sign in, maaaring humiling ang Google ng panseguridad na code upang protektahan ang iyong account. Gamitin ito ngayon o bumalik upang kumuha ng bago.</string>
+    <string name="auth_otp_header_message">Kailan gagamitin ang code na ito upang mag-sign in</string>
+    <string name="auth_otp_help">Tulong at feedback</string>
+    <string name="auth_otp_no_accounts_available_message">Walang account na naka-configure sa device na ito.</string>
+    <string name="auth_otp_progress_dialog_message">Bumubuo ng security code.</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_plus_audience_selection_description_acl">IBAHAGI SA/KAY</string>
+    <string name="auth_plus_failure_new_account_text">Nalikha ang iyong Google Account, ngunit hindi naipagpatuloy ang iyong kahilingang lumikha ng Google+ profile. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_plus_failure_text">Hindi naaprubahan ang iyong kahilingang sumali sa Google+. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_plus_failure_title">Lumikha ng Google+ profile sa ibang pagkakataon</string>
+    <string name="auth_plus_info_fragment_app_name">Gutso ng %s na:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">Gusto ng %s na nasa device na %s na:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Ang iyong mga extended na grupo</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Mga piniling circle</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Ikaw lang</string>
+    <string name="auth_plus_scope_fragment_public_label">Sinuman sa web</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Iyong mga circle</string>
+    <string name="auth_relogin_activity_title">Muling i-type ang password</string>
+    <string name="auth_remove_account_start_over">Magsimulang Muli</string>
+    <string name="auth_scope_more_details">Higit pang impormasyon</string>
+    <string name="auth_server_error">Nagkaroon ng problema sa pakikipag-ugnay sa mga server ng Google.</string>
+    <string name="auth_server_error_help">Subukang muli sa ibang pagkakataon.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Naidagdag ang Account</string>
+    <string name="auth_setup_wizard_account_added_description">Naidagdag na ang iyong account. Mangyaring magpatuloy upang pumili ng mga opsyon ng Mga Serbisyo ng Google</string>
+    <string name="auth_setup_wizard_back_button_label">Bumalik</string>
+    <string name="auth_setup_wizard_next_button_label">Susunod</string>
+    <string name="auth_setup_wizard_services_activity_title">Mga serbisyo ng Google</string>
+    <string name="auth_setup_wizard_services_agreement">Kapag nagpatuloy, sumasang-ayon kang maaari ding awtomatikong mag-download at mag-install ng mga update at app ang device na ito mula sa Google, sa iyong carrier at sa manufacturer ng iyong device, kung posible ay sa pamamagitan ng cellular data. Maaaring mag-alok ng mga in-app na pagbili ang ilan sa mga app na ito. Maaari mong alisin ang mga app na ito anumang oras.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">"Upang  mag-alis ng mga app, pumunta sa Mga Setting > Mga App o Application manager. Pagkatapos ay i-tap ang app na gusto mong i-uninstall (maaaring kailanganin mong mag-swipe pakanan o pakaliwa upang mahanap ang app). Pagkatapos ay i-tap ang I-uninstall o I-disable."</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Sa pamamagitan nito ay pinapayagan at binibigyan mo rin ng pahintulot ang mga pauna nang naka-load na app ng Google na mag-access ng impormasyon at mga function sa iyong device. Tingnan <annotation link="app_permissions">ang page na ito</annotation> para sa higit pang impormasyon sa paggamit ng mga pahintulot na ito.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Mag-install ng mga update at app</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Kapag malapit nang mapuno ang storage ng iyong telepono, magbakante ng espasyo sa pamamagitan ng pag-alis ng ilang data, tulad ng mga na-back up na larawan at video.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Kapag nakakonekta ka, maa-access mo pa rin ang data na ito. Makokontrol mo ang feature na ito at kung ano ang aalisin sa pamamagitan ng pagpunta sa Mga Setting > Storage > Smart Storage.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Magbakante ng espasyo</string>
+    <string name="auth_setup_wizard_services_backup">Madaling mag-restore o lumipat ng telepono anumang oras. Kabilang sa backup ang mga app, data ng app, at mga setting ng device (kabilang ang mga password ng Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Ang data ng app ay maaaring anumang data na na-save ng app (batay sa mga setting ng developer), kabilang ang data na maaaring sensitibo gaya ng mga contact, mensahe, at larawan.
+
+Hindi kabilang ang data ng backup sa iyong quota sa storage ng Drive.
+
+Mao-off mo ang serbisyong ito sa Mga Setting."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Ang data ng app ay maaaring anumang data na na-save ng isang app (batay sa mga setting ng developer), kabilang ang posibleng sensitibong data na gaya ng mga contact, mensahe, at larawan.
+
+Sini-sync sa Google Photos ang mga larawan at video sa device na ito upang mahanap, ma-edit, ma-delete, at maibahagi mula sa alinman sa iyong mga device. Bilang default, ia-upload ang mga full resolution na larawan at video.
+
+Hindi kabilang ang data ng backup sa iyong quota sa storage ng Drive.
+
+Maaari mong i-off ang serbisyong ito sa Mga Setting."</string>
+    <string name="auth_setup_wizard_services_backup_title">I-back up sa Google Drive</string>
+    <string name="auth_setup_wizard_services_backup_v23">Mag-restore o magpalit ng telepono sa madaling paraan anumang oras. Kabilang sa backup ang mga app, data ng app, history ng tawag, mga contact, at mga setting ng device (kabilang ang mga password sa Wi‑Fi at pahintulot).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Mag-restore o magpalit ng telepono sa madaling paraan anumang oras. Kabilang sa backup ang mga app, data ng app, history ng tawag, mga contact, mga setting ng device (kabilang ang mga password sa Wi‑Fi at pahintulot), at SMS.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Mag-restore o magpalit ng telepono sa madaling paraan anumang oras. Kabilang sa backup ang mga app, data ng app, history ng tawag, mga contact, mga setting ng device (kabilang ang mga password sa Wi-Fi at pahintulot), mga larawan, mga video, at SMS. Sini-sync sa iyong Google Account ang mga larawan at video at maaaring gamitin ang mga ito sa lahat ng serbisyo.</string>
+    <string name="auth_setup_wizard_services_description">I-tap upang matuto pa tungkol sa bawat serbisyo, gaya ng kung paano ito i-on at i-off sa ibang pagkakataon. Gagamitin ang data alinsunod sa <annotation link="google_privacy">Patakaran sa Privacy</annotation> ng Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Makikita ang mga detalye ng app kabilang ang mga in-app na pagbili sa Play Store. Nagsi-sync ang data ng app at mga setting sa mga device na naka-sign in gamit ang iyong Google Account. 
+
+Nasasaklawan ng "<a href="https://play.google.com/about/play-terms.html">Mga Tuntunin ng Serbisyo ng Google Play</a>" ang paggamit ng mga instant na app. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Matuto pa</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Kapag nag-tap ka ng link, susuriin ng Google Play kung mayroong Instant na app at papatakbuhin nito iyon nang hindi nag-i-install. Pansamantalang pinapanatili ang mga Instant na app sa iyong device.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Gumamit ng mga app nang hindi nag-i-install</string>
+    <string name="auth_setup_wizard_services_location_sharing">Gamitin ang serbisyo ng lokasyon ng Google upang matulungan ang mga app na matukoy ang iyong lokasyon. Ipapadala ang anonymous na data ng lokasyon sa Google kapag naka-on ang device mo.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Gumagamit ang serbisyo ng lokasyon ng Google ng mga pinagkukunan tulad ng mga Wi‑Fi at cellular network upang makatulong na matantya ang lokasyon ng iyong device nang mas mabilis at mas tumpak. Aktibo ang serbisyong ito kapag naka-on ang Setting ng lokasyon ng device mo at nasa mode na gumagamit ng mga Wi‑Fi o mobile network upang matantya ang lokasyon, gaya ng High accuracy o Battery saving (Power saving) mode.
+
+Mao-off mo ang serbisyong ito sa pamamagitan ng:
+
+"<li>Pag-o-off sa pangunahing setting ng Lokasyon ng iyong device.</li>"
+
+"<li>Pagpapanatiling naka-on sa pangunahing setting ng Lokasyon at pagpili ng mode na gumagamit lang ng GPS, na tinatawag minsan na Device lang.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Tulungan ang app na hanapin ang lokasyon</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Payagan ang mga app at serbisyo na mag-scan ng Wi‑Fi, kahit na naka-off ito.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Maaari mo itong i-off sa mga setting ng lokasyon.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Pahusayin ang katumpakan ng lokasyon</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Payagan ang mga app at serbisyo na mag-scan ng Wi‑Fi at Bluetooth, kahit na naka-off ang mga setting na ito.</string>
+    <string name="auth_setup_wizard_services_play">Panatilihin akong naaabisuhan tungkol sa mga balita at alok mula sa Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Backup at storage</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Pagpapanatili ng device</string>
+    <string name="auth_setup_wizard_services_section_location">Lokasyon</string>
+    <string name="auth_setup_wizard_services_tos">Kung magpapatuloy ka, sumasang-ayon ka rin sa <annotation link="tos">Mga Tuntunin ng Serbisyo ng Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Kapag ginamit mo ang device na ito, dapat kang sumunod sa aming <annotation link="google_privacy">Patakaran sa Privacy</annotation> at may naaangkop na <annotation link="tos">mga karagdagang tuntunin</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Tulungang pagandahin ang iyong karanasan sa Android sa pamamagitan ng awtomatikong pagpapadala ng data ng diagnostic at data ng paggamit ng device at app sa Google. Makakatulong ito na madagdagan ang itatagal ng baterya, stability ng app, koneksyon sa network, at higit pa. Kapag nag-on ka ng karagdagang Aktibidad sa Web at App, maso-store ang impormasyong ito gamit ang iyong account kaya mapapamahalaan mo ito sa Aking Aktibidad.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Ito ay pangkalahatang impormasyon tungkol sa iyong device at kung paano ito gamitin (gaya ng antas ng baterya, paggamit ng app, at koneksyon sa network). Gagamitin ang data upang mapahusay ang mga produkto at serbisyo ng Google para sa lahat. Makakatulong ang ilang pinagsama-samang impormasyon sa mga kasosyo, gaya ng mga Android developer, na mas mapahusay rin ang kanilang mga app at produkto.
+
+Kapag na-off ang feature na ito, hindi maaapektuhan ang kakayahan ng device mo na magpadala ng impormasyong kinakailangan para sa mahahalagang serbisyo gaya ng mga pag-update ng system at seguridad."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Maa-update mo ang mga setting ng Aking Aktibiad sa myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Makokontrol mo ang feature na ito mula sa Mga Setting ng Google. Piliin ang Paggamit at mga diagnostic sa menu.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Makokontrol mo ang feature na ito mula sa Mga Setting > Google. Piliin ang Paggamit at mga diagnostic sa menu.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Ipadala ang data ng system</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Payagan ang mga Live na wallpaper ng Google na tumugon sa iyong lokasyon sa pamamagitan ng pag-access sa serbisyo ng lokasyon ng Google.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Mao-on at mao-off mo ang serbisyo ng lokasyon ng Google para sa mga Live na wallpaper sa pamamagitan ng pagpunta sa Mga Setting > Mga app at notification > Impormasyon ng app. Sa overflow menu, i-tap ang Ipakita ang system > Mga live na data wallpaper o Mga Live na Earth Wallpaper > Mga Pahintulot.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Hayaang gamitin ng mga wallpaper ang lokasyon</string>
+    <string name="auth_setup_wizard_title">Wizard sa Pag-setup</string>
+    <string name="auth_show_error_activity_title">Hindi makapag-sign in</string>
+    <string name="auth_show_error_title">Error</string>
+    <string name="auth_sign_in_agreement">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa Mga Patakaran sa Privacy ng <annotation id="google_privacy">Google</annotation> at Mga <annotation id="android_privacy">Karagdagang</annotation> Patakaran sa Privacy.</string>
+    <string name="auth_sign_in_browser">Pag-sign in sa browser</string>
+    <string name="auth_sign_in_button_label">Mag-sign in</string>
+    <string name="auth_sign_in_with_google_account_short">Mag-sign in gamit ang iyong Google Account:</string>
+    <string name="auth_skip_button_label">Laktawan</string>
+    <string name="auth_submission_error_text">Nagkaroon ng error. Subukang muli.</string>
+    <string name="auth_submission_title">Paumanhin…</string>
+    <string name="auth_try_again_button_label">Subukang muli</string>
+    <string name="auth_ui_activity_authenticating">Pinapatotohanan…</string>
+    <string name="auth_ui_activity_title">Pag-sign in sa Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Mag-sign in</string>
+    <string name="auth_ui_add_account_title">Pag-setup ng account</string>
+    <string name="auth_uncertified_notification_content">Hindi na-certify ng manufacturer ang device na ito</string>
+    <string name="auth_uncertified_notification_description">"Ang manufacturer ng device na ito ay gumagamit ng mga Google app nang hindi sine-certify ang device na ito sa Google. 
+
+Maaaring hindi secure ang mga hindi na-certify na device at maaaring hindi makatanggap ang mga ito ng mga pag-update ng system o app. Maaaring hindi gumana nang maayos ang mga app at feature, gaya ng pagba-back up ng mga file o larawan. 
+
+Makipag-ugnayan sa manufacturer ng iyong device upang maayos ang isyung ito. 
+
+Maaari mong bisitahin ang %s para sa higit pang impormasyon sa mga certified partner ng Google."</string>
+    <string name="auth_uncertified_notification_learn_more">Matuto Pa</string>
+    <string name="auth_uncertified_notification_title">Babala: Hindi Na-certify na Device</string>
+    <string name="auth_username">Email</string>
+    <string name="auth_work_authenticator_label">Pinamamahalaang Account</string>
+    <string name="authorization_dialog">Dialog ng pahintulot</string>
+    <string name="auto_restore_summary">Kapag muling nag-i-install ng isang app, i-restore ang mga na-backup na setting at data</string>
+    <string name="auto_restore_title">Awtomatikong pag-restore</string>
+    <string name="autofill_dataset_password">Gamitin ang password para sa: <b>^1</b></string>
+    <string name="autofill_datatype_address">Mga Address</string>
+    <string name="autofill_datatype_password">Mga naka-save na password</string>
+    <string name="autofill_datatype_payment">Mga credit card</string>
+    <string name="autofill_datatype_profile">Personal na impormasyon</string>
+    <string name="autofill_label">Autofill sa Google</string>
+    <string name="autofill_optin_line1"><b>I-tap upang hayaan ang Google na punan ito para sa iyo</b></string>
+    <string name="autofill_optin_line2">Gamit ang naka-save nang impormasyon sa Chrome Autofill</string>
+    <string name="autofill_setup_points">"• Ginagamit ng Google ang nasa iyong screen upang tukuyin kung ano ang maaaring i-autofill. 
+• Maaari mong tingnan at pamahalaan ang iyong impormasyon sa autofill sa Mga Setting."</string>
+    <string name="autofill_setup_summary">Sa iisang pag-tap, punan ang mga password, address, credit card, at iba pang impormasyong naka-save sa iyong account.</string>
+    <string name="autofill_setup_summary_single_account">Sa iisang pag-tap, punan ang mga password, address, credit card, at iba pang impormasyong naka-save sa iyong account (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">Sa kasalukuyan, walang account na nag-iimbak ng na-backup na data</string>
+    <string name="backup_configure_account_title">I-back up ang account</string>
+    <string name="backup_data_summary">I-back up ang data ng app, mga password ng Wi‑Fi at iba pang mga setting sa Google Drive</string>
+    <string name="backup_data_summary_full">"Awtomatikong i-back up ang data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at ang data ng app (gaya ng mga setting at file na naimbak ng mga app) nang malayuan.
+
+Kapag na-on mo ang awtomatikong pag-backup, pana-panahong mase-save ang data ng device at app nang malayuan. Ang data ng app ay maaaring maging anumang data na na-save ng isang app (batay sa mga setting ng developer), kasama ang potensyal na sensitibong data gaya ng mga contact, mensahe at larawan."</string>
+    <string name="backup_data_title">I-back up sa Google Drive</string>
+    <string name="backup_erase_dialog_message">Gusto mo bang ihinto ang pagba-backup sa mga password ng iyong Wi‑Fi, bookmark, iba pang mga setting at data ng app, at burahin ang lahat ng kopya sa Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Gusto mo bang ihinto ang pagba-back up sa data ng device (gaya ng mga password ng Wi-Fi at history ng tawag) at data ng app (gaya ng mga setting at file na naimbak ng mga app), at burahin ang lahat ng kopya sa Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Nagkaroon ng error sa pagbubukas sa mga setting ng mga larawan</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kapag na-on mo ang awtomatikong pag-back up:
+
+ ● Paminsan-minsang nase-save ang mga setting ng device at data ng app sa isang pribadong folder sa Google Drive. Ang data ng app ay maaaring kahit anong data na na-save ng isang app (batay sa mga setting ng developer), kasama na ang mga posibleng sensitibong data gaya ng mga contact, mensahe at larawan.
+
+ Hindi iba-back up ang malalaking file o mga file na napili ng mga developer na hindi isama sa serbisyo.
+
+ ● Naka-sync sa iyong library sa Google Photos ang mga larawan at video recording na nasa device na ito upang maghanap, mag-edit, mag-delete at magbahagi mula sa alinman sa iyong mga device.
+
+ Bilang default, ina-upload ang mga larawan at video na may full resolution. Hindi ibinabawas sa quota ng storage ng iyong Drive ang mga ito.
+
+ ● Naka-sync sa Google Contacts ang mga contact at nauugnay na data na nasa device na ito. Magagamit mo ang Google Contacts app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa alinman sa iyong mga device.
+
+ ● Naka-sync sa Google Calendar ang mga entry sa kalendaryo at nauugnay na data na nasa device na ito. Magagamit mo ang Google Calendar app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa alinman sa iyong mga device.
+
+ Hindi ibabawas sa quota ng storage ng iyong Drive ang data sa pag-back up."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kapag na-on mo ang awtomatikong pag-backup:
+
+ ● Pana-panahong sine-save sa isang pribadong folder sa Google Drive ang mga setting ng device at data ng app. Ang data ng app ay maaaring anumang data na na-save ng app (batay sa mga setting ng developer), kabilang ang potensyal na sensitibong data tulad ng mga contact, mensahe at larawan.
+
+ Hindi maba-back up ang malalaking file o mga file na pinili ng mga developer na hindi isama sa serbisyo.
+
+ ● Sini-sync sa Google Contacts ang mga contact at nauugnay na data mula sa device na ito. Maaari mong gamitin ang Google Contacts app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa anuman sa iyong mga device.
+
+ ● Sini-sync sa Google Calendar ang mga entry sa kalendaryo at nauugnay na data. Maaari mong gamitin ang Google Calendar app upang maghanap, mag-edit, mag-delete at magbahagi ng mga contact mula sa anuman sa iyong mga device.
+
+ Hindi mabibilang ang data ng backup sa iyong quota sa storage ng Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">Naka-sync sa iyong Google Account ang kalendaryo, mga contact, mga larawan at mga video, at maaaring gamitin ang mga ito sa lahat ng serbisyo.</string>
+    <string name="backup_opt_in_backup_description_v2">Tinitiyak ng awtomatikong pag-backup na madali kang makakapag-restore o makakapagpalit ng mga telepono anumang oras. <annotation id="backup_opt_in_learn_more">Matuto pa</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Io-off nito ang pag-back up para sa:
+
+Mga app at data ng app
+History ng tawag
+Mga setting ng device
+Mga larawan at video
+SMS
+
+Patuloy na masi-sync sa iyong Google Account ang kalendaryo at mga contact. Kapag tapos na ang pag-set up, maaari mong baguhin ang mga setting ng pag-sync sa pamamagitan ng pagpunta sa "<annotation id="backup_opt_in_settings_instructions">Mga Setting > Mga Account > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">I-off ang backup?</string>
+    <string name="backup_opt_in_backup_list">"Mga app at data ng app
+Kalendaryo
+History ng tawag
+Mga Contact
+Mga setting ng device (kasama ang mga password sa Wi-Fi)
+Mga larawan at video
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Kasama sa backup ang:</string>
+    <string name="backup_opt_in_backup_title">I-back up sa Google Drive</string>
+    <string name="backup_opt_in_disable_backup">I-off ang backup</string>
+    <string name="backup_photos_update">Paki-update ang Google Photos</string>
+    <string name="backup_settings_activity_backup_title">Pag-back up</string>
+    <string name="backup_settings_activity_title">I-backup at i-reset</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Huwag kopyahin</string>
+    <string name="chrome_privacy_title">Notification ng Privacy ng Chrome</string>
+    <string name="chrome_tos_title">Mga Tuntunin ng Serbisyo ng Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Ang iyong mga kasalukuyang password para sa %1$s ay na-encrypt gamit ang iyong passphrase. Kung nakalimutan mo ang iyong passphrase, ihinto at i-reset ang pag-sync sa pamamagitan ng &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Passphrase sa ChromeSync</string>
+    <string name="chromesync_enter_passphrase_hint">Ilagay ang passphrase</string>
+    <string name="chromesync_entered_wrong_passphrase">Mali ang passphrase</string>
+    <string name="chromesync_no_browser_found">Walang nakitang browser para sa pagbubukas ng link na ito</string>
+    <string name="close_button_label">Isara</string>
+    <string name="cloud_restore_app_picker_button">I-restore</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Walang mga app ang iyong backup</string>
+    <string name="cloud_restore_app_picker_title">Pumili ng mga app na ire-restore</string>
+    <string name="common_accept">Tanggapin</string>
+    <string name="common_account_chip_add_account_button_label">Gumamit ng ibang account</string>
+    <string name="common_add_account_button_label">Magdagdag ng account</string>
+    <string name="common_add_account_label">Magdagdag ng account</string>
+    <string name="common_ads_settings_title">Mga Ad</string>
+    <string name="common_agree">Sumasang-ayon</string>
+    <string name="common_app_name">Mga serbisyo ng Google Play</string>
+    <string name="common_asm_preferences_settings_title">Mga kagustuhan sa account</string>
+    <string name="common_asm_privacy_settings_title">Personal na info at privacy</string>
+    <string name="common_asm_security_settings_title">Pag-sign in at seguridad</string>
+    <string name="common_audience_edit_button_label">I-edit</string>
+    <string name="common_cancel">Kanselahin</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hindi masimulan ang Hangouts (error sa pahintulot).</string>
+    <string name="common_car_permission_desc">Access sa serbisyo ng kotse.</string>
+    <string name="common_car_permission_label">Serbisyo ng Kotse</string>
+    <string name="common_chips_label_empty_circles">Walang mga lupon</string>
+    <string name="common_chips_label_extended_circles">Mga extended na circle</string>
+    <string name="common_chips_label_only_you">Ikaw lang</string>
+    <string name="common_chips_label_public">Pampubliko</string>
+    <string name="common_chips_label_your_circles">Iyong mga circle</string>
+    <string name="common_choose_account">Pumili ng isang account</string>
+    <string name="common_choose_account_for_app_label">Pumili ng account para sa %1$s</string>
+    <string name="common_choose_account_label">Pumili ng account</string>
+    <string name="common_clear_app_data_menu_item">I-clear ang data ng app</string>
+    <string name="common_connected">Nakakonekta</string>
+    <string name="common_connected_apps_settings_title">Mga nakakonektang app</string>
+    <string name="common_connecting">Kumokonekta…</string>
+    <string name="common_continue">Magpatuloy</string>
+    <string name="common_disagree">Hindi Sumasang-ayon</string>
+    <string name="common_disconnect">Idiskonekta</string>
+    <string name="common_done">Tapos Na</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Mula sa:</string>
+    <string name="common_games_settings_title">Mga Laro sa Play</string>
+    <string name="common_get_started">Magsimula</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">I-enable</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang %1$s maliban kung ie-enable mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_title">I-enable ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_install_button">I-install</string>
+    <string name="common_google_play_services_install_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na wala sa iyong device.</string>
+    <string name="common_google_play_services_install_title">Kunin ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Nagkakaproblema ang %1$s sa mga serbisyo ng Google Play. Pakisubukang muli.</string>
+    <string name="common_google_play_services_unsupported_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play, na hindi nasusuportahan ng iyong device.</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang %1$s maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_updating_text">Hindi gagana ang %1$s nang wala ang mga serbisyo ng Google Play na kasalukuyang ina-update.</string>
+    <string name="common_google_play_services_updating_title">Serbisyo ng Google Play, nag-a-update</string>
+    <string name="common_google_play_services_wear_update_text">Kailangan ang bagong bersyon ng mga serbisyo ng Google Play. Mag-a-update itong mag-isa sa ilang sandali.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Na-install ang mga serbisyo ng Google Play na may maling architecture.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Na-install ang mga serbisyo ng Google Play na may architecture (%1$s) na naiiba sa architecture ng iyong device (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Maling architecture</string>
+    <string name="common_google_settings">Mga Setting ng Google</string>
+    <string name="common_google_settings_account">Account</string>
+    <string name="common_google_settings_credentials_title">Smart Lock para sa Mga Password</string>
+    <string name="common_google_settings_developer">Developer</string>
+    <string name="common_google_settings_services">Mga Serbisyo</string>
+    <string name="common_got_it">OK</string>
+    <string name="common_install">I-install</string>
+    <string name="common_learn_more">Matuto pa</string>
+    <string name="common_list_apps_menu_help">Tulong</string>
+    <string name="common_list_apps_menu_help_and_feedback">Tulong at feedback</string>
+    <string name="common_loading">Naglo-load…</string>
+    <string name="common_location_settings_title">Lokasyon</string>
+    <string name="common_magictether_settings_title">Instant na Pagte-tether</string>
+    <string name="common_maps_settings_title">Maps at Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">Walang viewer upang magpakita ng external na url.</string>
+    <string name="common_more_options">Higit pang mga opsyon</string>
+    <string name="common_networking_settings_title">Networking</string>
+    <string name="common_no_browser_for_restricted_url">Pinaghihigpitan ang access. Walang nakitang browser.</string>
+    <string name="common_no_devices_found">Walang nakitang device</string>
+    <string name="common_no_network">Hindi available dahil offline ang device</string>
+    <string name="common_no_thanks">Hindi, salamat</string>
+    <string name="common_not_now">Hindi ngayon</string>
+    <string name="common_off">Naka-off</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Naka-on</string>
+    <string name="common_open_on_phone">Buksan sa telepono</string>
+    <string name="common_open_source_licenses">Mga open source na lisensya</string>
+    <string name="common_people_settings_title">Mga Contact</string>
+    <string name="common_permissions_enable_in_settings">I-enable sa Setting</string>
+    <string name="common_permissions_missing_end">Upang magpatuloy, buksan ang Mga Setting, pagkatapos ay ang Mga Pahintulot at payagan ang lahat ng nakalistang item.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Upang i-enable, pumunta sa
+Mga Setting >
+Mga Pahintulot >
+Mga serbisyo ng Google Play"</string>
+    <string name="common_permissions_missing_start">Hindi gagana nang maayos ang app na ito, maliban na lang kung papayagan mo ang kahilingan ng mga serbisyo ng Google Play na i-access ang mga sumusunod:</string>
+    <string name="common_permissions_open_settings">Buksan ang Setting</string>
+    <string name="common_phone">Telepono</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Patakaran sa privacy</string>
+    <string name="common_restore">I-restore</string>
+    <string name="common_restricted_no_accounts">Walang mga account na pipiliin</string>
+    <string name="common_retry">Subukang Muli</string>
+    <string name="common_search_settings_title">Maghanap</string>
+    <string name="common_security_ootp_setting_title">Panseguridad na code</string>
+    <string name="common_security_settings_title">Seguridad</string>
+    <string name="common_send">Ipadala</string>
+    <string name="common_sending">Ipinapadala…</string>
+    <string name="common_set_up_nearby_device_settings_title">Mag-set up ng kalapit na device</string>
+    <string name="common_settings">Mga Setting</string>
+    <string name="common_signin_button_text">Mag-sign in</string>
+    <string name="common_signin_button_text_long">Mag-sign in sa Google</string>
+    <string name="common_something_went_wrong">Nagkaroon ng problema</string>
+    <string name="common_system_info">Impormasyon ng system</string>
+    <string name="common_take_photo_label">Kumuha ng larawan</string>
+    <string name="common_terms_of_service">Mga tuntunin ng serbisyo</string>
+    <string name="common_try_again">Subukang muli</string>
+    <string name="common_turn_on_bluetooth">I-on ang Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">I-delete</string>
+    <string name="common_ui_confirm_deleting_checkbox">Nauunawaan ko at gusto ko itong i-delete</string>
+    <string name="common_unknown">Hindi Alam</string>
+    <string name="common_update">I-update</string>
+    <string name="common_url_load_unsuccessful_message">Hindi nakakonekta ang iyong Android device sa isang serbisyo ng data. Upang tingnan ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Hindi nakakonekta ang iyong Android device sa isang Wi-Fi network. Upang makita ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_login_notice">Mag-sign in bilang %1$s</string>
+    <string name="common_usage_and_diagnostics">Paggamit at diagnostics</string>
+    <string name="common_yesterday">Kahapon</string>
+    <string name="confirm_copy_button_text">Kopyahin</string>
+    <string name="contacts_number_device_and_icloud">%1$d (na) contact sa iCloud®, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google Contacts, %1$d (na) contact sa iCloud®, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_and_sim_with_google">Google Contacts, %1$d (na) contact sa SIM, %2$d (na) contact sa device</string>
+    <string name="contacts_number_device_with_google">Google Contacts, %1$d (na) contact sa device</string>
+    <string name="contacts_number_icloud_with_google">Google Contacts, %1$d (na) contact sa iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google Contacts, %1$d (na) contact sa SIM</string>
+    <string name="continue_to_login_heading">Mangyaring mag-log in.</string>
+    <string name="continue_to_login_text">Naibigay ang mga kredensyal. Magpatuloy sa pag-log in sa una mong device.</string>
+    <string name="copy_confirmation_description">Kokopya ka ng data, tulad ng iyong Google Account at mga app, patungo sa bago mong telepono</string>
+    <string name="copy_confirmation_title">Kopyahin sa bago mong telepono?</string>
+    <string name="d2d_app_picker_description_no_apps">Wala kaming makitang anumang mga app</string>
+    <string name="d2d_app_picker_title">Mga App</string>
+    <string name="d2d_migration_canceled_on_source">Kinansela ang pagkopya</string>
+    <string name="data_copied_fragment_description">Nakopya na sa bago mong telepono ang iyong data. Maaari mo nang i-unplug ang cable.</string>
+    <string name="data_copied_fragment_description_cancel">Pinili mong huminto sa pagkopya, kaya ilang data lang ang nakopya sa bago mong telepono.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Pinili mong ihinto ang pagkopya, kaya walang nakopya sa bago mong telepono.</string>
+    <string name="data_copied_fragment_description_error">Nagkaproblema, kaya hindi namin makopya ang lahat.</string>
+    <string name="data_copied_fragment_description_error_no_data">Nagkaproblema, kaya hindi namin makopya ang iyong data.</string>
+    <string name="data_copied_fragment_no_data_title">Hindi makopya</string>
+    <string name="data_copied_fragment_some_data_title">Nakopya ang ilang data</string>
+    <string name="data_copied_fragment_title">Nakopya ang data</string>
+    <string name="device_backup_title">Pag-backup ng device</string>
+    <string name="device_not_supported_fragment_new_device">Nakakonekta ka sa isang bagong telepono. Upang magpatuloy, muling kumonekta sa naunang telepono.</string>
+    <string name="device_not_supported_fragment_new_device_title">Muling kumonekta sa naunang telepono</string>
+    <string name="device_not_supported_fragment_no_data_cable">Hindi nakakapaglipat ng data ang cable na ito. Muling kumonekta gamit ang ibang cable at subukang muli.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Sumubok ng isa pang cable</string>
+    <string name="device_not_supported_fragment_retry_description">Tiyaking naka-unlock ang iyong lumang telepono, pagkatapos ay idiskonekta at ikonektang muli ang cable</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Nagkaroon ng problema</string>
+    <string name="device_not_supported_ios_supervised_description">Dahil pinamamahalaan ang iyong iPhone® device, kakailanganin mong pumili ng iba pang paraan ng pagkopya ng data</string>
+    <string name="device_picker_description">Nakaimbak sa Google Drive ang mga backup</string>
+    <string name="device_picker_empty">Walang backup na naka-link sa %1$s.</string>
+    <string name="device_picker_empty_title">Walang nakitang backup</string>
+    <string name="device_picker_item">Backup ng %1$s</string>
+    <string name="device_picker_last_used">Huling ginamit ^1</string>
+    <string name="device_picker_skip">Huwag i-restore</string>
+    <string name="device_picker_title">Pumili ng backup na ire-restore</string>
+    <string name="disabled_by_admin_summary_text">Pinamamahalaan ng admin</string>
+    <string name="download_msg_error_invalid">Hindi na-configure nang wasto ang pag-download.</string>
+    <string name="download_msg_in_progress">Kasalukuyang nagda-download.</string>
+    <string name="download_msg_not_allowed_space">Wala nang sapat na espasyo upang isagawa ang pag-download.</string>
+    <string name="download_msg_pending">Nakabinbin ang pag-download.</string>
+    <string name="download_notification_description">Hiniling ito ng %1$s.</string>
+    <string name="download_notification_title">Kumukuha ng higit pang data</string>
+    <string name="drive_backup_account">I-backup ang account</string>
+    <string name="drive_backup_apps_in_backup">Naka-back up na data ng app</string>
+    <string name="drive_backup_apps_last_backup">Huling pag-back up</string>
+    <string name="drive_backup_apps_loading">Naglo-load…</string>
+    <string name="drive_backup_apps_screen_title">Data ng app</string>
+    <string name="drive_backup_content_apps_title">Data ng app</string>
+    <string name="drive_backup_content_calendar_dialog_message">Masi-sync ang mga event na ginawa sa Google Calendar sa lahat ng device na naka-sign in sa iyong Google Account.</string>
+    <string name="drive_backup_content_calendar_title">Google Calendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Kasama sa pag-backup ang petsa at tatanggap ng mga napadala at natanggap na tawag.</string>
+    <string name="drive_backup_content_callhistory_title">History ng tawag</string>
+    <string name="drive_backup_content_contacts_dialog_message">Masi-sync ang mga contact na ginawa sa Google Contacts sa lahat ng device na naka-sign in sa iyong Google Account.</string>
+    <string name="drive_backup_content_contacts_title">Google Contacts</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Kasama sa pag-backup ang configuration ng device, tulad ng wallpaper, mga password sa WiFi at mga default na app.</string>
+    <string name="drive_backup_content_devicesettings_title">Mga setting ng device</string>
+    <string name="drive_backup_content_header">Content</string>
+    <string name="drive_backup_content_photos_dialog_message">Napalitan ang iyong pangunahing backup na account. Maaari mo ring palitan ng %s ang back up na account ng Google Photos.</string>
+    <string name="drive_backup_content_photos_dialog_no">I-DISMISS</string>
+    <string name="drive_backup_content_photos_dialog_title">Gusto mo rin bang baguhin ang account ng mga larawan at video?</string>
+    <string name="drive_backup_content_photos_dialog_yes">BAGUHIN</string>
+    <string name="drive_backup_content_photos_title">Mga larawan at video</string>
+    <string name="drive_backup_content_sms_dialog_message">Kasama sa pag-backup ang mga napadala at natanggap na mensahe. Hindi nito isinasama ang media ng MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">OK</string>
+    <string name="drive_backup_content_status_error">Nagkaroon ng error sa pagkuha ng petsa ng huling pag-sync</string>
+    <string name="drive_backup_content_status_lastsaved">Huling pag-back up: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Huling pag-sync: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Naghihintay na i-backup</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Mga setting ng pag-sync</string>
+    <string name="drive_backup_content_status_sync_off">NAKA-OFF ang pag-sync</string>
+    <string name="drive_backup_content_status_updating">Tinitingnan ang status…</string>
+    <string name="drive_backup_disabled_backuplist">"Kasama sa backup ang:
+\u0009- Mga app at data ng app
+\u0009- History ng tawag
+\u0009- Mga setting ng device (kasama ang mga password ng Wi-Fi)
+\u0009- Google Calendar
+\u0009- Google Contacts
+\u0009- Mga larawan at video
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Kasama sa iba-backup ang:
+\u0009- Mga app at data ng mga app
+\u0009- History ng tawag
+\u0009- Mga setting ng device (kasama ang mga password sa Wi-Fi)
+\u0009- Google Calendar
+\u0009- Google Contacts
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Na-disable ng iyong admin</string>
+    <string name="drive_backup_disabled_detailedinfo">"Sini-sync ang Google Calendar, Google Contacts, mga larawan at video sa iyong Google Account at maaaring gamitin ang mga ito sa mga serbisyo.
+
+Maaaring i-enable ang pag-sync kahit na naka-off ang pag-backup. Maaaring baguhin ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Sini-sync sa iyong Google Account ang Google Calendar at Google Contacts at magagamit sa mga serbisyo.
+
+Maaaring naka-enable ang pag-sync kahit na naka-off ang pag-backup. Maaaring baguhin ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_disabled_introduction">Tinitiyak ng awtomatikong pag-backup na madali kang makakapag-restore o makakalipat ng telepono anumang oras.</string>
+    <string name="drive_backup_settings_title">Pag-backup</string>
+    <string name="drive_backup_state">I-back up sa Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Permanenteng made-delete ang data ng backup ng device na ito sa Google Drive.
+
+Mananatiling available sa Google Drive ang mga larawan at video na na-back up na.
+
+Patuloy na masi-sync ang Google Calendar at Google Contacts sa iyong Google Account. Mababago ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Permanenteng made-delete ang data ng backup ng device na ito sa Google Drive.
+
+Patuloy na masi-sync sa iyong Google Account ang Google Calendar at Google Contacts. Mababago ang mga setting ng pag-sync sa Mga Setting > Mga Account > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">I-off at i-delete</string>
+    <string name="drive_backup_state_dialog_title">I-off at i-delete ang backup?</string>
+    <string name="durationDayHour">%1$d araw %2$d oras</string>
+    <string name="durationDayHours">%1$d araw %2$d oras</string>
+    <string name="durationDays">%1$d (na) araw</string>
+    <string name="durationHourMinute">%1$d oras %2$d minuto</string>
+    <string name="durationHourMinutes">%1$d oras %2$d minuto</string>
+    <string name="durationHours">%1$d (na) oras</string>
+    <string name="durationMinute">%1$d minuto</string>
+    <string name="durationMinuteSecond">%1$d minuto %2$d segundo</string>
+    <string name="durationMinuteSeconds">%1$d minuto %2$d segundo</string>
+    <string name="durationMinutes">%1$d minuto</string>
+    <string name="durationSecond">%1$d segundo</string>
+    <string name="durationSeconds">%1$d segundo</string>
+    <string name="encryption_warning_fragment_description">"Naka-on ang pag-encrypt ng backup para sa iyong iPhone® device. Kung hindi ikaw mismo ang gumawa nito, maaaring na-on ito ng iyong IT admin.
+
+Tanging mga larawan lang, musika at video ang maaaring kopyahin. Para sa higit pang impormasyon, bisitahin ang "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Pag-encrypt ng backup</string>
+    <string name="fido_begin_button">MAGSIMULA</string>
+    <string name="fido_ble_device_icon_content_description">May natukoy na Bluetooth device</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Pindutin nang matagal ang button sa iyong key sa loob ng kahit 5 segundo lang upang matiyak na nasa pairing mode ito</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">OK</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Nagkaroon ng problema</string>
+    <string name="fido_ble_dont_see_your_key_hint">Hindi mo ba makita ang iyong key?</string>
+    <string name="fido_ble_enable_body">Gumagana lang ang iyong Security Key kapag naka-on ang Bluetooth ng iyong device</string>
+    <string name="fido_ble_enable_title">I-on ang Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">I-ON</string>
+    <string name="fido_ble_instructions_body">Upang magamit ang karamihan sa mga key, i-tap lang ang button</string>
+    <string name="fido_ble_instructions_title">Payagan ang paggamit sa iyong Security Key?</string>
+    <string name="fido_ble_locate_pin_body">Ang PIN sa pagpapares ay karaniwang 4 o 6 na digit na numero at ito ay maaaring nasa likod ng iyong key. Magpatuloy kapag handa ka nang ilagay ang PIN.</string>
+    <string name="fido_ble_locate_pin_continue_button">MAGPATULOY</string>
+    <string name="fido_ble_locate_pin_title">Hanapin ang PIN sa pagpapares ng Bluetooth para sa iyong key na %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Ipinapares ang iyong Security Key…</string>
+    <string name="fido_ble_pair_instructions_body">Ipares ang iyong key sa device na ito upang magamit mo ito sa iyong account</string>
+    <string name="fido_ble_pair_instructions_title">Handa ka na bang ipares ang iyong Security Key?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Ibalik sa pairing mode ang iyong key</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">SUBUKANG MULI</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Nagkaroon ng problema</string>
+    <string name="fido_ble_pairing_mode_body">Pindutin nang matagal ang button sa iyong Security Key sa loob ng kahit 5 segundo lang</string>
+    <string name="fido_ble_pairing_mode_title">Pumunta sa mode ng pagpapares</string>
+    <string name="fido_ble_select_device_body">Mula sa listahan sa ibaba, piliin ang Security Key na gusto mong ipares sa iyong device. Maaaring naka-print ang pangalan sa likod ng key.</string>
+    <string name="fido_ble_select_device_title">Piliin ang iyong Security Key</string>
+    <string name="fido_cancel_button">Kanselahin</string>
+    <string name="fido_nfc_enable_body">Gumagana lang ang iyong Security Key kapag naka-on ang NFC ng iyong device</string>
+    <string name="fido_nfc_enable_title">I-on ang NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">I-ON</string>
+    <string name="fido_nfc_instructions_body">Ilapat ang iyong key sa likod ng device mo hanggang sa huminto ito sa pag-vibrate.</string>
+    <string name="fido_nfc_instructions_title">Payagan ang paggamit sa iyong Security Key?</string>
+    <string name="fido_pair_another_security_key">Magpares ng isa pang Security Key</string>
+    <string name="fido_processing">Vine-verify ang iyong Security Key...</string>
+    <string name="fido_transport_selection_bluetooth">Gamitin ang Security Key sa Bluetooth</string>
+    <string name="fido_transport_selection_body">Gumagana ang Mga Security Key sa Bluetooth at NFC. Piliin kung paano mo gustong gamitin ang iyong key.</string>
+    <string name="fido_transport_selection_nfc">Gamitin ang Security Key sa NFC</string>
+    <string name="fido_transport_selection_title">Piliin kung paano gamitin ang iyong Security Key</string>
+    <string name="fido_use_ble_instead">Gamitin ang iyong Security Key sa Bluetooth</string>
+    <string name="fido_use_nfc_instead">Gamitin ang iyong Security Key sa NFC</string>
+    <string name="fido_welcome_body">Makakatulong ang paggamit sa iyong Security Key sa %1$s sa pagprotekta sa pribado mong data.</string>
+    <string name="fido_welcome_title">Gamitin ang iyong Security Key sa %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Hindi ko mahanap ang adapter</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Hanapin ang Quick Switch Adapter na kasama sa parehong kahon ng iyong ^1.
+
+Ikabit ang cable sa adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Ikonekta ang adapter at cable</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">I-unlock ang luma mong telepono, pagkatapos ay isaksak ang adapter sa teleponong ito.</string>
+    <string name="fragment_usb_connect_both_phones_title">Ikonekta ang dalawang telepono</string>
+    <string name="fragment_usb_dialog_cancel_description">Mas marami kang content na makukuha kung gagamit ka ng cable. Kung hindi kasya ang mga cable na nasa kahon, subukang gumamit ng cable para sa pag-charge o data cable na gumagana sa luma mong telepono.</string>
+    <string name="fragment_usb_dialog_cancel_title">Kopyahin ang data sa ibang paraan?</string>
+    <string name="fragment_usb_dont_have_cable">Wala akong cable</string>
+    <string name="fragment_usb_dont_have_old_phone">Wala sa akin ang luma kong telepono</string>
+    <string name="fragment_usb_find_cable_description">Gumamit ng cable na kasya sa luma mong telepono, gaya ng iyong data cable o cable para sa pag-charge.</string>
+    <string name="fragment_usb_find_cable_title">Hanapin ang tamang cable</string>
+    <string name="fragment_usb_initial_description">Maglipat ng data mula sa luma mong telepono patungo sa ^1 na ito.</string>
+    <string name="fragment_usb_initial_title">Kopyahin natin ang iyong data</string>
+    <string name="fragment_usb_legacy_description">"Ito ang pinakamabilis na paraan upang maipadala ang pinakamaraming data.
+
+Hanapin ang adapter sa kahon at ikabit ito sa bago mong telepono. Pagkonektahin ang mga telepono gamit ang isang cable, pagkatapos ay i-unlock ang luma mong telepono."</string>
+    <string name="fragment_usb_other_ways">Kopyahin nang walang cable</string>
+    <string name="fragment_usb_plug_cable">Ikabit ang cable sa luma mong telepono</string>
+    <string name="fragment_waiting_title">Sandali lang…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Mga Pahintulot sa App</string>
+    <string name="google_contacts_static_text">Magsi-sync ang Google Contacts</string>
+    <string name="google_contacts_static_text_off">Magsi-sync pa rin ang Google Contacts</string>
+    <string name="google_legal_title">Google legal</string>
+    <string name="google_play_tos_title">Mga Tuntunin ng Serbisyo ng Google Play</string>
+    <string name="google_plus_privacy_policy_title">Patakaran sa Privacy ng Google Plus</string>
+    <string name="google_privacy_policy_title">Patakaran sa Privacy ng Google</string>
+    <string name="google_terms_of_service_title">Mga Tuntunin ng Serbisyo ng Google</string>
+    <string name="header_set_backup_account">Mag-set ng backup account</string>
+    <string name="i_message_dialog_message">"Upang patuloy na makatanggap ng mga SMS message mula sa mga user ng iPhone® device, kakailanganin mong i-off ang iMessage®.
+
+Bisitahin ang "<b>g.co/iMessageHelp</b> para sa mga tagubilin.</string>
+    <string name="instant_apps_settings_title">Instant Apps</string>
+    <string name="instructions_fragment_title">Magpatuloy sa isa mo pang telepono</string>
+    <string name="ios_connected_fragment_description">"Sa susunod na screen, maaari kang mag-sign in sa iyong Google Account, o gumawa ng bago.
+
+Kung hindi mo idaragdag ang iyong Google Account, hindi malilipat ang mga kaganapan mo sa iOS Calendar®."</string>
+    <string name="ios_message_attachment_explanation">[Ang mga attachment sa iyong mensahe ay nasa Google Photos > Mga folder ng device > Mga attachment sa mensahe]</string>
+    <string name="ios_message_attachment_failed_explanation">[Hindi makopya ang ilang attachment. Ang mga attachment na nailipat ay makikita sa Google Photos > Mga folder ng device > Mga attachment sa mensahe]</string>
+    <string name="ios_message_attachment_placeholder">[Naka-save ang attachment sa Google Photos > Mga folder ng device > Mga attachment ng mensahe]</string>
+    <string name="ios_message_attachments_placeholder">[Naka-save ang mga attachment sa Google Photos > Mga folder ng device > Mga attachment ng mensahe]</string>
+    <string name="ios_migration_default_calendar_title">Kalendaryo</string>
+    <string name="ios_migration_other_contact_relation">Iba Pa</string>
+    <string name="ios_photos_dialog_message">"Hindi makokopya ang mga larawang nakaimbak sa iCloud®.
+
+Upang mailagay ang mga larawang ito sa iyong ^1, i-install ang Google Photos app sa iyong iPhone® device at i-on ang Pag-back up at pag-sync. Bisitahin ang "<b>g.co/datatransferhelp</b> para sa higit pang tagubilin.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Magdagdag ng account</string>
+    <string name="lockscreen_smartdevice_action_next">Susunod</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">I-unlock upang magpatuloy sa pagse-set up sa iyong telepono</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Para sa seguridad, kakailanganin mong kumpirmahin ang iyong lock ng screen upang magpatuloy sa pag-setup</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Kumpirmahin ang iyong lock ng screen</string>
+    <string name="manage_data_label">Google Account</string>
+    <string name="master_clear_title">Pag-reset ng factory data</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Mga Rekomendasyon ng Network</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Mga mensahe sa Wi‑Fi</string>
+    <string name="notification_channel_network_available">Available ang network</string>
+    <string name="notification_channel_wakeup_name">Na-on ang Wi‑Fi</string>
+    <string name="notification_content_text_set_backup_account">Kailangang itakda ang pang-backup na account</string>
+    <string name="notification_content_title_set_backup_account">Mag-backup</string>
+    <string name="notification_ticker">Humiling ng Access</string>
+    <string name="notification_ticker_set_backup_account">Kailangan ng backup account</string>
+    <string name="open_in_web_button">Buksan sa web</string>
+    <string name="open_source_activity_prompt_heading">Buksan ang Application</string>
+    <string name="open_source_activity_prompt_text">"Buksan ang SourceResponseActivity sa iyong telepono upang makumpleto ang proseso ng pag-authenticate. "</string>
+    <string name="opt_in_account_content_description">Pumili ng account. Kasalukuyang pinili: %1$s</string>
+    <string name="opt_in_account_null_state">Gumawa ng account</string>
+    <string name="opt_in_agreement">Sa pamamagitan ng pagpapatuloy, tinatanggap mo ang <a href="https://play.google.com/about/play-terms.html">Mga Tuntunin ng Serbisyo ng Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Matuto pa</a></string>
+    <string name="opt_in_confirm">Oo, sige</string>
+    <string name="opt_in_description">"Kapag nag-tap ka ng link, titingnan ng Google Play kung mayroong instant na app at patatakbuhin nito ang app nang hindi nag-i-install. Pansamantalang inii-store sa iyong device ang mga instant na app.
+
+Ang mga instant na app ay hihingi ng mga pahintulot habang ginagamit mo ang mga ito. Ang mga detalye ng app, kasama na ang mga in-app na pagbili, ay makikita sa Google Play store. Ang data at mga setting ng app ay sini-sync sa mga device na naka-sign in sa:"</string>
+    <string name="opt_in_description_m_plus">"Kapag nag-tap ka ng link, titingnan ng Google Play kung mayroong instant na app at patatakbuhin nito ang app nang hindi nag-i-install. Pansamantalang inii-store sa iyong device ang mga instant na app.
+
+Ang mga detalye ng app, kasama na ang mga in-app na pagbili, ay makikita sa Google Play store. Ang data at mga setting ng app ay sini-sync sa mga device na naka-sign in sa:"</string>
+    <string name="opt_in_subtitle">Gumamit ng mga app nang hindi nag-i-install</string>
+    <string name="opt_in_title">Instant Apps</string>
+    <string name="permgrouplab_calendar">Kalendaryo</string>
+    <string name="permgrouplab_camera">Camera</string>
+    <string name="permgrouplab_contacts">Mga Contact</string>
+    <string name="permgrouplab_location">Lokasyon</string>
+    <string name="permgrouplab_microphone">Mikropono</string>
+    <string name="permgrouplab_phone">Telepono</string>
+    <string name="permgrouplab_sensors">Mga Sensor sa Katawan</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Storage</string>
+    <string name="permissions_not_granted_text">Upang magbigay ng mga pahintulot, mag-log in muli.</string>
+    <string name="permissions_not_granted_title">Hindi ibinigay ang mga pahintulot.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Sa kasalukuyan, walang account na nag-iimbak ng mga na-backup na larawan</string>
+    <string name="photos_backup_title">Pag-backup ng mga larawan</string>
+    <string name="photos_filtering_option_all">Lahat</string>
+    <string name="photos_filtering_option_none">Wala</string>
+    <string name="plus_manage_app_only_you_label">Ikaw lang</string>
+    <string name="plus_network_unreliable">Hindi makapagtatag ng isang maaasahang koneksyon sa server.</string>
+    <string name="plus_oob_interstitial_loading_text">Maaaring abutin ito nang ilang minuto.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Mase-save sa iyong Google Account ang mga nakopyang contact.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Mase-save sa iyong Google Account ang nakopyang mga contact at kalendaryo.</string>
+    <string name="restore_choice_data_disclaimer_v2">Maaaring hindi makopya sa iyong ^1 ang ilan sa iyong data. <annotation id="restore_choice_data_disclaimer_learn_more">Matuto pa</annotation></string>
+    <string name="restore_choice_deselect_some_content">Alisin sa pagkakapili ang ilang content upang magpatuloy</string>
+    <string name="restore_choice_learn_more_android">"Hindi awtomatikong makokopya ang ilang data mula sa luma mong telepono:
+
+ ● Mga Download (tulad ng mga PDF file)
+
+ ● Mga larawan, video at musikang nakaimbak sa mga nakatagong folder
+
+ ● Mga larawan, video at musikang natanggap sa pamamagitan ng text message
+
+ ● Mga app na hindi mula sa Google Play Store
+
+ ● Data ng app (kung hindi gumagamit ang app ng Android backup)
+
+ ● Ilang setting ng device
+
+ ● Mga account bukod sa Mga Google Account (at anumang nauugnay na data)
+
+ ● Mga contact at kalendaryo na na-sync sa mga serbisyo bukod sa Google
+
+ ● Mga ringtone
+
+ Para sa higit pang mga detalye at tulong sa pagkopya ng ilan sa data na ito, bisitahin ang g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Hindi maaaring kopyahin nang awtomatiko ang ilang data mula sa iyong lumang telepono:
+
+ ● Mga app at data ng app
+
+ ● Mga larawan kung saan walang orihinal na nakalagay sa iyong telepono (halimbawa, kung naka-on ang setting na I-optimize ang Storage, inilalagay ang mga orihinal na larawan sa iCloud®)
+
+ ● Mga file at dokumentong nakalagay sa iCloud®
+
+ ● Mga setting ng device (gaya ng mga password ng Wi-Fi at wallpaper)
+
+ ● Musikang pinoprotektahan ng Digital Rights Management (DRM) (halimbawa, musika sa iTunes® na binili bago ang Abril 2009 o musikang na-download para sa offline na pakikinig sa isang app ng pag-ii-stream ng musika)
+
+ ● Mga account maliban sa mga Google Account (at anumang nauugnay na data)
+
+ ● Mga contact at kalendaryong sini-sync sa mga serbisyo maliban sa Google o iCloud®
+
+ ● Mga bookmark mula sa Safari®
+
+ Ang mga attachment ng iMessage® ay magiging available sa Google Photos > Mga folder ng device > Mga attachment ng mensahe.
+
+ Para sa higit pang mga detalye at tulong sa pagkopya sa ilan sa data na ito, bisitahin ang g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Walang sapat na espasyo</string>
+    <string name="restore_choice_total_text">ng iyong available na %1$s / %2$s na paglipat</string>
+    <string name="restore_error_message">Nagkaroon ng problema sa pag-restore. Paumanhin.</string>
+    <string name="restore_instant_apps_notif_text">Inalis sa device na ito ang kinakailangang %1$s</string>
+    <string name="restore_instant_apps_notif_title">I-restore ang Instant Apps</string>
+    <string name="restore_item_appdata">Data ng app</string>
+    <string name="restore_item_calendar">Kalendaryo</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Magsi-sync pa rin ang Google Calendar</string>
+    <string name="restore_item_calendar_sync_description">Magsi-sync ang Google Calendar</string>
+    <string name="restore_item_call_logs">History ng tawag</string>
+    <string name="restore_item_contacts">Mga Contact</string>
+    <string name="restore_item_device_settings_description">Mga password ng Wi-Fi at marami pang iba</string>
+    <string name="restore_item_downloads">Mga Download</string>
+    <string name="restore_item_email">Email</string>
+    <string name="restore_item_email_description">Magsi-sync ang Gmail</string>
+    <string name="restore_item_message_attachments">Mga attachment sa mensahe</string>
+    <string name="restore_item_messages">Mga Mensahe</string>
+    <string name="restore_item_music">Musika</string>
+    <string name="restore_item_photos">Mga larawan at video</string>
+    <string name="restore_item_settings">Mga setting ng device</string>
+    <string name="restore_item_sms">Mga mensaheng SMS</string>
+    <string name="restore_item_will_be_synced_text">Masi-sync ito sa iyong telepono</string>
+    <string name="restore_progress_title">Nire-restore…</string>
+    <string name="restore_supervisor_description">Upang magbukas ng mga link sa mga instant na app, i-restore ang %1$s</string>
+    <string name="restore_supervisor_success">Matagumpay na na-restore ang Instant Apps</string>
+    <string name="restore_supervisor_title">I-restore ang Instant Apps?</string>
+    <string name="search_menu_title">Maghanap</string>
+    <string name="setup_failure_description">Hindi ma-set up ang Instant Apps. <a href="https://support.google.com/googleplay/?p=instant_apps">Matuto pa</a></string>
+    <string name="setup_failure_title">Hindi ma-set up</string>
+    <string name="sharedUserLabel">Mga Serbisyo ng Google</string>
+    <string name="sid_lsid_grant_detail">Halos katulad ng isang password, iniuugnay ng cookies na Session Identification (SID) at Local Session Identification (LSID) ang iyong pagkakakilanlan sa mga serye ng kahilingan mula sa isang browser. Pinapayagan ng mga ito ang ganap na access sa lahat ng data ng iyong account. Ang mga browser lang ang may lehitimong paggamit sa mga cookies na ito.</string>
+    <string name="sid_lsid_grant_label">Gamitin ang cookies na SID at LSID upang magkaroon ng access sa lahat ng data sa iyong Google account.</string>
+    <string name="small_time_duration">Mas maikli sa 1 minuto</string>
+    <string name="smartdevice_action_copy">Kopyahin</string>
+    <string name="smartdevice_action_next">Susunod</string>
+    <string name="smartdevice_action_open_app">Buksan ang app</string>
+    <string name="smartdevice_action_skip">Laktawan</string>
+    <string name="smartdevice_action_try_another_way">Sumubok ng Ibang Paraan</string>
+    <string name="smartdevice_action_turn_on_location">I-on ang Lokasyon</string>
+    <string name="smartdevice_alert_disconnected_message">"Nadiskonekta ang iyong device.
+Upang magpatuloy sa pag-setup, ikonekta ito at magsimulang muli."</string>
+    <string name="smartdevice_alert_disconnected_title">Nadiskonekta ang device</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Sa kasamaang palad, hindi mo maaaring gamitin ang feature na ito dahil pinamamahalaan ng administrator ng iyong device ang iyong backup account.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Hindi available ang feature</string>
+    <string name="smartdevice_alert_exit_setup_message">Nakakatiyak ka bang gusto mong itigil ang pag-set up ng iba mo pang device?</string>
+    <string name="smartdevice_alert_exit_setup_title">Itigil ang pag-set up ng device?</string>
+    <string name="smartdevice_alert_generic_error_title">Paumanhin, nagkaroon ng problema.</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Paumanhin, nagkaroon ng problema.</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Upang i-set up ang iyong device, kailangan mo ng kahit isang Google account.</string>
+    <string name="smartdevice_alert_no_accounts_text">Upang i-set up ang iyong %s, kailangan mo ng kahit isang Google account.</string>
+    <string name="smartdevice_alert_no_accounts_title">Walang mga account na kokopyahin</string>
+    <string name="smartdevice_alert_quit_button">Tumigil</string>
+    <string name="smartdevice_alert_restart_setup_button">I-restart ang pag-setup</string>
+    <string name="smartdevice_alert_setup_incomplete">Hindi nakumpleto ang pag-set up</string>
+    <string name="smartdevice_alert_skip_button">Laktawan</string>
+    <string name="smartdevice_alert_start_over_button">Magsimulang muli</string>
+    <string name="smartdevice_alert_work_profile_message">Hindi pa makopya ang mga account sa trabaho. Pagkatapos makopya ang iba mo pang Mga Google Account at data, pumunta sa Mga Setting sa iyong bagong device upang idagdag ang iyong account sa trabaho.</string>
+    <string name="smartdevice_alert_work_profile_title">Hindi makopya ang account sa trabaho</string>
+    <string name="smartdevice_application_label">Pag-setup ng Device</string>
+    <string name="smartdevice_choose_device">Pumili ng iyong device</string>
+    <string name="smartdevice_companion_app_ready">Naka-install na sa device na ito ang app na %s.</string>
+    <string name="smartdevice_connect_to_wifi">Ikonekta ang iyong device</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Kumokonekta sa iyong device…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Kokopyahin ang iyong Mga Google Account, iba pang account, app, at data</string>
+    <string name="smartdevice_d2d_copy_account_text">Kopyahin ang iyong mga Google Account, app at data patungo sa iba mo pang device?</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopyahin sa ibang device?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Hindi nakilala</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Subukan ang lock screen sa halip</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Para sa mga dahilang panseguridad, kumpirmahin ang iyong fingerprint. Kokopyahin ang iyong mga Google Account, app at data patungo sa iyong %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">I-unlock upang magpatuloy sa pag-set up ng iyong device</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Para sa seguridad, kumpirmahin ang iyong lock ng screen upang ipagpatuloy ang pag-set up.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Kumpirmahin upang magpatuloy</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Hindi ma-set up ang kabilang device dahil hindi available ang Bluetooth sa iyong device.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Para sa seguridad, na-disable ang feature na ito. Sa isa mo pang device, pindutin ang Laktawan at magpatuloy sa pag-set up.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Mag-set up ng bagong device</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Pag-setup ng device</string>
+    <string name="smartdevice_d2d_source_notification_title">Setup ng ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">I-restart ang pag-setup at piliin ang iyong ^1 upang matiyak na makokopya mo sa tamang device ang iyong mga Google Account, app at data.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Hindi mo ba nakikita ang code?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Hindi mo ba nakikita ang code?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Hanapin ang code na ito sa iba mo pang device upang makumpirmang napili mo ang tamang device</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">I-verify ang code</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Hindi makapag-set up ng bagong device mula sa isang pinaghihigpitang profile ng user.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Tapusin ang pag-setup sa iyong %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Matatapos na!</string>
+    <string name="smartdevice_d2d_target_choice_description">Kung gagamit ka ng iba pang Android device, maaari mong madaling kopyahin ang iyong kasalukuyang setup sa %s na ito.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Sulitin ang iyong nakaraang device kung Android ito</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">I-set up bilang bago</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopyahin mula sa ibang Android device</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Hindi, salamat na lang</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, sundin ang mga susunod na hakbang upang i-set up ang device na ito</string>
+    <string name="smartdevice_d2d_target_choice_title">May iba ka pa bang device?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Google Account, app at data, kopyahin mula sa ibang device</string>
+    <string name="smartdevice_d2d_target_continue_description">Ipagpatuloy ang pag-set up sa iyong iba pang device.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kinokopya ang mga account…</string>
+    <string name="smartdevice_d2d_target_description">Bumalik sa iba mo pang device:&lt;br/>&lt;br/> 1. Bigkasin ang &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> o i-type ang \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" at mag-tap upang kumpirmahin&lt;br/>&lt;br/> 2. Pindutin ang &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> sa listahan, at sundin ang mga tagubilin sa screen</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Subukan na lang ito</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Sa iba mo pang device:&lt;br/>&lt;br/> 1. Buksan ang app na &lt;b>Mga Setting ng Google&lt;/b>&lt;br/>&lt;br/> 2. Piliin ang &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Pindutin ang &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> sa listahan at sundin ang mga tagubilin sa screen</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Hindi maisagawa ang mga hakbang na ito</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Gamitin natin ang Mga Setting</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">Sa iba mo pang device:&lt;br/>&lt;br/> 1. I-tap ang icon ng Lahat ng app, pagkatapos ay buksan ang &lt;b>app na Mga Setting&lt;/b> &lt;br/>&lt;br/> 2. I-tap ang &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Piliin ang &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Pindutin ang &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> sa listahan at sundin ang mga tagubilin sa screen</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Kopyahin mula sa ibang Android device</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Nagkakaproblema ka ba?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Hindi mo ba ito mahanap?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Sa iba mo pang device, buksan ang Google app</string>
+    <string name="smartdevice_d2d_target_instruction_description">Buksan ang Google app</string>
+    <string name="smartdevice_d2d_target_instruction_title">Sa iyong iba pang device</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Upang kumopya: 
+
+1. Tiyakin na naka-on at naka-unlock ang iyong iba pang device 
+
+2. Pagtalikurin ang dalawang device hanggang sa makarinig ka ng tunog, pagkatapos ay itabi ang mga ito"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Gumagamit ang Tap &amp; Go ng NFC upang kopyahin ang iyong mga Google Account, app at data mula sa iyong iba pang device. Tiyaking naka-on ang NFC ng device na iyon sa pamamagitan ng pagpunta sa Mga Setting.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Nagkakaproblema ba?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Tap &amp; Go</string>
+    <string name="smartdevice_d2d_target_other_device_description">Paunang naka-install ang Google app sa lahat ng Android device. Pindutin ang \"Lahat ng app\" na button sa iyong home screen at hanapin ang icon na ipinakita sa itaas.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Dapat na tumugma ang code na ito sa nasa kabila mong device:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Huwag laktawan</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Hindi kokopyahin sa device na ito ng pag-set up ang account na ito o ang mga naka-back up na app, at ang data.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Laktawan pa rin</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Laktawan ang account na ito?</string>
+    <string name="smartdevice_d2d_target_title">Sa Google app</string>
+    <string name="smartdevice_default_device_name">device</string>
+    <string name="smartdevice_install_app">I-install ang app</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Kunin ang %s app upang kontrolin at pamahalaan ang iyong bagong %s sa device na ito</string>
+    <string name="smartdevice_install_on_this_device">I-install</string>
+    <string name="smartdevice_search_again">Maghanap muli</string>
+    <string name="smartdevice_searching_for_devices">Naghahanap ng mga device</string>
+    <string name="smartdevice_setup_enter_code">Ilagay ang code sa iyong device. Dapat ay lumabas ito sa isang sticker.</string>
+    <string name="smartdevice_setup_enter_code_hint">Ilagay ang code mo</string>
+    <string name="smartdevice_setup_enter_pin_4">Ilagay ang 4 na digit na code na kasalukuyang ipinapakita sa iba mo pang device</string>
+    <string name="smartdevice_setup_info_installing_app">Ini-install ang app…</string>
+    <string name="smartdevice_setup_intro_text">Upang ma-set up ang iba mo pang device, gagamitin ang Bluetooth at data ng Wi-Fi ng iyong telepono.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Upang ma-set up ang iba mo pang device, gagamitin ang Bluetooth ng iyong telepono.</string>
+    <string name="smartdevice_setup_intro_title">Pagsisimula</string>
+    <string name="smartdevice_setup_password_hint">Ilagay ang password ng WiFi</string>
+    <string name="smartdevice_setup_show_password">Ipakita ang password</string>
+    <string name="smartdevice_setup_title_verify_code">I-verify ang code</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Mga bukas na network at WPA/WPA2 network lang ang maaaring gamitin upang i-set up ang device na ito</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Hindi magamit ang WiFi network</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Kapag walang Wi-Fi, maaaring hindi gumana ang iyong device nang maayos. Ikonekta ito sa isang Wi-Fi network upang makapagpatuloy sa pag-setup.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Pumili ng Wi-Fi network</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Upang maghanap ng Wi-Fi, i-on ang Lokasyon.
+
+Maaari mo itong baguhin anumang oras sa Mga Setting."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Hindi makapaghanap ng mga Wi-Fi network</string>
+    <string name="source_connected_description">Inihahanda...</string>
+    <string name="source_connected_title">Nakakonekta sa iyong %1$s</string>
+    <string name="source_copying_description">Ang data na pinili mo ay kinokopya sa bago mong telepono</string>
+    <string name="source_copying_title">Kinokopya...</string>
+    <string name="source_default_target_device_name">bagong device</string>
+    <string name="source_notification_device_disconnected">Muling ikonekta ang iyong cable</string>
+    <string name="source_notification_text">Isinasagawa ang paglilipat sa mga telepono</string>
+    <string name="source_notification_title">Paglilipat ng Data</string>
+    <string name="source_success_description">Tapusin ang pag-set up sa iyong %1$s.</string>
+    <string name="source_success_screen_title">Tapos na ang lahat!</string>
+    <string name="source_unplugged_description">Muling kumonekta sa iyong %1$s</string>
+    <string name="source_unplugged_title">Hindi nakakonekta ang cable</string>
+    <string name="source_waiting_title">Ipagpatuloy ang pag-setup sa iyong %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">I-dismiss</string>
+    <string name="stop_copying_dialog_message_before_transfer">Hindi pa nakopya sa bago mong telepono ang iyong data</string>
+    <string name="stop_copying_dialog_message_during_transfer">Hindi pa nakopya sa bago mong telepono ang ilan sa iyong data</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Huwag Kopyahin</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Ihinto</string>
+    <string name="stop_copying_dialog_title_before_transfer">Huwag kopyahin?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Ihinto ang pagkopya?</string>
+    <string name="storage_management_wear_descriptive_text">Ginagamit ng mga app ang storage ng iyong device upang kumopya ng data patungo sa isang wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Pamahalaan ang wearable storage</string>
+    <string name="storage_management_wear_size_label">Wearable storage</string>
+    <string name="storage_managment_all_storage_descriptive_text">Kabuuang data na ginagamit ng mga serbisyo ng Google Play, kabilang ang search engine at iba pang data.</string>
+    <string name="storage_managment_clear_all_data">I-clear ang lahat ng data</string>
+    <string name="storage_managment_computing_size">Kino-compute…</string>
+    <string name="storage_managment_icing_size_label">Data ng Paghahanap</string>
+    <string name="storage_managment_manage_icing_button">Pamahalaan ang data ng paghahanap</string>
+    <string name="storage_managment_search_index_descriptive_text">Pinapabilis namin ang paghahanap sa iyong device sa pamamagitan ng pagbibigay ng search engine na magagamit ng iyong Mga App.</string>
+    <string name="storage_managment_title">Storage ng mga serbisyo ng Google Play</string>
+    <string name="storage_managment_total_size_label">Kabuuang storage</string>
+    <string name="supervisor_downloading_description">Dina-download ang %1$s</string>
+    <string name="supervisor_downloading_title">Maghintay habang sine-set up namin ang device mo</string>
+    <string name="supervisor_installing_description">Ini-install ang %1$s</string>
+    <string name="supervisor_title">Mga serbisyo ng Google Play para sa Instant Apps</string>
+    <string name="suw_back_button_label">Bumalik</string>
+    <string name="suw_more_button_label">Higit pa</string>
+    <string name="suw_next_button_label">Susunod</string>
+    <string name="system_update_ab_update_downloaded_notification_message">I-tap upang matuto nang higit pa</string>
+    <string name="system_update_activity_battery_low_text">Halos wala nang charge ang baterya upang ma-install ang update</string>
+    <string name="system_update_activity_name">Mga update sa system</string>
+    <string name="system_update_activity_roaming_text">Hindi mada-download ang mga update sa system habang naka-roaming.</string>
+    <string name="system_update_activity_roaming_text_glif">Hindi makapag-download kapag naka-roaming</string>
+    <string name="system_update_android_version_text">Bersyon ng Android: ^1</string>
+    <string name="system_update_check_now_button_text">Tingnan para sa pag-update</string>
+    <string name="system_update_checking_status_text">Tumitingin</string>
+    <string name="system_update_complete_label">Pag-update sa system</string>
+    <string name="system_update_countdown_cancel_button">Kanselahin ang pag-install</string>
+    <string name="system_update_countdown_complete">Nagre-reboot ngayon…</string>
+    <string name="system_update_download_and_install_button_text">I-download at i-install</string>
+    <string name="system_update_download_button_text">I-download</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Hindi sapat ang espasyo upang makapag-download</string>
+    <string name="system_update_download_failed_no_space_status_text">Walang available na sapat na espasyo upang makapag-download</string>
+    <string name="system_update_download_failed_status_text">Hindi makapag-download</string>
+    <string name="system_update_download_manage_storage_button_text">Pamahalaan ang storage</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Naghihintay ng Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Na-pause ang pag-download</string>
+    <string name="system_update_download_retry_button_text">Subukang muli ang pag-download</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Awtomatikong sisimulang i-download ang update sa pagitan ng ^1 at ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Maaari mong i-download ang update na ito sa pamamagitan ng Wi-Fi anumang oras. Kung hindi mo ito gagawin, awtomatiko itong sisimulang i-download sa pagitan ng ^1 at ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Upang i-download ang update na ito, lumipat muna sa isa mo pang SIM card.</string>
+    <string name="system_update_download_waiting_status_text">Hinihintay na ma-download</string>
+    <string name="system_update_downloading_status_text">Nagda-download</string>
+    <string name="system_update_downloading_title_text">Dina-download ang update ng system…</string>
+    <string name="system_update_downloading_wifi_status2_text">Sa pamamagitan lang ng ^1 hanggang ^2</string>
+    <string name="system_update_file_browser_ok_button">Pumili</string>
+    <string name="system_update_file_browser_title">Piliin ang file ng update</string>
+    <string name="system_update_free_up_space_button_text">Magbakante ng espasyo</string>
+    <string name="system_update_from_sd_card_button_and_title">I-update mula sa SD card</string>
+    <string name="system_update_from_sd_card_unknown_status">Sinusuri...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Hindi ma-verify</string>
+    <string name="system_update_from_sd_card_verified_description">Na-verify na ang update at handa nang ma-install.</string>
+    <string name="system_update_from_sd_card_verifying_status">Bine-verify...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Kailangan ng hindi nakametrong WiFi network</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Inirerekomenda ang Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Maaaring i-download ang update na ito sa pamamagitan lang ng ^1 hanggang ^2.
+
+Upang maipagpatuloy ang pag-download, kumonekta sa ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Kailangan ng WiFi network</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Upang maiwasan ang mga potensyal na pagsingil sa data, kumonekta sa isang hindi nakametrong Wi-Fi network.</string>
+    <string name="system_update_install_button_text">Mag-restart at i-install</string>
+    <string name="system_update_install_failed_button_qualifier_text">Nagkaroon ng problema sa pag-install</string>
+    <string name="system_update_install_failed_title_text">Hindi ma-update</string>
+    <string name="system_update_install_steps_text">Hakbang ^1 ng 2</string>
+    <string name="system_update_installing_title_text">Ini-install ang update ng system…</string>
+    <string name="system_update_last_checkin">Huling sinuri para sa pag-update ^1.</string>
+    <string name="system_update_last_checkin_glif">Ihanda para sa pag-update ^1</string>
+    <string name="system_update_managed_by_policy">Kinokontrol ng iyong organisasyon ang pag-update sa system software ng device na ito.</string>
+    <string name="system_update_no_update_content_text">Napapanahon ang iyong system.</string>
+    <string name="system_update_no_update_content_text_glif">Napapanahon ang iyong system</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Hindi ma-download ang update sa system</string>
+    <string name="system_update_not_owner_text">May available na update sa system software, ngunit ang may-ari lang ang makakapag-install nito.</string>
+    <string name="system_update_notification_header_name">Update sa System ng Android</string>
+    <string name="system_update_pause_button_text">I-pause ang pag-download</string>
+    <string name="system_update_processing_status_text">Pinoproseso</string>
+    <string name="system_update_requires_restart_status_text">Nangangailangan ng pag-restart</string>
+    <string name="system_update_restart_to_install_button_text">I-restart ngayon upang makapag-install</string>
+    <string name="system_update_restart_to_update_button_text">I-restart ngayon upang mag-update</string>
+    <string name="system_update_resume_button_text">Ipagpatuloy</string>
+    <string name="system_update_scheduled_status_text">Nakaiskedyul</string>
+    <string name="system_update_security_patch_level_text">Antas ng patch ng seguridad: ^1</string>
+    <string name="system_update_security_update_available_title_text">May update na panseguridad</string>
+    <string name="system_update_security_update_downloading_title_text">Dina-download ang update na panseguridad…</string>
+    <string name="system_update_security_update_installing_title_text">Ini-install ang update na panseguridad…</string>
+    <string name="system_update_size_label">Laki ng update:</string>
+    <string name="system_update_suw_download_and_install_text">"Maaaring tumagal nang ilang minuto bago ma-download at ma-install ang update na ito.
+
+Pagkatapos, awtomatikong magre-restart ang iyong device."</string>
+    <string name="system_update_suw_download_text">"Maaaring tumagal nang ilang minuto bago ma-download ang update na ito.
+
+Pagkatapos, awtomatikong magre-restart ang iyong device."</string>
+    <string name="system_update_suw_download_title">Dina-download ang update…</string>
+    <string name="system_update_suw_restart_text">Magre-restart ang device upang ma-install ang update sa iyong system.</string>
+    <string name="system_update_suw_restart_title">Magre-restart na</string>
+    <string name="system_update_suw_wifi_needed">Upang maipagpatuloy ang pag-download, pumili ng ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Mag-swipe pakaliwa upang i-download</string>
+    <string name="system_update_update_available_notification_message">I-tap upang matuto nang higit pa at ma-download</string>
+    <string name="system_update_update_available_notification_title">Available ang update sa system</string>
+    <string name="system_update_update_available_tap_to_download">I-tap upang i-download</string>
+    <string name="system_update_update_available_title_text">May available na update sa system</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Na-pause ang pag-download</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Hindi sapat na available na espasyo</string>
+    <string name="system_update_update_downloaded_charge_wearable">Paki-charge ang iyong baterya nang kahit %d%% lang</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Mag-swipe pakaliwa upang i-install.</string>
+    <string name="system_update_update_downloaded_notification_message">I-tap upang matuto nang higit pa at ma-install</string>
+    <string name="system_update_update_downloaded_notification_title">Na-download ang update sa system</string>
+    <string name="system_update_update_downloaded_tap_to_install">I-tap upang i-install</string>
+    <string name="system_update_verification_failed_text">Nabigo ang pag-verify</string>
+    <string name="system_update_verified_status_text">Na-download at na-verify</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Problema sa pag-verify</string>
+    <string name="system_update_verifying_status_text">Bine-verify</string>
+    <string name="system_update_wearable_countdown_message">Magre-restart sa loob ng %d...</string>
+    <string name="target_default_source_device_model">lumang device</string>
+    <string name="target_device_not_supported_cant_continue_description">Kakailanganin mong pumili ng iba pang paraan ng pagkopya ng data</string>
+    <string name="target_device_not_supported_cant_continue_title">Hindi sinusuportahan ang kabilang telepono</string>
+    <string name="target_device_not_supported_try_restarting_description">"Idiskonekta ang cable at i-restart ang luma mong telepono, pagkatapos ay muling ikonekta ang cable at sundin ang mga tagubilin sa iyong Pixel.
+
+Kung nakikita mo pa rin ang error na ito, maaaring kailangan mong sumubok ng ibang paraan ng pagkopya."</string>
+    <string name="target_device_not_supported_try_restarting_title">Maaaring hindi sinusuportahan ang telepono</string>
+    <string name="target_smart_device_timeout_add_account">MAGDAGDAG NG ACCOUNT</string>
+    <string name="target_smart_device_timeout_description">Kung gusto mo itong gawin, maaari mong subukang idagdag ang iyong account nang manual</string>
+    <string name="target_smart_device_timeout_dismiss">I-DISMISS</string>
+    <string name="target_smart_device_timeout_title">Nagkakaproblema ka ba?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Magkakonekta ang mga telepono</string>
+    <string name="toast_reconnect_cable">Muling ikonekta ang iyong cable</string>
+    <string name="transfer_finished_fragment_title">Mayroon lang ilang tinatapos pa...</string>
+    <string name="transfer_summary_copied">Nakopya ang data</string>
+    <string name="transfer_summary_fragment_description">Maaari mong idiskonekta ang cable.</string>
+    <string name="transfer_summary_fragment_finish">TAPUSIN</string>
+    <string name="transfer_summary_fragment_title">Malapit nang maging handa ang iyong telepono</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Hindi nakopya ang ilan sa iyong mga larawan. <annotation id="transfer_summary_learn_more">Matuto pa</annotation></string>
+    <string name="transfer_summary_not_copied">Hindi nakopya ang data</string>
+    <string name="transfer_summary_partial">%1$s / %2$s ang Nakopya</string>
+    <string name="transfer_summary_will_sync">Magsi-sync ang data pagkatapos ng pag-set up</string>
+    <string name="transferring_fragment_calculating_remaining_time">Kinakalkula ang natitirang oras...</string>
+    <string name="transferring_fragment_header">Kinokopya...</string>
+    <string name="transferring_fragment_remaining_time">%1$s pa</string>
+    <string name="trust_instructions_description">Upang magpatuloy, tingnan ang iyong iPhone® device at aprubahan ang koneksyon</string>
+    <string name="trust_instructions_trademark_disclaimer">Ang iPhone, iPad, iOS, iMessage, iCloud, Safari at iTunes ay mga trademark ng Apple Inc., na nakarehistro sa U.S. at iba pang mga bansa.</string>
+    <string name="unmetered_wifi_string">isang hindi nakametrong WiFi network</string>
+    <string name="url_load_unsuccessful_message">Hindi nakakonekta ang iyong Android device sa isang serbisyo ng mobile data. Upang tingnan ang impormasyong ito ngayon, pumunta sa %s sa isang web browser.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Hindi nakakonekta ang iyong Android device sa isang Wi-Fi network. Upang tingnan ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="use_nearby_device_heading">Gumamit ng kalapit na device?</string>
+    <string name="use_nearby_device_text">Gusto mo bang gumamit ng kalapit na device upang magbigay ng mga kredensyal?</string>
+    <string name="waiting_for_account_info_text">Naghihintay para sa impormasyon ng account...</string>
+    <string name="wifi_available_action_all_networks">Lahat ng Network</string>
+    <string name="wifi_available_action_connect">Kumonekta</string>
+    <string name="wifi_available_content_failed">I-tap upang makita ang lahat ng network</string>
+    <string name="wifi_available_title">Kumonekta sa bukas na Wi‑Fi network</string>
+    <string name="wifi_available_title_connected">Nakakonekta sa Wi‑Fi network</string>
+    <string name="wifi_available_title_connecting">Kumokonekta sa bukas na Wi‑Fi network</string>
+    <string name="wifi_available_title_failed">Hindi makakonekta sa Wi‑Fi network</string>
+    <string name="wifi_string">isang WiFi network</string>
+    <string name="wifi_wakeup_enabled_notification_context">Malapit ka sa isang naka-save na network: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Awtomatikong na-on ang Wi‑Fi</string>
+</resources>

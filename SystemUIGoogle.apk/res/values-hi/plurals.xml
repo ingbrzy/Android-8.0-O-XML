@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="other">SIM पिन कोड गलत है, आप %d बार और कोशिश कर सकते हैं.</item>
+        <item quantity="one">SIM पिन कोड गलत है, आप %d बार और कोशिश कर सकते हैं.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="other">SIM PUK कोड गलत है, SIM के हमेशा के लिए बेकार हो जाने से पहले आप %d बार और कोशिश कर सकते हैं.</item>
+        <item quantity="one">SIM PUK कोड गलत है, SIM के हमेशा के लिए बेकार हो जाने से पहले आप %d बार और कोशिश कर सकते हैं.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पासवर्ड की पुष्टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पासवर्ड की पुष्टि करें.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पैटर्न की पुष्टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पैटर्न की पुष्टि करें.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="other">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पिन की पुष्‍टि करें.</item>
+        <item quantity="one">डिवाइस को %d घंटों से अनलॉक नहीं किया गया है. पिन की पुष्‍टि करें.</item>
+    </plurals>
+    <plurals name="notification_channels_list_desc_2_and_others">
+        <item quantity="other">%1$s, %2$s और %3$d अन्य</item>
+        <item quantity="one">%1$s, %2$s और %3$d अन्य</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="other">इसमें %s और नोटिफ़िकेशन हैं.</item>
+        <item quantity="one">इसमें %s और नोटिफ़िकेशन हैं.</item>
+    </plurals>
+    <plurals name="notification_num_channels_desc">
+        <item quantity="other">इस ऐप्लिकेशन की %d नोटिफ़िकेशन श्रेणियों में से 1 श्रेणी</item>
+        <item quantity="one">इस ऐप्लिकेशन की %d नोटिफ़िकेशन श्रेणियों में से 1 श्रेणी</item>
+    </plurals>
+    <plurals name="status_bar_accessibility_recent_apps">
+        <item quantity="other">अवलोकन में %d स्‍क्रीन</item>
+        <item quantity="one">अवलोकन में %d स्‍क्रीन</item>
+    </plurals>
+</resources>

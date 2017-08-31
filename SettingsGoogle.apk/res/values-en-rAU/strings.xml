@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_autoclick_preference_title">Click after cursor stops moving</string>
+    <string name="accessibility_display_daltonizer_preference_title">Colour correction</string>
+    <string name="accessibility_display_inversion_preference_title">Colour inversion</string>
+    <string name="accessibility_no_wifi">Wi-Fi disconnected.</string>
+    <string name="accessibility_screen_magnification_navbar_configuration_warning">The accessibility button is set to %1$s. To use magnification, touch &amp; hold the accessibility button, then select magnification.</string>
+    <string name="accessibility_screen_magnification_navbar_summary">"When magnification is turned on, use the Accessibility button at the bottom of the screen to quickly magnify.
+
+"<b>To zoom</b>", tap the Accessibility button, then tap anywhere on the screen.
+"<ul><li>Drag 2 or more fingers to scroll</li>"
+"<li>Pinch 2 or more fingers to adjust zoom</li></ul>"
+
+"<b>To zoom temporarily</b>", tap the Accessibility button, then touch &amp; hold anywhere on the screen.
+"<ul><li>Drag to move around the screen</li>"
+"<li>Lift finger to zoom out</li></ul>"
+
+You can’t zoom in on the keyboard or navigation bar."</string>
+    <string name="accessibility_screen_magnification_summary"><b>To zoom</b>", quickly tap the screen 3 times.
+"<ul><li>Drag 2 or more fingers to scroll</li>"
+"<li>Pinch 2 or more fingers to adjust zoom</li></ul>"
+
+"<b>To zoom temporarily</b>", quickly tap the screen 3 times and hold down your finger on the third tap.
+"<ul><li>Drag to move around the screen</li>"
+"<li>Lift finger to zoom out</li></ul>"
+
+You can't zoom in on the keyboard and navigation bar."</string>
+    <string name="accessibility_summary_default_combination">%1$s/%2$s</string>
+    <string name="accessibility_sync_error">Sync error...</string>
+    <string name="accessibility_toggle_high_text_contrast_preference_title">High-contrast text</string>
+    <string name="accessibility_toggle_large_pointer_icon_title">Large mouse cursor</string>
+    <string name="accessibility_wifi_off">Wi-Fi off.</string>
+    <string name="accessibility_wifi_one_bar">Wi-Fi one bar.</string>
+    <string name="accessibility_wifi_signal_full">Wi-Fi signal full.</string>
+    <string name="accessibility_wifi_three_bars">Wi-Fi three bars.</string>
+    <string name="accessibility_wifi_two_bars">Wi-Fi two bars.</string>
+    <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorised?"</string>
+    <string name="adb_warning_message">USB debugging is intended for development purposes only. Use it to copy data between your computer and your device, install apps on your device without notification and read log data.</string>
+    <string name="adding_profile_owner_warning">"By proceeding, your user will be managed by your admin, which may also be able to store associated data, in addition to your personal data.
+
+Your admin has the ability to monitor and manage settings, access, apps and data associated with this user, including network activity and your device's location information."</string>
+    <string name="admin_device_owner_message">"Your admin can monitor and manage apps and data associated with this device, including settings, permissions, corporate access, network activity and the device's location information."</string>
+    <string name="admin_profile_owner_message">"Your admin can monitor and manage apps and data associated with your work profile, including settings, permissions, corporate access, network activity and the device's location information."</string>
+    <string name="admin_profile_owner_user_message">"Your admin can monitor and manage apps and data associated with this user, including settings, permissions, corporate access, network activity and the device's location information."</string>
+    <string name="airplane_mode">Aeroplane mode</string>
+    <string name="allow_bind_app_widget_activity_allow_bind">After you create the widget, %1$s can access all the data that it displays.</string>
+    <string name="allow_overlay_description">Allow this app to display on top of other apps that you’re using. It may interfere with your use of those apps or change the way they seem to appear or behave.</string>
+    <string name="always_allow_bind_appwidgets_text">"You've chosen to allow this app to create widgets and access their data."</string>
+    <string name="android_beam_explained">"When this feature is turned on, you can beam app content to another NFC-capable device by holding the devices close together. For example, you can beam web pages, YouTube videos, contacts and more.
+
+Just bring the devices together (typically back to back) and then tap your screen. The app determines what gets beamed."</string>
+    <string name="app_disable_notifications_dlg_title">Turn off notifications</string>
+    <string name="app_install_location_summary">Change the preferred installation location for new applications.</string>
+    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
+    <string name="app_notification_override_dnd_summary">Let these notifications continue to interrupt when Do not disturb is set to Priority only</string>
+    <string name="app_notification_override_dnd_title">Override Do not disturb</string>
+    <string name="applications_settings_summary">Manage apps, set up quick-launch shortcuts</string>
+    <string name="assist_footer">Assist apps can help you based on information from the screen that you’re viewing. Some apps support both launcher and voice input services to give you integrated assistance.</string>
+    <string name="assistant_security_warning">The assistant will be able to read information about apps that are in use on your system, including information visible on your screen or accessible within the apps.</string>
+    <string name="assisted_gps_disabled">Use server to assist GPS (un-tick to improve GPS performance)</string>
+    <string name="assisted_gps_enabled">Use server to assist GPS (un-tick to reduce network usage)</string>
+    <string name="auto_brightness_disclaimer">Optimise brightness level for available light. When this feature is on, you can still adjust brightness temporarily.</string>
+    <string name="auto_brightness_summary">Optimise brightness level for available light</string>
+    <string name="auto_caps">Auto-capitalisation</string>
+    <string name="auto_caps_summary">Capitalise first letter in sentences</string>
+    <string name="auto_launch_enable_text">"You've chosen to launch this app by default for some actions."</string>
+    <string name="auto_restore_summary">When reinstalling an app, restore backed-up settings and data</string>
+    <string name="autofill_app">Auto-fill service</string>
+    <string name="autofill_confirmation_message">"&lt;b>Make sure that you trust this app&lt;/b> &lt;br/> &lt;br/> &lt;xliff:g id=app_name example=Google Auto-fill>%1$s&lt;/xliff:g> uses what's on your screen to determine what can be auto-filled."</string>
+    <string name="autofill_keywords">auto, fill, auto-fill</string>
+    <string name="automatic_storage_manager_activation_warning">"When you're connected, you can still access photos and videos at the quality that you selected for backup"</string>
+    <string name="automatic_storage_manager_days_title">Backed up photos &amp; videos</string>
+    <string name="background_data_summary">Apps can sync, send and receive data at any time</string>
+    <string name="background_process_stop_description">"This is an old app process that is still running in case it's needed again. There is usually no reason to stop it."</string>
+    <string name="backup_data_summary">Back up application data, Wi-Fi passwords and other settings to Google servers</string>
+    <string name="backup_disabled">Backup disabled</string>
+    <string name="backup_erase_dialog_message">Stop backing up your Wi‑Fi passwords, bookmarks, other settings and app data, plus erase all copies on Google servers?</string>
+    <string name="backup_suggestion_get_started">Find out more</string>
+    <string name="backup_suggestion_missing_description">"If you don't see some of your data, like SMS messages and photos, you can transfer it to your Pixel by using a cable.
+
+To get started, your Pixel needs to be reset. All data on this phone, including customised settings and content not synced to the cloud, will be deleted."</string>
+    <string name="band_mode_loading">Loading band list…</string>
+    <string name="battery_desc_radio">Battery used by mobile radio</string>
+    <string name="battery_saver_off_summary">Off/%1$s</string>
+    <string name="battery_stats_flashlight_on_label">Torch on</string>
+    <string name="battery_stats_screen_on_label">Screen ON</string>
+    <string name="battery_sugg_apps_settings">The application may offer settings to reduce battery use</string>
+    <string name="battery_sugg_bluetooth_basic">"Turn off Bluetooth when you aren't using it"</string>
+    <string name="battery_sugg_radio">Switch to aeroplane mode to save power in areas with no mobile coverage</string>
+    <string name="battery_sugg_wifi">"Turn off Wi‑Fi when not using it or when it isn't available"</string>
+    <string name="bluetooth_confirm_passkey_msg">To pair with:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Make sure that it is showing this passkey:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_connecting_error_message">"Couldn't connect to %1$s."</string>
+    <string name="bluetooth_disconnect_headset_profile">%1$s will be disconnected from hands-free audio.</string>
+    <string name="bluetooth_disconnect_pan_nap_profile">"%1$s will be disconnected from sharing this phone's Internet connection."</string>
+    <string name="bluetooth_empty_list_user_restricted">"You don't have permission to change Bluetooth settings."</string>
+    <string name="bluetooth_is_discoverable">Visible to all Bluetooth devices nearby (%1$s)</string>
+    <string name="bluetooth_is_discoverable_always">Visible to all Bluetooth devices nearby</string>
+    <string name="bluetooth_is_visible_message">%1$s is visible to nearby devices while the Bluetooth settings are open.</string>
+    <string name="bluetooth_lock_voice_dialing">Lock voice dialling</string>
+    <string name="bluetooth_lock_voice_dialing_summary">Prevent use of the Bluetooth dialler when the screen is locked</string>
+    <string name="bluetooth_opp_profile_summary_connected">Connected to file-transfer server</string>
+    <string name="bluetooth_opp_profile_summary_not_connected">Not connected to file-transfer server</string>
+    <string name="bluetooth_pb_remember_choice">"Don't ask again"</string>
+    <string name="bluetooth_profile_a2dp_high_quality">Use high-quality audio: %1$s</string>
+    <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Use high-quality audio</string>
+    <string name="bluetooth_remember_choice">"Don't ask again"</string>
+    <string name="bluetooth_show_received_files">Show files received</string>
+    <string name="bluetooth_talkback_phone">Telephone</string>
+    <string name="bluetooth_tethering_overflow_error">"Can't tether to more than %1$d devices."</string>
+    <string name="bluetooth_turning_on">Turning on Bluetooth…</string>
+    <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
+    <string name="cant_sync_dialog_message">Sync for this item is currently disabled. To change your preference, temporarily turn on background data and automatic sync.</string>
+    <string name="cant_sync_dialog_title">Cannot sync manually</string>
+    <string name="capability_desc_receiveAccessibilityEvents">"Receive notifications when you're interacting with an app."</string>
+    <string name="captioning_background_color">Background colour</string>
+    <string name="captioning_custom_options_title">Customisation options</string>
+    <string name="captioning_edge_color">Edge colour</string>
+    <string name="captioning_foreground_color">Text colour</string>
+    <string name="captioning_window_color">Caption window colour</string>
+    <string name="cell_warning_and_limit">%1$s data warning / %2$s data limit</string>
+    <string name="cell_warning_only">%1$s data warning</string>
+    <string name="clear_adb_keys">Revoke USB debugging authorisations</string>
+    <string name="clear_data_dlg_text">"All of this app's data will be deleted permanently. This includes all files, settings, accounts, databases, etc."</string>
+    <string name="clear_data_failed">"Couldn't clear app data."</string>
+    <string name="clear_failed_dlg_text">"Couldn't clear data for app."</string>
+    <string name="color_gray">Grey</string>
+    <string name="color_temperature">Cool colour temperature</string>
+    <string name="color_temperature_desc">Use cooler display colours</string>
+    <string name="color_temperature_toast">To apply colour change, turn off screen</string>
+    <string name="color_title">Colour</string>
+    <string name="condition_airplane_summary">"Wi-Fi, Bluetooth and mobile network are turned off. You can't make phone calls or connect to the Internet."</string>
+    <string name="condition_airplane_title">Aeroplane mode is on</string>
+    <string name="condition_work_summary">Apps, background sync and other features related to your work profile are turned off.</string>
+    <string name="condition_zen_title">Do Not Disturb is on (%1$s)</string>
+    <string name="connected_devices_dashboard_summary">Bluetooth, cast, NFC</string>
+    <string name="convert_to_fbe_warning">"Convert data partition to file-based encryption.
+ !!Warning!! This will delete all your data.
+ This feature is alpha, and may not work correctly.
+ Press 'Wipe and convert…' to continue."</string>
+    <string name="credentials_erased">Credential storage has been erased.</string>
+    <string name="credentials_not_erased">"Credential storage couldn't be erased."</string>
+    <string name="credentials_password_too_short">The password must contain at least 8 characters.</string>
+    <string name="crypt_keeper_data_corrupt_summary">"The password that you entered is correct, but unfortunately your data is corrupt. 
+
+To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you’ll have an opportunity to restore any data that was backed up to your Google account."</string>
+    <string name="crypt_keeper_desc">"You can encrypt your accounts, settings, downloaded apps and their data, media and other files. After you encrypt your phone, assuming you've set up a screen lock (that is, a pattern or numeric PIN or password), you'll need to unlock the screen to decrypt the phone every time you power it on. The only other way to decrypt is to perform a factory data reset, erasing all your data.
+
+Encryption takes an hour or more. You must start with a charged battery and keep your phone plugged in throughout the process. If you interrupt it, you'll lose some or all of your data."</string>
+    <string name="crypt_keeper_dialog_need_password_title">No lock-screen PIN or password</string>
+    <string name="crypt_keeper_failed_summary">"Encryption was interrupted and can't be completed. As a result, the data on your phone is no longer accessible. 
+
+To resume using your phone, you need to perform a factory reset. When you set up your phone after the reset, you'll have an opportunity to restore any data that was backed up to your Google account."</string>
+    <string name="crypt_keeper_final_desc">"The encryption operation is irreversible and if you interrupt it, you'll lose data. Encryption takes an hour or more, during which the phone will restart several times."</string>
+    <string name="crypt_keeper_low_charge_text">Please charge your battery and try again.</string>
+    <string name="crypt_keeper_unplugged_text">Please plug in your charger and try again.</string>
+    <string name="data_saver_title">Data Saver</string>
+    <string name="data_usage_accounting">Operator data accounting may differ from your device.</string>
+    <string name="data_usage_auto_sync_off_dialog">"This will conserve data and battery usage, but you'll need to sync each account manually to collect recent information and you won't receive notifications when updates occur."</string>
+    <string name="data_usage_auto_sync_on_dialog">"Any changes that you make to your accounts on the web will be automatically copied to your phone.
+
+Some accounts may also automatically copy any changes that you make on the phone to the web. A Google account works this way."</string>
+    <string name="data_usage_disclaimer">Operator data accounting may differ from your device.</string>
+    <string name="data_usage_limit_dialog_mobile">"Your phone will turn off mobile data once it reaches the limit you set.
+
+Since data usage is measured by your phone, and your operator may account for usage differently, consider setting a conservative limit."</string>
+    <string name="data_usage_sweep_limit"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">limit</font></string>
+    <string name="data_usage_sweep_warning"><font size="18">^1</font> <font size="9">^2</font>"
+"<font size="12">warning</font></string>
+    <string name="data_usage_total_during_range_mobile">"%2$s: About %1$s used, as measured by your phone. Your operator's data usage accounting may differ."</string>
+    <string name="default_admin_support_msg">"This action is disabled. To find out more, contact your organisation's admin."</string>
+    <string name="dev_logpersist_clear_warning_message">When we are no longer monitoring with the persistent logger, we are required to erase the logger data resident on your device.</string>
+    <string name="dlg_confirm_unmount_text">If you unmount the USB storage, some apps that you are using will stop and may be unavailable until you remount the USB storage.</string>
+    <string name="dlg_confirm_unmount_title">Unmount USB storage</string>
+    <string name="dlg_error_unmount_text">Cannot unmount USB storage. Try again later.</string>
+    <string name="do_disclosure_generic">This device is managed by your organisation.</string>
+    <string name="do_disclosure_learn_more">Find out more</string>
+    <string name="dock_sounds_enable_summary_off">"Don't play sound when inserting or removing phone from dock"</string>
+    <string name="dock_sounds_enable_title">Dock insertion sound</string>
+    <string name="does_not_exist">"App doesn't exist."</string>
+    <string name="dtmf_tone_enable_title">Dial-pad touch tones</string>
+    <string name="emergency_address_summary">Address used by emergency services as your location if you make a 999 call using Wi-Fi</string>
+    <string name="emergency_tone_summary">Set behaviour when an emergency call is placed</string>
+    <string name="empty_list_msg">"You don't have any third-party apps installed."</string>
+    <string name="encrypt_talkback_dialog_message_password">"When you enter your password to start this device, accessibility services like %1$s won't yet be available."</string>
+    <string name="encrypt_talkback_dialog_message_pattern">"When you enter your pattern to start this device, accessibility services like %1$s won't yet be available."</string>
+    <string name="encrypt_talkback_dialog_message_pin">"When you enter your PIN to start this device, accessibility services like %1$s won't yet be available."</string>
+    <string name="encryption_interstitial_message_password">"You can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms. 
+
+This helps protect data on lost or stolen devices. Require password to start your device?"</string>
+    <string name="encryption_interstitial_message_password_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your password before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require password to start your device>"</string>
+    <string name="encryption_interstitial_message_pattern">"You can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms. 
+
+This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
+    <string name="encryption_interstitial_message_pattern_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your pattern before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require pattern to start your device?"</string>
+    <string name="encryption_interstitial_message_pin">"You can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms. 
+
+This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
+    <string name="encryption_interstitial_message_pin_for_fingerprint">"In addition to using your fingerprint to unlock your device, you can further protect this device by requiring your PIN before it starts up. Until the device starts up, it can’t receive calls, messages or notifications, including alarms.
+
+This helps protect data on lost or stolen devices. Require PIN to start your device?"</string>
+    <string name="encryption_warning_fragment_description">"Your iPhone™ device has backup encryption turned on, so only photos, videos and music can be copied over.
+
+To copy everything, change this setting in iTunes and try again."</string>
+    <string name="enterprise_privacy_exposure_category">Types of information that your organisation can see</string>
+    <string name="enterprise_privacy_exposure_changes_category">"Changes made by your organisation's admin"</string>
+    <string name="enterprise_privacy_header">"To provide access to your work data, your organisation may change settings and install software on your device.
+
+For more details, contact your organisation's admin."</string>
+    <string name="enterprise_privacy_settings_summary_generic">Changes &amp; settings managed by your organisation</string>
+    <string name="error_apn_empty">The APN cannot be empty.</string>
+    <string name="error_name_empty">"The Name field can't be empty."</string>
+    <string name="fingerprint_last_delete_message">"You won't be able to use your fingerprints to unlock your phone, authorise purchases or sign in to apps with them"</string>
+    <string name="fingerprint_last_delete_message_profile_challenge">"You won't be able to use your fingerprints to unlock your work profile, authorise purchases or sign in to work apps"</string>
+    <string name="fingerprint_not_recognized">Not recognised</string>
+    <string name="font_size_preview_text_body">"Even with eyes protected by the green spectacles Dorothy and her friends were at first dazzled by the brilliancy of the wonderful City. The streets were lined with beautiful houses all built of green marble and studded everywhere with sparkling emeralds. They walked over a pavement of the same green marble, and where the blocks were joined together were rows of emeralds, set closely, and glittering in the brightness of the sun. The window panes were of green glass; even the sky above the City had a green tint, and the rays of the sun were green. 
+
+There were many people, men, women and children, walking about, and these were all dressed in green clothes and had greenish skins. They looked at Dorothy and her strangely assorted company with wondering eyes, and the children all ran away and hid behind their mothers when they saw the Lion; but no one spoke to them. Many shops stood in the street, and Dorothy saw that everything in them was green. Green candy and green pop-corn were offered for sale, as well as green shoes, green hats and green clothes of all sorts. At one place a man was selling green lemonade, and when the children bought it Dorothy could see that they paid for it with green pennies. 
+
+There seemed to be no horses or animals of any kind; the men carried things around in little green carts, which they pushed before them. Everyone seemed happy, contented and prosperous."</string>
+    <string name="force_hw_ui_summary">Force use of GPU for 2D drawing</string>
+    <string name="force_resizable_activities">Force activities to be re-sizable</string>
+    <string name="force_stop_dlg_text">If you force-stop an app, it may misbehave.</string>
+    <string name="fragment_usb_description">"This is the fastest way to bring over the most data.
+
+Plug your old phone's cable into your old phone. Connect the cable to your new phone using the adaptor in the box. Then, unlock your old phone."</string>
+    <string name="fullbackup_data_summary">"Automatically back up device data (such as Wi-Fi passwords and call history) and app data (such as settings and files stored by apps) to Google Drive.
+
+When you turn on automatic backup, device and app data is periodically saved to a private folder in Google Drive. App data can be any data that an app has saved (based on developer settings), including potentially sensitive data such as contacts, messages and photos.
+
+Backup data will not count towards your Drive storage quota. Large files or files that developers have chosen to exclude from the service will not be backed up."</string>
+    <string name="google_services_kids_automatic_storage_manager"><b>Free up space when device storage is almost full</b> by removing some data from this device, like backed-up photos and videos.</string>
+    <string name="hdcp_checking_dialog_title">Set HDCP checking behaviour</string>
+    <string name="header_data_and_synchronization">Data &amp; synchronisation</string>
+    <string name="heavy_weight_stop_description">"This app can't be stopped safely. If you stop it, you may lose some of your current work."</string>
+    <string name="high_power_apps">Battery optimisation</string>
+    <string name="high_power_desc">Don’t apply battery optimisation. May drain your battery more quickly.</string>
+    <string name="high_power_filter_on">Not optimised</string>
+    <string name="high_power_off">Optimising battery use</string>
+    <string name="high_power_on">Not optimised</string>
+    <string name="high_power_system">Battery optimisation not available</string>
+    <string name="ignore_optimizations_off">Optimise</string>
+    <string name="ignore_optimizations_on">Don’t optimise</string>
+    <string name="ignore_optimizations_title">Allow %s to ignore battery optimisations?</string>
+    <string name="ime_security_warning">This input method may be able to collect all the text that you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this input method?</string>
+    <string name="imei_information_summary">IMEI-related information</string>
+    <string name="immediately_destroy_activities">"Don't keep activities"</string>
+    <string name="input_methods_settings_label_format">%1$s Settings</string>
+    <string name="invalid_location">"Install location isn't valid."</string>
+    <string name="invalid_size_value">"Couldn't compute the package size."</string>
+    <string name="keywords_color_mode">vibrant, RGB, sRGB, colour, natural, standard</string>
+    <string name="keywords_color_temperature">colour temperature D65 D73 white yellow blue warm cool</string>
+    <string name="keywords_display_wallpaper">background, personalise, customise display</string>
+    <string name="keywords_ignore_optimizations">ignore optimisations, doze, app standby</string>
+    <string name="keywords_more_mobile_networks">mobile, mobile operator, wireless, data, 4g,3g, 2g, lte</string>
+    <string name="keywords_sounds_and_notifications_interruptions">"don't disturb, interrupt, interruption, break"</string>
+    <string name="keywords_system_alert_window">system alert window dialogue display on top of other apps</string>
+    <string name="keywords_voice_input">recogniser, input, speech, speak, language, hands-free, hand free recognition, offensive word, audio history, Bluetooth headset</string>
+    <string name="keywords_vr_listener">VR virtual reality listener stereo helper service</string>
+    <string name="keywords_wifi">wi-fi, Wi-Fi, network connection</string>
+    <string name="keywords_wifi_calling">wi-fi, Wi-Fi, call, calling</string>
+    <string name="license_title">Licence</string>
+    <string name="local_backup_password_summary_none">"Desktop full backups aren't currently protected"</string>
+    <string name="local_backup_password_toast_confirmation_mismatch">"New password and confirmation don't match"</string>
+    <string name="location_mode_battery_saving_description">Use Wi‑Fi, Bluetooth or mobile networks to determine location</string>
+    <string name="location_mode_high_accuracy_description">Use GPS, Wi‑Fi, Bluetooth or mobile networks to determine location</string>
+    <string name="location_neighborhood_level">"Let apps use Google's location service to estimate your location faster. Anonymous location data will be collected and sent to Google."</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">"Device protection features will not be activated. You won't be able to prevent others from using this phone if it's lost, stolen or wiped."</string>
+    <string name="lock_screen_notifications_interstitial_message">When your device is locked, how do you want notifications to be displayed?</string>
+    <string name="lock_screen_notifications_interstitial_message_profile">When your device is locked, how do you want profile notifications to be displayed?</string>
+    <string name="lock_screen_notifications_summary_disable">"Don't show notifications at all"</string>
+    <string name="lock_settings_profile_unification_dialog_uncompliant_body">"Your work profile lock doesn't meet your organisation's security requirements. You can use the same lock for your device screen and your work profile, but any work lock policies will apply."</string>
+    <string name="lock_setup">Set up is complete.</string>
+    <string name="lock_sounds_enable_title">Screen lock sounds</string>
+    <string name="lockpassword_confirm_passwords_dont_match">"Passwords don't match"</string>
+    <string name="lockpassword_confirm_pins_dont_match">"PINs don't match"</string>
+    <string name="lockpassword_password_set_toast">password has been set</string>
+    <string name="lockpassword_pin_contains_non_digits">Must only contain digits 0-9</string>
+    <string name="lockpassword_pin_no_sequential_digits">"Ascending, descending or repeated sequence of digits isn't allowed"</string>
+    <string name="lockpattern_recording_inprogress">"Release finger when you've finished"</string>
+    <string name="lockpattern_settings_require_password_before_startup_summary">"Require password to start up your device. While off, this device can't receive calls, messages, notifications or alarms."</string>
+    <string name="lockpattern_settings_require_pattern_before_startup_summary">"Require pattern to start up your device. While off, this device can't receive calls, messages, notifications or alarms."</string>
+    <string name="lockpattern_settings_require_pin_before_startup_summary">"Require PIN to start up your device. While off, this device can't receive calls, messages, notifications or alarms."</string>
+    <string name="managed_profile_contact_search_summary">Allow contact searches by your organisation to identify callers and contacts</string>
+    <string name="managed_profile_not_available_label">"Work profile isn't available yet"</string>
+    <string name="master_clear_accounts">"
+
+You are currently signed in to the following accounts:
+"</string>
+    <string name="master_clear_desc">"This will erase all data from your phone's "<b>internal storage</b>", including:
+
+"<li>Your Google account</li>"
+"<li>System and app data and settings</li>"
+"<li>Downloaded apps</li></string>
+    <string name="master_clear_desc_also_erases_external"><li>Music</li>"
+"<li>Photos</li>"
+"<li>Other user data</li></string>
+    <string name="master_clear_desc_erase_external_storage">"
+
+To clear music, pictures and other user data, the "<b>USB storage</b> needs to be erased.</string>
+    <string name="master_clear_failed">"No reset was performed because the System Clear service isn't available."</string>
+    <string name="master_clear_final_desc">"Erase all your personal information and downloaded apps? You can't undo this action!"</string>
+    <string name="memory_calculating_size">Calculating...</string>
+    <string name="menu_stats_last_unplugged">While last for unplugged for %1$s</string>
+    <string name="misc_files">Misc. files</string>
+    <string name="move_app_failed_dlg_text">"Couldn't move app. %1$s"</string>
+    <string name="nfc_disclaimer_content">NFC exchanges data between this device and other nearby devices or targets, such as payment terminals, access readers and interactive ads or tags.</string>
+    <string name="nfc_payment_favor_default">always</string>
+    <string name="nfc_payment_no_apps">Pay with your phone in shops</string>
+    <string name="night_display_auto_mode_custom">Customised schedule</string>
+    <string name="no_internet_access_remember">"Don't ask again for this network"</string>
+    <string name="not_battery_optimizing">Not using battery optimisation</string>
+    <string name="notification_importance_high">Make sound and pop up on screen</string>
+    <string name="notification_listener_disable_warning_cancel">cancel</string>
+    <string name="notification_listener_security_warning_summary">"%1$s will be able to read all notifications, including personal information such as contact names and the text of messages that you receive. It will also be able to dismiss notifications or trigger action buttons that they contain. 
+
+This will also give the app the ability to turn Do Not Disturb on or off and change related settings."</string>
+    <string name="notification_log_details_content_view">customised view</string>
+    <string name="notification_log_details_default">Default</string>
+    <string name="notification_log_details_none">None</string>
+    <string name="oem_unlock_enable_disabled_summary_sim_locked_device">Unavailable on mobile-locked devices</string>
+    <string name="onscreen_keyboard_settings_summary">On-screen keyboard settings</string>
+    <string name="operator_warning">Operator data accounting may differ from device accounting</string>
+    <string name="owner_info_settings_edit_text_hint">"e.g. Joe's Android."</string>
+    <string name="picture_color_mode">Picture colour mode</string>
+    <string name="picture_in_picture_app_detail_summary">"Allow this app to create a picture-in-picture window while the app is open or after you leave it (for example, to continue watching a video). This window displays on top of other apps that you're using."</string>
+    <string name="ping_test_label">Run ping test</string>
+    <string name="please_select_phase2">Phase-2 authentication</string>
+    <string name="power_charging_duration">%1$s – %2$s until fully charged</string>
+    <string name="power_discharging_duration">%1$s – about %2$s left</string>
+    <string name="power_usage_not_available">"Battery usage data isn't available."</string>
+    <string name="premium_sms_warning">Premium SMS may cost you money and will add up to your mobile bills. If you enable permission for an app, you will be able to send premium SMS using that app.</string>
+    <string name="print_settings_title">Printing services</string>
+    <string name="process_dex2oat_label">App optimisation</string>
+    <string name="process_mediaserver_label">Media server</string>
+    <string name="process_stats_run_time">Running time</string>
+    <string name="proxy_error_invalid_exclusion_list">"The exclusion list that you've typed isn't properly formatted. Type a comma-separated list of excluded domains."</string>
+    <string name="proxy_error_invalid_host">"The hostname that you typed isn't valid."</string>
+    <string name="proxy_error_invalid_port">The port that you typed is not valid.</string>
+    <string name="radioInfo_menu_viewADN">View SIM address book</string>
+    <string name="radioInfo_menu_viewFDN">View fixed dialling numbers</string>
+    <string name="radioInfo_menu_viewSDN">View Service Dialling Numbers</string>
+    <string name="radioInfo_phone_offhook">Call in progress</string>
+    <string name="radioInfo_roaming_not">Not roaming</string>
+    <string name="radioInfo_service_in">In service</string>
+    <string name="radioInfo_service_off">Radio off</string>
+    <string name="radioInfo_service_out">Out of service</string>
+    <string name="radioInfo_unknown">unknown</string>
+    <string name="radio_controls_summary">Manage Wi‑Fi, Bluetooth, aeroplane mode, mobile networks, &amp; VPNs</string>
+    <string name="radio_info_band_mode_label">Select radio band</string>
+    <string name="radio_info_call_redirect_label">Call redirect:</string>
+    <string name="radio_info_call_status_label">Voice call status:</string>
+    <string name="radio_info_cell_info_refresh_rate">Mobile info refresh rate:</string>
+    <string name="radio_info_cellinfo_label">All mobile measurement info:</string>
+    <string name="radio_info_current_network_label">Current network:</string>
+    <string name="radio_info_data_connection_disable">Disable data connection</string>
+    <string name="radio_info_data_connection_enable">Enable data connection</string>
+    <string name="radio_info_data_network_type_label">Data network type:</string>
+    <string name="radio_info_dcrtinfo_label">Data connection real-time info:</string>
+    <string name="radio_info_gprs_service_label">Data service:</string>
+    <string name="radio_info_gsm_service_label">Voice service:</string>
+    <string name="radio_info_http_client_test">HTTP Client test:</string>
+    <string name="radio_info_ims_reg_status">"IMS Registration: %1$s
+Voice over LTE: %2$s
+Voice over Wi-Fi: %3$s
+Video Calling: %4$s
+UT Interface: %5$s"</string>
+    <string name="radio_info_message_waiting_label">Message waiting:</string>
+    <string name="radio_info_neighboring_location_label">Neighbour mobile info (deprecated):</string>
+    <string name="radio_info_phone_number_label">Phone number:</string>
+    <string name="radio_info_ppp_resets_label">Number of PPP reset since boot:</string>
+    <string name="radio_info_ppp_sent_label">Data sent</string>
+    <string name="radio_info_set_perferred_label">Set preferred network type:</string>
+    <string name="radio_info_signal_location_label">Mobile location info (deprecated):</string>
+    <string name="radio_info_signal_strength_label">Signal strength</string>
+    <string name="radio_info_toggle_dns_check_label">Toggle DNS check</string>
+    <string name="radio_info_voice_network_type_label">Voice network type:</string>
+    <string name="really_remove_account_message">Removing this account will delete all of its messages, contacts and other data from the phone!</string>
+    <string name="reset_app_preferences_desc">"This will reset all preferences for:
+
+ "<li>Disabled apps</li>"
+ "<li>Disabled app notifications</li>"
+ "<li>Default applications for actions</li>"
+ "<li>Background data restrictions for apps</li>"
+ "<li>Any permission restrictions</li>"
+
+ You will not lose any app data."</string>
+    <string name="reset_network_desc">"This will reset all network settings, including:
+
+"<li>Wi‑Fi</li>"
+"<li>Mobile data</li>"
+"<li>Bluetooth</li></string>
+    <string name="reset_network_final_desc">"Reset all network settings? You can't undo this action!"</string>
+    <string name="restore_default_apn_completed">Reset default APN settings completed</string>
+    <string name="runningservicedetails_stop_dlg_text">If you stop this service, some features of your phone may stop working correctly until you turn it off and then on again.</string>
+    <string name="screen_locking_sounds_title">Screen-locking sounds</string>
+    <string name="screen_pinning_description">"When this setting is turned on, you can use screen pinning to keep the current screen in view until you unpin.
+
+To use screen pinning:
+
+1. Make sure that screen pinning is turned on.
+
+2. Open the screen that you want to pin.
+
+3. Tap Overview.
+
+4. Swipe up and then tap the pin icon."</string>
+    <string name="screen_zoom_conversation_message_3">Sounds great. I know a good place not too far from here.</string>
+    <string name="screen_zoom_conversation_timestamp_1">Tue 6:00 p.m.</string>
+    <string name="screen_zoom_conversation_timestamp_2">Tue 6:01 p.m.</string>
+    <string name="screen_zoom_conversation_timestamp_3">Tue 6:02 p.m.</string>
+    <string name="screen_zoom_conversation_timestamp_4">Tue 6:03 p.m.</string>
+    <string name="screen_zoom_keywords">display, density, screen zoom, scale, scaling</string>
+    <string name="screensaver_settings_disabled_prompt">To control what happens when the phone is docked and/or sleeping, turn the screen saver on.</string>
+    <string name="sdcard_changes_instructions">Changes take effect when the USB cable is reconnected.</string>
+    <string name="sdcard_settings_unmounted_status">It is now safe to remove the USB storage.</string>
+    <string name="search_menu">Search Settings</string>
+    <string name="secure_lock_encryption_warning">"Because you've turned on an accessibility service, your device won’t use your screen lock to enhance data encryption."</string>
+    <string name="security_dashboard_summary">Screen lock, fingerprint</string>
+    <string name="security_dashboard_summary_no_fingerprint">Screen lock</string>
+    <string name="security_settings_fingerprint_enroll_disclaimer">In addition to unlocking your phone, you can also use Pixel Imprint to authorise purchases and app access. <annotation id="url">Find out more</annotation></string>
+    <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">" The screen lock option is disabled. To find out more, contact your organisation's admin. "<annotation id="admin_details">More details</annotation>"
+
+You can still use your fingerprint to authorise purchases and app access. "<annotation id="url">Learn more</annotation></string>
+    <string name="security_settings_fingerprint_enroll_error_dialog_title">Enrolment was not completed</string>
+    <string name="security_settings_fingerprint_enroll_error_generic_dialog_message">"Fingerprint enrolment didn't work. Try again or use a different finger."</string>
+    <string name="security_settings_fingerprint_enroll_error_timeout_dialog_message">Fingerprint enrolment time limit reached. Try again.</string>
+    <string name="security_settings_fingerprint_enroll_finish_message">Whenever you see this icon, you can use your fingerprint for identification or to authorise a purchase.</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message">"Pixel Imprint uses your fingerprint to wake and unlock your phone, authorise purchases or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: Your fingerprint may be less secure than a strong pattern or PIN. "<annotation link="url">Find out more</annotation></string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_setup">"Pixel Imprint uses your fingerprint to wake and unlock your phone, authorise purchases or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: Your fingerprint may be less secure than a strong pattern or PIN."</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled">"With Pixel Imprint, you can use your fingerprint to authorise purchases or sign in to apps.
+
+Be careful whose fingerprints you add. Any fingerprints added will be able to do these things.
+
+Note: You can’t use your fingerprint to unlock this device. For more information, contact your organisation’s admin."</string>
+    <string name="security_settings_fingerprint_enroll_touch_dialog_title">"Whoops, that's not the sensor"</string>
+    <string name="security_settings_title">Security &amp; location</string>
+    <string name="settings_license_activity_title">Third-party licences</string>
+    <string name="settings_license_activity_unavailable">There is a problem loading the licences.</string>
+    <string name="settings_safetylegal_activity_unreachable">"You don't have a data connection. To view this information now, go to %s from any computer connected to the Internet."</string>
+    <string name="setup_fingerprint_enroll_finish_message_secondary">When you see this icon, you can also authorise purchases or sign in to apps.</string>
+    <string name="setup_lock_settings_picker_message">Prevent others from using this phone without your permission by activating device protection features. Choose the screen lock that you would like to use.</string>
+    <string name="show_all_anrs_summary">Show App Not Responding dialogue for background apps</string>
+    <string name="show_silently_summary">"Don't make sound, vibrate or peek these notifications into view on the current screen."</string>
+    <string name="sim_change_failed">"Can't change PIN.
+Possibly incorrect PIN."</string>
+    <string name="sim_editor_carrier">Operator</string>
+    <string name="sim_editor_color">SIM colour</string>
+    <string name="sim_lock_failed">"Can't change SIM card lock state.
+Possibly incorrect PIN."</string>
+    <string name="sim_pins_dont_match">"PINs don't match"</string>
+    <string name="sim_preferred_message">%1$s is the only SIM in your device. Do you want to use this SIM for mobile data, calls and SMS messages?</string>
+    <string name="simulate_color_space">Simulate colour space</string>
+    <string name="sort_avg_use">Sort by avg. use</string>
+    <string name="sort_max_use">Sort by max. use</string>
+    <string name="sound_dashboard_summary">Volume, vibration, Do not disturb</string>
+    <string name="spellchecker_security_warning">This spell checker may be able to collect all the text that you type, including personal data like passwords and credit card numbers. It comes from the app %1$s. Use this spell checker?</string>
+    <string name="ssl_ca_cert_warning_message">"A third party is capable of monitoring your network activity, including emails, apps and secure websites.
+
+A trusted credential installed on your device is making this possible."</string>
+    <string name="status_service_state">Service status</string>
+    <string name="status_tag_not_writable">NFC tag is not writeable. Please use a different tag.</string>
+    <string name="status_up_time">Uptime</string>
+    <string name="storage_detail_dialog_other">"Other includes shared files saved by apps, files downloaded from the Internet or Bluetooth, Android files and so on. 
+
+To see the visible contents of this ^1, tap Explore."</string>
+    <string name="storage_detail_dialog_user">"^1 may have saved photos, music, apps or other data, using ^2 of storage. 
+
+To view details, switch to ^1."</string>
+    <string name="storage_format_failure">"Couldn't format %1$s"</string>
+    <string name="storage_internal_forget_confirm">All the apps, photos and data stored on this ^1 will be lost forever.</string>
+    <string name="storage_internal_forget_details">"To use the apps, photos or data this ^1 contains, reinsert it. 
+
+Alternatively, you can choose to forget this storage if the device isn’t available. 
+
+If you choose to forget, all the data the device contains will be lost forever. 
+
+You can reinstall the apps later, but their data stored on this device will be lost."</string>
+    <string name="storage_internal_format_details">"After formatting, you can use this ^1 in other devices. 
+
+All data on this ^1 will be erased. Consider backing up first. 
+
+"<b>Back up photos &amp; other media</b>" 
+Move your media files to alternative storage on this device, or transfer them to a computer using a USB cable. 
+
+"<b>Back up apps</b>" 
+All apps stored on this ^1 will be uninstalled and their data will be erased. To keep these apps, move them to alternative storage on this device."</string>
+    <string name="storage_menu_set_up">Set-up</string>
+    <string name="storage_mount_failure">"Couldn't mount %1$s"</string>
+    <string name="storage_summary_with_sdcard">Internal storage: %1$s used – %2$s free</string>
+    <string name="storage_unmount_failure">"Couldn't safely eject %1$s"</string>
+    <string name="storage_wizard_format_progress_body">"Don't remove the ^1 while it's formatting."</string>
+    <string name="storage_wizard_migrate_body">"You can move your photos, files and some apps to this new ^1. 
+
+The move takes about ^2 and will free ^3 on internal storage. Some apps won’t work while it’s underway."</string>
+    <string name="storage_wizard_migrate_details">"During the move: 
+• Don't remove the ^1. 
+• Some apps won't work correctly. 
+• Keep the device charged."</string>
+    <string name="storage_wizard_move_confirm_body">"Moving ^1 and its data to ^2 will take only a few moments. You won't be able to use the app until the move is complete. 
+
+Don't remove the ^2 during the move."</string>
+    <string name="storage_wizard_move_progress_body">"Don't remove the ^1 during the move. 
+
+The ^2 app on this device won't be available until the move is complete."</string>
+    <string name="storage_wizard_ready_external_body">Your ^1 is ready to use with photos and other media.</string>
+    <string name="storage_wizard_ready_internal_body">"Your new ^1 is working. 
+
+To move photos, files and app data to this device, go to Settings > Storage."</string>
+    <string name="support_disclaimer_content">To address questions about your phone, <annotation link="url">system information</annotation>", including app usage, will be sent to Google. 
+
+For more info, see Google's "<a href="https://www.google.com/policies/privacy/">Privacy Policy</a> and <a href="https://www.google.com/policies/terms/">Terms of Service</a>.</string>
+    <string name="support_disclaimer_do_not_show">Do not show this again</string>
+    <string name="support_escalation_24_7_content_description">"We're here for you 24/7"</string>
+    <string name="support_international_phone_title">Travelling abroad?</string>
+    <string name="support_sign_in_button_text">Sign In</string>
+    <string name="support_sign_in_required_summary">To contact support, sign in to your Google account</string>
+    <string name="sync_plug"><font fgcolor="#ffffffff">Welcome to Google sync!</font>" 
+A Google approach to syncing data to allow access to your contacts, appointments and more from wherever you are."</string>
+    <string name="system_package">System updates cannot be installed on external media.</string>
+    <string name="target_device_not_supported_description">If you use the cable, some of your data might not be copied over.</string>
+    <string name="target_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"When you turn on automatic backup, your device's data is regularly saved to your Google account. Backups may include information in your app data folders, like preferences, settings, messages, photos and other files."</string>
+    <string name="title_convert_fbe">Converting to file-based encryption</string>
+    <string name="transfer_finished_description_cancel">"You chose to stop copying, so only some stuff has been copied to your new phone.
+
+A few things, like your contacts, calendar and apps, will start downloading as soon as you finish setup."</string>
+    <string name="transfer_finished_description_error">"Something went wrong, so we couldn't copy everything.
+
+A few things, like your contacts, calendar and apps, will start downloading as soon as you finish setup."</string>
+    <string name="transfer_finished_description_success">"Your data is copied over and ready to go.
+You can unplug your cable.
+
+A few things, like your contacts, calendar and apps, will start downloading as soon as you finish setup."</string>
+    <string name="transferring_fragment_description_extended">"We'll let you know when the transfer has finished.
+
+In the meantime, you can continue setting up your new %1$s."</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad and iOS are trademarks of Apple Inc., registered in the US and other countries.</string>
+    <string name="tts_default_pitch_summary">Affects the tone of the synthesised speech</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint">"Device protection features will not work without your password.
+
+Your saved fingerprints will also be removed from this device and you wont be able to unlock your phone, authorise purchases, or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint_profile">"Profile protection features will not work without your password.
+
+Your saved fingerprints will also be removed from this profile and you wont be able to unlock your profile, authorise purchases or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"Device protection features will not work without your pattern.
+
+Your saved fingerprints will also be removed from this device and you wont be able to unlock your phone, authorise purchases, or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint_profile">"Profile protection features will not work without your pattern.
+
+Your saved fingerprints will also be removed from this profile and you wont be able to unlock your profile, authorise purchases or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint">"Device protection features will not work without your PIN.
+
+Your saved fingerprints will also be removed from this device and you wont be able to unlock your phone, authorise purchases, or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint_profile">"Profile protection features will not work without your PIN.
+
+Your saved fingerprints will also be removed from this profile and you wont be able to unlock your profile, authorise purchases or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint">"Device protection features will not work without your screen lock.
+
+Your saved fingerprints will also be removed from this device and you wont be able to unlock your phone, authorise purchases, or sign in to apps with them.\""</string>
+    <string name="unlock_disable_frp_warning_content_unknown_fingerprint_profile">"Profile protection features will not work without your screen lock.
+
+Your saved fingerprints will also be removed from this profile and you wont be able to unlock your profile, authorise purchases or sign in to apps with them.\""</string>
+    <string name="unlock_set_unlock_disabled_summary">Disabled by admin, encryption policy or credential storage</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Change or disable pattern, PIN or password security</string>
+    <string name="unlock_set_unlock_launch_picker_summary_lock_immediately">%1$s /Immediately after sleep</string>
+    <string name="unlock_setup_wizard_fingerprint_details">"Once you've set up a screen lock, you can also set up your fingerprint in Settings > Security."</string>
+    <string name="usage_access_description">"Usage access allows an app to track what other apps that you're using and how often, as well as your operator, language settings and other details."</string>
+    <string name="usb_midi_summary">Lets MIDI-enabled applications work over USB with MIDI software on your computer.</string>
+    <string name="usb_mtp_summary">Lets you transfer media files on Windows or using Android File Transfer on Mac (see www.android.com/filetransfer)</string>
+    <string name="usb_ptp_summary">"Lets you transfer photos using camera software and transfer any files on computers that don't support MTP"</string>
+    <string name="usb_tethering_available_subtext">USB connected, slide to tether</string>
+    <string name="usb_tethering_storage_active_subtext">"Can't tether when USB storage is in use"</string>
+    <string name="user_add_user_message_long">"You can share this device with other people by creating additional users. Each user has their own space, which they can customise with apps, wallpaper and so on. Users can also adjust device settings like Wi‑Fi that affect everyone.
+
+When you add a new user, that person needs to set up their space.
+
+Any user can update apps for all other users."</string>
+    <string name="user_cannot_manage_message">"Only the phone's owner can manage users."</string>
+    <string name="user_confirm_remove_self_message">"You will lose your space and data on this phone. You can't undo this action."</string>
+    <string name="user_dict_settings_add_dialog_less_options">Fewer options</string>
+    <string name="user_need_lock_message">"Before you can create a restricted profile, you'll need to set up a screen lock to protect your apps and personal data."</string>
+    <string name="user_setup_dialog_message">Make sure that the person is available to take the device and set up their space</string>
+    <string name="user_summary_managed_profile_not_set_up">Not set up – Work profile</string>
+    <string name="verify_apps_over_usb_summary">Check apps installed via ADB/ADT for harmful behaviour.</string>
+    <string name="version_text">Version %1$s</string>
+    <string name="vision_settings_description">You can customise this device to fit your needs. These accessibility features can be changed later in Settings.</string>
+    <string name="vision_settings_title">Vision settings</string>
+    <string name="voice_interaction_security_warning">This voice input service will be able to perform always-on voice monitoring, and control voice enabled applications on your behalf. It comes from the %s application. Enable the use of this service?</string>
+    <string name="volte_provisioned_switch_string">VoLTE provisioned</string>
+    <string name="volume_media_description">Music, video, games &amp; other media</string>
+    <string name="vpn_ipsec_secret">IPSec preshared key</string>
+    <string name="vpn_no_ca_cert">"(don't verify server)"</string>
+    <string name="vpn_replace_always_on_vpn_disable_message">"You're already connected to an always-on VPN. If you connect to a different one, your existing VPN will be replaced and always-on mode will turn off."</string>
+    <string name="vpn_replace_always_on_vpn_enable_message">"Your existing VPN will be replaced and you won't have an Internet connection until the VPN successfully connects"</string>
+    <string name="vt_provisioned_switch_string">Video Calling provisioned</string>
+    <string name="wallpaper_attributions_values">"Satellite imagery providers:
+©2014 CNES/Astrium, DigitalGlobe, Bluesky"</string>
+    <string name="wallpaper_suggestion_summary">Personalise your screen</string>
+    <string name="webview_license_title">System WebView Licence</string>
+    <string name="wfc_provisioned_switch_string">Wi-Fi Calling provisioned</string>
+    <string name="wifi_ap_band_config">Select AP band</string>
+    <string name="wifi_ap_choose_2G">2.4 GHz band</string>
+    <string name="wifi_ap_choose_5G">5 GHz band</string>
+    <string name="wifi_calling_mode_dialog_title">Wi-Fi Calling mode</string>
+    <string name="wifi_calling_off_explanation">"When Wi-Fi calling is on, your phone can route calls via Wi-Fi networks or your operator's network, depending on your preference and which signal is stronger. Before turning on this feature, check with your operator regarding fees and other details."</string>
+    <string name="wifi_calling_settings_title">Wi-Fi Calling</string>
+    <string name="wifi_disabled_wifi_failure">Wi-Fi Connection Failure</string>
+    <string name="wifi_empty_list_user_restricted">"You don't have permission to change the Wi‑Fi network."</string>
+    <string name="wifi_in_airplane_mode">In aeroplane mode</string>
+    <string name="wifi_ip_settings_invalid_gateway">Please type a valid gateway address.</string>
+    <string name="wifi_ip_settings_invalid_ip_address">Please type a valid IP address.</string>
+    <string name="wifi_p2p_cancel_connect_title">Cancel invitation</string>
+    <string name="wifi_p2p_failed_connect_message">Could not connect.</string>
+    <string name="wifi_poor_network_detection_summary">"Don't use a Wi‑Fi network unless it has a good Internet connection"</string>
+    <string name="wifi_scan_notify_remember_choice">"Don't show again"</string>
+    <string name="wifi_setting_sleep_policy_error">There was a problem while changing the setting</string>
+    <string name="wifi_setup_description_connected">Tap <b>Next</b>" to continue with setup.
+
+Tap "<b>Back</b> to connect to a different Wi‑Fi network.</string>
+    <string name="wifi_setup_description_connecting">Connecting can take a few minutes...</string>
+    <string name="wifi_setup_eap_not_supported">"You can't configure an EAP Wi‑Fi connection during setup. After setup, you can do that in Settings > Wireless &amp; networks."</string>
+    <string name="wifi_setup_status_eap_not_supported">"EAP isn't supported."</string>
+    <string name="wifi_setup_status_scanning">Scanning networks...</string>
+    <string name="wifi_suspend_optimizations">Wi‑Fi optimisation</string>
+    <string name="wifi_suspend_optimizations_summary">Minimise battery usage when Wi‑Fi is on</string>
+    <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
+    <string name="wifi_verbose_logging">Enable Wi‑Fi verbose logging</string>
+    <string name="wifi_wps_failed_generic">Request failed. Please try again in a few minutes.</string>
+    <string name="wifi_wps_onstart_pbc">Press the Wi‑Fi Protected Setup button on your router. It may be called \"WPS\" or marked with this symbol:</string>
+    <string name="work_mode_summary">Allow work profile to function, including apps, background sync and related features</string>
+    <string name="wrong_pin_code_pukked">Incorrect SIM PIN code; you must now contact your carrier to unlock your device.</string>
+    <string name="zen_mode_delete_rule_confirmation">Delete \"%1$s\" rule?</string>
+    <string name="zen_mode_event_rule_reply_any_except_no">Yes, Maybe or Not replied</string>
+    <string name="zen_mode_repeat_callers_summary">If the same person calls a second time within a %d-minute period, allow it</string>
+    <string name="zen_mode_settings_title">Do not disturb preferences</string>
+</resources>

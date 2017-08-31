@@ -1,0 +1,1190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">បានទប់ស្កាត់គណនី</string>
+    <string name="account_level_title">តម្រូវឲ្យមានសកម្មភាពគណនី</string>
+    <string name="account_removed_notification_text">%1$s ត្រូវបានយកចេញដោយសារតែការគ្រប់គ្រងឧបករណ៍មិនបានបញ្ចប់</string>
+    <string name="account_removed_notification_title">បានយកគណនីចេញ</string>
+    <string name="android_privacy_policy_title">គោលការណ៍​ភាព​ឯកជន​បន្ថែម​</string>
+    <string name="app_has_in_app_purchases">ការទិញក្នុងកម្មវិធី</string>
+    <string name="app_has_permissions">សិទ្ធិអនុញ្ញាត៖ %s</string>
+    <string name="app_has_runtime_permissions">កម្មវិធីនេះនឹងសួររកសិទ្ធិអនុញ្ញាត</string>
+    <string name="app_level_title">សំណើ​ចូល</string>
+    <string name="app_level_title_secondary">បាន​ស្នើ​ចូល​ដោយ %s</string>
+    <string name="app_picker_app_already_installed_toast">កម្មវិធីនេះត្រូវបានដំឡើងរួចហើយ</string>
+    <string name="app_picker_loading">កំពុងរកមើលកម្មវិធីដែលអាចប្រើបាន…</string>
+    <string name="app_picker_loading_toast">កម្មវិធីដែលអាចប្រើបាននឹងផ្ទុកក្នុងពេលបន្តិចទៀតនេះ</string>
+    <string name="app_picker_no_apps">គ្មានកម្មវិធីបានជ្រើសរើសទេ</string>
+    <string name="app_picker_no_apps_found">រកមិនឃើញកម្មវិធីទេ</string>
+    <string name="apps_in_app_purchases_disclaimer_all">ការទិញក្នុងកម្មវិធីនឹងមិនផ្ទេរទៅ ^1 របស់អ្នកទេ។</string>
+    <string name="apps_in_app_purchases_disclaimer_some">ការទិញក្នុងកម្មវិធីមួយចំនួនអាចនឹងមិនផ្ទេរទៅ ^1 របស់អ្នកទេ។</string>
+    <string name="apps_permissions_described_v2">"មានតែកម្មវិធី iOS® ដែលពេញនិយម និងឥតគិតថ្លៃប៉ុណ្ណោះដែលអាចផ្គូផ្គងជាមួយកម្មវិធី Android ។ ការទិញក្នុងកម្មវិធីភាគច្រើននឹងមិនអាចធ្វើការផ្ទេរបានទេ។ អ្នកអាចស្វែងរកកម្មវិធីជាច្រើននៅក្នុង Play Store បន្ទាប់ពីការរៀបចំបានបញ្ចប់។
+
+អ្នកត្រូវផ្តល់ការអនុញ្ញាតជាមុនដល់កម្មវិធីមួយចំនួន ដើម្បីចូលប្រើមុខងារ ឬព័ត៌មានជាក់លាក់មួយចំនួននៅលើឧបករណ៍របស់អ្នក។ ការអនុញ្ញាតត្រូវបានដាក់បញ្ចូលជាក្រុមនៃការអនុញ្ញាត។ ប្រសិនបើសម្រេចចិត្តធ្វើការដំឡើងកម្មវិធីទាំងនេះ មានន័យថា អ្នកយល់ព្រមតាមការអនុញ្ញាតដែលជាផ្នែកនៃក្រុមនីមួយៗ។ ការពណ៌នាអំពីក្រុមនៃការអនុញ្ញាតនីមួយៗមានផ្តល់ជូននៅផ្នែកខាងក្រោម។
+
+កម្មវិធីមួយចំនួនអាចនឹងមិនតម្រូវឲ្យមានការអនុញ្ញាតជាមុននោះទេ។ នៅពេលដែលអ្នកប្រើកម្មវិធីណាមួយក្នុងចំណោមកម្មវិធីទាំងនេះ អ្នកអាចអនុញ្ញាត ឬបដិសេធការអនុញ្ញាតនីមួយៗដាច់ដោយឡែក មុនពេលដែលកម្មវិធីនោះប្រើទិន្នន័យប្រភេទនោះ។
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">ប្រសិនបើដំឡើងកម្មវិធីនីមួយៗ មានន័យថាអ្នកយល់ព្រមលើការអនុញ្ញាតរបស់វា។ <annotation id="apps_permissions_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="audience_selection_done">រួចរាល់</string>
+    <string name="auth_account_already_has_gmail">គណនីមាន Gmail រួចហើយ</string>
+    <string name="auth_account_content_provider_label">ទិន្នន័យគណនី Google</string>
+    <string name="auth_account_removed_default_description">កម្មវិធីគ្រប់គ្រងឧបករណ៍មិនបានបញ្ចប់ទេ។ ចាប់ផ្តើមសារជាថ្មី និងចូលម្តងទៀត។</string>
+    <string name="auth_account_removed_default_title">បានបោះបង់ការដំឡើង</string>
+    <string name="auth_account_removed_dm_bad_result_description">កម្មវិធីគ្រប់គ្រងឧបករណ៍មិនអាចបញ្ចប់បានទេ។ ចាប់ផ្តើមសារជាថ្មី និងចូលម្តងទៀត។</string>
+    <string name="auth_account_removed_dm_not_supported_description">ដែនរបស់អ្នកតម្រូវឲ្យមានការគ្រប់គ្រងឧបករណ៍ចល័ត ប៉ុន្តែវាមិនគាំទ្រនៅលើឧបករណ៍នេះទេ។ សូមសាកល្បងប្រើគណនីផ្សេង។</string>
+    <string name="auth_account_removed_dm_not_supported_title">មិនគាំទ្រការគ្រប់គ្រងឧបករណ៍ទេ</string>
+    <string name="auth_account_removed_dm_setup_failed_description">កម្មវិធីគ្រប់គ្រងឧបករណ៍មិនបានដំឡើងត្រឹមត្រូវទេ។ ចាប់ផ្តើមសារជាថ្មី និងចូលម្តងទៀត។</string>
+    <string name="auth_account_removed_dm_setup_failed_title">បញ្ហាក្នុងការដំឡើង</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">កម្មវិធីគ្រប់គ្រងឧបករណ៍មិនបានបញ្ចប់ទេ។ ចាប់ផ្តើមសារជាថ្មី និងចូលម្តងទៀត។</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">បានបោះបង់ការដំឡើង</string>
+    <string name="auth_account_settings_title">ការកំណត់គណនី</string>
+    <string name="auth_account_setup_title">គណនី Google</string>
+    <string name="auth_account_state_sync_title">សមកាលកម្មស្ថានភាពគណនី</string>
+    <string name="auth_allow_button_label">អនុញ្ញាត</string>
+    <string name="auth_allow_external_site_access">មាន​សិទ្ធិ​ចូល​ប្រើ​ទិន្នន័យ​របស់​អ្នក​នៅ %s</string>
+    <string name="auth_app_permission_ok_footnote">ដោយ​បន្ត អ្នក​អនុញ្ញាត​ឲ្យ​កម្មវិធី​នេះ និង Google ប្រើ​ព័ត៌មាន​របស់​អ្នក​អនុលោម​តាម​​លក្ខខណ្ឌ​ប្រើប្រាស់ និង​សេវាកម្ម​ភាព​ឯកជន​​​ដោយ​ឡែក​​រៀង​ៗ​ខ្លួន។</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">អនុញ្ញាត​​ឲ្យ​ចូល</string>
+    <string name="auth_authzen_allow_reset_button_text">អនុញ្ញាត​កំណត់​ពាក្យ​សម្ងាត់​ឡើងវិញ</string>
+    <string name="auth_authzen_google_logo_label">រូប​សញ្ញា Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">បាន​យល់ព្រម​ការ​ចូល</string>
+    <string name="auth_authzen_login_challenge_canceled_text">បាន​បោះបង់​ការ​ចូល</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">អនុញ្ញាត​ឲ្យ​​ចូល</string>
+    <string name="auth_authzen_login_challenge_desc_text">ចូល​ពី %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google បាន​បញ្ឈប់​ការ​ប៉ុនប៉ង​ចូល។</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">លេខ​មិន​ត្រឹមត្រូវ</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">ប៉ះ​លេខ​ដែល​បង្ហាញ​លើ​អេក្រង់​ផ្សេង។ វា​នឹង​​ឲ្យ​អ្នក​ចូល​​លើ​កុំព្យូទ័រ​របស់​អ្នក។</string>
+    <string name="auth_authzen_login_challenge_title_text">ព្យាយាម​ចូល?</string>
+    <string name="auth_authzen_profile_picture_label">រូបថត​ប្រវត្តិរូប</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">ជ្រើសរើសគណនី ដែលអ្នកកំពុងព្យាយាមចូលជាមួយ៖</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">ព្យាយាមចូល?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">គ្មានការជូនដំណឹងពីការចូលត្រូវបានរកឃើញទេ។</string>
+    <string name="auth_authzen_pull_offline_error">កំហុស​ខាង​ក្នុង</string>
+    <string name="auth_authzen_pull_offline_instructions_text">នៅលើកុំព្យូទ័ររបស់អ្នក ចុច \"មានលេខកូដទេ?\", ហើយវាយបញ្ចូល៖</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">តើ​អ្នក​ព្យាយាម​ចូល​ Google?</string>
+    <string name="auth_authzen_recovery_approved_text">បាន​​យល់ព្រម​ការ​កំណត់​ពាក្យសម្ងាត់​ឡើងវិញ</string>
+    <string name="auth_authzen_recovery_canceled_text">បាន​បោះបង់​ការ​កំណត់​ពាក្យសម្ងាត់​ឡើងវិញ</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">អនុញ្ញាត​ឲ្យ​កំណត់​ពាក្យសម្ងាត់​ឡើង​វិញ​ពី %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">យើង​ត្រូវ​ការ​កា​រ​បញ្ជាក់​​របស់​អ្នក</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google បាន​បញ្ឈប់​ការ​ប៉ុនប៉ង​កំណត់​​ពាក្យ​សម្ងាត់​ឡើងវិញ។</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">លេខ​មិន​ត្រឹមត្រូវ</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">ប៉ះ​​លេខ​ដែល​​បង្ហាញ​នៅ​លើ​អេក្រង់​ផ្សេង​ទៀត​។ វា​នឹង​​កំណត់​ពាក្យ​សម្ងាត់​របស់​អ្នក​ឡើងវិញ​។</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">អនុញ្ញាត​ឲ្យ​កំណត់​ពាក្យសម្ងាត់​ឡើង​វិញ</string>
+    <string name="auth_authzen_recovery_reject_desc_text">អ្នក​ណា​ម្នាក់​​បាន​ស្នើ​​​ការ​កំណត់​ពាក្យ​សម្ងាត់​គណនី Google ​របស់​អ្នក​ឡើង​វិញ។ ​ Google បាន​បញ្ឈប់​ការ​ប៉ុនប៉ង​កំណត់​​ពាក្យ​សម្ងាត់​ឡើង​វិញ​។</string>
+    <string name="auth_authzen_recovery_reject_title_text">បាន​រារាំង​ការកំណត់​ពាក្យ​សម្ងាត់​ឡើងវិញ</string>
+    <string name="auth_authzen_recovery_verification_desc_text">តើ​អ្នក​បាន​​ស្នើ​កំណត់​ពាក្យ​សម្ងាត់​របស់​អ្នក​ឡើង​វិញ​​ពី %s ?</string>
+    <string name="auth_authzen_recovery_verification_title_text">បាន​ព្យាយាម​កំណត់​ពាក្យ​សម្ងាត់​របស់​អ្នក​ឡើង​វិញ?</string>
+    <string name="auth_authzen_secure_account_button_text">ធ្វើឲ្យគណនីមានសុវត្ថិភាព</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">កំពុងស្វែងរកការជូនដំណឹងពីការចូល...</string>
+    <string name="auth_back_button_label">ថយក្រោយ</string>
+    <string name="auth_cant_add_work_account_message">គណនីប្រភេទនេះត្រូវបានគ្រប់គ្រងដោយស្ថាប័នរបស់អ្នក។</string>
+    <string name="auth_captcha_instructions">បញ្ចូល​​អត្ថបទ​ដែល​អ្នក​ឃើញ​នៅ​ទីនេះ៖</string>
+    <string name="auth_captcha_title">តម្រូវឲ្យបញ្ចូលអក្សរផ្ទៀងផ្ទាត់</string>
+    <string name="auth_common_next_button">បន្ទាប់</string>
+    <string name="auth_common_skip">រំលង</string>
+    <string name="auth_common_switch_accounts">ប្ដូរគណនី</string>
+    <string name="auth_communicating_message">ឧបករណ៍​របស់​អ្នក​កំពុង​ទាក់ទង Google ដើម្បី​រក្សាទុក​ព័ត៌មាន​ទៅ​ក្នុង​គណនី​របស់​អ្នក។ វា​អាច​ប្រើ​ពេល​ប្រហែល​ ៥នាទី​។</string>
+    <string name="auth_confirm_creds_sync_title">ស្ថានភាពព័ត៌មានអត្តសញ្ញាណ</string>
+    <string name="auth_d2d_source_alert_title">ប៉ះ &amp; ទៅ</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">ចាក់សោ និងផ្ទៀងផ្ទាត់</string>
+    <string name="auth_d2d_source_copy_notice">ចម្លងគណនី និងទិន្នន័យទៅឧបករណ៍ផ្សេងទៀតរបស់អ្នក?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">បន្ទាប់ពីអ្នកផ្ទៀងផ្ទាត់ ប៊្លូធូសនឹងបើក នោះឧបករណ៍របស់អ្នកអាចភ្ជាប់បាន។</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">បន្ទាប់ពីអ្នកផ្ទៀងផ្ទាត់ ឧបករណ៍របស់អ្នកនឹងភ្ជាប់តាមរយៈប៊្លូធូស</string>
+    <string name="auth_d2d_source_lock_notice">ដើម្បីបន្ត អេក្រង់របស់អ្នកនឹងត្រូវបានចាក់សោ ហើយអ្នកនឹងត្រូវដោះសោវាដើម្បីផ្ទៀងផ្ទាត់។</string>
+    <string name="auth_d2d_source_no_accounts_toast">មិនអាចប្រើលក្ខណៈពិសេសប៉ះ &amp; ទៅបានទេ ដោយសារតែមិនមានគណនីនៅលើឧបករណ៍នេះ។</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">មិនអាចប្រើលក្ខណៈពិសេសប៉ះ &amp; ទៅបានទេ ដោយសារតែប៊ូធ្លូសមិនអាចប្រើបាននៅលើឧបករណ៍នេះ។</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">ប៊្លូធូសនឹងបើក នោះឧបករណ៍របស់អ្នកអាចភ្ជាប់បាន។</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">វាប្រើប៊្លូធូស។</string>
+    <string name="auth_d2d_source_notification_title">ប៉ះ &amp; ទៅបានបញ្ចប់</string>
+    <string name="auth_d2d_source_restricted_user_toast">មិន​អាច​ប៉ះ និង​ស្ដារ​ពី​ប្រវត្តិរូប​អ្នកប្រើ​ដែល​បាន​ដាក់កម្រិត។</string>
+    <string name="auth_d2d_source_title">ស្ដារគណនី</string>
+    <string name="auth_d2d_source_unknown_device_name">មិន​ស្គាល់​ឧបករណ៍</string>
+    <string name="auth_d2d_target_sorry_alert">សូម​ទោស មាន​បញ្ហា​ហើយ</string>
+    <string name="auth_d2d_target_tap_progress_message">ដើម្បីបន្ត សូមប៉ះយល់ព្រមនៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក</string>
+    <string name="auth_d2d_target_title">ប៉ះ និងទៅ</string>
+    <string name="auth_d2d_target_unlock_progress_message">ពិនិត្យមើលឧបករណ៍ផ្សេងទៀតរបស់អ្នក</string>
+    <string name="auth_d2d_target_wait_progress_message">កំពុងទទួលយកគណនី និងទិន្នន័យ...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">បដិសេធ</string>
+    <string name="auth_device_management_download_app_icon">រូបតំណាងកម្មវិធី %s</string>
+    <string name="auth_device_management_download_description">គណនីនេះតម្រូវឲ្យមានការគ្រប់គ្រងឧបករណ៍ចល័ត។ សូមដំឡើងកម្មវិធី ^1 ដើម្បីអនុវត្តគោលការណ៍សុវត្ថិភាពដែលតម្រូវដោយគណនី។</string>
+    <string name="auth_device_management_download_description_kids">ដើម្បីបន្ថែមគណនីទៅឧបករណ៍នេះ ជាដំបូងសូមដំឡើង <b>^1</b>" ។ 
+
+^1 ជួយឲ្យអ្នកដំឡើងឧបករណ៍នេះសម្រាប់កូនរបស់អ្នក។"</string>
+    <string name="auth_device_management_download_failed_message">អ្នក​នៅ​តែ​អាច​បន្ត​រៀបចំ​បាន​ដោយ​មិន​ចាំបាច់​មាន​កម្មវិធី​នេះ</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">បានបរាជ័យក្នុងការដំឡើងកម្មវិធីគ្រប់គ្រងឧបករណ៍។ គណនីនេះនឹងត្រូវបានយកចេញ សូមព្យាយាមម្តងទៀតពេលក្រោយ។</string>
+    <string name="auth_device_management_download_failed_title">មិនអាច​ទាញយក​កម្មវិធី​បានទេ</string>
+    <string name="auth_device_management_download_not_updated_message">អ្នក​នៅ​តែ​អាច​បន្ត​រៀបចំ​បាន​ដោយ​ប្រើ​កំណែ​បច្ចុប្បន្ន</string>
+    <string name="auth_device_management_download_paused">បានផ្អាក</string>
+    <string name="auth_device_management_download_progress">កំពុងទាញយក...</string>
+    <string name="auth_device_management_download_skip_message">គណនីនេះតម្រូវឲ្យមានកម្មវិធីគ្រប់គ្រងឧបករណ៍។ បន្តដោយគ្មានវា?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">ការបន្ថែមគណនីនេះតម្រូវឲ្យមានកម្មវិធីគ្រប់គ្រងឧបករណ៍។ តើអ្នកចង់ចាប់ផ្តើមឡើងវិញដោយប្រើគណនីផ្សេងពីនេះដែរទេ?</string>
+    <string name="auth_device_management_go_back">ថយក្រោយ</string>
+    <string name="auth_device_management_screenlock_description">ដើម្បីចូលប្រើគណនីការងាររបស់អ្នកនៅលើឧបករណ៍នេះ អ្នកនឹងត្រូវកំណត់អេក្រង់ជាប់សោ។ នេះគឺជាគោលការណ៍ឧបករណ៍ចល័តរបស់ស្ថាប័នរបស់អ្នក។</string>
+    <string name="auth_device_management_screenlock_skip_message">គណនីនេះតម្រូវឲ្យមានលក្ខណៈពិសេសសុវត្ថិភាពចាក់សោអេក្រង់។ តើអ្នកចង់ចាប់ផ្តើមឡើងវិញដោយប្រើគណនីផ្សេងទៀតដែរទេ?</string>
+    <string name="auth_device_management_start_description">គណនីនេះតម្រូវឲ្យមានការគ្រប់គ្រងឧបករណ៍ចល័ត។ នៅពេលដែលអ្នកប៉ះ បន្ទាប់ កម្មវិធី ^1 នឹងជួយអ្នកក្នុងការអនុវត្តគោលការណ៍សុវត្ថិភាពដែលតម្រូវដោយគណនី។</string>
+    <string name="auth_device_management_start_description_kids">ដើម្បីបន្ថែមគណនីទៅឧបករណ៍នេះ សូមប្រើ <b>^1</b>"។ 
+
+^1 ជួយឲ្យអ្នកដំឡើងឧបករណ៍នេះសម្រាប់កូនរបស់អ្នក។"</string>
+    <string name="auth_device_management_title">ការគ្រប់គ្រងឧបករណ៍</string>
+    <string name="auth_device_management_update_description">គណនីនេះតម្រូវឲ្យមានការគ្រប់គ្រងឧបករណ៍ចល័ត។ ដើម្បីអនុវត្តគោលការណ៍សុវត្ថិភាពដែលប្រើជាមួយគណនីឲ្យបានល្អ អ្នកត្រូវតែដំឡើងកំណែកម្មវិធី ^1 ថ្មីជាងនេះ។</string>
+    <string name="auth_device_management_update_description_kids">ដើម្បីបន្ថែមគណនីទៅឧបករណ៍នេះ ជាដំបូងសូមដំឡើងកំណែ <b>^1</b>" ចុងក្រោយបំផុត។ 
+
+^1 ជួយឲ្យអ្នកដំឡើងឧបករណ៍នេះសម្រាប់កូនរបស់អ្នក។"</string>
+    <string name="auth_dismiss_button_label">បដិសេធ</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> មិនប្រើ Gmail ទេ</string>
+    <string name="auth_error_account_disabled">"​បាន​បិទ​គណនី​នេះ។ 
+
+ (ព័ត៌មាន​លម្អិត សូម​ទស្សនា http://google.com/accounts ក្នុង​កម្មវិធី​អ៊ីនធឺណិត)។"</string>
+    <string name="auth_error_account_not_verified">"គណនី​នេះ​មិន​បាន​ផ្ទៀងផ្ទាត់​ទេ។ សូម​ពិនិត្យ​អ៊ីមែល​របស់​អ្នក រួច​អនុវត្ត​តាម​តំណ​ដែល​បាន​ភ្ជាប់​ដើម្បី​​ផ្ទៀងផ្ទាត់​គណនី​នេះ។ 
+
+(ដើម្បី​សង្គ្រោះ​ព័ត៌មាន​គណនី​របស់​អ្នក​ សូម​ចូល​ទៅ http://www.google.com/accounts/recovery នៅ​លើ​កុំព្យូទ័រ​របស់​អ្នក។)"</string>
+    <string name="auth_error_bad_password">ពាក្យសម្ងាត់​គឺ​ខ្សោយ ឬ​មាន​តួ​អក្សរ​មិន​ត្រឹមត្រូវ។ សូម​ព្យាយាម​ម្ដងទៀត។</string>
+    <string name="auth_error_bad_username">ឈ្មោះ​អ្នកប្រើ​មិន​ត្រឹមត្រូវ។</string>
+    <string name="auth_error_generic_server_error">"មានបញ្ហាក្នុងការទំនាក់ទំនងជាមួយម៉ាស៊ីនមេ Google។ 
+
+សូមព្យាយាមម្តងទៀតពេលក្រោយ។"</string>
+    <string name="auth_error_invalid_second_factor">ប្រើ​ពាក្យសម្ងាត់​កម្មវិធី​ជាក់លាក់​ជំនួស​ឲ្យ​ពាក្យសម្ងាត់​គណនី​ធម្មតា​របស់​អ្នក។</string>
+    <string name="auth_error_login_failed">"ឈ្មោះ​អ្នកប្រើ និង​ពាក្យសម្ងាត់​របស់​អ្នក​មិន​ដូច​គ្នា។ សូម​ព្យាយាម​ម្ដងទៀត។
+
+ដើម្បី​សង្គ្រោះ​ព័ត៌មាន​គណនី​របស់​អ្នក​ សូម​ចូល​ទៅ google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">ដើម្បីចូលដំណើរការគណនីរបស់អ្នក អ្នកត្រូវតែចូលវានៅលើបណ្ដាញអ៊ីនធឺណិត។ ប៉ះ បន្ទាប់ ដើម្បីចាប់ផ្ដើមចូលកម្មវិធីរុករកដោយប្រើគណនី។</string>
+    <string name="auth_error_no_network">"អ្នកមិនមានការតភ្ជាប់បណ្តាញទេ។ 
+
+វាអាចជាបញ្ហាបណ្តោះអាសន្ន។ សូមព្យាយាមម្តងទៀត ឬភ្ជាប់ទៅបណ្តាញ Wi-Fi ផ្សេងទៀត។"</string>
+    <string name="auth_error_not_logged_in">អ្នកប្រើមិនបានចូលទេ</string>
+    <string name="auth_error_username_unavailable">មិន​មាន​ឈ្មោះ​អ្នកប្រើ។</string>
+    <string name="auth_existing_account_error_text">មាន​គណនី ^1 រួចហើយ​នៅ​លើ​ឧបករណ៍ Android នេះ។</string>
+    <string name="auth_existing_account_error_title">គណនី​មាន​រួចហើយ</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">មិនអាចចូលគណនីនៅលើឧបករណ៍បានទេដោយសារមានការផ្លាស់ប្តូរពាក្យសម្ងាត់ថ្មីៗនេះ។ សូមព្យាយាមចូលគណនីម្តងទៀតក្រោយពីការប្តូរពាក្យសម្ងាត់បាន 24 ម៉ោង។</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">លក្ខណៈពិសេសការពារឧបករណ៍មិនដំណើរការទៀតទេ។</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">ការផ្លាស់ទីគណនី Google ចុងក្រោយចេញពីប្រវត្តិរូបផ្ទាល់ខ្លួនរបស់អ្នកនៅលើឧបករណ៍នេះ និងបិទលក្ខណៈពិសេសការពារពីការលួច។ អ្នកអាចបន្ថែមគណនីផ្សេងទៀតទៅឧបករណ៍នេះដើម្បីបើកពួកវាម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">តើ​អ្នក​ប្រាកដ​ហើយ​ឬ?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">ផ្លាស់ទីគណនីទៅក្នុងប្រវត្តិរូបការងារ?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">មិនអាចចូលគណនីនៅលើឧបករណ៍បានទេដោយសារមានបញ្ហាមិនស្គាល់។ សូមសាកល្បងប្រើគណនីផ្សេងទៀត ឬព្យាយាមចូលគណនីម្តងទៀតក្រោយរយៈពេល 24 ម៉ោង។</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">សូមចូលដោយប្រើគណនីមួយនៃគណនីទាំងឡាយរបស់ម្ចាស់សម្រាប់ឧបករណ៍នេះ</string>
+    <string name="auth_field_cant_be_blank">វាល​មិន​អាច​ទទេ។</string>
+    <string name="auth_frp_add_account_no">ទេ</string>
+    <string name="auth_frp_add_account_prompt">បន្ថែម ^1 ទៅឧបករណ៍របស់អ្នកឥឡូវនេះ? ប្រសិនបើអ្នកមានគណនីផ្សេងទៀត អ្នកអាចបន្ថែមវាបាននៅពេលក្រោយ។</string>
+    <string name="auth_frp_add_account_yes">បាទ/ចាស</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">គណនីនេះមិនអាចចូលដំណើរការបានទេ។ សូមប្រាកដថាឧបករណ៍របស់អ្នកកំពុងអនុវត្តតាមគោលការណ៍សុវត្ថិភាពរបស់ស្ថាប័នរបស់អ្នក។ ប្រសិនបើអ្នកនៅតែឃើញបញ្ហានេះដដែល សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់ស្ថាប័នអ្នក។</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">គណនីមានបញ្ហា</string>
+    <string name="auth_gls_dmagent_activity_download_message">" ដែនរបស់អ្នកតម្រូវឲ្យមានការគ្រប់គ្រងឧបករណ៍ចល័ត។ ដំឡើងកម្មវិធី \"គោលការណ៍ឧបករណ៍កម្មវិធី Google\" ដើម្បីអនុវត្តគោលការណ៍សុវត្ថិភាពដែលតម្រូវដោយគណនី  "<b>^1</b> ។</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ទាញ​យក</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" អាច​មាន​តែ​អក្សរ, 
+ លេខ និង​សញ្ញា​ចុច​ប៉ុណ្ណោះ។"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> មិនមានតួអក្សរទេ</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> មានតួអក្សរតិចជាង 6 ឬច្រើនជាង 30 តួ។</string>
+    <string name="auth_gls_is_not_available">ឈ្មោះ​អ្នកប្រើ <b>^1</b> គឺ​មិន​អាច​ប្រើ​បាន។</string>
+    <string name="auth_gls_name_checking_info_title">កំពុងពិនិត្យព័ត៌មាន…</string>
+    <string name="auth_gls_sync_item_title">ធ្វើ​សមកាលកម្ម %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" ត្រូវបន្ថែមគណនី  "<b>^1</b> ទៅឧបករណ៍ ឬប្រវត្តិរូបការងារដែលបានគ្រប់គ្រងដោយស្ថាប័នរបស់អ្នក។ សូមធ្វើតាមការណែនាំដែលបានផ្តល់ដោយអ្នកគ្រប់គ្រងផ្នែកបច្ចេកវិទ្យាព័ត៌មានរបស់អ្នកដើម្បីធ្វើការបំពេញ។</string>
+    <string name="auth_google_title_logo">រូប​សញ្ញា Google</string>
+    <string name="auth_invalid_login_character">តួអក្សរ​មិន​ត្រឹមត្រូវ។ មាន​តែ 0-9​, AZ​, az​, ប៉ុណ្ណោះ​ដែល​បាន​អនុញ្ញាត។</string>
+    <string name="auth_invalid_password_character">តួអក្សរ​ពាក្យសម្ងាត់​មិន​ត្រឹមត្រូវ។</string>
+    <string name="auth_invalid_username">អត្ថបទ​ដែល​អ្នក​បាន​បញ្ចូល​មិនមែន​ជា​ឈ្មោះ​អ្នកប្រើ​ត្រឹមត្រូវ​ទេ។</string>
+    <string name="auth_kids_setup_wizard_services_agreement">តាមរយៈការបន្ត អ្នកយល់ព្រមថាឧបករណ៍នេះក៏អាចទាញយកដោយស្វ័យប្រវត្តិ និងដំឡើងកំណែថ្មី និងកម្មវិធីពី Google ក្រុមហ៊ុនបម្រើសេវាទូរសព្ទរបស់អ្នក និងក្រុមហ៊ុនផលិតឧបករណ៍នេះផងដែរ ដោយប្រតិបត្តិការនេះអ្នកអាចនឹងប្រើទិន្នន័យទូរសព្ទចល័ត។ កម្មវិធីទាំងនេះមួយចំនួនអាចមានផ្តល់ជូនការទិញក្នុងកម្មវិធី។ អ្នកអាចលុបកម្មវិធីទាំងនេះបានគ្រប់ពេល។</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>បង្កើនទំហំផ្ទុក នៅពេលដែលទំហំផ្ទុកឧបករណ៍ជិតពេញ</b> ដោយលុបទិន្នន័យមួយចំនួនចេញពីឧបករណ៍នេះ ដូចជារូបថត និងវីដេអូដែលបានបម្រុងទុកជាដើម។</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>បម្រុងទុកទិន្នន័យឧបករណ៍</b> (ដូចជា៖ ពាក្យសម្ងាត់ Wi‑Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជា៖ ការកំណត់ និងឯកសារដែលផ្ទុកដោយកម្មវិធី) ដោយស្វ័យប្រវត្តិទៅកាន់ Google ថាសរបស់កូនរបស់អ្នក។</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"នៅពេលដែលអ្នកបើកការបម្រុងទុកដោយស្វ័យប្រវត្តិ នោះទិន្នន័យកម្មវិធី និងឧបករណ៍នឹងត្រូវបានរក្សាទុកជាប្រចាំទៅថតឯកសារឯកជននៅក្នុង Google ថាស។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យទាំងឡាយណាដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យដែលអាចបង្កផលប៉ះពាល់ដូចជា៖ ទំនាក់ទំនង សារ និងរូបថតជាដើម។
+
+ទិន្នន័យបម្រុងទុកនឹងមិនពាក់ព័ន្ធលើកូតាកំណត់នៃការផ្ទុកនៅក្នុងថាសរបស់អ្នកនោះទេ។ ឯកសារធំ ឬឯកសារដែលអ្នកអភិវឌ្ឍន៍បានជ្រើសរើសដកចេញពីសេវាកម្មនេះនឹងមិនត្រូវបានបម្រុងទុកនោះទេ។"</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>បម្រុង​ទុក​ទិន្នន័យ​ឧបករណ៍​ដោយ​ស្វ័យប្រវត្តិ</b> (ដូចជា ពាក្យ​សម្ងាត់ Wi‑Fi, SMS, និងប្រវត្តិ​ហៅ​ទូរសព្ទ) ការ​កំណត់ និង​ទិន្នន័យ​កម្មវិធី (ដូចជា ការ​កំណត់ និង​ឯកសារ​ដែល​បាន​ផ្ទុក​ដោយ​កម្មវិធី) ទៅ​ក្នុង Google ថាស​របស់​កូនអ្នក។</string>
+    <string name="auth_kids_setup_wizard_services_description">ក្នុងនាមជាមាតាបិតា អ្នកអាចបើក ឬបិទសេវាកម្មទាំងនេះបានគ្រប់ពេលសម្រាប់គណនីកូនរបស់អ្នក។ ទិន្នន័យនឹងត្រូវបានប្រើដោយអនុលោមតាម<annotation link="google_privacy">គោលការណ៍</annotation>" របស់ Google។
+
+ប្រសិនបើអ្នកចង់ស្វែងយល់បន្ថែម អ្នកអាចប៉ះសេវាកម្មនីមួយៗ។"</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>ប្រើសេវាកម្មទីតាំងរបស់ Google ដើម្បីជួយឲ្យកម្មវិធី</b>កំណត់ទីតាំងកូនរបស់អ្នក។ ទិន្នន័យទីតាំងអនាមិកនឹងត្រូវបានផ្ញើទៅ Google នៅពេលឧបករណ៍នេះបើក។</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"សេវាកម្មទីកន្លែងរបស់ Google ប្រើប្រាស់ប្រភពដូចជា Wi‑Fi និងបណ្តាញទូរសព្ទចល័ត ដើម្បីជួយប៉ាន់ស្មានទីកន្លែងរបស់ឧបករណ៍នេះឲ្យបានរហ័ស និងត្រឹមត្រូវជាងមុន។ សេវាកម្មនេះដំណើរការ នៅពេលដែលការកំណត់ទីកន្លែងរបស់ឧបករណ៍នេះបើក និងស្ថិតក្នុងមុខងារដែលប្រើ Wi‑Fi ឬបណ្តាញទូរសព្ទចល័តដើម្បីប៉ាន់ស្មានទីកន្លែង មិនថាជាមុខងារភាពត្រឹមត្រូវខ្ពស់ ឬសន្សំសំចៃថ្ម (ការសន្សំសំចៃថាមពល) នោះទេ។
+
+អ្នកអាចបិទសេវាកម្មនេះដោយ៖
+
+"<li>បិទការកំណត់ទីកន្លែងគោលនៅលើឧបករណ៍នេះ។</li>"
+
+"<li>បន្តបើកការកំណត់ទីកន្លែងគោលនេះ និងជ្រើសរើសមុខងារដែលប្រើតែ GPS ប៉ុណ្ណោះ ដែលពេលខ្លះត្រូវបានហៅថា មុខងារសម្រាប់តែឧបករណ៍។</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>ជួយធ្វើឲ្យបទពិសោធន៍ប្រើប្រាស់ Android ប្រសើរឡើង</b>ដោយផ្ញើការវិភាគ និងទិន្នន័យប្រើប្រាស់ឧបករណ៍ និងកម្មវិធីទៅ Google ដោយស្វ័យប្រវត្តិ។ វាមិនត្រូវបានប្រើដើម្បីកំណត់អត្តសញ្ញាណកូនរបស់អ្នកទេ តែវានឹងជួយធ្វើឲ្យប្រសើរឡើងនូវកម្រិតថាមពលថ្ម ស្ថេរភាពកម្មវិធី ការតភ្ជាប់បណ្តាញ និងអ្វីៗច្រើនជាងនេះទៀត។</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"នេះគឺជាព័ត៌មានទូទៅអំពីឧបករណ៍នេះ និងរបៀបដែលវាត្រូវបានប្រើប្រាស់ (ដូចជា៖ កម្រិតថាមពលថ្ម ការប្រើប្រាស់កម្មវិធី និងការតភ្ជាប់បណ្តាញ)។ ទិន្នន័យនេះនឹងត្រូវបានប្រើដើម្បីធ្វើឲ្យផលិតផល និងសេវាកម្មរបស់ Google ប្រសើរឡើងសម្រាប់មនុស្សគ្រប់គ្នា។ ព័ត៌មានដែលបានប្រមូលមួយចំនួនក៏នឹងជួយឲ្យដៃគូ ដូចជាអ្នកអភិវឌ្ឍន៍ Android ធ្វើឲ្យកម្មវិធី និងផលិតផលរបស់ពួកគេប្រសើរជាងមុនផងដែរ។
+
+ការបិទមុខងារនេះមិនប៉ះពាល់ដល់សមត្ថភាពរបស់ឧបករណ៍នេះក្នុងការផ្ញើព័ត៌មានដែលត្រូវការ ដើម្បីទទួលបានសេវាកម្មចាំបាច់ដូចជា ការធ្វើបច្ចុប្បន្នភាពប្រព័ន្ធ ឬសុវត្ថិភាពនោះទេ។"</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"នេះគឺជាព័ត៌មានទូទៅអំពីឧបករណ៍នេះ និងរបៀបប្រើប្រាស់វា (ដូចជា៖ កម្រិតថាមពលថ្ម ការប្រើកម្មវិធី និងការតភ្ជាប់បណ្តាញ)។ ទិន្នន័យនេះនឹងត្រូវបានប្រើដើម្បីធ្វើឲ្យផលិតផល និងសេវាកម្មរបស់ Google ប្រសើរឡើងសម្រាប់អ្នកប្រើគ្រប់គ្នា។ ព័ត៌មានដែលបានប្រមូលមួយចំនួននឹងជួយឲ្យដៃគូ ដូចជាអ្នកអភិវឌ្ឍន៍ Android ធ្វើឲ្យកម្មវិធី និងផលិតផលរបស់ពួកគេប្រសើរជាងមុនផងដែរ។
+
+ការបិទលក្ខណៈពិសេសនេះមិនប៉ះពាល់ដល់សមត្ថភាពនៃឧបករណ៍របស់អ្នកក្នុងការផ្ញើព័ត៌មានដែលវាត្រូវការដើម្បីទទួលបានសេវាកម្មចាំបាច់ដូចជា ការអាប់ដេតប្រព័ន្ធ ឬសុវត្ថិភាពនោះទេ។
+
+អ្នកអាចគ្រប់គ្រងលក្ខណៈពិសេសនេះចេញពី ការកំណត់ > Google។ ជ្រើស ការប្រើ និងវិភាគ ចេញពីម៉ឺនុយ។"</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">អ្នក​បាន​បញ្ចូល​ពាក្យសម្ងាត់​មិន​​ត្រឹមត្រូវ ឬ​គណនី​របស់​អ្នក​បាន​ប្ដូរ។ បញ្ចូល​ពាក្យ​សម្ងាត់​របស់​អ្នក​ម្ដង​ទៀត។ បើ​អ្នក​ភ្លេច​ពាក្យ​សម្ងាត់​ ហើយ​ត្រូវការ​សង្គ្រោះ​គណនី​របស់​អ្នក​វិញ សូម​ចុច <annotation id="help_url">ទីនេះ</annotation>។</string>
+    <string name="auth_login_activity_task_title">កំពុងចូល...</string>
+    <string name="auth_login_activity_title">ចូល</string>
+    <string name="auth_login_task_title">កំពុងចូលគណនី</string>
+    <string name="auth_login_title">វាយបញ្ចូលអ៊ីមែល និងពាក្យសម្ងាត់</string>
+    <string name="auth_minutemaid_ssl_error">"មានបញ្ហាក្នុងការភ្ជាប់ទៅ  %s"</string>
+    <string name="auth_network_unreliable_help">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះ​អាសន្ន ឬ​ឧបករណ៍ Android របស់​អ្នក​មិន​អាច​ផ្ដល់​សេវា​ទិន្នន័យ។ បើ​បញ្ហា​នៅតែ​បន្ត សូម​ហៅ​ទៅ​ផ្នែក​សេវា​អតិថិជន។</string>
+    <string name="auth_next_button_label">បន្ទាប់​</string>
+    <string name="auth_no_network">អ្នក​មិន​មាន​ការ​តភ្ជាប់​បណ្ដាញ។</string>
+    <string name="auth_no_network_help">នេះ​អាច​ជា​បញ្ហា​បណ្ដោះ​អាសន្ន ឬ​ឧបករណ៍ Android របស់​អ្នក​មិន​អាច​ផ្ដល់​សេវា​ទិន្នន័យ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ដែល​បាន​តភ្ជាប់​ទៅ​បណ្ដាញ​ចល័ត ឬ​បណ្ដាញ​វ៉ាយហ្វាយ។</string>
+    <string name="auth_no_network_help_wifi_only">វា​អាច​ជា​បញ្ហា​បណ្ដោះអាសន្ន។ ព្យាយាម​ម្ដងទៀត ឬ​តភ្ជាប់​ទៅ​បណ្ដាញ​វ៉ាយហ្វាយ​ផ្សេង។</string>
+    <string name="auth_otp_error">មានបញ្ហាក្នុងការបង្កើតលេខកូដសុវត្ថិភាព។</string>
+    <string name="auth_otp_explained_paragraph">ប្រសិន​បើអ្នក​ភ្លេច​ពាក្យសម្ងាត់ ឬ​ប្រសិនបើ​មានអ្វីថ្មី​ទាក់ទង​នឹងការចូល​គណនី​របស់អ្នក Google នឹង​សួររក​លេខកូដ​សុវត្ថិភាព​ ដើម្បី​ការពារ​គណនី​របស់អ្នក។ ប្រើវា​ឥឡូវនេះ ឬ​ត្រឡប់​មកវិញ​លើក​ក្រោយ​ដោយប្រើ​ពាក្យ​សម្ងាត់​ថ្មី។</string>
+    <string name="auth_otp_header_message">ពេល​ដែល​ត្រូវប្រើ​លេខកូដនេះ​ដើម្បី​ចូល​គណនី</string>
+    <string name="auth_otp_help">ជំនួយ និងមតិស្ថាបនា</string>
+    <string name="auth_otp_no_accounts_available_message">មិន​មាន​​គណនី​បាន​កំណត់​រចនាសម្ព័ន្ធ​លើ​ឧបករណ៍​នេះ​ទេ។</string>
+    <string name="auth_otp_progress_dialog_message">បង្កើតលេខកូដសុវត្ថិភាព</string>
+    <string name="auth_password">ពាក្យសម្ងាត់</string>
+    <string name="auth_plus_audience_selection_description_acl">ចែករំលែកជាមួយ</string>
+    <string name="auth_plus_failure_new_account_text">គណនី Google របស់​អ្នក​ត្រូវ​បាន​បង្កើត​ឡើង​ហើយ ប៉ុន្តែ​សំណើ​របស់​អ្នក​ដើម្បី​បង្កើត​ប្រវត្តិរូប Google+ មិន​បាន​ជោគជ័យ​ទេ។ សូម​ព្យាយាម​ម្ដង​ទៀត​នៅ​ពេល​ក្រោយ​ជាមួយ​កម្មវិធី​អ៊ីនធឺណិត​នៅ plus.google.com ។</string>
+    <string name="auth_plus_failure_text">សំណើ​របស់​អ្នក​​ដើម្បី​ចូលរួម Google+ មិន​បាន​ជោគជ័យ​ទេ។ សូម​ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ​ក្នុង​កម្មវិធី​អ៊ីនធឺណិត plus.google.com ។</string>
+    <string name="auth_plus_failure_title">បង្កើត​ប្រវត្តិរូប Google+ នៅ​ពេល​ក្រោយ</string>
+    <string name="auth_plus_info_fragment_app_name">%s ចង់៖</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s ពីឧបករណ៍ %s ចង់៖</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">រង្វង់បន្ថែមរបស់អ្នក</string>
+    <string name="auth_plus_scope_fragment_mixed_label">រង្វង់ដែលបានជ្រើស</string>
+    <string name="auth_plus_scope_fragment_only_you_label">តែអ្នកប៉ុណ្ណោះ</string>
+    <string name="auth_plus_scope_fragment_public_label">មនុស្សរាល់គ្នានៅលើអ៊ីនធឺណិត</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">រង្វង់របស់អ្នក</string>
+    <string name="auth_relogin_activity_title">បញ្ចូល​ពាក្យសម្ងាត់​ឡើងវិញ</string>
+    <string name="auth_remove_account_start_over">ចាប់ផ្ដើមឡើងវិញ</string>
+    <string name="auth_scope_more_details">ព័ត៌មានបន្ថែម</string>
+    <string name="auth_server_error">មាន​បញ្ហា​ក្នុង​ការ​ទាក់ទង​ជាមួយ​ម៉ាស៊ីន​មេ Google ។</string>
+    <string name="auth_server_error_help">ព្យាយាម​ម្ដងទៀត​នៅ​ពេល​ក្រោយ។</string>
+    <string name="auth_setup_wizard_account_added_activity_title">បានបន្ថែមគណនី</string>
+    <string name="auth_setup_wizard_account_added_description">គណនីរបស់អ្នកត្រូវបានបន្ថែម។ សូមបន្តទៅមុខដើម្បីជ្រើសជម្រើសសេវាកម្ម Google</string>
+    <string name="auth_setup_wizard_back_button_label">ថយក្រោយ</string>
+    <string name="auth_setup_wizard_next_button_label">បន្ទាប់</string>
+    <string name="auth_setup_wizard_services_activity_title">សេវាកម្ម​ Google</string>
+    <string name="auth_setup_wizard_services_agreement">តាមរយៈការបន្ត អ្នកយល់ព្រមថាឧបករណ៍នេះក៏អាចទាញយកដោយស្វ័យប្រវត្តិ និងដំឡើងកំណែថ្មី និងកម្មវិធីពី Google ក្រុមហ៊ុនបម្រើសេវាទូរសព្ទរបស់អ្នក និងក្រុមហ៊ុនផលិតឧបករណ៍នេះផងដែរ ដោយប្រតិបត្តិការនេះអ្នកអាចនឹងប្រើទិន្នន័យទូរសព្ទចល័ត។ កម្មវិធីទាំងនេះមួយចំនួនអាចមានផ្តល់ជូនការទិញក្នុងកម្មវិធី។ អ្នកអាចលុបកម្មវិធីទាំងនេះបានគ្រប់ពេល។</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">ដើម្បីយកម្មវិធីចេញ សូមចូលទៅ ការកណត់ > កម្មវិធី ឬកម្មវិធីគ្រប់គ្រងកម្មវិធី។ បន្ទាប់មកប៉ះកម្មវិធីដែលអ្នកចង់លុប (អ្នកអាចនឹងត្រូវអូសទៅស្តាំ ឬទៅឆ្វេងដើម្បីស្វែងរកកម្មវិធីនោះ)។ បន្ទាប់មកប៉ះ លុប ឬបិទដំណើរការ។</string>
+    <string name="auth_setup_wizard_services_agreement_korea">ក្នុងន័យនេះ អ្នក​ក៏​យល់ព្រម និងអនុញ្ញាតឲ្យ​កម្មវិធី Google ដែលបានផ្ទុកជាមុន ចូលប្រើ​ព័ត៌មាន និងមុខងារ​នៅលើ​ឧបករណ៍​របស់អ្នក​ផងដែរ។ សូមមើល<annotation link="app_permissions">ទំព័រនេះ</annotation>សម្រាប់ព័ត៌មានបន្ថែម​អំពី​ការ​ប្រើប្រាស់​ការអនុញ្ញាតទាំងនេះ។</string>
+    <string name="auth_setup_wizard_services_agreement_title">ដំឡើងកម្មវិធី​ និងកំណែថ្មី</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">នៅពេលដែលទំហំផ្ទុកទូរសព្ទរបស់អ្នកជិតពេញ សូមបង្កើនទំហំផ្ទុកដោយលុបទិន្នន័យមួយចំនួន ដូចជារូបថត និងវីដេអូដែលបានបម្រុងទុកជាដើម។</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">អ្នកនៅតែអាចចូលប្រើប្រាស់ទិន្នន័យនេះបានដដែល នៅពេលដែលអ្នកមានការតភ្ជាប់។ អ្នកអាចគ្រប់គ្រងមុខងារនេះ និងអ្វីដែលបានលុបដោយចូលទៅកាន់ ការកំណត់ > ទំហំផ្ទុក > ទំហំផ្ទុកឆ្លាតវៃ។</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">បង្កើនទំហំផ្ទុក</string>
+    <string name="auth_setup_wizard_services_backup">ងាយស្រួលស្តារ ឬប្តូរទូរសព្ទបានគ្រប់ពេល។ ការបម្រុងទុករួមបញ្ចូលទាំងកម្មវិធី ទិន្នន័យកម្មវិធី និងការកំណត់ឧបករណ៍ (រួមទាំងពាក្យសម្ងាត់ Wi‑Fi ផងដែរ)។</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យទាំងឡាយដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) រួមទាំងទិន្នន័យដែលអាចមានលក្ខណៈរសើប ដូចជាទំនាក់ទំនង សារ និងរូបថត។
+
+ទិន្នន័យបម្រុងទុកនឹងមិនពាក់ព័ន្ធជាមួយកម្រិតកំណត់ទំហំផ្ទុកនៅក្នុងថាសរបស់អ្នកទេ។
+
+អ្នកអាចបិទសេវាកម្មនេះនៅក្នុងការកំណត់។"</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យដែលអាចមានលក្ខណៈរសើប ដូចជាទំនាក់ទំនង សារ និងរូបថត។
+
+រូបថត និងវីដេអូពីឧបករណ៍នេះត្រូវបានធ្វើសមកាលកម្មជាមួយ Google រូបថត ដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកពីឧបករណ៍ណាមួយរបស់អ្នក។ តាមលំនាំដើម រូបថត និងវីដេអូដែលមានកម្រិតច្បាស់ខ្ពស់ត្រូវបានបង្ហោះ។
+
+ទិន្នន័យបម្រុងទុកនឹងមិនពាក់ព័ន្ធនឹងចំនួនកំណត់នៃទំហំផ្ទុកនៅក្នុងថាសរបស់អ្នកនោះទេ។
+
+អ្នកអាចបិទសេវាកម្មនេះបាននៅក្នុងការកំណត់។"</string>
+    <string name="auth_setup_wizard_services_backup_title">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="auth_setup_wizard_services_backup_v23">ស្តារ ឬប្តូរទូរសព្ទយ៉ាងងាយស្រួលបានគ្រប់ពេល។ ការបម្រុងទុករួមបញ្ចូលទាំងកម្មវិធី ទិន្នន័យកម្មវិធី ប្រវត្តិហៅទូរសព្ទ ទំនាក់ទំនង និងការកំណត់ឧបករណ៍ (រួមទាំងពាក្យសម្ងាត់ Wi‑Fi និងការ​អនុញ្ញាតផងដែរ)។</string>
+    <string name="auth_setup_wizard_services_backup_v26">ស្តារ ឬប្តូរទូរសព្ទយ៉ាងងាយស្រួលបានគ្រប់ពេល។ ការបម្រុងទុករួមបញ្ចូលទាំងកម្មវិធី ទិន្នន័យកម្មវិធី ប្រវត្តិហៅទូរសព្ទ ទំនាក់ទំនង ការកំណត់ឧបករណ៍ (រួមទាំងពាក្យសម្ងាត់ Wi‑Fi និងការ​អនុញ្ញាតផងដែរ) និងសារ​ SMS ។</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">ស្តារ ឬប្តូរទូរសព្ទយ៉ាងងាយស្រួលបានគ្រប់ពេល។ ការបម្រុងទុករួមបញ្ចូលទាំងកម្មវិធី ទិន្នន័យកម្មវិធី ប្រវត្តិហៅទូរសព្ទ ទំនាក់ទំនង ការកំណត់ឧបករណ៍ (រួមទាំងពាក្យសម្ងាត់ Wi‑Fi និងការអនុញ្ញាតផងដែរ) រូបថត វីដេអូ និងសារ SMS ។ រូបថត និងវីដេអូត្រូវបានធ្វើសមកាលកម្មទៅកាន់គណនី Google របស់អ្នក និងអាចត្រូវបានប្រើប្រាស់នៅលើសេវាកម្មនានា។</string>
+    <string name="auth_setup_wizard_services_description">ចុចដើម្បីស្វែងយល់បន្ថែមអំពីសេវាកម្មនីមួយៗ ដូចជារបៀបបើក ឬបិទវានៅពេលក្រោយ។ ទិន្នន័យនឹងត្រូវបានប្រើដោយយោងតាម <annotation link="google_privacy">គោលការណ៍ឯកជនភាព</annotation>របស់ Google ។</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"ព័ត៌មាន​លម្អិត​​កម្មវិធី​ រួមទាំង​ការ​ទិញ​ក្នុង​កម្មវិធី មាន​នៅ​ក្នុង Play Store ។ ទិន្នន័យកម្មវិធី​ និង​ការ​កំណត់ធ្វើ​សមកាលកម្មទៅឧបករណ៍ដែលបាន​ចូល​ដោយ​ប្រើគណនី Google របស់អ្នក។ 
+
+ការប្រើប្រាស់កម្មវិធី​អនុលោមតាម "<a href="https://play.google.com/about/play-terms.html">លក្ខខណ្ឌប្រើប្រាស់ Google Play</a>" ។ 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">ស្វែងយល់បន្ថែម</a>។</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">នៅពេល​ដែលអ្នក​ចុច​តំណណាមួយ Google Play នឹង​ពិនិត្យមើល​ថាតើ​មាន​កម្មវិធីប្រើភ្លាមៗឬអត់ បន្ទាប់មក​ដំណើរការ​វាដោយ​មិន​ចាំបាច់​ដំឡើង។ កម្មវិធីប្រើភ្លាមៗ​ត្រូវបាន​រក្សាទុក​នៅក្នុង​ឧបករណ៍​របស់អ្នក​ជា​បណ្តោះអាសន្ន។</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">ប្រើ​កម្មវិធី​ដោយមិន​ចាំបាច់​ដំឡើង</string>
+    <string name="auth_setup_wizard_services_location_sharing">ប្រើសេវាកម្មទីកន្លែងរបស់ Google ដើម្បីជួយឲ្យកម្មវិធីកំណត់ទីកន្លែងរបស់អ្នក។ ទិន្នន័យទីកន្លែងអនាមិកនឹងត្រូវបានបញ្ជូនទៅ Google នៅពេលដែលឧបករណ៍របស់អ្នកបើក។</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"សេវាកម្មទីកន្លែងរបស់ Google ប្រើប្រភពដូចជា Wi‑Fi និងបណ្តាញទូរសព្ទចល័ត ដើម្បីជួយប៉ាន់ស្មានទីកន្លែងឧបករណ៍របស់អ្នកឲ្យបានលឿន និងត្រឹមត្រូវជាងមុន។ សេវាកម្មនេះដំណើរការនៅពេលដែលការកំណត់ទីកន្លែងឧបករណ៍របស់អ្នកបើក និងស្ថិតក្នុងមុខងារដែលប្រើ Wi‑Fi ឬបណ្តាញទូរសព្ទចល័តដើម្បីប៉ាន់ស្មានទីកន្លែង មិនថាជាមុខងារភាពត្រឹមត្រូវខ្ពស់ ឬសន្សំសំចៃថ្ម (ការសន្សំសំចៃថាមពល) នោះទេ។
+
+អ្នកអាចបិទសេវាកម្មនេះដោយ៖
+
+"<li>បិទការកំណត់ទីកន្លែងគោលនៅលើឧបករណ៍របស់អ្នក។</li>"
+
+"<li>បន្តបើកការកំណត់ទីកន្លែងគោលនេះ និងជ្រើសរើសមុខងារដែលប្រើតែ GPS ប៉ុណ្ណោះ ដែលពេលខ្លះត្រូវបានហៅថា មុខងារសម្រាប់តែឧបករណ៍។</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">ជួយកម្មវិធីក្នុងការស្វែងរកទីកន្លែង</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">អនុញ្ញាតឲ្យកម្មវិធី និងសេវាកម្មស្កេនរក Wi‑Fi ទោះបីជាវាបិទក៏ដោយ។</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">អ្នកអាចបិទវានៅក្នុងការកំណត់ទីតាំង</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">កែលម្អភាពត្រឹមត្រូវនៃទីកន្លែង</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">អនុញ្ញាតឲ្យកម្មវិធី និង​សេវាកម្ម​ស្កេនរក Wi‑Fi និងប៊្លូធូស ទោះបីជាការកំណត់ទាំងនេះបិទក៏ដោយ។</string>
+    <string name="auth_setup_wizard_services_play">ជូន​ដំណឹង​អំពី​ព័ត៌មាន និង​ការ​ផ្ដល់​ជូនពី​​ Google Play មកខ្ញុំ។</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">ការបម្រុងទុក និងទំហំផ្ទុក</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">ការថែទាំឧបករណ៍</string>
+    <string name="auth_setup_wizard_services_section_location">ទីកន្លែង</string>
+    <string name="auth_setup_wizard_services_tos">ប្រសិនបើអ្នកបន្ត នោះអ្នកក៏នឹងយល់ព្រមជាមួយ<annotation link="tos">លក្ខខណ្ឌប្រើប្រាស់ Google</annotation> ផងដែរ។</string>
+    <string name="auth_setup_wizard_services_tos_germany">នៅពេលដែលអ្នកប្រើឧបករណ៍នេះ យើងគោរពតាម<annotation link="google_privacy">គោលការណ៍ភាពឯកជន</annotation> និងអនុវត្ត<annotation link="tos">លក្ខខណ្ឌបន្ថែម</annotation>។</string>
+    <string name="auth_setup_wizard_services_usage_reporting">ជួយធ្វើឲ្យបទពិសោធន៍ប្រើប្រាស់ Android របស់អ្នកប្រសើរឡើង ដោយផ្ញើការវិភាគ និងទិន្នន័យប្រើប្រាស់ឧបករណ៍ និងកម្មវិធីទៅ Google ដោយ​ស្វ័យប្រវត្តិ​។ វានឹងជួយធ្វើឲ្យកម្រិតថាមពលថ្ម ស្ថិរភាពកម្មវិធី ការតភ្ជាប់បណ្តាញ និងចំណុចជាច្រើនទៀតប្រសើរឡើង។ ប្រសិនបើអ្នកបានបើកសកម្មភាពបណ្តាញ និងកម្មវិធីបន្ថែម ព័ត៌មាននេះនឹងត្រូវបានរក្សាទុកនៅក្នុងគណនីរបស់អ្នក ដូច្នេះអ្នកអាចគ្រប់គ្រងវានៅក្នុងសកម្មភាពរបស់ខ្ញុំបាន។</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"នេះគឺជាព័ត៌មានទូទៅអំពីឧបករណ៍របស់អ្នក និងរបៀបដែលអ្នកប្រើប្រាស់វា (ដូចជា៖ កម្រិតថាមពលថ្ម ការប្រើប្រាស់កម្មវិធី និងការតភ្ជាប់បណ្តាញ)។ ទិន្នន័យនេះនឹងត្រូវបានប្រើប្រាស់ ដើម្បីធ្វើឲ្យផលិតផល និងសេវាកម្មរបស់ Google ប្រសើរឡើងសម្រាប់មនុស្សគ្រប់គ្នា។ ព័ត៌មានដែលបានប្រមូលមួយចំនួនក៏នឹងជួយឲ្យដៃគូ ដូចជាអ្នកអភិវឌ្ឍន៍ Android ធ្វើឲ្យកម្មវិធី និងផលិតផលរបស់ពួកគេប្រសើរជាងមុនផងដែរ។
+
+ការបិទមុខងារនេះមិនប៉ះពាល់ដល់សមត្ថភាពឧបករណ៍របស់អ្នកក្នុងការផ្ញើព័ត៌មានដែលត្រូវការ ដើម្បីទទួលបានសេវាកម្មចាំបាច់ដូចជា ការធ្វើបច្ចុប្បន្នភាពប្រព័ន្ធ ឬសុវត្ថិភាពនោះទេ។"</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">អ្នកអាចធ្វើបច្ចុប្បន្នភាពការកំណត់សកម្មភាពរបស់ខ្ញុំតាមរយៈ myactivity.google.com ។</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">អ្នកអាចគ្រប់គ្រងមុខងារនេះនៅក្នុងការកំណត់ Google ។ ជ្រើសរើសការប្រើប្រាស់ និងការវិភាគពីម៉ឺនុយនេះ។</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">អ្នកអាចគ្រប់គ្រងមុខងារនេះនៅក្នុងការកំណត់ > Google ។ ជ្រើសរើសការប្រើប្រាស់ និងការវិភាគពីម៉ឺនុយនេះ។</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">ផ្ញើទិន្នន័យប្រព័ន្ធ</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">អនុញ្ញាតឲ្យផ្ទាំងរូបភាពរស់រវើករបស់ Google ឆ្លើយតបនឹងទីកន្លែងរបស់អ្នក ដោយចូលប្រើប្រាស់សេវាកម្មទីកន្លែងរបស់ Google ។</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">អ្នកអាចបើក ឬបិទការអនុញ្ញាត​ចូលប្រើបា្រស់សេវាកម្មទីកន្លែងរបស់ Google សម្រាប់ផ្ទាំងរូបភាពរស់រវើកដោយចូលទៅកាន់ ការកំណត់ > កម្មវិធី និងការជូនដំណឹង > ព័ត៌មានកម្មវិធី។ សូមចុចបង្ហាញប្រព័ន្ធ > ផ្ទាំងរូបភាពទិន្នន័យរស់រវើក ឬផ្ទាំងរូបភាពផែនដីរស់រវើក > ការអនុញ្ញាត នៅក្នុងម៉ឺនុយបន្ថែម។</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">អនុញ្ញាតឲ្យផ្ទាំងរូបភាពប្រើប្រាស់ទីកន្លែង</string>
+    <string name="auth_setup_wizard_title">អ្នកជំនួយការ​រៀបចំ</string>
+    <string name="auth_show_error_activity_title">មិន​អាច​ចូល​បាន</string>
+    <string name="auth_show_error_title">កំហុស</string>
+    <string name="auth_sign_in_agreement">ដើម្បី​ចូល អ្នក​ត្រូវតែ​យល់​ព្រម​ជាមួយ <annotation id="google_privacy">Google</annotation> និង <annotation id="android_privacy">គោលការណ៍​ភាព​ឯកជន</annotation> បន្ថែម។</string>
+    <string name="auth_sign_in_browser">ចូល​កម្មវិធី​រុករក</string>
+    <string name="auth_sign_in_button_label">ចូល</string>
+    <string name="auth_sign_in_with_google_account_short">ចូល​គណនី Google របស់​អ្នក៖</string>
+    <string name="auth_skip_button_label">រំលង</string>
+    <string name="auth_submission_error_text">មាន​កំហុស សូម​ព្យាយាម​ម្ដងទៀត។</string>
+    <string name="auth_submission_title">សូមទោស…</string>
+    <string name="auth_try_again_button_label">ព្យាយាម​ម្ដងទៀត</string>
+    <string name="auth_ui_activity_authenticating">កំពុង​ផ្ទៀងផ្ទាត់...</string>
+    <string name="auth_ui_activity_title">ចូល Google</string>
+    <string name="auth_ui_activity_title_browser_signin">ចូល</string>
+    <string name="auth_ui_add_account_title">ការដំឡើងគណនី</string>
+    <string name="auth_uncertified_notification_content">ក្រុមហ៊ុនផលិតមិនទាន់ទទួលស្គាល់ឧបករណ៍នេះទេ</string>
+    <string name="auth_uncertified_notification_description">"ក្រុមហ៊ុនផលិតឧបករណ៍នេះកំពុងប្រើកម្មវិធី Google ដោយមិនស្វែងរក​ការទទួលស្គាល់ឧបករណ៍នេះពី Google ។
+
+ឧបករណ៍ដែលគ្មាន​ការទទួលស្គាល់អាចនឹងគ្មានសុវត្ថិភាព ហើយអាចនឹងមិនទទួលបានការអាប់ដេតប្រព័ន្ធ ឬកម្មវិធីនោះទេ។ កម្មវិធី និងមុខងារដូចជា ការបម្រុងទុកឯកសារ ឬរូបថត អាចនឹងមិនដំណើរការបានត្រឹមត្រូវនោះទេ។ 
+
+សូមទាក់ទងទៅក្រុមហ៊ុនផលិតឧបករណ៍របស់អ្នក ដើម្បីដោះស្រាយបញ្ហានេះ។ 
+
+អ្នកអាចចូលទៅកាន់ %s សម្រាប់ព័ត៌មានបន្ថែមអំពីដៃគូដែលទទួលបានការទទួលស្គាល់ពី Google ។"</string>
+    <string name="auth_uncertified_notification_learn_more">ស្វែងយល់​បន្ថែម</string>
+    <string name="auth_uncertified_notification_title">ព្រមាន៖ ឧបករណ៍ដែលគ្មានការទទួលស្គាល់</string>
+    <string name="auth_username">អ៊ីមែល</string>
+    <string name="auth_work_authenticator_label">គណនីដែលបានគ្រប់គ្រង</string>
+    <string name="authorization_dialog">ប្រអប់​អនុញ្ញាត</string>
+    <string name="auto_restore_summary">នៅពេលដំឡើងកម្មវិធីឡើងវិញ សូមស្ដារការកំណត់ និងទិន្នន័យដែលបានបម្រុងទុក</string>
+    <string name="auto_restore_title">ស្ដារឡើងវិញដោយស្វ័យប្រវត្តិ</string>
+    <string name="autofill_dataset_password">ប្រើ​ពាក្យសម្ងាត់​សម្រាប់៖ <b>^1</b></string>
+    <string name="autofill_datatype_address">អាសយដ្ឋាន</string>
+    <string name="autofill_datatype_password">ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សាទុក</string>
+    <string name="autofill_datatype_payment">បណ្ណ​ឥណទាន</string>
+    <string name="autofill_datatype_profile">ព័ត៌មាន​ផ្ទាល់ខ្លួន</string>
+    <string name="autofill_label">បំពេញ​ស្វ័យប្រវត្តិ​ជាមួយ Google</string>
+    <string name="autofill_optin_line1"><b>ចុចដើម្បីអនុញ្ញាតឲ្យ Google បំពេញវាឲ្យអ្នក</b></string>
+    <string name="autofill_optin_line2">ដោយប្រើ​ព័ត៌មាន​ដែលបាន​រក្សាទុក​រួចហើយ​នៅក្នុង Chrome បំពេញ​ដោយស្វ័យប្រវត្តិ</string>
+    <string name="autofill_setup_points">"• Google ប្រើ​អ្វីដែល​មាន​នៅលើ​អេក្រង់​របស់អ្នក ដើម្បី​កំណត់អ្វី​ដែលអាច​បំពេញ​ដោយស្វ័យប្រវត្តិ​បាន 
+• អ្នក​អាចមើល និង​គ្រប់គ្រង​ព័ត៌មាន​ដែល​បំពេញ​ដោយស្វ័យប្រវត្តិ​របស់អ្នក​នៅក្នុង​ការកំណត់។"</string>
+    <string name="autofill_setup_summary">ដោយចុច​តែម្តង អ្នកអាច​បំពេញ​ពាក្យសម្ងាត់ អាសយដ្ឋាន បណ្ណ​ឥណទាន និង​ព័ត៌មាន​ផ្សេងទៀត ដែល​បាន​រក្សាទុក​ទៅក្នុង​គណនី​របស់​អ្នក។</string>
+    <string name="autofill_setup_summary_single_account">ដោយចុច​តែម្តង អ្នកអាច​បំពេញ​ពាក្យសម្ងាត់ អាសយដ្ឋាន បណ្ណ​ឥណទាន និង​ព័ត៌មាន​ផ្សេងទៀត ដែល​បាន​រក្សាទុក​ទៅក្នុង​គណនី​របស់​អ្នក (<b>^1</b>)។</string>
+    <string name="backup_configure_account_default_summary">បច្ចុប្បន្ន គ្មានគណនីរក្សាទុកទិន្នន័យបម្រុងទុកទេ</string>
+    <string name="backup_configure_account_title">បម្រុងទុកគណនី</string>
+    <string name="backup_data_summary">បម្រុងទុកទិន្នន័យកម្មវិធី, ពាក្យសម្ងាត់ Wi-Fi, និងការកំណត់ផ្សេងទៀតទៅ Google ថាស</string>
+    <string name="backup_data_summary_full">"បម្រុងទុកទិន្នន័យឧបករណ៍ដោយស្វ័យប្រវត្តិ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ពីចម្ងាយ។
+
+នៅពេលដែលអ្នកបើកការបម្រុងទុកស្វ័យប្រវត្តិ ទិន្នន័យឧបករណ៍ និងកម្មវិធីនឹងត្រូវបានរក្សាទុកពីចម្ងាយជាទៀងទាត់។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យដែលសំខាន់ខ្លាំង ដូចជាទំនាក់ទំនង សារ និងរូបថត។"</string>
+    <string name="backup_data_title">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="backup_erase_dialog_message">បញ្ឈប់ការបម្រុងទុកពាក្យសម្ងាត់ Wi-Fi, ចំណាំ, ការកំណត់ផ្សេងទៀត, និងទិន្នន័យកម្មវិធីរបស់អ្នក ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើ Google ថាសដែរឬទេ?</string>
+    <string name="backup_erase_dialog_message_full">បញ្ឈប់ការបម្រុងទុកទិន្នន័យឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងប្រវត្តិហៅទូរស័ព្ទ) និងទិន្នន័យកម្មវិធី (ដូចជាការកំណត់ និងឯកសារដែលបានផ្ទុកដោយកម្មវិធី) ព្រមទាំងលុបច្បាប់ចម្លងទាំងអស់នៅលើ Google ថាសដែរឬទេ?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">មានកំហុសក្នុងការបើកការកំណត់រូបថត</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"នៅពេលដែលអ្នកបើកការបម្រុងទុកស្វ័យប្រវត្តិ៖
+
+ ● ការកំណត់ឧបករណ៍ និងទិន្នន័យកម្មវិធីត្រូវបានរក្សាទុកជាប្រចាំទៅកាន់ថតនៅក្នុង Google ថាស។ ទិន្នន័យកម្មវិធីអាចជាទិន្នន័យណាមួយដែលកម្មវិធីបានរក្សាទុក (ផ្អែកលើការកំណត់អ្នកអភិវឌ្ឍន៍) ដោយរាប់បញ្ចូលទាំងទិន្នន័យសំខាន់ៗ ដូចជាទំនាក់ទំនង សារ និងរូបថតជាដើម។
+
+ ឯកសារធំៗ ឬឯកសារដែលអ្នកអភិវឌ្ឍន៍បានជ្រើសដើម្បីយកចេញពីសេវាកម្មនេះ នឹងមិនត្រូវបានបម្រុងទុកទេ។
+
+ ● ការថតរូប និងវីដេអូពីឧបករណ៍នេះនឹងត្រូវបានធ្វើសមកាលកម្មជាមួយបណ្ណាល័យ Google រូបថតរបស់អ្នកដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកចេញពីឧបករណ៍ណាមួយរបស់អ្នក។
+
+ តាមលំនាំដើម រូបថត និងវីដេអូដែលមានគុណភាពបង្ហាញខ្ពស់ត្រូវបានអាប់ឡូត។ រូបភាព និងវីដេអូទាំងនេះមិនរាប់បញ្ចូលទៅក្នុងកម្រិតកំណត់នៃទំហំផ្ទុកក្នុងថាសរបស់អ្នកទេ។
+
+ ● ទំនាក់ទំនង និងទិន្នន័យដែលពាក់ព័ន្ធចេញពីឧបករណ៍នេះត្រូវបានធ្វើសមកាលកម្មទៅកាន់កម្មវិធី Google ទំនាក់ទំនង។ អ្នកអាចប្រើកម្មវិធី Google ទំនាក់ទំនងនេះដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកទំនាក់ទំនងចេញពីឧបករណ៍ទាំងឡាយរបស់អ្នកបាន។
+
+ ● ធាតុចូលប្រតិទិន និងទិន្នន័យដែលពាក់ព័ន្ធចេញពីឧបករណ៍នេះនឹងត្រូវបានធ្វើសមកាលកម្មទៅកាន់កម្មវិធី Google ប្រតិទិន។ អ្នកអាចប្រើកម្មវិធី Google ប្រតិទិននេះដើម្បីស្វែងរក កែសម្រួល លុប និងចែករំលែកទំនាក់ទំនងចេញពីឧបករណ៍ទាំងឡាយរបស់អ្នកបាន។
+
+ ទិន្នន័យបម្រុងទុកនឹងមិនរាប់បញ្ចូលទៅក្នុងកម្រិតកំណត់នៃទំហំផ្ទុកក្នុងថាសរបស់អ្នកទេ។"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"នៅ​ពេល​ដែល​អ្នក​បើក​ការ​បម្រុង​ទុកដោយ​ស្វ័យប្រវត្តិ៖
+
+ ● ការ​កំណត់​ឧបករណ៍ និង​ទិន្នន័យ​កម្មវិធី​ត្រូវ​បាន​រក្សាទុក​ជា​ប្រចាំ​ទៅកាន់ថត​ឯកជន​នៅ​ក្នុង Google ថាស។ ទិន្នន័យ​កម្មវិធី​អាច​ជា​ទិន្នន័យ​ទាំងឡាយ​ដែល​កម្មវិធី​បាន​រក្សាទុក (ផ្អែក​លើ​ការ​កំណត់​អ្នក​អភិវឌ្ឍន៍) ដោយ​រាប់​បញ្ចូល​ទាំង​ទិន្នន័យ​រសើប ដូចជា​ទំនាក់ទំនង សារ និង​រូបថត​ជាដើម។
+
+ ឯកសារ​ធំៗ ឬ​ឯកសារ​ដែល​អ្នក​អភិវឌ្ឍន៍​បាន​ជ្រើសរើស​ដើម្បី​យក​ចេញ​ពី​សេវាកម្ម​នេះ នឹង​មិន​ត្រូវ​បាន​បម្រុង​ទុក​ទេ។
+
+ ● ទំនាក់ទំនង និង​ទិន្នន័យ​ដែល​ពាក់ព័ន្ធ​ចេញ​ពី​ឧបករណ៍​នេះ​ត្រូវ​បាន​ធ្វើ​សមកាលកម្មទៅកាន់​ Google ទំនាក់ទំនង។ អ្នក​អាច​ប្រើកម្មវិធី Google ទំនាក់ទំនង​ ​ដើម្បី​ធ្វើ​ការ​ស្វែងរក កែសម្រួល លុប និង​ចែក​រំលែក​ទំនាក់ទំនង​ចេញ​ពី​ឧបករណ៍​ទាំងឡាយ​របស់អ្នក​បាន។
+
+ ● ធាតុ​នៅ​ក្នុង​ប្រតិទិន និង​ទិន្នន័យ​ដែល​ពាក់ព័ន្ធ​ចេញ​ពី​ឧបករណ៍​នេះ​នឹង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅកាន់​ Google ប្រតិទិន។ អ្នក​អាច​ប្រើ​កម្មវិធី Google ប្រតិទិន​ ដើម្បី​ធ្វើ​ការ​ស្វែងរក កែសម្រួល លុប និង​ចែក​រំលែក​ទំនាក់ទំនង​ចេញ​ពី​ឧបករណ៍​ទាំងឡាយ​របស់​អ្នក​បាន។
+
+ ទិន្នន័យ​បម្រុង​ទុក​នឹង​មិន​រាប់​បញ្ចូល​ទៅ​ក្នុង​កម្រិត​កំណត់​នៃ​ទំហំ​ផ្ទុក​ក្នុង​ថាស​របស់អ្នក​ទេ។"</string>
+    <string name="backup_opt_in_backup_description_extra">ប្រតិទិន ទំនាក់ទំនង រូបថត និងវីដេអូត្រូវបានធ្វើសមកាលកម្មទៅកាន់គណនី Google របស់អ្នក និងអាចត្រូវបានប្រើនៅលើសេវាកម្មនានា។</string>
+    <string name="backup_opt_in_backup_description_v2">ការបម្រុងទុកដោយស្វ័យប្រវត្តិអាចធានាបានថា អ្នកអាចស្តារ ឬប្តូរទូរសព្ទបានយ៉ាងងាយស្រួលនៅ​គ្រប់ពេល។ <annotation id="backup_opt_in_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"វានឹងបិទការបម្រុងទុកសម្រាប់៖
+
+កម្មវិធី និងទិន្នន័យកម្មវិធី
+ប្រវត្តិនៃការហៅទូរសព្ទ
+ការកំណត់ឧបករណ៍
+រូបថត និងវីដេអូ
+សារ SMS
+
+ប្រតិទិន និងទំនាក់ទំនងនឹងនៅតែធ្វើសមកាលកម្មទៅគណនី Google របស់អ្នកដដែល។ នៅពេលដែលការរៀបចំបានបញ្ចប់ អ្នកអាចធ្វើការផ្លាស់ប្តូរការកំណត់ការធ្វើសមកាលកម្មបាន ដោយចូលទៅកាន់ "<annotation id="backup_opt_in_settings_instructions">ការកំណត់ > គណនី > Google</annotation> ។</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">បិទការបម្រុងទុកឬ?</string>
+    <string name="backup_opt_in_backup_list">"កម្មវិធី និងទិន្នន័យកម្មវិធី
+ប្រតិទិន
+ប្រវតិ្តហៅ
+ទំនាក់ទំនង
+ការកំណត់ឧបករណ៍ (រាប់បញ្ចូលទាំងពាក្យសម្ងាត់ Wi-Fi)
+រូបថត និងវីដេអូ
+សារ SMS"</string>
+    <string name="backup_opt_in_backup_list_header">ការបម្រុងទុករួមមាន៖</string>
+    <string name="backup_opt_in_backup_title">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="backup_opt_in_disable_backup">បិទការបម្រុងទុក</string>
+    <string name="backup_photos_update">សូមអាប់ដេត Google រូបថត</string>
+    <string name="backup_settings_activity_backup_title">បម្រុងទុក</string>
+    <string name="backup_settings_activity_title">បម្រុងទុក និងកំណត់ឡើងវិញ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">កុំចម្លង</string>
+    <string name="chrome_privacy_title">ការ​ជូនដំណឹង​ភាព​ឯកជន​របស់ Chrome</string>
+    <string name="chrome_tos_title">លក្ខខណ្ឌ​ប្រើប្រាស់ Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">ពាក្យសម្ងាត់ដែលមានស្រាប់របស់អ្នកសម្រាប់ %1$s ត្រូវបានអ៊ិនគ្រីបជាមួយឃ្លាសម្ងាត់របស់អ្នក។ ប្រសិនបើអ្នកបានភ្លេចឃ្លាសម្ងាត់របស់អ្នក សូមបញ្ឈប់ ហើយកំណត់សមកាលកម្មឡើងវិញតាមរយៈ &lt;a href=%2$s>Google Dashboard&lt;/a>។</string>
+    <string name="chromesync_custom_passphrase_title">ឃ្លាសម្ងាត់ ChromeSync</string>
+    <string name="chromesync_enter_passphrase_hint">បញ្ចូលឃ្លាសម្ងាត់</string>
+    <string name="chromesync_entered_wrong_passphrase">ឃ្លាសម្ងាត់មិនត្រឹមត្រូវ</string>
+    <string name="chromesync_no_browser_found">រកមិនឃើញកម្មវិធីរុករកដើម្បីបើកតំណនេះទេ</string>
+    <string name="close_button_label">បិទ</string>
+    <string name="cloud_restore_app_picker_button">ស្តារ</string>
+    <string name="cloud_restore_app_picker_description_no_apps">ការបម្រុងទុករបស់អ្នកមិនមានកម្មវិធីឡើយ</string>
+    <string name="cloud_restore_app_picker_title">ជ្រើសរើសកម្មវិធីដើម្បីស្តារ</string>
+    <string name="common_accept">ព្រមទទួល</string>
+    <string name="common_account_chip_add_account_button_label">ប្រើគណនីផ្សេងទៀត</string>
+    <string name="common_add_account_button_label">បញ្ចូល​គណនី</string>
+    <string name="common_add_account_label">បន្ថែមគណនី</string>
+    <string name="common_ads_settings_title">ពាណិជ្ជកម្ម</string>
+    <string name="common_agree">យល់ព្រម</string>
+    <string name="common_app_name">សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_asm_preferences_settings_title">ចំណូល​ចិត្ត​គណនី</string>
+    <string name="common_asm_privacy_settings_title">ព័ត៌មាន​ផ្ទាល់ខ្លួន និង​ឯកជនភាព</string>
+    <string name="common_asm_security_settings_title">ការចូល​គណនី និង​សុវត្ថិភាព</string>
+    <string name="common_audience_edit_button_label">កែសម្រួល</string>
+    <string name="common_cancel">បោះបង់</string>
+    <string name="common_cannot_start_hangouts_security_exception">មិន​អាច​ចាប់ផ្ដើម Hangouts (កំហុស​សិទ្ធិ)។</string>
+    <string name="common_car_permission_desc">ចូល​ដំណើរការ​សេវាកម្ម​រថយន្ត។</string>
+    <string name="common_car_permission_label">សេវាកម្ម​រថយន្ត</string>
+    <string name="common_chips_label_empty_circles">គ្មាន​ក្រុម</string>
+    <string name="common_chips_label_extended_circles">រង្វង់បន្ថែម</string>
+    <string name="common_chips_label_only_you">តែ​អ្នក​ប៉ុណ្ណោះ</string>
+    <string name="common_chips_label_public">សាធារណៈ</string>
+    <string name="common_chips_label_your_circles">រង្វង់របស់អ្នក</string>
+    <string name="common_choose_account">ជ្រើសរើសគណនី</string>
+    <string name="common_choose_account_for_app_label">ជ្រើសរើសគណនីសម្រាប់ %1$s</string>
+    <string name="common_choose_account_label">ជ្រើសរើស​គណនី</string>
+    <string name="common_clear_app_data_menu_item">សម្អាត​ទិន្នន័យ​កម្មវិធី</string>
+    <string name="common_connected">បាន​ភ្ជាប់</string>
+    <string name="common_connected_apps_settings_title">កម្មវិធីដែលបានភ្ជាប់</string>
+    <string name="common_connecting">កំពុង​ភ្ជាប់​…</string>
+    <string name="common_continue">បន្ត</string>
+    <string name="common_disagree">មិនយល់ព្រម</string>
+    <string name="common_disconnect">ផ្ដាច់</string>
+    <string name="common_done">រួចរាល់</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">ពី៖</string>
+    <string name="common_games_settings_title">លេង​ហ្គេម</string>
+    <string name="common_get_started">ចាប់ផ្ដើម</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">បើក</string>
+    <string name="common_google_play_services_enable_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកបើកសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_enable_title">បើកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">កំហុស</string>
+    <string name="common_google_play_services_install_button">ដំឡើង</string>
+    <string name="common_google_play_services_install_text">%1$s នឹងមិនដំណើរការទេ ប្រសិនបើមិនមានសេវាកម្មនានារបស់ Google Play ដែលបានបាត់ពីឧបករណ៍របស់អ្នក។</string>
+    <string name="common_google_play_services_install_title">ទាញយកសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_unknown_issue">%1$s កំពុងមានបញ្ហាជាមួយសេវាកម្មរបស់ Google Play ។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
+    <string name="common_google_play_services_unsupported_text">%1$s នឹងមិនដំណើរការដោយគ្មានសេវាកម្មរបស់ Google Play ដែលឧបករណ៍របស់អ្នកមិនគាំទ្រនោះទេ។</string>
+    <string name="common_google_play_services_update_button">អាប់ដេត</string>
+    <string name="common_google_play_services_update_text">%1$s នឹងមិនដំណើរការទេ លុះត្រាតែអ្នកធ្វើបច្ចុប្បន្នភាពសេវាកម្ម Google Play។</string>
+    <string name="common_google_play_services_update_title">អាប់ដេតសេវាកម្ម Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s នឹងមិនដំណើរការទេ បើមិនមានសេវាកម្ម Google Play ដោយសារតែវាកំពុងអាប់ដេត។</string>
+    <string name="common_google_play_services_updating_title">សេវាកម្ម Google Play កំពុងអាប់ដេត</string>
+    <string name="common_google_play_services_wear_update_text">តម្រូវឲ្យមានកំណែថ្មីនៃសេវាកម្ម Google Play។ វានឹងអាប់ដេតដោយខ្លួនវានៅពេលបន្តិចទៀតនេះ។</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">បានដំឡើងសេវាកម្ម Google Play ដែលមានស្ថាបត្យកម្មមិនត្រឹមត្រូវ។</string>
+    <string name="common_google_play_services_wrong_architecture_text">បានដំឡើងសេវាកម្ម Google Play ដែលមានស្ថាបត្យកម្ម (%1$s) ដែលខុសពីស្ថាបត្យកម្មឧបករណ៍របស់អ្នក (%2$s)។</string>
+    <string name="common_google_play_services_wrong_architecture_title">ស្ថាបត្យកម្មមិនត្រឹមត្រូវ</string>
+    <string name="common_google_settings">ការ​កំណត់ Google</string>
+    <string name="common_google_settings_account">គណនី</string>
+    <string name="common_google_settings_credentials_title">Smart Lock សម្រាប់ពាក្យសម្ងាត់</string>
+    <string name="common_google_settings_developer">អ្នកអភិវឌ្ឍន៍</string>
+    <string name="common_google_settings_services">សេវាកម្ម</string>
+    <string name="common_got_it">យល់ហើយ</string>
+    <string name="common_install">ដំឡើង</string>
+    <string name="common_learn_more">ស្វែងយល់បន្ថែម</string>
+    <string name="common_list_apps_menu_help">ជំនួយ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ជំនួយ និងមតិស្ថាបនា</string>
+    <string name="common_loading">កំពុងដំណើរការ...</string>
+    <string name="common_location_settings_title">ទីតាំង</string>
+    <string name="common_magictether_settings_title">ការតភ្ជាប់ភ្លាមៗ</string>
+    <string name="common_maps_settings_title">ផែនទី និងរយៈទទឹង</string>
+    <string name="common_mdm_feature_name">កម្មវិធី​គ្រប់​គ្រង​ឧបករណ៍ Android</string>
+    <string name="common_missing_url_viewer">បាត់កម្មវិធីមើលដើម្បីបង្ហាញ url ខាងក្រៅ។</string>
+    <string name="common_more_options">ជម្រើសច្រើនទៀត</string>
+    <string name="common_networking_settings_title">ការភ្ជាប់បណ្ដាញ</string>
+    <string name="common_no_browser_for_restricted_url">បានរឹតបន្តឹងការចូលដំណើរការ។ រកមិនឃើញកម្មវិធីរុករកទេ។</string>
+    <string name="common_no_devices_found">រកមិនឃើញឧបករណ៍ទេ</string>
+    <string name="common_no_network">មិន​អាច​ប្រើ​បាន​ទេ​ព្រោះ​ឧបករណ៍​នេះ​​នៅ​ក្រៅ​បណ្ដាញ</string>
+    <string name="common_no_thanks">ទេ អរគុណ!</string>
+    <string name="common_not_now">កុំទាន់</string>
+    <string name="common_off">បិទ</string>
+    <string name="common_ok">យល់ព្រម</string>
+    <string name="common_on">បើក</string>
+    <string name="common_open_on_phone">បើកតាមទូរស័ព្ទ</string>
+    <string name="common_open_source_licenses">អាជ្ញាបណ្ណ​ប្រភព​កូដ​ចំហ</string>
+    <string name="common_people_settings_title">ទំនាក់ទំនង</string>
+    <string name="common_permissions_enable_in_settings">បើក​នៅ​ក្នុង​ការ​កំណត់</string>
+    <string name="common_permissions_missing_end">ដើម្បីបន្ត សូមបើកការកំណត់ បន្ទាប់មកបើកសិទ្ធិអនុញ្ញាត ហើយអនុញ្ញាតធាតុដែលបានរាយទាំងអស់។</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+ដើម្បីបើកដំណើរការ សូមចូលទៅកាន់
+ការកំណត់ >
+សិទ្ធិអនុញ្ញាត >
+សេវាកម្ម Google Play"</string>
+    <string name="common_permissions_missing_start">កម្មវិធីនេះនឹងមិនដំណើរការបានត្រឹមត្រូវនោះទេ លុះត្រាតែអ្នកអនុញ្ញាតឲ្យសំណើសេវាកម្ម Google Play ចូលដំណើរការចំណុចខាងក្រោម៖</string>
+    <string name="common_permissions_open_settings">បើក​ការ​កំណត់</string>
+    <string name="common_phone">ទូរសព្ទ</string>
+    <string name="common_plus_settings_title">Google+​​</string>
+    <string name="common_privacy_policy">គោលការណ៍​ឯកជន​ភាព</string>
+    <string name="common_restore">ស្តារ</string>
+    <string name="common_restricted_no_accounts">គ្មាន​គណនី​ត្រូវ​ជ្រើស</string>
+    <string name="common_retry">ព្យាយាមម្ដងទៀត</string>
+    <string name="common_search_settings_title">ស្វែងរក</string>
+    <string name="common_security_ootp_setting_title">លេខ​កូដ​សុវត្ថិភាព</string>
+    <string name="common_security_settings_title">សុវត្ថិភាព</string>
+    <string name="common_send">ផ្ញើ</string>
+    <string name="common_sending">កំពុងផ្ញើ...</string>
+    <string name="common_set_up_nearby_device_settings_title">ដំឡើងឧបករណ៍នៅក្បែរ</string>
+    <string name="common_settings">ការ​កំណត់</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូលដោយប្រើ Google</string>
+    <string name="common_something_went_wrong">មានបញ្ហាអ្វីមួយមិនប្រក្រតី</string>
+    <string name="common_system_info">ព័ត៌មាន​អំពី​ប្រព័ន្ធ</string>
+    <string name="common_take_photo_label">ថតរូប</string>
+    <string name="common_terms_of_service">លក្ខខណ្ឌ​ប្រើប្រាស់</string>
+    <string name="common_try_again">ព្យាយាម​ម្ដង​ទៀត</string>
+    <string name="common_turn_on_bluetooth">បើកប៊្លូធូស</string>
+    <string name="common_ui_confirm_deleting_button">លុប</string>
+    <string name="common_ui_confirm_deleting_checkbox">ខ្ញុំយល់ ហើយខ្ញុំចង់លុប</string>
+    <string name="common_unknown">មិនស្គាល់</string>
+    <string name="common_update">អាប់ដេត</string>
+    <string name="common_url_load_unsuccessful_message">ឧបករណ៍​ Android របស់​អ្នក​មិន​ត្រូវ​បាន​ភ្ជាប់​ទៅ​សេវាកម្ម​ទិន្នន័យ​ទេ។ ដើម្បី​មើល​ព័ត៌មាន​នេះ​ឥឡូវ សូម​មើល %s ក្នុង​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">ឧបករណ៍ Android របស់អ្នកមិនត្រូវបានភ្ជាប់ទៅបណ្តាញ Wi-Fi ទេ។ ដើម្បីមើលព័ត៌មាននេះឥឡូវនេះ សូមចូលទៅកាន់ %s ដោយប្រើកម្មវិធីរុករក។</string>
+    <string name="common_url_login_notice">ចូល​ជា %1$s</string>
+    <string name="common_usage_and_diagnostics">ការប្រើប្រាស់ និងកាវិភាគ</string>
+    <string name="common_yesterday">ម្សិលមិញ</string>
+    <string name="confirm_copy_button_text">ចម្លង</string>
+    <string name="contacts_number_device_and_icloud">iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d, ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d ឧបករណ៍ %2$d</string>
+    <string name="contacts_number_device_with_google">Google ទំនាក់ទំនង, ឧបករណ៍ %1$d</string>
+    <string name="contacts_number_icloud_with_google">Google ទំនាក់ទំនង, iCloud® %1$d</string>
+    <string name="contacts_number_sim_with_google">Google ទំនាក់ទំនង, ស៊ីម %1$d</string>
+    <string name="continue_to_login_heading">សូមចូលគណនី</string>
+    <string name="continue_to_login_text">បានផ្តល់ព័ត៌មានអត្តសញ្ញាណ។ បន្តដើម្បីចូលគណនីនៅលើឧបករណ៍ទីមួយរបស់អ្នក។</string>
+    <string name="copy_confirmation_description">អ្នកនឹងចម្លងទិន្នន័យ ដូចជា៖ គណនី Google និងកម្មវិធីរបស់អ្នក ទៅកាន់ទូរស័ព្ទថ្មីរបស់អ្នក</string>
+    <string name="copy_confirmation_title">ចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកដែរទេ?</string>
+    <string name="d2d_app_picker_description_no_apps">យើងរកមិនឃើញកម្មវិធីណាមួយឡើយ</string>
+    <string name="d2d_app_picker_title">កម្មវិធី</string>
+    <string name="d2d_migration_canceled_on_source">បានបោះបង់ការចម្លង</string>
+    <string name="data_copied_fragment_description">ទិន្នន័យរបស់អ្នកត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។ អ្នកអាចដកខ្សែនេះបានហើយ។</string>
+    <string name="data_copied_fragment_description_cancel">អ្នកបានជ្រើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមានទិន្នន័យតែមួយចំនួនប៉ុណ្ណោះដែលបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក។</string>
+    <string name="data_copied_fragment_description_cancel_no_data">អ្នកបានជ្រើសរើសយកការបញ្ឈប់ការចម្លង ដូច្នេះមិនមានទិន្នន័យណាត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ។</string>
+    <string name="data_copied_fragment_description_error">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងមាតិកាទាំងអស់បានទេ។</string>
+    <string name="data_copied_fragment_description_error_no_data">មានអ្វីមួយមិនប្រក្រតី ដូច្នេះយើងមិនអាចចម្លងទិន្នន័យរបស់អ្នកបានទេ។</string>
+    <string name="data_copied_fragment_no_data_title">មិនអាចចម្លងបានទេ</string>
+    <string name="data_copied_fragment_some_data_title">បានចម្លងឯកសារមួយចំនួន</string>
+    <string name="data_copied_fragment_title">បានចម្លងទិន្នន័យ</string>
+    <string name="device_backup_title">ការបម្រុងទុកឧបករណ៍</string>
+    <string name="device_not_supported_fragment_new_device">អ្នកបានភ្ជាប់ទៅទូរសព្ទថ្មី។ ដើម្បីបន្ត សូមភ្ជាប់ទៅទូរសព្ទពីមុនរបស់អ្នកឡើងវិញ។</string>
+    <string name="device_not_supported_fragment_new_device_title">ភ្ជាប់ទៅទូរសព្ទពីមុនឡើងវិញ</string>
+    <string name="device_not_supported_fragment_no_data_cable">ខ្សែនេះមិនអាចផ្ទេរទិន្នន័យបានទេ។ សូមភ្ជាប់ឡើងវិញដោយប្រើខ្សែផ្សេងទៀត រួច​ព្យាយាមម្តងទៀត។</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">សាកល្បងប្រើខ្សែផ្សេងទៀត</string>
+    <string name="device_not_supported_fragment_retry_description">សូមប្រាកដថាទូរស័ព្ទរបស់អ្នកបានដោះសោ បន្ទាប់មកផ្តាច់វា ហើយភ្ជាប់ខ្សែនោះឡើងវិញ</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">មានបញ្ហាអ្វីមួយមិនប្រក្រតី</string>
+    <string name="device_not_supported_ios_supervised_description">ដោយហេតុថាឧបករណ៍ iPhone® របស់​អ្នក​ស្ថិតក្រោមការគ្រប់គ្រង អ្នកត្រូវតែជ្រើសរើសវិធីផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ។</string>
+    <string name="device_picker_description">ការបម្រុងទុកត្រូវបានផ្ទុកក្នុង Google ថាស</string>
+    <string name="device_picker_empty">គ្មាន​ការ​បម្រុងទុក​ដែល​ភ្ជាប់ទៅ %1$s ទេ។</string>
+    <string name="device_picker_empty_title">រក​មិន​ឃើញ​ការ​បម្រុងទុក​ទេ</string>
+    <string name="device_picker_item">ការបម្រុងទុក %1$s</string>
+    <string name="device_picker_last_used">បានប្រើចុងក្រោយនៅថ្ងៃ ^1</string>
+    <string name="device_picker_skip">កុំស្តារ</string>
+    <string name="device_picker_title">ជ្រើសរើសការបម្រុងទុកដើម្បីស្តារ</string>
+    <string name="disabled_by_admin_summary_text">គ្រប់គ្រងដោយអ្នកគ្រប់គ្រង</string>
+    <string name="download_msg_error_invalid">ការ​ទាញ​យក​នេះ​ត្រូវ​បាន​កំណត់​រចនា​សម្ព័ន្ធ​មិន​ត្រឹមត្រូវ។</string>
+    <string name="download_msg_in_progress">ការ​ទាញ​យក​កំពុង​ដំណើរការ។</string>
+    <string name="download_msg_not_allowed_space">​មិន​មាន​ទំហំ​គ្រប់គ្រាន់​ដើម្បី​អនុវត្ត​ការ​ទាញ​យក​។</string>
+    <string name="download_msg_pending">ការ​ទាញ​យក​កំពុង​រង់ចាំ។</string>
+    <string name="download_notification_description">%1$s បាន​ស្នើ​សុំ​វា។</string>
+    <string name="download_notification_title">ទៅ​យក​ទិន្នន័យ​បន្ថែម​ទៀត</string>
+    <string name="drive_backup_account">បម្រុងទុកគណនី</string>
+    <string name="drive_backup_apps_in_backup">ទិន្នន័យ​កម្មវិធី​ដែល​បាន​បម្រុងទុក</string>
+    <string name="drive_backup_apps_last_backup">ការបម្រុងទុកចុងក្រោយ</string>
+    <string name="drive_backup_apps_loading">កំពុងដំណើរការ...</string>
+    <string name="drive_backup_apps_screen_title">ទិន្នន័យកម្មវិធី</string>
+    <string name="drive_backup_content_apps_title">ទិន្នន័យកម្មវិធី</string>
+    <string name="drive_backup_content_calendar_dialog_message">ព្រឹត្តិការណ៍ដែលបង្កើតនៅក្នុង Google ប្រតិទិន នឹងត្រូវបានធ្វើសមកាលកម្មនៅលើឧបករណ៍ទាំងអស់ដែលបានចូលគណនី Google របស់អ្នក។</string>
+    <string name="drive_backup_content_calendar_title">Google ប្រតិទិន</string>
+    <string name="drive_backup_content_callhistory_dialog_message">ការបម្រុងទុករួមបញ្ចូលទាំងកាលបរិច្ឆេទ និងអ្នកទទួលការហៅដែលបានផ្ញើ និងទទួល។</string>
+    <string name="drive_backup_content_callhistory_title">ប្រវត្តិហៅ</string>
+    <string name="drive_backup_content_contacts_dialog_message">ទំនាក់ទំនងដែលបង្កើតនៅក្នុង Google ទំនាក់ទំនង នឹងត្រូវបានធ្វើសមកាលកម្មនៅលើឧបករណ៍ទាំងអស់ដែលបានចូលគណនី Google របស់អ្នក។</string>
+    <string name="drive_backup_content_contacts_title">Google ទំនាក់ទំនង</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">ការបម្រុងទុករួមបញ្ចូលការកំណត់រចនាសម្ព័ន្ធឧបករណ៍ ដូចជា៖ ផ្ទាំងរូបភាព ពាក្យសម្ងាត់ WiFi និងកម្មវិធីលំនាំដើម។</string>
+    <string name="drive_backup_content_devicesettings_title">ការកំណត់ឧបករណ៍</string>
+    <string name="drive_backup_content_header">មាតិកា</string>
+    <string name="drive_backup_content_photos_dialog_message">គណនីបម្រុងទុកចម្បងរបស់អ្នកត្រូវបានផ្លាស់ប្តូរ។ អ្នកក៏អាចផ្លាស់ប្តូរគណនីបម្រុងទុកនៃ Google រូបថតនេះទៅជា %s បានផងដែរ។</string>
+    <string name="drive_backup_content_photos_dialog_no">បដិសេធ</string>
+    <string name="drive_backup_content_photos_dialog_title">ផ្លាស់ប្តូរគណនីរូបថត និងវីដេអូផងដែរ?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ផ្លាស់ប្ដូរ</string>
+    <string name="drive_backup_content_photos_title">រូបថត និងវីដេអូ</string>
+    <string name="drive_backup_content_sms_dialog_message">ការបម្រុងទុករួមបញ្ចូលទាំងសារដែលបានផ្ញើ និងទទួល។ វាមិនរួមបញ្ចូលមេឌៀ MMS ទេ។</string>
+    <string name="drive_backup_content_sms_title">សារ SMS</string>
+    <string name="drive_backup_content_status_dolly_action">យល់ហើយ</string>
+    <string name="drive_backup_content_status_error">មានបញ្ហាក្នុងការទទួលយកកាលបរិច្ឆេទសមកាលកម្មចុងក្រោយ</string>
+    <string name="drive_backup_content_status_lastsaved">បម្រុងទុកចុងក្រោយ៖ %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">ធ្វើសមកាលកម្មចុងក្រោយ៖ %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">កំពុងរង់ចាំបម្រុងទុក</string>
+    <string name="drive_backup_content_status_sync_adapter_action">ការកំណត់ការធ្វើសមកាលកម្ម</string>
+    <string name="drive_backup_content_status_sync_off">បានបិទការធ្វើសមកាលកម្ម</string>
+    <string name="drive_backup_content_status_updating">កំពុងពិនិត្យស្ថានភាព…</string>
+    <string name="drive_backup_disabled_backuplist">"ការបម្រុងទុករួមមាន៖
+\u0009- កម្មវិធី និងទិន្នន័យកម្មវិធី
+\u0009- ប្រវតិ្តហៅ
+\u0009- ការកំណត់ឧបករណ៍ (រួម​ទាំងពាក្យសម្ងាត់ Wi-Fi)
+\u0009- Google ប្រតិទិន
+\u0009- Google ទំនាក់ទំនង
+\u0009- រូបថត និងវីដេអូ
+\u0009- សារ SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"ការ​បម្រុង​ទុក​ធ្វើ​ឡើង​ចំពោះ៖
+\u0009- កម្មវិធី និង​ទិន្នន័យ​កម្មវិធី
+\u0009- ប្រវត្តិ​ហៅ​ទូរសព្ទ
+\u0009- ការ​កំណត់​ឧបករណ៍ (រួមទាំង​ពាក្យ​សម្ងាត់ Wi-Fi)
+\u0009- Google ប្រតិទិន
+\u0009- Google ទំនាក់ទំនង
+\u0009- សារ SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">បាន​បិទ​ដោយ​អ្នក​គ្រប់គ្រង​របស់អ្នក</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google ប្រតិទិន Google ទំនាក់ទំនង រូបថត និងវីដេអូត្រូវបានធ្វើសមកាលកម្មទៅក្នុង​គណនី Google របស់អ្នក ហើយអាចត្រូវបានប្រើលើសេវាកម្មនានា។
+
+សមកាលកម្មអាចបើកដំណើរការបាន បើទោះបីជាការបម្រុងទុកបានបិទក៏ដោយ។ ការកំណត់សមកាលកម្មអាចធ្វើការផ្លាស់ប្តូរបាននៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google ប្រតិទិន និង Google ទំនាក់ទំនង​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅ​គណនី Google របស់អ្នក និង​អាច​ប្រើ​ប្រាស់​បាន​នៅលើ​សេវាកម្ម​នានា។
+
+ការ​ធ្វើ​សមកាលកម្ម​អាច​ត្រូវ​បាន​បើក បើទោះបីជា​ការ​បម្រុង​ទុក​បាន​បិទ​ក៏ដោយ។  ការ​កំណត់​សមកាលកម្ម​អាចផ្លាស់ប្តូរបាន​នៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_disabled_introduction">ការបម្រុងទុកស្វ័យប្រវត្តិអាចធានាបានថាអ្នកអាចស្តារ ឬប្តូរទូរសព្ទយ៉ាងងាយស្រួលបានគ្រប់ពេល។</string>
+    <string name="drive_backup_settings_title">បម្រុងទុក</string>
+    <string name="drive_backup_state">បម្រុងទុកទៅក្នុង Google ថាស</string>
+    <string name="drive_backup_state_dialog_message">"ទិន្នន័យបម្រុងទុករបស់ឧបករណ៍នេះនៅក្នុង Google ថាស នឹងត្រូវបានលុបជាអចិន្ត្រៃយ៍។
+
+រូបថត និងវីដេអូដែលបានបម្រុងទុករួចហើយនឹងនៅតែអាចប្រើបាននៅក្នុង Google ថាស ដដែល។
+
+Google ប្រតិទិន និង Google ទំនាក់ទំនង នឹងបន្តធ្វើសមកាលកម្មទៅក្នុង​គណនី Google របស់អ្នក។ ការកំណត់សមកាលកម្មអាចធ្វើការផ្លាស់ប្តូរបាននៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"ទិន្នន័យ​បម្រុង​របស់​ឧបករណ៍​នេះ​ដែល​មាន​នៅក្នុង Google ថាស​នឹង​ត្រូវ​បាន​លុប​ជា​អចិន្ត្រៃយ៍។
+
+Google ប្រតិទិន និង Google ទំនាក់ទំនង​នឹង​បន្ត​ធ្វើ​សមកាលកម្ម​ទៅ​គណនី Google របស់អ្នក។ ការ​កំណត់​សមកាលកម្ម​អាចផ្លាស់ប្តូរបាន​នៅក្នុង ការកំណត់ > គណនី > Google ។"</string>
+    <string name="drive_backup_state_dialog_okaction">បិទ និងលុប</string>
+    <string name="drive_backup_state_dialog_title">បិទ និងលុបការបម្រុងទុកឬ?</string>
+    <string name="durationDayHour">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDayHours">%1$d ថ្ងៃ %2$d ម៉ោង</string>
+    <string name="durationDays">%1$d ថ្ងៃ</string>
+    <string name="durationHourMinute">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHourMinutes">%1$d ម៉ោង %2$d នាទី</string>
+    <string name="durationHours">%1$d ម៉ោង</string>
+    <string name="durationMinute">%1$d នាទី</string>
+    <string name="durationMinuteSecond">%1$d នាទី %2$d វិនាទី</string>
+    <string name="durationMinuteSeconds">%1$d នាទី %2$d វិនាទី</string>
+    <string name="durationMinutes">%1$d នាទី</string>
+    <string name="durationSecond">%1$d វិនាទី</string>
+    <string name="durationSeconds">%1$d វិនាទី</string>
+    <string name="encryption_warning_fragment_description">"ការអ៊ិនគ្រីបការបម្រុងទុកត្រូវបានបើកសម្រាប់ឧបករណ៍ iPhone® របស់អ្នក។ ប្រសិនបើអ្នកមិនបានបើកវាដោយខ្លួនឯងទេ វាប្រហែលជាត្រូវបានបើកដោយអ្នកគ្រប់គ្រង IT របស់អ្នក។
+
+មានតែរូបថត តន្ត្រី និងវីដេអូតែប៉ុណ្ណោះ ដែលអាចធ្វើការចម្លងបាន។ សម្រាប់ព័ត៌មានបន្ថែម សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ។</string>
+    <string name="encryption_warning_fragment_title">ការអ៊ិនគ្រីបការបម្រុងទុក</string>
+    <string name="fido_begin_button">ចាប់ផ្ដើម</string>
+    <string name="fido_ble_device_icon_content_description">ឧបករណ៍ប៊្លូធូសដែលបានរកឃើញ</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">ចុចប៊ូតុងនៅលើសោរបស់អ្នកឲ្យជាប់ឲ្យបានយ៉ាងហោចណាស់ 5 វិនាទី ដើម្បីប្រាកដថាវាស្ថិតក្នុងមុខងារផ្គូផ្គង</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">យល់ព្រម</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">មានបញ្ហាអ្វីមួយខុសប្រក្រតី</string>
+    <string name="fido_ble_dont_see_your_key_hint">មិនឃើញសោរបស់អ្នកមែនទេ?</string>
+    <string name="fido_ble_enable_body">សោសុវត្ថិភាពរបស់អ្នកដំណើរការ នៅពេលដែលប៊្លូធូសរបស់ឧបករណ៍របស់អ្នកបើកតែប៉ុណ្ណោះ</string>
+    <string name="fido_ble_enable_title">បើកប៊្លូធូស</string>
+    <string name="fido_ble_enable_turn_on_button">បើក</string>
+    <string name="fido_ble_instructions_body">ដើម្បីប្រើសោភាគច្រើន គ្រាន់តែចុចប៊ូតុងនេះជាការស្រេច</string>
+    <string name="fido_ble_instructions_title">អនុញ្ញាតឲ្យប្រើសោសុវត្ថិភាពរបស់អ្នកឬ?</string>
+    <string name="fido_ble_locate_pin_body">ជាធម្មតាកូដ PIN ផ្គូផ្គូងនេះមាន 4 ឬ 6 ខ្ទង់ ដែលស្ថិតនៅផ្នែកខាងក្រោយនៃសោរបស់អ្នក។ បន្តនៅពេលដែលអ្នកត្រៀមរួចរាល់ក្នុងការបញ្ចូលកូដ PIN នេះ។</string>
+    <string name="fido_ble_locate_pin_continue_button">បន្ត</string>
+    <string name="fido_ble_locate_pin_title">ស្វែងរកកូដ PIN សម្រាប់ផ្គូផ្គងតាមប៊្លូធូសសម្រាប់សោរបស់អ្នក %1$s</string>
+    <string name="fido_ble_pair_device_pairing">កំពុងផ្គូផ្គងសោសុវត្ថិភាពរបស់អ្នក...</string>
+    <string name="fido_ble_pair_instructions_body">ផ្គូផ្គងសោរបស់អ្នកទៅឧបករណ៍នេះ ដូច្នេះអ្នកអាចប្រើវាជាមួយគណនីរបស់អ្នក</string>
+    <string name="fido_ble_pair_instructions_title">ត្រៀមរួចរាល់ដើម្បីផ្គូផ្គងសោសុវត្ថិភាពរបស់អ្នកហើយឬនៅ?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">កំណត់សោរបស់អ្នកទៅមុខងារផ្គូផ្គងវិញ</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">ព្យាយាម​ម្ដង​ទៀត</string>
+    <string name="fido_ble_pairing_failure_dialog_title">មានអ្វីមួយមិនប្រក្រតី</string>
+    <string name="fido_ble_pairing_mode_body">ចុចប៊ូតុងនៅលើសោសុវត្ថិភាពរបស់អ្នកឲ្យជាប់ឲ្យបានយ៉ាងហោចណាស់ 5 វិនាទី</string>
+    <string name="fido_ble_pairing_mode_title">ចូលទៅកាន់មុខងារផ្គូផ្គង</string>
+    <string name="fido_ble_select_device_body">ជ្រើសរើសសោសុវត្ថិភាពដែលអ្នកចង់ផ្គូផ្គងជាមួយឧបករណ៍របស់អ្នកពីបញ្ជីខាងក្រោម។ ឈ្មោះអាចនឹងត្រូវបានសរសេរនៅផ្នែកខាងក្រោយសោនេះ។</string>
+    <string name="fido_ble_select_device_title">ជ្រើសរើសសោសុវត្ថិភាពរបស់អ្នក</string>
+    <string name="fido_cancel_button">បោះបង់</string>
+    <string name="fido_nfc_enable_body">សោសុវត្ថិភាពរបស់អ្នកដំណើរការនៅពេលដែល NFC របស់ឧបករណ៍របស់អ្នកបើកតែប៉ុណ្ណោះ</string>
+    <string name="fido_nfc_enable_title">បើក NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">បើក</string>
+    <string name="fido_nfc_instructions_body">ដាក់សោរបស់អ្នកផ្ទប់នឹងផ្នែកខាងក្រោយឧបករណ៍របស់អ្នក រហូតទាល់តែវាឈប់ញ័រ</string>
+    <string name="fido_nfc_instructions_title">អនុញ្ញាតឲ្យប្រើសោសុវត្ថិភាពរបស់អ្នកឬ?</string>
+    <string name="fido_pair_another_security_key">ផ្គូផ្គងសោសុវត្ថិភាពផ្សេងទៀត</string>
+    <string name="fido_processing">កំពុងផ្ទៀងផ្ទាត់សោសុវត្ថិភាពរបស់អ្នក...</string>
+    <string name="fido_transport_selection_bluetooth">ប្រើសោសុវត្ថិភាពជាមួយប៊្លូធូស</string>
+    <string name="fido_transport_selection_body">សោសុវត្ថិភាពដំណើរការជាមួយប៊្លូធូស និង NFC ។ ជ្រើសរើសរបៀបដែលអ្នកចង់ប្រើសោរបស់អ្នក។</string>
+    <string name="fido_transport_selection_nfc">ប្រើសោសុវត្ថិភាពជាមួយ NFC</string>
+    <string name="fido_transport_selection_title">ជ្រើសរើសរបៀបប្រើសោសុវត្ថិភាពរបស់អ្នក</string>
+    <string name="fido_use_ble_instead">ប្រើសោសុវត្ថិភាពរបស់អ្នកជាមួយប៊្លូធូស</string>
+    <string name="fido_use_nfc_instead">ប្រើសោសុវត្ថិភាពរបស់អ្នកជាមួយ NFC</string>
+    <string name="fido_welcome_body">ការប្រើសោសុវត្ថិភាពរបស់អ្នកជាមួយ %1$s ជួយការពារទិន្នន័យឯកជនរបស់អ្នក។</string>
+    <string name="fido_welcome_title">ប្រើសោសុវត្ថិភាពរបស់អ្នកជាមួយ %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">ខ្ញុំរកមិនឃើញឆ្នាំងសាកទេ</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"រកមើលឆ្នាំងសាក Quick Switch Adapter ដែលមាននៅក្នុងប្រអប់ទូរសព្ទ ^1 របស់អ្នក។ 
+
+ដោតខ្សែសាកចូលទៅឆ្នាំងសាកនេះ។"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">ភ្ជាប់ឆ្នាំងសាក និងខ្សែសាក</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">ដោះសោទូរសព្ទចាស់របស់អ្នក បន្ទាប់មកដោតឆ្នាំងសាកទៅទូរសព្ទនេះ។</string>
+    <string name="fragment_usb_connect_both_phones_title">ភ្ជាប់ទូរសព្ទទាំងពីរ</string>
+    <string name="fragment_usb_dialog_cancel_description">អ្នកនឹងទទួលបានមាតិកាច្រើនបំផុត ប្រសិនបើអ្នកភ្ជាប់ដោយប្រើខ្សែ។ ប្រើសិនបើខ្សែដែលមាននៅក្នុងប្រអប់មិនត្រូវគ្នាទេ សូមសាកល្បងប្រើខែ្សសាកថ្ម ឬខ្សែទិន្នន័យដែលដំណើរការជាមួយទូរសព្ទចាស់របស់អ្នក។</string>
+    <string name="fragment_usb_dialog_cancel_title">ចម្លងទិន្នន័យតាមមធ្យោបាយផ្សេង?</string>
+    <string name="fragment_usb_dont_have_cable">ខ្ញុំមិនមានខ្សែសាកទេ</string>
+    <string name="fragment_usb_dont_have_old_phone">ខ្ញុំមិនមានទូរសព្ទចាស់ទេ</string>
+    <string name="fragment_usb_find_cable_description">ប្រើខ្សែដែលត្រូវនឹងទូរសព្ទចាស់របស់អ្នក ដូចជាខ្សែសាកថ្ម ឬខ្សែទិន្នន័យរបស់អ្នក។</string>
+    <string name="fragment_usb_find_cable_title">រកមើលខ្សែសាកដែលត្រូវគ្នា</string>
+    <string name="fragment_usb_initial_description">ផ្ទេរទិន្នន័យពីទូរសព្ទចាស់របស់អ្នកទៅ ^1 នេះ។</string>
+    <string name="fragment_usb_initial_title">ចម្លងទិន្នន័យរបស់អ្នក</string>
+    <string name="fragment_usb_legacy_description">"នេះគឺជាមធ្យោបាយលឿនបំផុត ដើម្បីនាំយកទិន្នន័យភាគច្រើនត្រឡប់មកវិញ។
+
+សូមរកមើលឆ្នាំងសាកនៅក្នុងប្រអប់ ហើយដោតវាទៅទូរសព្ទថ្មីរបស់អ្នក។ ភ្ជាប់ទូរសព្ទនេះដោយប្រើខ្សែសាក បន្ទាប់មកដោះសោទូរសព្ទចាស់របស់អ្នក។"</string>
+    <string name="fragment_usb_other_ways">ចម្លងដោយមិនបាច់ប្រើខែ្សសាក</string>
+    <string name="fragment_usb_plug_cable">ដោតខ្សែសាកទៅទូរសព្ទចាស់របស់អ្នក</string>
+    <string name="fragment_waiting_title">តែមួយភ្លែតទេ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">ការអនុញ្ញាត​សម្រាប់​កម្មវិធី</string>
+    <string name="google_contacts_static_text">Google ទំនាក់ទំនងនឹងធ្វើសមកាលកម្ម</string>
+    <string name="google_contacts_static_text_off">Google ទំនាក់ទំនង នឹងនៅតែធ្វើសមកាលកម្មដដែល</string>
+    <string name="google_legal_title">ផ្លូវ​ច្បាប់ Google</string>
+    <string name="google_play_tos_title">លក្ខខណ្ឌ​ការ​ប្រើប្រាស់​ឃ្លាំង​កម្មវិធី Google</string>
+    <string name="google_plus_privacy_policy_title">គោលនយោបាយ​ភាព​ឯកជន​របស់ Google+</string>
+    <string name="google_privacy_policy_title">គោលនយោបាយ​ភាព​ឯកជន​របស់ Google</string>
+    <string name="google_terms_of_service_title">លក្ខខណ្ឌ​ប្រើប្រាស់ Google</string>
+    <string name="header_set_backup_account">កំណត់​គណនី​បម្រុង​ទុក</string>
+    <string name="i_message_dialog_message">"ដើម្បីបន្តទទួលបានសារ SMS ពីអ្នកប្រើឧបករណ៍ iPhone® អ្នកត្រូវបិទ iMessage® ។
+
+សូមចូលទៅកាន់ "<b>g.co/iMessageHelp</b> សម្រាប់ការណែនាំ។</string>
+    <string name="instant_apps_settings_title">កម្មវិធី​ប្រើ​ភ្លាមៗ</string>
+    <string name="instructions_fragment_title">បន្តនៅលើទូរសព្ទផ្សេងទៀតរបស់អ្នក</string>
+    <string name="ios_connected_fragment_description">"អ្នកអាចចូលទៅកាន់គណនី Google របស់អ្នក ឬបង្កើតគណនីថ្មីមួយ នៅលើអេក្រង់បន្ទាប់។
+
+ប្រសិនបើអ្នកមិនបញ្ចូលគណនី Google របស់អ្នកទេ ព្រឹត្តិការណ៍ក្នុង​ iOS Calendar® របស់អ្នកនឹងមិនធ្វើការផ្ទេរទេ។"</string>
+    <string name="ios_message_attachment_explanation">[ឯកសារភ្ជាប់ជាមួយសាររបស់អ្នកស្ថិតនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_failed_explanation">[ឯកសារភ្ជាប់មួយចំនួនមិនអាចធ្វើការចម្លងបានទេ។ ឯកសារភ្ជាប់ដែលបានផ្ទេរ អាចរកឃើញនៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយសារ]</string>
+    <string name="ios_message_attachment_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_message_attachments_placeholder">[ឯកសារភ្ជាប់ដែលរក្សាទុកក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ជាមួយ​សារ]</string>
+    <string name="ios_migration_default_calendar_title">ប្រតិទិន</string>
+    <string name="ios_migration_other_contact_relation">ផ្សេងៗ</string>
+    <string name="ios_photos_dialog_message">"មិនអាចចម្លងរូបថតដែលផ្ទុកនៅក្នុង iCloud® បានទេ។
+
+ដើម្បីនាំយករូបថតទាំងនេះទៅកាន់ ^1 របស់អ្នក សូមដំឡើងកម្មវិធី Google រូបថត នៅលើឧបករណ៍ iPhone® របស់អ្នក រួចបើកមុខងារបម្រុងទុក និងសមកាលកម្ម។ សូមចូលទៅកាន់ "<b>g.co/datatransferhelp</b> ដើម្បីទទួលបានការណែនាំបន្ថែម។</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">បញ្ចូល​​គណនី</string>
+    <string name="lockscreen_smartdevice_action_next">បន្ទាប់</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">ដោះសោដើម្បីបន្តការដំឡើងទូរស័ព្ទរបស់អ្នក</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">ដើម្បីសុវត្ថិភាព អ្នកត្រូវបញ្ជាក់ការចាក់សោអេក្រង់របស់អ្នកដើម្បីបន្តការដំឡើង</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">បញ្ជាក់ការចាក់សោអេក្រង់របស់អ្នក</string>
+    <string name="manage_data_label">គណនី Google</string>
+    <string name="master_clear_title">កំណត់ទិន្នន័យដូចចេញពីរោងចក្រ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">ការណែនាំបណ្តាញ</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">សារតាម Wi‑Fi</string>
+    <string name="notification_channel_network_available">មានបណ្តាញ</string>
+    <string name="notification_channel_wakeup_name">បានបើក Wi‑Fi</string>
+    <string name="notification_content_text_set_backup_account">ត្រូវកំណត់គណនីបម្រុងទុក</string>
+    <string name="notification_content_title_set_backup_account">បម្រុងទុក</string>
+    <string name="notification_ticker">បាន​ស្នើ​ការ​ចូល​ដំណើរ​ការ</string>
+    <string name="notification_ticker_set_backup_account">តម្រូវ​ឲ្យ​បម្រុង​ទុក​គណនី</string>
+    <string name="open_in_web_button">បើក​នៅ​លើ​អ៊ីនធឺណិត</string>
+    <string name="open_source_activity_prompt_heading">បើកកម្មវិធី</string>
+    <string name="open_source_activity_prompt_text">"បើក SourceResponseActivity នៅលើទូរស័ព្ទរបស់អ្នកដើម្បីបញ្ចប់ដំណើរការផ្ទៀងផ្ទាត់។ "</string>
+    <string name="opt_in_account_content_description">ជ្រើសរើស​គណនី។ បច្ចុប្បន្ន​បាន​ជ្រើសរើស៖ %1$s</string>
+    <string name="opt_in_account_null_state">បង្កើត​គណនី</string>
+    <string name="opt_in_agreement">ប្រសិន​បើបន្ត មាន​ន័យ​ថា​អ្នកយល់​ព្រមនឹង <a href="https://play.google.com/about/play-terms.html">លក្ខខណ្ឌ​ប្រើប្រាស់ Play</a> ។ <a href="https://support.google.com/googleplay/?p=instant_apps">ស្វែងយល់​បន្ថែម</a></string>
+    <string name="opt_in_confirm">បាទ/ចាស ខ្ញុំយល់ព្រម</string>
+    <string name="opt_in_description">"នៅ​ពេល​ដែល​អ្នក​ចុច​តំណ​ណា​មួយ Google Play នឹង​ពិនិត្យ​មើល​ថា​តើ​មាន​កម្មវិធី​ប្រើភ្លាមៗ​ ឬអត់ បន្ទាប់​មក​វា​នឹង​ដំណើរការ​កម្មវិធី​នេះ​ដោយ​មិន​ចាំបាច់​មាន​ការ​ដំឡើង។ កម្មវិធី​ប្រើភ្លាមៗ​ត្រូវបាន​រក្សាទុក​នៅក្នុង​ឧបករណ៍​របស់អ្នក​ជា​បណ្តោះអាសន្ន។
+
+កម្មវិធី​ប្រើភ្លាមៗ​នឹងសួរ​រក​ការអនុញ្ញាត​នៅ​ពេល​ដែល​អ្នក​ប្រើ​កម្មវិធីទាំងនោះ។ ព័ត៌មាន​លម្អិត​អំពី​កម្មវិធី​ ដូចជា​ការ​ទិញ​ក្នុង​កម្មវិធី អាច​រកបាន​នៅ​ក្នុង​ហាង Google Play ។ ទិន្នន័យ​ និង​ការ​កំណត់​កម្មវិធី​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅ​ឧបករណ៍​ដែលបាន​ចូល​ដោយ​ប្រើ៖"</string>
+    <string name="opt_in_description_m_plus">"នៅ​ពេល​ដែល​អ្នក​ចុច​តំណ​ណាមួយ Google Play នឹង​ពិនិត្យ​មើល​ថា​តើ​មាន​កម្មវិធី​ប្រើភ្លាមៗ​ ឬអត់ បន្ទាប់​មក​វា​នឹង​ដំណើរការ​កម្មវិធី​នេះ​ដោយ​មិន​ចាំបាច់​មាន​ការ​ដំឡើង។ កម្មវិធី​ប្រើភ្លាមៗ​ត្រូវបាន​រក្សាទុក​នៅក្នុង​ឧបករណ៍​របស់អ្នក​ជា​បណ្តោះអាសន្ន។
+
+ព័ត៌មាន​លម្អិត​អំពី​កម្មវិធី​ ដូចជា​ការ​ទិញ​ក្នុង​កម្មវិធី អាច​រកបាន​នៅ​ក្នុង​ហាង Google Play ។ ទិន្នន័យ​ និង​ការ​កំណត់​កម្មវិធី​ត្រូវ​បាន​ធ្វើ​សមកាលកម្ម​ទៅ​ឧបករណ៍​ដែលបាន​ចូល​ដោយ​ប្រើ៖"</string>
+    <string name="opt_in_subtitle">ប្រើ​កម្មវិធី​ដោយមិន​ចាំបាច់​ដំឡើង</string>
+    <string name="opt_in_title">កម្មវិធី​ប្រើ​ភ្លាមៗ</string>
+    <string name="permgrouplab_calendar">ប្រតិទិន</string>
+    <string name="permgrouplab_camera">កាមេរ៉ា</string>
+    <string name="permgrouplab_contacts">ទំនាក់ទំនង</string>
+    <string name="permgrouplab_location">ទីតាំង</string>
+    <string name="permgrouplab_microphone">មីក្រូហ្វូន</string>
+    <string name="permgrouplab_phone">ទូរស័ព្ទ</string>
+    <string name="permgrouplab_sensors">ឧបករណ៍ចាប់សញ្ញារាងកាយ</string>
+    <string name="permgrouplab_sms">សារ SMS</string>
+    <string name="permgrouplab_storage">ទំហំផ្ទុក</string>
+    <string name="permissions_not_granted_text">ដើម្បីផ្តល់សិទ្ធិអនុញ្ញាត សូមចូលគណនីម្តងទៀត</string>
+    <string name="permissions_not_granted_title">មិនបានផ្តល់សិទ្ធិអនុញ្ញាតទេ</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">បច្ចុប្បន្ន គ្មានគណនីរក្សាទុករូបថតបម្រុងទុកទេ</string>
+    <string name="photos_backup_title">ការបម្រុងទុករូបថត</string>
+    <string name="photos_filtering_option_all">ទាំង​អស់</string>
+    <string name="photos_filtering_option_none">គ្មាន</string>
+    <string name="plus_manage_app_only_you_label">តែអ្នកប៉ុណ្ណោះ</string>
+    <string name="plus_network_unreliable">មិនអាចបង្កើតការតភ្ជាប់ដែលអាចទុកចិត្តទៅកាន់ម៉ាស៊ីនមេបានទេ។</string>
+    <string name="plus_oob_interstitial_loading_text">វាអាចចំណាយពេលពីរបីនាទី។</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">ទំនាក់ទំនងដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">ទំនាក់ទំនង និងប្រតិទិនដែលបានចម្លងនឹងត្រូវបានរក្សាទុកទៅគណនី Google របស់អ្នក។</string>
+    <string name="restore_choice_data_disclaimer_v2">ទិន្នន័យមួយចំនួនរបស់អ្នកអាចនឹងមិនត្រូវបានចម្លងទៅ ^1 របស់អ្នកទេ។ <annotation id="restore_choice_data_disclaimer_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="restore_choice_deselect_some_content">លុបការជ្រើសរើសមាតិកាមួយចំនួនដើម្បីបន្ត</string>
+    <string name="restore_choice_learn_more_android">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● ការទាញយក (ដូចជាឯកសារ PDF)
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលផ្ទុកនៅក្នុងថតដែលបានលាក់
+
+ ● រូបថត វីដេអូ និងតន្រ្តីដែលទទួលបានតាមរយៈសារជាអក្សរ
+
+ ● កម្មវិធីដែលមិនមែនចេញពីឃ្លាំងកម្មវិធី Google
+
+ ● ទិន្នន័យកម្មវិធី (ប្រសិនបើកម្មវិធីនោះមិនប្រើការបម្រុងទុក Android)
+
+ ● ការកំណត់ឧបករណ៍ជាក់លាក់
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google
+
+ ● សំឡេងរោទិ៍
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp"</string>
+    <string name="restore_choice_learn_more_ios">"ទិន្នន័យមួយចំនួនពីទូរសព្ទចាស់របស់អ្នកមិនអាចធ្វើការចម្លងដោយស្វ័យប្រវត្តិបានទេ៖
+
+ ● កម្មវិធី និងទិន្នន័យកម្មវិធី
+
+ ● រូបថតដែលច្បាប់ដើមរបស់វាមិនផ្ទុកនៅលើទូរសព្ទរបស់អ្នក (ឧទាហរណ៍៖ ប្រសិនបើទំហំផ្ទុកកម្រិតខ្ពស់បានបើក នោះរូបថតដើមនឹងផ្ទុកនៅក្នុង iCloud®)
+
+ ● ឯកសារដែលផ្ទុកនៅក្នុង iCloud®
+
+ ● ការកំណត់ឧបករណ៍ (ដូចជាពាក្យសម្ងាត់ Wi-Fi និងផ្ទាំងរូបភាព)
+
+ ● តន្ត្រីដែលមានការពារដោយកម្មវិធីគ្រប់គ្រងសិទ្ធិឌីជីថល (DRM) (ឧទាហរណ៍៖ តន្ត្រី iTunes® ដែលបានទិញមុនខែ មេសា ឆ្នាំ 2009 ឬតន្ត្រីដែលបានទាញយកនៅក្នុងកម្មវិធីស្ទ្រីមតន្រ្តី ដើម្បីស្តាប់ពេលគ្មានអ៊ីនអឺណិត)
+
+ ● គណនីដែលមិនមែនជាគណនី Google (និងទិន្នន័យដែលពាក់ព័ន្ធ)
+
+ ● ទំនាក់ទំនង និងប្រតិទិនដែលធ្វើសមកាលកម្មជាមួយសេវាកម្មផ្សេងពីសេវាកម្ម Google ឬ iCloud®
+
+ ● ចំណាំចេញពី Safari®
+
+ ឯកសារភ្ជាប់ក្នុងសារ iMessage® នឹងមាននៅក្នុង Google រូបថត > ថតឧបករណ៍ > ឯកសារភ្ជាប់ក្នុងសារ។
+
+ សម្រាប់ព័ត៌មានលម្អិត និងជំនួយក្នុងការចម្លងទិន្នន័យទាំងនេះ សូមចូលទៅកាន់ g.co/datatransferhelp ។"</string>
+    <string name="restore_choice_not_enough_space">ទំហំផ្ទុកមិនគ្រប់គ្រាន់</string>
+    <string name="restore_choice_total_text">នៃទំហំទំនេរ %1$s របស់អ្នក/ការផ្ទេរ %2$s</string>
+    <string name="restore_error_message">មាន​អ្វី​មួយ​ខុស​ប្រក្រតី​ជាមួយ​ការ​ស្តារ។ សូម​អភ័យទោស។</string>
+    <string name="restore_instant_apps_notif_text">កម្ម​វិធី %1$s ដែល​តម្រូវ​ឲ្យមាន ត្រូវបាន​លុប​ចេញ​ពីឧបករណ៍​នេះ​ហើយ</string>
+    <string name="restore_instant_apps_notif_title">ស្តារ​កម្មវិធី​ប្រើ​ភ្លាមៗ</string>
+    <string name="restore_item_appdata">ទិន្នន័យកម្មវិធី</string>
+    <string name="restore_item_calendar">ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_description">iOS® ប្រតិទិន, Google ប្រតិទិន</string>
+    <string name="restore_item_calendar_ical_off_description">Google ប្រតិទិននឹងនៅតែធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_calendar_sync_description">Google ប្រតិទិននឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_call_logs">ប្រវត្តិ​ហៅ</string>
+    <string name="restore_item_contacts">ទំនាក់ទំនង</string>
+    <string name="restore_item_device_settings_description">ពាក្យសម្ងាត់ Wi-Fi និងច្រើនទៀត</string>
+    <string name="restore_item_downloads">ដោនឡូត</string>
+    <string name="restore_item_email">អ៊ីមែល</string>
+    <string name="restore_item_email_description">Gmail នឹងធ្វើសមកាលកម្ម</string>
+    <string name="restore_item_message_attachments">ឯកសារភ្ជាប់ក្នុងសារ</string>
+    <string name="restore_item_messages">សារ</string>
+    <string name="restore_item_music">តន្ត្រី</string>
+    <string name="restore_item_photos">រូបថត និងវីដេអូ</string>
+    <string name="restore_item_settings">ការកំណត់ឧបករណ៍</string>
+    <string name="restore_item_sms">សារ SMS</string>
+    <string name="restore_item_will_be_synced_text">វានឹងធ្វើសមកាលកម្មទៅទូរស័ព្ទរបស់អ្នក</string>
+    <string name="restore_progress_title">កំពុង​ស្ដារ...</string>
+    <string name="restore_supervisor_description">ដើម្បី​បើក​តំណ​ក្នុង​កម្មវិធី​ប្រើភ្លាមៗ សូម​ស្តារ %1$s</string>
+    <string name="restore_supervisor_success">បាន​ស្តារ​កម្មវិធី​ប្រើ​ភ្លាមៗ​ដោយ​ជោគជ័យ</string>
+    <string name="restore_supervisor_title">ស្តារ​កម្មវិធី​ប្រើ​ភ្លាមៗ?</string>
+    <string name="setup_failure_description">មិនអាច​រៀបចំ​កម្មវិធី​ប្រើភ្លាមៗ​បានទេ។ <a href="https://support.google.com/googleplay/?p=instant_apps">ស្វែង​យល់​បន្ថែម</a></string>
+    <string name="setup_failure_title">មិនអាច​រៀបចំ​បានទេ</string>
+    <string name="sharedUserLabel">សេវាកម្ម Google</string>
+    <string name="sid_lsid_grant_detail">ខូគី​​ជា​ច្រើន​ដូច​ជា ពាក្យ​សម្ងាត់, ការ​កំណត់​សម័យ (SID) និង​ការ​កំណត់​សម័យ​មូលដ្ឋាន (LSID) ភ្ជាប់​​អត្តសញ្ញាណ​របស់​អ្នក​ជា​មួយ​សំណើ​ជា​ច្រើន​ពី​កម្មវិធី​អ៊ីនធឺណិត។ ​ពួកវា​អនុញ្ញាត​ឲ្យ​ចូល​ដំណើរការ​ពេញលេញ​លើ​ទិន្នន័យ​គណនី​របស់​អ្នក។ មាន​តែ​កម្មវិធី​អ៊ីនធឺណិត​​ប៉ុណ្ណោះ​មាន​សិទ្ធិ​ប្រើ​ខូគី​ទាំង​នេះ។</string>
+    <string name="sid_lsid_grant_label">ប្រើ​ខូគី SID និង LSID ដើម្បី​ចូល​ដំណើរការ​ទិន្នន័យ​គណនី Google របស់​អ្នក​ទាំងអស់។</string>
+    <string name="small_time_duration">តិចជាង 1 នាទី</string>
+    <string name="smartdevice_action_copy">ចម្លង</string>
+    <string name="smartdevice_action_next">បន្ទាប់</string>
+    <string name="smartdevice_action_open_app">បើកកម្មវិធី</string>
+    <string name="smartdevice_action_skip">រំលង</string>
+    <string name="smartdevice_action_try_another_way">សាកល្បងវិធីផ្សេងទៀត</string>
+    <string name="smartdevice_action_turn_on_location">បើកទីតាំងមែនទេ?</string>
+    <string name="smartdevice_alert_disconnected_message">"ការតភ្ជាប់ឧបករណ៍របស់អ្នកបានដាច់ហើយ។ 
+ដើម្បីបន្តការដំឡើង សូមភ្ជាប់វា ហើយចាប់ផ្តើមឡើងវិញ។"</string>
+    <string name="smartdevice_alert_disconnected_title">បានផ្តាច់ការតភា្ជប់ឧបករណ៍</string>
+    <string name="smartdevice_alert_dm_backup_account_message">ជាអកុសល អ្នកមិនអាចប្រើមុខងារ​នេះបានទេ ពីព្រោះគណនីបម្រុងទុករបស់អ្នកត្រូវបានគ្រប់គ្រងដោយអ្នកគ្រប់គ្រងឧបករណ៍របស់អ្នក។</string>
+    <string name="smartdevice_alert_dm_backup_account_title">មិនអាចប្រើមុខងារនេះបានទេ</string>
+    <string name="smartdevice_alert_exit_setup_message">តើអ្នកប្រាកដថាចង់បញ្ឈប់ការដំឡើងឧបករណ៍ផ្សេងទៀតរបស់អ្នកទេ?</string>
+    <string name="smartdevice_alert_exit_setup_title">បញ្ឈប់ការដំឡើងឧបករណ៍?</string>
+    <string name="smartdevice_alert_generic_error_title">សូមទោស មានអ្វីមួយខុសប្រក្រតី</string>
+    <string name="smartdevice_alert_generic_error_toast_text">សូមទោស មានអ្វីមួយខុសប្រក្រតី</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">ដើម្បីដំឡើងឧបករណ៍របស់អ្នក អ្នកត្រូវការគណនី Google យ៉ាងហោចណាស់មួយ។</string>
+    <string name="smartdevice_alert_no_accounts_text">ដើម្បីដំឡើង %s របស់អ្នក អ្នកត្រូវការគណនី Google យ៉ាងហោចណាស់មួយ។</string>
+    <string name="smartdevice_alert_no_accounts_title">មិនមានគណនីដើម្បីចម្លងទេ</string>
+    <string name="smartdevice_alert_quit_button">ចាកចេញ</string>
+    <string name="smartdevice_alert_restart_setup_button">ចាប់ផ្តើមការដំឡើងឡើងវិញ</string>
+    <string name="smartdevice_alert_setup_incomplete">ការដំឡើងមិនបានបញ្ចប់ទេ</string>
+    <string name="smartdevice_alert_skip_button">រំលង</string>
+    <string name="smartdevice_alert_start_over_button">ចាប់ផ្ដើមឡើងវិញ</string>
+    <string name="smartdevice_alert_work_profile_message">គណនីការងារមិនអាចចម្លងបាននៅឡើយទេ។ បន្ទាប់ពីចម្លងគណនី Google ផ្សេងទៀតរបស់អ្នក និងទិន្នន័យរួចមក សូមចូលទៅកាន់ការកំណត់នៅលើឧបករណ៍ថ្មីរបស់អ្នកដើម្បីបន្ថែមគណនីការងាររបស់អ្នក។</string>
+    <string name="smartdevice_alert_work_profile_title">មិនអាចចម្លងគណនីការងារបានទេ</string>
+    <string name="smartdevice_application_label">ការដំឡើងឧបករណ៍</string>
+    <string name="smartdevice_choose_device">ជ្រើសឧបករណ៍របស់អ្នក</string>
+    <string name="smartdevice_companion_app_ready">កម្មវិធី %s បានដំឡើងនៅលើឧបករណ៍នេះរួចហើយ។</string>
+    <string name="smartdevice_connect_to_wifi">ភ្ជាប់ឧបករណ៍របស់អ្នក</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">កំពុងភ្ជាប់ទៅឧបករណ៍របស់អ្នក…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">គណនី Google គណនីផ្សេងទៀត កម្មវិធី និងទិន្នន័យរបស់អ្នកនឹងត្រូវបានចម្លង</string>
+    <string name="smartdevice_d2d_copy_account_text">ចម្លងគណនី Google, កម្មវិធី, និងទិន្នន័យរបស់អ្នកទៅឧបករណ៍ផ្សេងទៀតរបស់អ្នក?</string>
+    <string name="smartdevice_d2d_copy_account_title">ចម្លងទៅឧបករណ៍ផ្សេងទៀតរបស់អ្នក?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">មិនអាចសម្គាល់បានទេ</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">សាកល្បងចាក់សោរបស់អ្នកជំនួសវិញ</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">ដើម្បីសុវត្ថិភាព សូមបញ្ជាក់ស្នាមម្រាមដៃរបស់អ្នក។ គណនី Google, កម្មវិធី, និងទិន្នន័យរបស់អ្នកនឹងត្រូវបានចម្លងទៅ %s របស់អ្នក។</string>
+    <string name="smartdevice_d2d_lockscreen_description">ដោះសោដើម្បីបន្តការដំឡើងឧបករណ៍របស់អ្នក</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">ដើម្បីសុវត្ថិភាព សូមបញ្ជាក់ការចាក់សោអេក្រង់របស់អ្នក ដើម្បីបន្តការរៀបចំ។</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">បញ្ជាក់ដើម្បីបន្ត</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">មិនអាចដំឡើងឧបករណ៍ផ្សេងទៀតទេ ពីព្រោះមិនមានប៊្លូធូសនៅលើឧបករណ៍របស់អ្នកទេ។</string>
+    <string name="smartdevice_d2d_source_disabled_text">ដើម្បីសុវត្ថិភាព លក្ខណៈពិសេសនេះត្រូវបានបិទ។ សូមប៉ះ រំលង និងបន្តការដំឡើងនៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក។</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">ដំឡើងឧបករណ៍ថ្មី</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">ការដំឡើងឧបករណ៍</string>
+    <string name="smartdevice_d2d_source_notification_title">ការដំឡើង ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">ចាប់ផ្តើមការដំឡើងឡើងវិញ និងជ្រើសរើស ^1 របស់អ្នកដើម្បីប្រាកដថាអ្នកបានចម្លងគណនី Google, កម្មវិធី, និងទិន្នន័យរបស់អ្នកទៅកាន់ឧបករណ៍ដែលត្រឹមត្រូវ។</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">មិនឃើញលេខកូដ?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">មិនឃើញលេខកូដ?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">ស្វែងរកលេខកូដនេះនៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នកដើម្បីបញ្ជាក់ថាអ្នកបានជ្រើសរើសឧបករណ៍ដែលត្រឹមត្រូវ</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">ផ្ទៀងផ្ទាត់លេខកូដ</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">មិនអាចដំឡើងឧបករណ៍ថ្មីពីប្រវត្តិរូបអ្នកប្រើដែលបានដាក់កម្រិតទេ។</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">បញ្ចប់ការដំឡើងនៅលើ %s របស់អ្នក</string>
+    <string name="smartdevice_d2d_source_setup_success">ជិតរួចរាល់ហើយ!</string>
+    <string name="smartdevice_d2d_target_choice_description">ប្រសិនបើអ្នកប្រើឧបករណ៍ Android ផ្សេងទៀត អ្នកអាចចម្លងការដំឡើងបច្ចុប្បន្នរបស់អ្នកទៅ %s នេះបានយ៉ាងឆាប់រហ័ស។</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">ទទួលយកអត្ថប្រយោជន៍ច្រើនបំផុតពីឧបករណ៍ពីមុនរបស់អ្នក ប្រសិនបើវាជា Android</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">ដំឡើងដូចថ្មី</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">ថតចម្លងពីឧបករណ៍ Android ផ្សេងទៀត</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">ទេ អរគុណ</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">យល់ព្រម ធ្វើតាមជំហានបន្ទាប់ដើម្បីដំឡើងឧបករណ៍នេះ</string>
+    <string name="smartdevice_d2d_target_choice_title">មានឧបករណ៍ផ្សេងទៀតដែរទេ?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">ចម្លងគណនី Google, កម្មវិធី, និងទិន្នន័យរបស់អ្នកពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក</string>
+    <string name="smartdevice_d2d_target_continue_description">បន្តការដំឡើងនៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក។</string>
+    <string name="smartdevice_d2d_target_copying_accounts">កំពុងចម្លងគណនី…</string>
+    <string name="smartdevice_d2d_target_description">ត្រឡប់ទៅកាន់ឧបករណ៍ផ្សេងទៀតរបស់អ្នក៖&lt;br/>&lt;br/> 1. និយាយថា &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> ឬវាយបញ្ចូល \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" ហើយប៉ះដើម្បីបញ្ជាក់&lt;br/>&lt;br/> 2. ប៉ះ &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> នៅលើបញ្ជី ហើយធ្វើតាមការណែនាំនៅលើអេក្រង់</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">សាកល្បងវិធីនេះជំនួសវិញ</string>
+    <string name="smartdevice_d2d_target_google_settings_description">នៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក៖&lt;br/>&lt;br/> 1. បើកកម្មវិធី &lt;b>ការកំណត់ Google&lt;/b>&lt;br/>&lt;br/> 2. ជ្រើស &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. ប៉ះ &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> នៅលើបញ្ជី ហើយធ្វើតាមការណែនាំនៅលើអេក្រង់</string>
+    <string name="smartdevice_d2d_target_google_settings_link">មិនអាចបញ្ចប់ជំហ៊ានទាំងនេះបានទេ</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">សូមប្រើការកំណត់</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">នៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក៖&lt;br/>&lt;br/> 1. ប៉ះរូបតំណាងកម្មវិធីទាំងអស់ បន្ទាប់មកបើក &lt;b>កម្មវិធីការកំណត់&lt;/b> &lt;br/>&lt;br/> 2. ប៉ះលើ &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. ជ្រើស &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Touch &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> នៅលើបញ្ជី ហើយធ្វើតាមការណែនាំនៅលើអេក្រង់</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">ថតចម្លងពីឧបករណ៍ Android ផ្សេងទៀត</string>
+    <string name="smartdevice_d2d_target_help_needed_link">កំពុងមានបញ្ហា?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">រកវាមិនឃើញ?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">នៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក សូមបើកកម្មវិធី Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">បើកកម្មវិធី Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">នៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នក</string>
+    <string name="smartdevice_d2d_target_nfc_description">"ដើម្បីចម្លង៖ 
+
+1. ត្រូវប្រាកដថាឧបករណ៍ផ្សេងទៀតរបស់អ្នកបានបើក និងមិនជាប់សោ 
+
+2. ដាក់ផ្នែកខាងក្រោយនៃឧបករណ៍ទាំងពីរទល់គ្នារហូតដល់អ្នកលឺសំឡេង បន្ទាប់មកដកវាចេញពីគ្នា"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">លក្ខណៈពិសេសប៉ះ និងទៅប្រើ NFC ដើម្បីចម្លងគណនី Google, កម្មវិធី, និងទិន្នន័យរបស់អ្នកចេញពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក។ សូមប្រាកដថា NFC របស់ឧបករណ៍ត្រូវបានបើកដោយចូលទៅកាន់ការកំណត់។</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">កំពុងមានបញ្ហា?</string>
+    <string name="smartdevice_d2d_target_nfc_title">ប៉ះ &amp; ទៅ</string>
+    <string name="smartdevice_d2d_target_other_device_description">កម្មវិធី Google ត្រូវបានដំឡើងរួចជាស្រេចនៅលើគ្រប់ឧបករណ៍ Android។ ប៉ះប៊ូតុង \"កម្មវិធីទាំងអស់\" នៅលើអេក្រង់ដើមរបស់អ្នក និងស្វែងរករូបតំណាងដែលបានបង្ហាញនៅខាងលើ។</string>
+    <string name="smartdevice_d2d_target_pin_code_description">លេខកូដនេះមិនត្រូវគ្នាជាមួយលេខកូដនៅលើឧបករណ៍ផ្សេងទៀតរបស់អ្នកទេ៖</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">កុំរំលង</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">ការដំឡើងនឹងមិនចម្លងគណនីនេះ ឬបម្រុងទុកកម្មវិធី និងទិន្នន័យទៅឧបករណ៍នេះទេ។</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">រំលង</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">រំលងគណនីនេះ?</string>
+    <string name="smartdevice_d2d_target_title">នៅក្នុងកម្មវិធី Google</string>
+    <string name="smartdevice_default_device_name">ឧបករណ៍</string>
+    <string name="smartdevice_install_app">ដំឡើងកម្មវិធី</string>
+    <string name="smartdevice_install_app_reason" formatted="false">ទាញយកកម្មវិធី %s ដើម្បីគ្រប់គ្រង និងចាត់ចែង %s ថ្មីរបស់អ្នកពីឧបករណ៍នេះ</string>
+    <string name="smartdevice_install_on_this_device">ដំឡើង</string>
+    <string name="smartdevice_search_again">ស្វែងរកម្តងទៀត</string>
+    <string name="smartdevice_searching_for_devices">កំពុងស្វែងរកឧបករណ៍</string>
+    <string name="smartdevice_setup_enter_code">សូមបញ្ចូលលេខកូដនៅលើឧបករណ៍របស់អ្នក។ វាគួរតែបង្ហាញនៅលើតែម។</string>
+    <string name="smartdevice_setup_enter_code_hint">បញ្ចូលលេខកូដរបស់អ្នក</string>
+    <string name="smartdevice_setup_enter_pin_4">សូមបញ្ចូលលេខកូដ 4 ខ្ទង់ដែលកំពុងបង្ហាញនៅលើឧបករណ៍មួយទៀតរបស់អ្នក</string>
+    <string name="smartdevice_setup_info_installing_app">កំពុងដំឡើងកម្មវិធី…</string>
+    <string name="smartdevice_setup_intro_text">ប៊្លូធូសទូរសព្ទរបស់អ្នក និងទិន្នន័យ Wi-Fi របស់អ្នកនឹងត្រូវប្រើ ដើម្បីដំឡើងឧបករណ៍ផ្សេងទៀតរបស់អ្នក។</string>
+    <string name="smartdevice_setup_intro_text_nfc">ប៊្លូធូសទូរស័ព្ទរបស់អ្នកនឹងត្រូវប្រើ ដើម្បីដំឡើងឧបករណ៍ផ្សេងទៀតរបស់អ្នក។</string>
+    <string name="smartdevice_setup_intro_title">ចាប់ផ្តើម</string>
+    <string name="smartdevice_setup_password_hint">បញ្ចូលពាក្យសម្ងាត់ WiFi</string>
+    <string name="smartdevice_setup_show_password">បង្ហាញពាក្យសម្ងាត់</string>
+    <string name="smartdevice_setup_title_verify_code">ផ្ទៀងផ្ទាត់លេខកូដ</string>
+    <string name="smartdevice_wifi_cannot_connect_description">មានតែបណ្តាញចំហ និងបណ្តាញ WPA/WPA2 ប៉ុណ្ណោះដែលអាចត្រូវបានប្រើដើម្បីដំឡើងឧបករណ៍នេះ</string>
+    <string name="smartdevice_wifi_cannot_connect_title">មិនអាចប្រើបណ្តាញ WiFi ទេ</string>
+    <string name="smartdevice_wifi_skip_dialog_text">ឧបករណ៍របស់អ្នកមិនអាចដំណើរការប្រក្រតីបានទេ បើគ្មាន Wi-Fi។ សូមភ្ជាប់វាទៅបណ្តាញ Wi-Fi ដើម្បីបន្តការដំឡើង។</string>
+    <string name="smartdevice_wifi_skip_dialog_title">ជ្រើសរើសបណ្តាញ Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"ដើម្បីស្វែងរក Wi-Fi សូមបើកទីតាំង។
+
+អ្នកអាចផ្លាស់ប្តូរវាបានជានិច្ចនៅពេលក្រោយនៅក្នុងការកំណត់។"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">មិនអាចស្វែងរកបណ្តាញ Wi-Fi ទេ</string>
+    <string name="source_connected_description">កំពុងរៀបចំ...</string>
+    <string name="source_connected_title">បានភ្ជាប់ទៅ %1$s របស់អ្នក</string>
+    <string name="source_copying_description">ទិន្នន័យដែលអ្នកបានជ្រើសកំពុងត្រូវបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នក</string>
+    <string name="source_copying_title">កំពុងចម្លង...</string>
+    <string name="source_default_target_device_name">ឧបករណ៍ថ្មី</string>
+    <string name="source_notification_device_disconnected">ភ្ជាប់ខ្សែរបស់អ្នកឡើងវិញ</string>
+    <string name="source_notification_text">កំពុងដំណើរការការផ្ទេរពីទូរស័ព្ទទៅទូរស័ព្ទ</string>
+    <string name="source_notification_title">ការផ្ទេរទិន្នន័យ</string>
+    <string name="source_success_description">បញ្ចប់ការដំឡើងនៅលើ %1$s របស់អ្នក</string>
+    <string name="source_success_screen_title">រួចរាល់ហើយ!</string>
+    <string name="source_unplugged_description">ភា្ជប់ទៅ %1$s របស់អ្នកសារឡើងវិញ</string>
+    <string name="source_unplugged_title">បានផ្តាច់ខ្សែ</string>
+    <string name="source_waiting_title">បន្តដំឡើងនៅលើ %1$s របស់អ្នក</string>
+    <string name="stop_copying_dialog_continue_button">បដិសេធ</string>
+    <string name="stop_copying_dialog_message_before_transfer">ទិន្នន័យរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_message_during_transfer">ទិន្នន័យមួយចំនួនរបស់អ្នកមិនបានចម្លងទៅទូរស័ព្ទថ្មីរបស់អ្នកទេ</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">កុំចម្លង</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">ឈប់</string>
+    <string name="stop_copying_dialog_title_before_transfer">កុំចម្លងឬ?</string>
+    <string name="stop_copying_dialog_title_during_transfer">ឈប់ចម្លងឬ?</string>
+    <string name="storage_management_wear_descriptive_text">កម្មវិធី​ប្រើ​ឧបករណ៍​ផ្ទុក​នៃ​ឧបករណ៍​របស់​អ្នក ដើម្បី​​ចម្លង​ទិន្នន័យ​ទៅ wearable ។</string>
+    <string name="storage_management_wear_manage_size_label">គ្រប់គ្រង​ឧបករណ៍​ផ្ទុក wearable</string>
+    <string name="storage_management_wear_size_label">ឧបករណ៍​ផ្ទុក Wearable</string>
+    <string name="storage_managment_all_storage_descriptive_text">ទិន្នន័យ​សរុប​បាន​ប្រើ​ដោយ​សេវាកម្ម​កម្សាន្ត​ Google រួមមាន​ម៉ាស៊ីន​ស្វែងរក និង​ទិន្នន័យ​ផ្សេងៗ។</string>
+    <string name="storage_managment_clear_all_data">សម្អាត​ទិន្នន័យ​ទាំងអស់</string>
+    <string name="storage_managment_computing_size">កំពុង​គណនា...</string>
+    <string name="storage_managment_icing_size_label">ទិន្នន័យ​ស្វែងរក</string>
+    <string name="storage_managment_manage_icing_button">គ្រប់គ្រង​ទិន្នន័យ​ស្វែងរក</string>
+    <string name="storage_managment_search_index_descriptive_text">យើងពន្លឿនការស្វែងរកនៅលើទូរស័ព្ទរបស់អ្នក ដោយការផ្ដល់ជូននូវម៉ាស៊ីនស្វែងរកសម្រាប់កម្មវិធីរបស់អ្នកដើម្បីប្រើ។</string>
+    <string name="storage_managment_title">ការ​ផ្ទុក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="storage_managment_total_size_label">ទំហំ​ផ្ទុក​សរុប</string>
+    <string name="supervisor_downloading_description">កំពុង​ទាញយក​ %1$s</string>
+    <string name="supervisor_downloading_title">សូម​រង់​ចាំ​បន្តិច ពេល​​យើងកំពុង​រៀបចំ​ឧបករណ៍​របស់អ្នក</string>
+    <string name="supervisor_installing_description">កំពុង​ដំឡើង​ %1$s</string>
+    <string name="supervisor_title">សេវាកម្ម​ Google Play​ សម្រាប់​កម្មវិធី​ប្រើ​ភ្លាមៗ</string>
+    <string name="suw_back_button_label">ថយក្រោយ</string>
+    <string name="suw_more_button_label">ច្រើនទៀត</string>
+    <string name="suw_next_button_label">បន្ទាប់</string>
+    <string name="system_update_ab_update_downloaded_notification_message">ប៉ះ​ ដើម្បី​​ស្វែងយល់​បន្ថែម</string>
+    <string name="system_update_activity_battery_low_text">ថាមពលថ្មតិចពេកសម្រាប់ការដំឡើងការអាប់ដេត</string>
+    <string name="system_update_activity_name">បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="system_update_activity_roaming_text">មិន​អាច​ទាញ​យក​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​ពេល​រ៉ូមីង។</string>
+    <string name="system_update_activity_roaming_text_glif">មិនអាចដោនឡូតបានទេ ខណៈពេលរ៉ូមីង</string>
+    <string name="system_update_android_version_text">កំណែ Android៖ ^1</string>
+    <string name="system_update_check_now_button_text">ពិនិត្យ​មើល​បច្ចុប្បន្នភាព</string>
+    <string name="system_update_checking_status_text">កំពុង​ពិនិត្យ​មើល</string>
+    <string name="system_update_complete_label">ធ្វើ​បច្ចុប្បន្នភាព​ប្រព័ន្ធ​</string>
+    <string name="system_update_countdown_cancel_button">បោះបង់​ការ​ដំឡើង</string>
+    <string name="system_update_countdown_complete">កំពុង​ចាប់ផ្ដើម​ឡើងវិញ​ឥឡូវ...</string>
+    <string name="system_update_download_and_install_button_text">ដោនឡូត និងដំឡើង</string>
+    <string name="system_update_download_button_text">ទាញ​យក</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">មិនមានទំហំផ្ទុកគ្រប់គ្រាន់ដើម្បីដោនឡូតទេ</string>
+    <string name="system_update_download_failed_no_space_status_text">មិន​មាន​ទំហំ​​គ្រប់គ្រាន់ ដើម្បី​ទាញ​យក</string>
+    <string name="system_update_download_failed_status_text">មិន​អាច​ទាញ​យក</string>
+    <string name="system_update_download_manage_storage_button_text">គ្រប់គ្រងឧបករណ៍ផ្ទុក</string>
+    <string name="system_update_download_paused_no_wifi_status_text">កំពុង​រង់ចាំ​ Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">បាន​ផ្អាក​ការ​ទាញយក</string>
+    <string name="system_update_download_retry_button_text">ទាញ​យក​ម្ដងទៀត</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">ការធ្វើបច្ចុប្បន្នភាពនឹងចាប់ផ្តើមទាញយកដោយស្វ័យប្រវត្តិនៅចន្លោះ ^1 និង ^2។</string>
+    <string name="system_update_download_waiting_off_peak_status_text">"អ្នកអាចទាញយកការធ្វើបច្ចុប្បន្នភាពនេះនៅលើ Wi-Fi គ្រប់ពេល។  វានឹងចាប់ផ្តើមទាញយកដោយស្វ័យប្រវត្តិនៅចន្លោះ ^1 និង ^2។"</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">ដើម្បីទាញយកការធ្វើបច្ចុប្បន្នភាពនេះ ជាដំបូងប្តូរទៅស៊ីមកាតផ្សេងទៀតរបស់អ្នកសិន។</string>
+    <string name="system_update_download_waiting_status_text">រង់ចាំ​ដើម្បី​ទាញ​យក</string>
+    <string name="system_update_downloading_status_text">​ទាញ​យក</string>
+    <string name="system_update_downloading_title_text">កំពុងដោនឡូតការអាប់ដេតប្រព័ន្ធ…</string>
+    <string name="system_update_downloading_wifi_status2_text">តាមរយៈ ^1 ប៉ុណ្ណោះ រហូតដល់​ ^2</string>
+    <string name="system_update_file_browser_ok_button">ជ្រើស</string>
+    <string name="system_update_file_browser_title">ជ្រើស​ឯកសារ​បច្ចុប្បន្នភាព</string>
+    <string name="system_update_free_up_space_button_text">បង្កើនទំហំផ្ទុក</string>
+    <string name="system_update_from_sd_card_button_and_title">ធ្វើបច្ចុប្បន្នភាពពីកាតអេសឌី</string>
+    <string name="system_update_from_sd_card_unknown_status">កំពុង​ពិនិត្យ...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">មិនអាចផ្ទៀងផ្ទាត់បានទេ</string>
+    <string name="system_update_from_sd_card_verified_description">ការ​ធ្វើ​បច្ចុប្បន្នភាព​ត្រូវ​បាន​ផ្ទៀងផ្ទាត់ និង​រួចរាល់​ដើម្បី​ដំឡើង។</string>
+    <string name="system_update_from_sd_card_verifying_status">កំពុងផ្ទៀងផ្ទាត់...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">តម្រូវឲ្យមានបណ្តាញ WiFi គ្មានដែនកំណត់</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">បាន​ណែនាំ​ឲ្យ​ប្រើ​ Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"ការអាប់ដេតនេះអាចទាញយកបានតាមរយៈ ^1 ប៉ុណ្ណោះ រហូតដល់ ^2 ។
+
+ដើម្បីបន្តការទាញយក សូមភ្ជាប់ទៅ ^3 ។"</string>
+    <string name="system_update_glif_wifi_needed_title">ត្រូវការបណ្តាញ WiFi</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">ដើម្បី​ជៀសវាង​ការ​គិត​ថ្លៃ​លើ​ទិន្នន័យ​ដោយ​ប្រការ​ណា​មួយ សូម​ភ្ជាប់​ទៅ​បណ្តាញ Wi‑Fi គ្មាន​ដែន​កំណត់។</string>
+    <string name="system_update_install_button_text">ចាប់ផ្តើមឡើងវិញ និងដំឡើង</string>
+    <string name="system_update_install_failed_button_qualifier_text">បញ្ហាក្នុងការដំឡើង</string>
+    <string name="system_update_install_failed_title_text">មិនអាចអាប់ដេតបានទេ</string>
+    <string name="system_update_install_steps_text">ជំហ៊ាន ^1 នៃ 2</string>
+    <string name="system_update_installing_title_text">កំពុងដំឡើងការអាប់ដេតប្រព័ន្ធ…</string>
+    <string name="system_update_last_checkin">បាន​ពិនិត្យ​​​បច្ចុប្បន្នភាព​ចុងក្រោយ ^1។</string>
+    <string name="system_update_last_checkin_glif">បានពិនិត្យការធ្វើបច្ចុប្បន្នភាពចុងក្រោយ ^1</string>
+    <string name="system_update_managed_by_policy">បច្ចុប្បន្នភាពកម្មវិធីប្រព័ន្ធរបស់ឧបករណ៍នេះត្រូវបានគ្រប់គ្រងដោយអង្គភាពរបស់អ្នក។</string>
+    <string name="system_update_no_update_content_text">ប្រព័ន្ធ​របស់​អ្នក​​ទាន់សម័យ</string>
+    <string name="system_update_no_update_content_text_glif">ប្រព័ន្ធរបស់អ្នកបានធ្វើបច្ចុប្បន្នភាពរួចហើយ</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">មិន​អាច​ទាញ​យក​បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="system_update_not_owner_text">មាន​បច្ចុប្បន្នភាព​កម្មវិធី​ប្រព័ន្ធ ប៉ុន្តែ​មានតែ​ម្ចាស់​ប៉ុណ្ណោះ​ទើប​អាច​ដំឡើង​វា​បាន។</string>
+    <string name="system_update_notification_header_name">បច្ចុប្បន្នភាពប្រព័ន្ធ Android</string>
+    <string name="system_update_pause_button_text">ផ្អាក​ការ​ទាញយក</string>
+    <string name="system_update_processing_status_text">កំពុងដំណើរការ</string>
+    <string name="system_update_requires_restart_status_text">តម្រូវ​ឲ្យ​ចាប់ផ្ដើម​ឡើងវិញ</string>
+    <string name="system_update_restart_to_install_button_text">ចាប់ផ្តើមឡើងវិញឥឡូវនេះដើម្បីដំឡើង</string>
+    <string name="system_update_restart_to_update_button_text">ចាប់ផ្តើមឡើងវិញឥឡូវនេះដើម្បីអាប់ដេត</string>
+    <string name="system_update_resume_button_text">បន្ត</string>
+    <string name="system_update_scheduled_status_text">បាន​កំណត់​ពេល</string>
+    <string name="system_update_security_patch_level_text">កម្រិតកែលម្អផ្នែកសុវត្ថិភាព៖ ^1</string>
+    <string name="system_update_security_update_available_title_text">មានផ្តល់ជូនការអាប់ដេតផ្នែកសុវត្ថិភាព</string>
+    <string name="system_update_security_update_downloading_title_text">កំពុងដោនឡូតការអាប់ដេតផ្នែកសុវត្ថិភាព…</string>
+    <string name="system_update_security_update_installing_title_text">កំពុងដំឡើងការអាប់ដេតផ្នែកសុវត្ថិភាព…</string>
+    <string name="system_update_size_label">ទំហំ​បច្ចុប្បន្នភាព៖</string>
+    <string name="system_update_suw_download_and_install_text">"ការអាប់ដេតនេះនឹងចំណាយពេលពីរបីនាទីដើម្បីទាញយក និងដំឡើង។
+
+បន្ទាប់ពីនោះមក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិ។"</string>
+    <string name="system_update_suw_download_text">"ការអាប់ដេតនេះអាចចំណាយពេលពីរបីនាទី។
+
+បន្ទាប់ពីនោះមក ឧបករណ៍របស់អ្នកនឹងចាប់ផ្តើមឡើងវិញដោយស្វ័យប្រវត្តិ។"</string>
+    <string name="system_update_suw_download_title">កំពុងទាញយកការអាប់ដេត...</string>
+    <string name="system_update_suw_restart_text">ឧបករណ៍នឹងចាប់ផ្ដើមឡើងវិញ ដូច្នេះទើបវាអាចដំឡើងការអាប់ដេតប្រព័ន្ធរបស់អ្នកបាន។</string>
+    <string name="system_update_suw_restart_title">ត្រៀមនឹងចាប់ផ្ដើមឡើងវិញ</string>
+    <string name="system_update_suw_wifi_needed">ដើម្បីបន្តការទាញយកនេះ សូមជ្រើសរើស ^1</string>
+    <string name="system_update_update_available_download_message_wearable">អូស​ទៅ​ឆ្វេង​ដើម្បី​ទាញ​យក</string>
+    <string name="system_update_update_available_notification_message">ប៉ះដើម្បីស្វែងយល់បន្ថែម និងដោនឡូត</string>
+    <string name="system_update_update_available_notification_title">មាន​បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="system_update_update_available_tap_to_download">ប៉ះដើម្បីទាញយក</string>
+    <string name="system_update_update_available_title_text">មានផ្តល់ជូនការអាប់ដេតប្រព័ន្ធ</string>
+    <string name="system_update_update_download_auto_paused_notification_title">បាន​ផ្អាក​ការ​ទាញយក</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">មិនមានទំហំផ្ទុកគ្រប់គ្រាន់ទេ</string>
+    <string name="system_update_update_downloaded_charge_wearable">សូមសាកថ្មរបស់អ្នកឲ្យបានយ៉ាងហោចណាស់ %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">អូស​ទៅ​ឆ្វេង​ដើម្បី​ដំឡើង</string>
+    <string name="system_update_update_downloaded_notification_message">ប៉ះដើម្បីស្វែងយល់បន្ថែម និងដំឡើង</string>
+    <string name="system_update_update_downloaded_notification_title">បាន​ទាញ​យក​បច្ចុប្បន្នភាព​ប្រព័ន្ធ</string>
+    <string name="system_update_update_downloaded_tap_to_install">ប៉ះដើម្បីដំឡើង</string>
+    <string name="system_update_verification_failed_text">ការ​ផ្ទៀងផ្ទាត់​បាន​បរាជ័យ</string>
+    <string name="system_update_verified_status_text">បាន​ទាញ​យក និង​បាន​ផ្ទៀងផ្ទាត់</string>
+    <string name="system_update_verify_failed_button_qualifier_text">បញ្ហាក្នុងការផ្ទៀងផ្ទាត់</string>
+    <string name="system_update_verifying_status_text">​ផ្ទៀងផ្ទាត់</string>
+    <string name="system_update_wearable_countdown_message">ចាប់ផ្ដើម​ឡើងវិញ​ក្នុង​រយៈពេល​ %d...</string>
+    <string name="target_default_source_device_model">ឧបករណ៍ចាស់</string>
+    <string name="target_device_not_supported_cant_continue_description">អ្នកនឹងត្រូវជ្រើសមធ្យោបាយផ្សេងទៀតដើម្បីចម្លងទិន្នន័យ</string>
+    <string name="target_device_not_supported_cant_continue_title">មិនស្គាល់​ទូរសព្ទផ្សេងទៀតទេ</string>
+    <string name="target_device_not_supported_try_restarting_description">"ដកខ្សែចេញ រួច​ចាប់ផ្តើមទូរសព្ទចាស់របស់អ្នកឡើងវិញ បន្ទាប់មកដោតខ្សែនោះឡើងវិញ ហើយធ្វើតាមការណែនាំនៅលើទូរសព្ទ Pixel របស់អ្នក។
+
+ប្រសិនបើអ្នកនៅតែឃើញបញ្ហានេះទៀត អ្នកត្រូវសាកល្បងចម្លងតាមវិធីផ្សេងទៀត។"</string>
+    <string name="target_device_not_supported_try_restarting_title">អាចនឹងមិនស្គាល់ទូរសព្ទនេះទេ</string>
+    <string name="target_smart_device_timeout_add_account">បញ្ចូល​គណនី</string>
+    <string name="target_smart_device_timeout_description">ប្រសិនបើអ្នកចង់ អ្នកអាចសាកល្បងបន្ថែមគណនីរបស់អ្នកដោយផ្ទាល់</string>
+    <string name="target_smart_device_timeout_dismiss">បដិសេធ</string>
+    <string name="target_smart_device_timeout_title">កំពុងមានបញ្ហាឬ?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">ទូរស័ព្ទត្រូវបានភ្ជាប់</string>
+    <string name="toast_reconnect_cable">ភ្ជាប់ខ្សែរបស់អ្នកឡើងវិញ</string>
+    <string name="transfer_finished_fragment_title">កំពុងបន្ថែមការកែសម្រួលចុងក្រោយ…</string>
+    <string name="transfer_summary_copied">បានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_fragment_description">អ្នកអាចដកខ្សែនេះបាន។</string>
+    <string name="transfer_summary_fragment_finish">បញ្ចប់</string>
+    <string name="transfer_summary_fragment_title">ទូរសព្ទរបស់អ្នកជិតត្រៀមរួចរាល់ហើយ</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">រូបថតមួយចំនួនរបស់អ្នកមិនអាចចម្លងបានទេ។ <annotation id="transfer_summary_learn_more">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="transfer_summary_not_copied">មិនបានចម្លងទិន្នន័យ</string>
+    <string name="transfer_summary_partial">បានចម្លង %1$s / %2$s</string>
+    <string name="transfer_summary_will_sync">ទិន្នន័យនឹងធ្វើសមកាលកម្មបន្ទាប់ពីដំឡើងរួច</string>
+    <string name="transferring_fragment_calculating_remaining_time">កំពុងគណនាម៉ោងនៅសល់...</string>
+    <string name="transferring_fragment_header">កំពុងចម្លង...</string>
+    <string name="transferring_fragment_remaining_time">នៅសល់ %1$s</string>
+    <string name="trust_instructions_description">ដើម្បីបន្ត សូមពិនិត្យមើលឧបករណ៍ iPhone® របស់អ្នក ហើយយល់ព្រមលើការតភ្ជាប់នេះ</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari, និង iTunes គឺជាពាណិជ្ជសញ្ញារបស់ក្រុមហ៊ុន Apple Inc. ដែលបានចុះបញ្ជីនៅសហរដ្ឋអាមេរិក និងប្រទេសដ៏ទៃទៀត។</string>
+    <string name="unmetered_wifi_string">បណ្តាញ WiFi គ្មានដែនកំណត់</string>
+    <string name="url_load_unsuccessful_message">ឧបករណ៍ Android របស់អ្នកមិនបានភ្ជាប់ទៅសេវាកម្មទិន្នន័យចល័តទេ។ ដើម្បីមើលព័ត៌មាននេះឥឡូវនេះ សូមទៅកាន់ %s នៅក្នុងកម្មវិធីរុករកគេហទំព័រមួយ។</string>
+    <string name="url_load_unsuccessful_message_wifi_only">ឧបករណ៍​ Android របស់​អ្នក​មិន​ត្រូវ​បាន​ភ្ជាប់​ទៅ​​បណ្ដាញ​វ៉ាយហ្វាយ​​ទេ។ ដើម្បី​មើល​ព័ត៌មាន​នេះ​ឥឡូវ សូម​មើល %s ក្នុង​កម្មវិធី​អ៊ីនធឺណិត។</string>
+    <string name="use_nearby_device_heading">ប្រើឧបករណ៍នៅក្បែរឬ?</string>
+    <string name="use_nearby_device_text">តើអ្នកចង់ប្រើឧបករណ៍នៅក្បែរដើម្បីផ្តល់ព័ត៌មានអត្តសញ្ញាណដែរទេ?</string>
+    <string name="waiting_for_account_info_text">កំពុងរង់ចាំព័ត៌មានគណនី...</string>
+    <string name="wifi_available_action_all_networks">បណ្តាញទាំងអស់</string>
+    <string name="wifi_available_action_connect">ភ្ជាប់</string>
+    <string name="wifi_available_content_failed">ចុចដើម្បីមើលបណ្តាញទាំងអស់</string>
+    <string name="wifi_available_title">ភ្ជាប់ទៅបណ្តាញ Wi‑Fi ចំហ</string>
+    <string name="wifi_available_title_connected">បានភ្ជាប់ទៅបណ្តាញ Wi‑Fi</string>
+    <string name="wifi_available_title_connecting">កំពុងភ្ជាប់ទៅបណ្តាញ Wi‑Fi ចំហ</string>
+    <string name="wifi_available_title_failed">មិនអាច​ភ្ជាប់​ទៅ​បណ្ដាញ Wi-Fi បានទេ</string>
+    <string name="wifi_string">បណ្តាញ WiFi</string>
+    <string name="wifi_wakeup_enabled_notification_context">អ្នកនៅជិតបណ្តាញដែលបានរក្សាទុក៖ %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi‑Fi បានបើកដោយស្វ័យប្រវត្តិ</string>
+</resources>

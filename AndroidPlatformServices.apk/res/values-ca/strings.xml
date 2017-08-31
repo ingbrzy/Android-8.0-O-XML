@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_capital_off">DESACTIVAT</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_search_hint">Cerca...</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="abc_toolbar_collapse_description">Replega</string>
+    <string name="account_blocked_title">"S'ha bloquejat el compte"</string>
+    <string name="account_level_title">Acció necessària al compte</string>
+    <string name="account_removed_notification_text">"S'ha suprimit %1$s perquè no s'ha completat la gestió de dispositius"</string>
+    <string name="account_removed_notification_title">Compte suprimit</string>
+    <string name="android_privacy_policy_title">Política de privadesa addicional</string>
+    <string name="app_has_in_app_purchases">"Compres fetes des de l'aplicació"</string>
+    <string name="app_has_permissions">Permisos: %s</string>
+    <string name="app_has_runtime_permissions">"L'aplicació demanarà permisos"</string>
+    <string name="app_level_title">"Sol·licitud d'inici de sessió"</string>
+    <string name="app_level_title_secondary">"Sol·licitud d'inici de sessió de %s"</string>
+    <string name="app_picker_app_already_installed_toast">Aquesta aplicació ja està instal·lada</string>
+    <string name="app_picker_loading">"S'estan cercant les aplicacions disponibles…"</string>
+    <string name="app_picker_loading_toast">Les aplicacions disponibles es carregaran aviat</string>
+    <string name="app_picker_no_apps">"No s'ha seleccionat cap aplicació"</string>
+    <string name="app_picker_no_apps_found">"No s'ha trobat cap aplicació"</string>
+    <string name="apps_in_app_purchases_disclaimer_all">"Les compres fetes des de l'aplicació no es transferiran al dispositiu ^1."</string>
+    <string name="apps_in_app_purchases_disclaimer_some">"Pot ser que algunes compres fetes des de l'aplicació no es transfereixin al dispositiu ^1."</string>
+    <string name="apps_permissions_described_v2">"Només les aplicacions iOS® populars i gratuïtes es poden fer correspondre amb les del sistema Android. La majoria de les compres fetes des de les aplicacions no es transferiran. Trobaràs més aplicacions a Play Store un cop hagi finalitzat la configuració.
+
+És possible que algunes aplicacions requereixin el teu permís previ per accedir a certa informació o per utilitzar capacitats determinades del dispositiu. Els permisos s'organitzen en grups. Si decideixes instal·lar aquestes aplicacions, acceptes els permisos inclosos en cada grup. A continuació s'ofereix una descripció de cada grup de permisos.
+
+Pot ser que algunes aplicacions no requereixin el teu permís previ. En aquests casos, pots donar permís a cada aplicació o denegar-lo individualment, abans que l'aplicació comenci a fer servir aquests tipus de dades.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">"En instal·lar cada aplicació, n'acceptes els permisos. "<annotation id="apps_permissions_learn_more">Més informació</annotation></string>
+    <string name="audience_selection_done">Fet</string>
+    <string name="auth_account_already_has_gmail">El compte ja té Gmail.</string>
+    <string name="auth_account_content_provider_label">Dades del compte de Google</string>
+    <string name="auth_account_removed_default_description">"No s'ha completat la gestió de dispositius. Comença de nou i torna a iniciar la sessió."</string>
+    <string name="auth_account_removed_default_title">Configuració cancel·lada</string>
+    <string name="auth_account_removed_dm_bad_result_description">"No s'ha pogut completar la gestió de dispositius. Comença de nou i torna a iniciar la sessió."</string>
+    <string name="auth_account_removed_dm_not_supported_description">"Amb aquest domini s'han de gestionar els dispositius mòbils, però aquesta funció no s'admet al dispositiu. Utilitza un altre compte."</string>
+    <string name="auth_account_removed_dm_not_supported_title">Gestió de dispositius no admesa</string>
+    <string name="auth_account_removed_dm_setup_failed_description">"No s'ha instal·lat correctament la gestió de dispositius. Comença de nou i torna a iniciar la sessió."</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Error en instal·lar</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">"No s'ha completat la gestió de dispositius. Comença de nou i torna a iniciar la sessió."</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Config. cancel·lada</string>
+    <string name="auth_account_settings_title">Configuració del compte</string>
+    <string name="auth_account_setup_title">Compte de Google</string>
+    <string name="auth_account_state_sync_title">"Sincronització de l'estat del compte"</string>
+    <string name="auth_allow_button_label">Permet</string>
+    <string name="auth_allow_external_site_access">Obtenir accés a les teves dades de %s</string>
+    <string name="auth_app_permission_ok_footnote">"En continuar, permets que aquesta aplicació i Google facin servir la teva informació d'acord amb els termes i condicions i les polítiques de privadesa respectives."</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">"Permet l'inici de sessió"</string>
+    <string name="auth_authzen_allow_reset_button_text">Restabl. contr.</string>
+    <string name="auth_authzen_google_logo_label">Logotip de Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">"S'ha aprovat l'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_canceled_text">"S'ha cancel·lat l'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">"Permet l'inici de sessió"</string>
+    <string name="auth_authzen_login_challenge_desc_text">Inicies la sessió des de %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">"Google ha impedit l'intent d'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Número incorrecte</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">"Toca el número que es mostra a l'altra pantalla. Amb això s'iniciarà la sessió al teu ordinador."</string>
+    <string name="auth_authzen_login_challenge_title_text">"Proves d'iniciar la sessió?"</string>
+    <string name="auth_authzen_profile_picture_label">Foto del perfil</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Tria el compte amb el qual estàs intentant iniciar la sessió:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Estàs intentant iniciar la sessió?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">"No s'ha trobat cap notificació d'inici de sessió."</string>
+    <string name="auth_authzen_pull_offline_error">Error intern</string>
+    <string name="auth_authzen_pull_offline_instructions_text">"A l'ordinador, fes clic a \"Tens un codi?\" i, a continuació, escriu:"</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">"Has provat d'iniciar la sessió a Google?"</string>
+    <string name="auth_authzen_recovery_approved_text">"S'ha aprovat el restabliment de la contrasenya."</string>
+    <string name="auth_authzen_recovery_canceled_text">"S'ha cancel·lat el restabliment de la contrasenya."</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Vols permetre el restabliment de contrasenya des de %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Necessitem la teva confirmació</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">"Google ha impedit l'intent de restabliment de contrasenya."</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Número incorrecte</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">"Toca el número que es mostrarà a l'altra pantalla. Amb aquesta acció es restablirà la contrasenya."</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Permetre el restabliment de contrasenya</string>
+    <string name="auth_authzen_recovery_reject_desc_text">"Algú ha sol·licitat el restabliment de contrasenya del teu compte de Google. Google ha impedit l'intent de restabliment de contrasenya."</string>
+    <string name="auth_authzen_recovery_reject_title_text">Restabliment de contrasenya impedit</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Has sol·licitat el restabliment de la teva contrasenya des de %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Has provat de restablir la contrasenya?</string>
+    <string name="auth_authzen_secure_account_button_text">Protegir compte</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">"S'estan cercant notificacions d'inici de sessió..."</string>
+    <string name="auth_back_button_label">Enrere</string>
+    <string name="auth_cant_add_work_account_message">Aquest tipus de compte el gestiona la teva organització.</string>
+    <string name="auth_captcha_instructions">Escriu el text que veus aquí:</string>
+    <string name="auth_captcha_title">"Has d'introduir un CAPTCHA"</string>
+    <string name="auth_common_next_button">Següent</string>
+    <string name="auth_common_skip">Omet</string>
+    <string name="auth_common_switch_accounts">Canvia de compte</string>
+    <string name="auth_communicating_message">El dispositiu està contactant amb Google per desar informació al teu compte. Aquest procés pot trigar fins a cinc minuts.</string>
+    <string name="auth_confirm_creds_sync_title">Estat de les credencials</string>
+    <string name="auth_d2d_source_alert_title">Funció Toca i prou</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Bloqueja i verifica</string>
+    <string name="auth_d2d_source_copy_notice">"Vols copiar els comptes i les dades a l'altre dispositiu?"</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">"Un cop hagis fet la verificació, s'activarà el Bluetooth perquè els dispositius es puguin comunicar."</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Un cop hagis fet la verificació, els dispositius es connectaran mitjançant el Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">"Per continuar, la pantalla es bloquejarà i l'hauràs de desbloquejar per fer la verificació."</string>
+    <string name="auth_d2d_source_no_accounts_toast">No es pot utilitzar la funció Toca i prou perquè no hi ha cap compte en aquest dispositiu.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">No es pot utilitzar la funció Toca i prou perquè el Bluetooth no està disponible en aquest dispositiu.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">"El Bluetooth s'activarà perquè els teus dispositius es puguin comunicar."</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Per fer servir aquesta funció, cal Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Funció Toca i prou finalitzada</string>
+    <string name="auth_d2d_source_restricted_user_toast">"No es pot tocar i restaurar a partir d'un perfil d'usuari restringit."</string>
+    <string name="auth_d2d_source_title">Restaura els comptes</string>
+    <string name="auth_d2d_source_unknown_device_name">Dispositiu desconegut</string>
+    <string name="auth_d2d_target_sorry_alert">"S'ha produït un error."</string>
+    <string name="auth_d2d_target_tap_progress_message">"Toca D'acord a l'altre dispositiu per continuar"</string>
+    <string name="auth_d2d_target_title">Toca i prou</string>
+    <string name="auth_d2d_target_unlock_progress_message">"Comprova l'altre dispositiu"</string>
+    <string name="auth_d2d_target_wait_progress_message">"S'estan obtenint els comptes i les dades..."</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Denega</string>
+    <string name="auth_device_management_download_app_icon">"Icona de l'aplicació %s"</string>
+    <string name="auth_device_management_download_description">"Amb aquest compte s'han de gestionar els dispositius mòbils. Instal·la l'aplicació ^1 per aplicar les polítiques de seguretat necessàries per al compte."</string>
+    <string name="auth_device_management_download_description_kids">"Per afegir el compte a aquest dispositiu, primer has d'instal·lar "<b>^1</b>". 
+
+^1 et permet configurar aquest dispositiu per al teu fill."</string>
+    <string name="auth_device_management_download_failed_message">Pots continuar la configuració sense aquesta aplicació</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">"No s'ha pogut instal·lar la funció de gestió de dispositius. Aquest compte se suprimirà. Torna-ho a provar més tard."</string>
+    <string name="auth_device_management_download_failed_title">"No es pot baixar l'aplicació"</string>
+    <string name="auth_device_management_download_not_updated_message">Pots continuar la configuració amb la versió actual</string>
+    <string name="auth_device_management_download_paused">Aturada</string>
+    <string name="auth_device_management_download_progress">"S'està baixant..."</string>
+    <string name="auth_device_management_download_skip_message">Cal configurar la gestió de dispositius per a aquest compte. Vols continuar igualment sense configurar-la?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Cal configurar la gestió de dispositius per afegir aquest compte. Vols començar amb un altre compte?</string>
+    <string name="auth_device_management_go_back">Enrere</string>
+    <string name="auth_device_management_screenlock_description">"Per accedir al compte de la feina des d'aquest dispositiu, hauràs de definir una pantalla de bloqueig, d'acord amb la política de dispositius mòbils de la teva organització."</string>
+    <string name="auth_device_management_screenlock_skip_message">Aquest compte requereix seguretat de bloqueig de pantalla. Vols tornar a començar amb un altre compte?</string>
+    <string name="auth_device_management_start_description">"Amb aquest compte s'han de gestionar els dispositius mòbils. En tocar Següent, l'aplicació ^1 t'ajudarà a aplicar les polítiques de seguretat necessàries per al compte."</string>
+    <string name="auth_device_management_start_description_kids">Per afegir el compte a aquest dispositiu, utilitza <b>^1</b>". 
+
+^1 et permet configurar aquest dispositiu per al teu fill."</string>
+    <string name="auth_device_management_title">Gestió del dispositiu</string>
+    <string name="auth_device_management_update_description">"Amb aquest compte s'han de gestionar els dispositius mòbils. Per complir les polítiques de seguretat associades al compte, has d'instal·lar una versió més nova de l'aplicació ^1."</string>
+    <string name="auth_device_management_update_description_kids">"Per afegir el compte a aquest dispositiu, primer has d'instal·lar la versió més recent de l'aplicació "<b>^1</b>". 
+
+^1 et permet configurar aquest dispositiu per al teu fill."</string>
+    <string name="auth_dismiss_button_label">Ignora</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> no utilitza Gmail.</string>
+    <string name="auth_error_account_disabled">"Aquest compte s'ha desactivat. 
+
+(Per veure'n els detalls, visita http://google.com/accounts des d'un navegador web.)"</string>
+    <string name="auth_error_account_not_verified">"Aquest compte no s'ha verificat. Consulta el correu electrònic i segueix l'enllaç que conté per verificar-lo. 
+
+(Per recuperar la informació del compte, vés a http://www.google.com/accounts/recovery al teu equip.)"</string>
+    <string name="auth_error_bad_password">La contrasenya és massa dèbil o conté caràcters que no són vàlids. Torna-ho a provar.</string>
+    <string name="auth_error_bad_username">"Nom d'usuari no vàlid."</string>
+    <string name="auth_error_generic_server_error">"S'ha produït un problema en comunicar amb els servidors de Google. 
+
+Torna-ho a provar més tard."</string>
+    <string name="auth_error_invalid_second_factor">"Fes servir una contrasenya específica de l'aplicació en lloc de la contrasenya habitual del compte."</string>
+    <string name="auth_error_login_failed">"El teu nom d'usuari i la contrasenya no coincideixen. Torna-ho a provar.
+
+Per recuperar la informació del compte, vés a google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">"Has d'iniciar la sessió al web per accedir al compte. Toca Següent per començar l'inici de sessió al navegador."</string>
+    <string name="auth_error_no_network">"No tens connexió de xarxa. 
+
+Podria tractar-se d'un problema temporal. Torna-ho a provar, o bé connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">"L'usuari no ha iniciat la sessió."</string>
+    <string name="auth_error_username_unavailable">"El nom d'usuari no està disponible."</string>
+    <string name="auth_existing_account_error_text">Ja hi ha un compte ^1 en aquest dispositiu Android.</string>
+    <string name="auth_existing_account_error_title">El compte ja existeix</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">"No es pot iniciar la sessió al dispositiu perquè fa poc que s'ha canviat la contrasenya. Torna a iniciar la sessió quan hagin passat 24 hores des del canvi de la contrasenya."</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Les funcions de protecció del dispositiu deixaran de funcionar.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">"Si mous l'últim compte de Google del dispositiu fora del perfil personal, se'n desactivaran les funcions de protecció contra robatoris. Més endavant, pots afegir un altre compte al dispositiu per tornar a activar aquestes funcions."</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Ho confirmes?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Vols moure el compte al perfil professional?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">"No es pot iniciar la sessió al dispositiu a causa d'un error desconegut. Prova-ho amb un altre compte o bé torna a iniciar la sessió quan hagin passat 24 hores."</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">"Inicia la sessió amb un dels comptes del propietari d'aquest dispositiu"</string>
+    <string name="auth_field_cant_be_blank">El camp no pot estar en blanc.</string>
+    <string name="auth_frp_add_account_no">No</string>
+    <string name="auth_frp_add_account_prompt">"Vols afegir ^1 al dispositiu ara? Si tens un altre compte, l'hi podràs afegir més tard."</string>
+    <string name="auth_frp_add_account_yes">Sí</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">"No s'ha pogut accedir a aquest compte. Comprova que el dispositiu compleixi les polítiques de seguretat de la teva organització. Si continues veient aquest error, contacta amb l'administrador de l'organització."</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Error del compte</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Amb aquest domini s'han de gestionar els dispositius mòbils. Instal·la l'aplicació Google Apps Device Policy perquè s'apliquin les polítiques de seguretat necessàries per al compte  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Baixa</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" només pot incloure lletres,
+nombres i punts."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> no conté cap lletra.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> conté menys de 6 caràcters o més de 30.</string>
+    <string name="auth_gls_is_not_available">"El nom d'usuari "<b>^1</b> no està disponible.</string>
+    <string name="auth_gls_name_checking_info_title">"S'està comprovant la informació…"</string>
+    <string name="auth_gls_sync_item_title">Sincronitza %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" El compte  "<b>^1</b>" s'ha d'afegir a un dispositiu o perfil professional gestionat per la teva organització. Segueix les instruccions de l'administrador de TI per completar aquesta acció."</string>
+    <string name="auth_google_title_logo">Logotip de Google</string>
+    <string name="auth_invalid_login_character">Caràcter no vàlid. Només es permeten 0-9, a-z, A-Z i punts.</string>
+    <string name="auth_invalid_password_character">Caràcter de contrasenya no vàlid.</string>
+    <string name="auth_invalid_username">"El text que has escrit no és un nom d'usuari vàlid."</string>
+    <string name="auth_kids_setup_wizard_services_agreement">"En continuar, acceptes que aquest dispositiu també pugui baixar i instal·lar automàticament actualitzacions i aplicacions de Google, de l'operador de telefonia mòbil i del fabricant del dispositiu, i que és possible que ho faci utilitzant dades mòbils. Pot ser que algunes d'aquestes aplicacions ofereixin compres fetes des de l'aplicació. Pots suprimir aquestes aplicacions en qualsevol moment."</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>"Per alliberar espai quan l'emmagatzematge del dispositiu és gairebé ple"</b>, suprimeix dades del dispositiu, com ara fotos i vídeos dels quals hagis creat una còpia de seguretat.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Crea còpies de seguretat automàtiques de les dades del dispositiu</b>" (com ara les contrasenyes de les xarxes Wi-Fi i l'historial de trucades) i de les aplicacions (com la configuració i els fitxers desats) a l'espai de Google Drive del teu fill."</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Quan s'activa la còpia de seguretat automàtica, les dades del dispositiu i de les aplicacions es desen de manera periòdica en una carpeta privada de l'espai de Google Drive del teu fill. Per \"dades de les aplicacions\" entenem qualsevol dada que hagi desat una aplicació (segons la configuració del desenvolupador), incloses dades potencialment confidencials, com ara els contactes, els missatges i les fotos.
+
+Les dades de la còpia de seguretat no ocupen espai de la quota d'emmagatzematge de Drive del teu fill. No es farà cap còpia de seguretat dels fitxers grans ni dels que els desenvolupadors hagin exclòs del servei."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Crea còpies de seguretat automàtiques de les dades del dispositiu</b>" (com ara les contrasenyes de les xarxes Wi-Fi, els SMS i l'historial de trucades), de la configuració i de les dades de les aplicacions (com la configuració i els fitxers desats) a l'espai de Google Drive del teu fill."</string>
+    <string name="auth_kids_setup_wizard_services_description">"Com a pare o mare, pots activar o desactivar aquests serveis en qualsevol moment al compte del teu fill. Les dades s'utilitzaran d'acord amb les "<annotation link="google_privacy">polítiques</annotation>" de Google.
+
+Per obtenir més informació, toca cadascun dels serveis."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>"Utilitza el servei d'ubicació de Google perquè les aplicacions puguin"</b>" detectar la ubicació del teu fill. Quan el dispositiu estigui engegat, s'enviaran dades d'ubicació anònimes a Google."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"El servei d'ubicació de Google utilitza fonts com ara les xarxes Wi-Fi i mòbils per calcular la ubicació del dispositiu d'una manera més ràpida i precisa. Aquest servei s'activa quan l'opció Ubicació del dispositiu està activada i es fa servir un mode que utilitzi xarxes Wi-Fi o de telefonia mòbil per calcular la ubicació, com ara els modes Alta precisió o Estalvi de bateria (estalvi d'energia).
+
+Per desactivar aquest servei, pots fer el següent:
+
+"<li>"Desactiva l'opció principal Ubicació del dispositiu."</li>"
+
+"<li>"Deixa l'opció principal Ubicació activada i tria un mode que només utilitzi GPS (de vegades l'opció es diu Només dispositiu)."</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>"Ajuda a millorar la teva experiència d'Android"</b>" enviant automàticament a Google dades de diagnòstic i d'ús del dispositiu i de les aplicacions. Aquestes dades no s'utilitzaran per identificar el teu fill i contribuiran a millorar la durada de la bateria, l'estabilitat de les aplicacions i la connectivitat de la xarxa, entre altres coses."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Es tracta d'informació general sobre el dispositiu i sobre com s'utilitza (com ara el nivell de bateria, l'ús de les aplicacions i la connectivitat de la xarxa). S'utilitzarà per millorar els productes i els serveis de Google per al públic en general. Part de la informació agregada ajudarà els nostres partners, com ara els desenvolupadors d'Android, a millorar les seves aplicacions i els seus productes.
+
+Desactivar aquesta opció no afecta la capacitat del dispositiu d'enviar la informació necessària per rebre serveis bàsics, com ara actualitzacions del sistema i seguretat."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Es tracta d'informació general sobre el dispositiu i sobre com s'utilitza (com ara el nivell de bateria, l'ús de les aplicacions i la connectivitat de la xarxa). S'utilitzarà per millorar els productes i els serveis de Google per al públic en general. Part de la informació agregada ajudarà els nostres partners, com ara els desenvolupadors d'Android, a millorar les seves aplicacions i els seus productes.
+
+Desactivar aquesta opció no afecta la capacitat del dispositiu d'enviar la informació necessària per rebre serveis bàsics, com ara actualitzacions del sistema i seguretat.
+
+Pots controlar aquesta funció a Configuració > Google. Selecciona Ús i diagnòstic al menú."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Has escrit una contrasenya incorrecta o bé el teu compte ha canviat. Torna-la a escriure. Si has oblidat la contrasenya i has de recuperar el teu compte, fes clic <annotation id="help_url">aquí</annotation>.</string>
+    <string name="auth_login_activity_task_title">"S'està iniciant la sessió…"</string>
+    <string name="auth_login_activity_title">Inici de sessió</string>
+    <string name="auth_login_task_title">"S'està iniciant la sessió"</string>
+    <string name="auth_login_title">"Escriu l'adreça electrònica i la contrasenya"</string>
+    <string name="auth_minutemaid_ssl_error">"S’ha produït un problema en connectar amb  %s."</string>
+    <string name="auth_network_unreliable_help">"Podria tractar-se d'un problema temporal, o és possible que el dispositiu Android no tingui serveis de dades. Si el problema continua, truca al servei d'atenció al client."</string>
+    <string name="auth_next_button_label">Següent</string>
+    <string name="auth_no_network">No tens cap connexió de xarxa.</string>
+    <string name="auth_no_network_help">"Podria tractar-se d'un problema temporal o pot ser que el dispositiu Android no tingui serveis de dades. Torna-ho a provar quan estiguis connectat a una xarxa mòbil o bé connecta't a una xarxa Wi-Fi."</string>
+    <string name="auth_no_network_help_wifi_only">"És possible que es tracti d'un problema temporal. Torna-ho a provar o connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_otp_error">"S'ha produït un problema en generar el codi de seguretat."</string>
+    <string name="auth_otp_explained_paragraph">"Si has oblidat la contrasenya o si hi ha alguna cosa diferent en l'inici de sessió, és possible que Google et demani un codi de seguretat per protegir el teu compte. Fes-lo servir ara o torna més tard per obtenir-ne un altre."</string>
+    <string name="auth_otp_header_message">Quan cal fer servir aquest codi per iniciar la sessió</string>
+    <string name="auth_otp_help">Ajuda i suggeriments</string>
+    <string name="auth_otp_no_accounts_available_message">No hi ha cap compte configurat en aquest dispositiu.</string>
+    <string name="auth_otp_progress_dialog_message">"S'està generant un codi de seguretat."</string>
+    <string name="auth_password">Contrasenya</string>
+    <string name="auth_plus_audience_selection_description_acl">COMPARTEIX AMB</string>
+    <string name="auth_plus_failure_new_account_text">"S'ha creat el teu compte de Google, però la teva sol·licitud per crear un perfil de Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_plus_failure_text">"La teva sol·licitud per unir-te a Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_plus_failure_title">"Creació d'un perfil de Google+ més tard"</string>
+    <string name="auth_plus_info_fragment_app_name">%s vol:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">"L'aplicació %s del dispositiu %s vol:"</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Els teus cercles ampliats</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Els cercles seleccionats</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Només tu</string>
+    <string name="auth_plus_scope_fragment_public_label">Tothom al web</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Els teus cercles</string>
+    <string name="auth_relogin_activity_title">Torna a escriure la contrasenya</string>
+    <string name="auth_remove_account_start_over">Torna a començar</string>
+    <string name="auth_scope_more_details">Més informació</string>
+    <string name="auth_server_error">"S'ha produït un problema en comunicar amb els servidors de Google."</string>
+    <string name="auth_server_error_help">Torna-ho a provar més endavant.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">"S'ha afegit el compte"</string>
+    <string name="auth_setup_wizard_account_added_description">"El compte s'ha afegit; continua per seleccionar les opcions dels serveis de Google"</string>
+    <string name="auth_setup_wizard_back_button_label">Enrere</string>
+    <string name="auth_setup_wizard_next_button_label">Següent</string>
+    <string name="auth_setup_wizard_services_activity_title">Serveis de Google</string>
+    <string name="auth_setup_wizard_services_agreement">"En continuar, acceptes que aquest dispositiu també pugui baixar i instal·lar automàticament actualitzacions i aplicacions de Google, de l'operador de telefonia mòbil i del fabricant del dispositiu, i que és possible que ho faci utilitzant dades mòbils. Pot ser que algunes d'aquestes aplicacions ofereixin compres fetes des de l'aplicació. Pots suprimir aquestes aplicacions en qualsevol moment."</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">"Per suprimir una aplicació, vés a Configuració > Aplicacions o Gestor d'aplicacions. A continuació, toca l'aplicació que vulguis desinstal·lar (és possible que hagis de lliscar cap a la dreta o cap a l'esquerra per trobar-la). Tot seguit, toca Desinstal·la o Desactiva."</string>
+    <string name="auth_setup_wizard_services_agreement_korea">"També dónes permís a les aplicacions de Google que s'han carregat prèviament per accedir a la informació i les funcions del teu dispositiu. Consulta "<annotation link="app_permissions">aquesta pàgina</annotation>" per obtenir més informació sobre l'ús d'aquests permisos."</string>
+    <string name="auth_setup_wizard_services_agreement_title">Instal·lar aplicacions i actualitzacions</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">"Per alliberar espai quan l'emmagatzematge del telèfon està gairebé ple, suprimeix dades del dispositiu, com ara fotos i vídeos dels quals hagis creat una còpia de seguretat."</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">"Podràs accedir a aquestes dades quan tinguis connexió. Per controlar aquesta funció i el contingut que s'ha suprimit, vés a Configuració > Emmagatzematge > Emmagatzematge intel·ligent."</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Allibera espai</string>
+    <string name="auth_setup_wizard_services_backup">"Canvia de telèfon o restaura'l fàcilment en qualsevol moment. La còpia de seguretat inclou les aplicacions, les dades d'aplicacions i la configuració del dispositiu (incloses les contrasenyes de les xarxes Wi-Fi)."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Les dades de les aplicacions poden ser qualsevol mena de dada que hagi desat una aplicació (en funció de la configuració del desenvolupador), inclòs el contingut potencialment confidencial com ara els contactes, els missatges i les fotos.
+
+Les dades de les còpies de seguretat no es tenen en compte per a la quota d'emmagatzematge de Drive.
+
+Pots desactivar aquest servei a Configuració."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Les dades de les aplicacions poden ser qualsevol mena de dada que hagi desat una aplicació (en funció de la configuració del desenvolupador), inclòs el contingut potencialment confidencial com ara els contactes, els missatges i les fotos.
+
+Les fotos i els vídeos d'aquest dispositiu se sincronitzen amb Google Fotos perquè els puguis cercar, editar, suprimir i compartir des de qualsevol dispositiu. De manera predeterminada, les fotos i els vídeos es pengen en resolució completa.
+
+Les dades de les còpies de seguretat no es tenen en compte per a la quota d'emmagatzematge de Drive.
+
+Pots desactivar aquest servei a Configuració."</string>
+    <string name="auth_setup_wizard_services_backup_title">Còpia de seguretat a Google Drive</string>
+    <string name="auth_setup_wizard_services_backup_v23">"Canvia de telèfon o restaura'l fàcilment en qualsevol moment. La còpia de seguretat inclou les aplicacions, les dades d'aplicacions, l'historial de trucades, els contactes i la configuració del dispositiu (inclosos els permisos i les contrasenyes de les xarxes Wi-Fi)."</string>
+    <string name="auth_setup_wizard_services_backup_v26">"Canvia de telèfon o restaura'l fàcilment en qualsevol moment. La còpia de seguretat inclou les aplicacions, les dades d'aplicacions, l'historial de trucades, els contactes, la configuració del dispositiu (inclosos els permisos i les contrasenyes de les xarxes Wi-Fi) i els SMS."</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">"Canvia de telèfon o restaura'l fàcilment en qualsevol moment. La còpia de seguretat inclou les aplicacions, les dades d'aplicacions, l'historial de trucades, els contactes, la configuració del dispositiu (inclosos els permisos i les contrasenyes de les xarxes Wi-Fi), les fotos, els vídeos i els SMS. Les fotos i els vídeos se sincronitzen amb el teu compte de Google i es poden utilitzar en altres serveis."</string>
+    <string name="auth_setup_wizard_services_description">"Toca per obtenir més informació sobre cada servei, com ara sobre com el pots activar i desactivar més tard. Les dades s'utilitzaran d'acord amb la "<annotation link="google_privacy">política de privadesa</annotation> de Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Les dades de l'aplicació, com ara les compres fetes des de l'aplicació, es poden consultar a Play Store. La configuració i les dades de les aplicacions se sincronitzaran amb els dispositius en què hagis iniciat la sessió amb el teu compte de Google. 
+
+L'ús de les aplicacions instantànies es regeix per les "<a href="https://play.google.com/about/play-terms.html">Condicions del servei de Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Obtén més informació</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">"Quan toques un enllaç, Google Play comprova si hi ha una aplicació instantània i l'executa sense que l'hagis d'instal·lar. Les aplicacions instantànies es desen al dispositiu temporalment."</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">"Utilitza aplicacions sense haver d'instal·lar-les"</string>
+    <string name="auth_setup_wizard_services_location_sharing">"Utilitza el servei d'ubicació de Google per ajudar les aplicacions a calcular la teva ubicació. Quan el dispositiu estigui encès, s'enviaran dades d'ubicació anònimes a Google."</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"El servei d'ubicació de Google utilitza fonts com ara les xarxes Wi-Fi i mòbils per calcular la ubicació del dispositiu d'una manera més ràpida i precisa. Aquest servei s'activa quan l'opció Ubicació del dispositiu està activada i es fa servir un mode que utilitzi xarxes Wi-Fi o de telefonia mòbil per calcular la ubicació, com ara els modes Alta precisió o Estalvi de bateria (estalvi d'energia).
+
+Per desactivar aquest servei, pots fer el següent:
+
+"<li>"Desactiva l'opció principal Ubicació del dispositiu."</li>"
+
+"<li>"Deixa l'opció principal Ubicació activada i tria un mode que només utilitzi GPS (de vegades l'opció es diu Només dispositiu)."</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Ajuda les apps a trobar la ubicació</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Permet que les aplicacions i els serveis cerquin xarxes Wi-Fi, fins i tot quan la Wi-Fi estigui desactivada.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">"Pots desactivar aquesta funció a la configuració d'ubicació."</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Millora la precisió de la ubicació</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Permet que les aplicacions i els serveis cerquin xarxes Wi-Fi i dispositius Bluetooth, fins i tot quan totes dues opcions de configuració estiguin desactivades.</string>
+    <string name="auth_setup_wizard_services_play">Vull rebre notícies i ofertes de Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Còpia de seguretat i emmagatzematge</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Manteniment del dispositiu</string>
+    <string name="auth_setup_wizard_services_section_location">Ubicació</string>
+    <string name="auth_setup_wizard_services_tos">En continuar, també acceptes les <annotation link="tos">Condicions del servei de Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">En utilitzar aquest dispositiu, ens regim per la nostra <annotation link="google_privacy">Política de privadesa</annotation>" i s'apliquen "<annotation link="tos">condicions addicionals</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">"Envia diagnòstics i dades d'ús del dispositiu i de les aplicacions automàticament per millorar la teva experiència d'Android. Aquesta informació permetrà millorar la durada de la bateria, l'estabilitat de les aplicacions o la connectivitat de la xarxa, entre d'altres. Si has activat més opcions d'Activitat al web i en aplicacions, la informació es desarà amb el teu compte perquè la puguis gestionar a La meva activitat."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Es tracta d'informació general sobre el teu dispositiu i sobre com l'utilitzes (com ara el nivell de bateria, l'ús de les aplicacions i la connectivitat de la xarxa). S'utilitzarà per millorar els productes i els serveis de Google per al públic en general. Part de la informació agregada ajudarà els nostres partners, com ara els desenvolupadors d'Android, a millorar les seves aplicacions i els seus productes.
+
+Desactivar aquesta opció no afecta la capacitat del dispositiu d'enviar la informació necessària per rebre serveis bàsics, com ara actualitzacions del sistema i seguretat."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Pots actualitzar la configuració de La meva activitat a myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Pots controlar aquesta funció des de Configuració Google. Selecciona Ús i diagnòstic al menú.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Pots controlar aquesta funció des de Configuració > Google. Selecciona Ús i diagnòstic al menú.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Envia dades del sistema</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">"Permet que els fons de pantalla animats de Google accedeixin al servei d'ubicació de Google perquè canviïn en funció de la teva ubicació."</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">"Per activar o desactivar l'accés dels fons de pantalla animats al servei d'ubicació de Google, vés a Configuració > Aplicacions i notificacions > Informació d'aplicacions. Al menú addicional, toca Mostra les aplicacions del sistema > Fons de pantalla animats amb dades o Fons de pantalla animats de la Terra > Permisos."</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Permet que els fons de pantalla utilitzin la ubicació</string>
+    <string name="auth_setup_wizard_title">Auxiliar de configuració</string>
+    <string name="auth_show_error_activity_title">"No s'ha pogut iniciar la sessió"</string>
+    <string name="auth_show_error_title">Error</string>
+    <string name="auth_sign_in_agreement">Si inicies la sessió, acceptes les polítiques de privadesa de <annotation id="google_privacy">Google</annotation>" i altres polítiques  "<annotation id="android_privacy">addicionals</annotation>.</string>
+    <string name="auth_sign_in_browser">Inici de sessió al navegador</string>
+    <string name="auth_sign_in_button_label">Inicia la sessió</string>
+    <string name="auth_sign_in_with_google_account_short">Inicia la sessió amb el teu compte de Google:</string>
+    <string name="auth_skip_button_label">Omet</string>
+    <string name="auth_submission_error_text">"S'ha produït un error. Torna-ho a provar."</string>
+    <string name="auth_submission_title">Ens sap greu…</string>
+    <string name="auth_try_again_button_label">Torna-ho a provar</string>
+    <string name="auth_ui_activity_authenticating">"S'està autenticant…"</string>
+    <string name="auth_ui_activity_title">Inici de sessió a Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Inici de sessió</string>
+    <string name="auth_ui_add_account_title">Configuració del compte</string>
+    <string name="auth_uncertified_notification_content">El fabricant no ha certificat aquest dispositiu</string>
+    <string name="auth_uncertified_notification_description">"El fabricant d'aquest dispositiu fa servir aplicacions de Google sense certificar el dispositiu amb Google. 
+
+Els dispositius no certificats poden no ser segurs, i és possible que no rebin actualitzacions d'aplicacions i del sistema. També és possible que les aplicacions i funcions com ara la còpia de seguretat dels fitxers o les fotos no funcionin correctament. 
+
+Contacta amb el fabricant del dispositiu per solucionar el problema. 
+
+Visita %s per obtenir més informació sobre els partners certificats de Google."</string>
+    <string name="auth_uncertified_notification_learn_more">Més informació</string>
+    <string name="auth_uncertified_notification_title">Advertiment: dispositiu no certificat</string>
+    <string name="auth_username">Correu electrònic</string>
+    <string name="auth_work_authenticator_label">Compte gestionat</string>
+    <string name="authorization_dialog">"Quadre de diàleg d'autorització"</string>
+    <string name="auto_restore_summary">Quan tornis a instal·lar una aplicació, restaura la configuració i les dades incloses a la còpia de seguretat</string>
+    <string name="auto_restore_title">Restauració automàtica</string>
+    <string name="autofill_dataset_password">Utilitza la contrasenya de: <b>^1</b></string>
+    <string name="autofill_datatype_address">Adreces</string>
+    <string name="autofill_datatype_password">Contrasenyes desades</string>
+    <string name="autofill_datatype_payment">Targetes de crèdit</string>
+    <string name="autofill_datatype_profile">Informació personal</string>
+    <string name="autofill_label">Emplenament automàtic de Google</string>
+    <string name="autofill_optin_line1"><b>Toca perquè Google ho empleni per tu</b></string>
+    <string name="autofill_optin_line2">"amb la informació desada d'Emplenament automàtic de Chrome"</string>
+    <string name="autofill_setup_points">"• Google utilitza el que es mostra a la pantalla per decidir què es pot emplenar automàticament. 
+• Pots consultar i gestionar la informació que s'emplena automàticament a Configuració."</string>
+    <string name="autofill_setup_summary">Emplena informació que hagis desat al compte, com ara contrasenyes, adreces o dades de targetes de crèdit, amb un sol toc.</string>
+    <string name="autofill_setup_summary_single_account">Emplena informació que hagis desat al compte <b>^1</b>, com ara contrasenyes, adreces o dades de targetes de crèdit, amb un sol toc.</string>
+    <string name="backup_configure_account_default_summary">Ara no hi ha cap compte que emmagatzemi les dades amb còpia de seguretat</string>
+    <string name="backup_configure_account_title">Compte còpia de seguretat</string>
+    <string name="backup_data_summary">"Crea una còpia de seguretat a Google Drive de les dades de les aplicacions, de les contrasenyes de les xarxes Wi-Fi i d'altres opcions de configuració"</string>
+    <string name="backup_data_summary_full">"Crea còpies de seguretat automàtiques de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi o l'historial de trucades) i de les aplicacions (com ara les opcions de configuració i els fitxers que desen) de manera remota.
+
+Quan activis les còpies de seguretat automàtiques, les dades del dispositiu i de les aplicacions es desaran periòdicament de manera remota. Les dades de les aplicacions poden ser qualsevol tipus de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses les dades potencialment confidencials, com ara contactes, missatges i fotos."</string>
+    <string name="backup_data_title">Crea una còpia de seguretat a Google Drive</string>
+    <string name="backup_erase_dialog_message">"Vols deixar de crear còpies de seguretat de les contrasenyes de les xarxes Wi-Fi, de les adreces d'interès, d'altres opcions de configuració i de les dades de les aplicacions i, a més, esborrar totes les còpies de Google Drive?"</string>
+    <string name="backup_erase_dialog_message_full">"Vols deixar de crear còpies de seguretat de les dades del dispositiu (com ara les contrasenyes de les xarxes Wi-Fi i l'historial de trucades) i de les aplicacions (com ara les opcions de configuració i els fitxers que desen) i, a més, esborrar totes les còpies de Google Drive?"</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">"S'ha produït un error en obrir la configuració de Google Fotos"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Si actives la còpia de seguretat automàtica:
+
+ ● La configuració del dispositiu i les dades de les aplicacions es desen periòdicament en una carpeta privada a Google Drive. Les dades de les aplicacions poden ser qualsevol mena de dades que una aplicació hagi desat (en funció de la configuració del desenvolupador), incloses dades potencialment confidencials, com ara contactes, missatges i fotos.
+
+ No es faran còpies de seguretat dels fitxers grans o d'aquells que els desenvolupadors hagin decidit excloure del servei.
+
+ ● Les fotos i els enregistraments de vídeo d'aquest dispositiu se sincronitzen amb la teva biblioteca de Google Fotos perquè els puguis cercar, editar, suprimir i compartir des de qualsevol dispositiu.
+
+ De manera predeterminada, es pengen les fotos i els vídeos en resolució completa, però no ocupen espai de la quota d'emmagatzematge de Drive.
+
+ ● Els contactes i les dades associades d'aquest dispositiu se sincronitzen amb Contactes de Google. Pots utilitzar l'aplicació Contactes de Google per cercar, editar, suprimir i compartir contactes des de qualsevol dispositiu.
+
+ ● Les entrades del calendari i les dades associades d'aquest dispositiu se sincronitzen amb Google Calendar. Pots utilitzar l'aplicació Google Calendar per cercar, editar, suprimir i compartir contactes des de qualsevol dispositiu.
+
+ Les dades de la còpia de seguretat no ocupen espai de la quota d'emmagatzematge de Drive."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Quan s'activa la còpia de seguretat automàtica:
+
+ ● La configuració del dispositiu i les dades de les aplicacions es desen periòdicament en una carpeta privada a Google Drive. Les dades de les aplicacions poden ser qualsevol mena de dades que hagi desat una aplicació (en funció de la configuració del desenvolupador), incloses dades potencialment confidencials, com ara contactes, missatges i fotos.
+
+ No es faran còpies de seguretat dels fitxers grans o d'aquells que els desenvolupadors hagin decidit excloure del servei.
+
+ ● Els contactes i les dades associades d'aquest dispositiu se sincronitzen amb Contactes de Google. Pots utilitzar l'aplicació Contactes de Google per cercar, editar, suprimir i compartir contactes des de qualsevol dispositiu.
+
+ ● Les entrades del calendari i les dades associades d'aquest dispositiu se sincronitzen amb Google Calendar. Pots utilitzar l'aplicació Google Calendar per cercar, editar, suprimir i compartir les entrades des de qualsevol dispositiu.
+
+ Les dades de la còpia de seguretat no ocupen espai de la quota d'emmagatzematge de Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">El calendari, els contactes, les fotos i els vídeos se sincronitzen amb el teu compte de Google i es poden utilitzar en altres serveis.</string>
+    <string name="backup_opt_in_backup_description_v2">La còpia de seguretat automàtica et permet restaurar elements al telèfon o canviar de dispositiu fàcilment en qualsevol moment. <annotation id="backup_opt_in_learn_more">Més informació</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Aquesta acció farà que es desactivi la còpia de seguretat dels elements següents:
+
+Aplicacions i dades d'aplicacions
+Historial de trucades
+Configuració del dispositiu
+Fotos i vídeos
+SMS
+
+El calendari i els contactes es continuaran sincronitzant amb el teu compte de Google. Quan la configuració hagi finalitzat, pots accedir a "<annotation id="backup_opt_in_settings_instructions">Configuració > Comptes > Google</annotation> per canviar la configuració de sincronització.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Vols desactivar la còpia de seguretat?</string>
+    <string name="backup_opt_in_backup_list">"Aplicacions i dades d'aplicacions
+Calendari
+Historial de trucades
+Contactes
+Configuració del dispositiu (incloses les contrasenyes de les xarxes Wi-Fi)
+Fotos i vídeos
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">"En la còpia seguretat s'inclouen aquests elements:"</string>
+    <string name="backup_opt_in_backup_title">Crea una còpia de seguretat a Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Desactiva la còpia de seguretat</string>
+    <string name="backup_photos_update">Actualitza Google Fotos</string>
+    <string name="backup_settings_activity_backup_title">Còpia de seguretat</string>
+    <string name="backup_settings_activity_title">Còpia de seguretat i restauració</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">No copiïs</string>
+    <string name="chrome_privacy_title">Avís de privadesa de Chrome</string>
+    <string name="chrome_tos_title">Termes i condicions de Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">"Les contrasenyes del compte %1$s estan encriptades amb la frase de contrasenya. Si l'has oblidat, atura la sincronització i restableix-la mitjançant &lt;a href=%2$s>Google Dashboard&lt;/a>."</string>
+    <string name="chromesync_custom_passphrase_title">Frase de contrasenya de Sincronització de Chrome</string>
+    <string name="chromesync_enter_passphrase_hint">Introdueix la frase de contrasenya</string>
+    <string name="chromesync_entered_wrong_passphrase">La frase de contrasenya no és correcta</string>
+    <string name="chromesync_no_browser_found">"No s'ha trobat cap navegador per obrir aquest enllaç"</string>
+    <string name="close_button_label">Tanca</string>
+    <string name="cloud_restore_app_picker_button">Restaura</string>
+    <string name="cloud_restore_app_picker_description_no_apps">La còpia de seguretat no conté cap aplicació</string>
+    <string name="cloud_restore_app_picker_title">Tria les aplicacions que vulguis restaurar</string>
+    <string name="common_accept">Accepta</string>
+    <string name="common_account_chip_add_account_button_label">Utilitza un altre compte</string>
+    <string name="common_add_account_button_label">Afegeix un compte</string>
+    <string name="common_add_account_label">Afegeix un compte</string>
+    <string name="common_ads_settings_title">Anuncis</string>
+    <string name="common_agree">Accepto</string>
+    <string name="common_app_name">Serveis de Google Play</string>
+    <string name="common_asm_preferences_settings_title">Preferències del compte</string>
+    <string name="common_asm_privacy_settings_title">Dades personals i privadesa</string>
+    <string name="common_asm_security_settings_title">Inici de sessió i seguretat</string>
+    <string name="common_audience_edit_button_label">Edita</string>
+    <string name="common_cancel">Cancel·la</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts no es pot iniciar (error de permís).</string>
+    <string name="common_car_permission_desc">Accés al servei de cotxes</string>
+    <string name="common_car_permission_label">Servei de cotxes</string>
+    <string name="common_chips_label_empty_circles">Sense cercles</string>
+    <string name="common_chips_label_extended_circles">Cercles ampliats</string>
+    <string name="common_chips_label_only_you">Només tu</string>
+    <string name="common_chips_label_public">Públic</string>
+    <string name="common_chips_label_your_circles">Els teus cercles</string>
+    <string name="common_choose_account">Tria un compte</string>
+    <string name="common_choose_account_for_app_label">Triar un compte per a %1$s</string>
+    <string name="common_choose_account_label">Tria un compte</string>
+    <string name="common_clear_app_data_menu_item">Esborra dades de les aplicacions</string>
+    <string name="common_connected">Connectat</string>
+    <string name="common_connected_apps_settings_title">Aplicacions connectades</string>
+    <string name="common_connecting">"S'està connectant…"</string>
+    <string name="common_continue">Continua</string>
+    <string name="common_disagree">No accepto</string>
+    <string name="common_disconnect">Desconnecta</string>
+    <string name="common_done">Fet</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">De:</string>
+    <string name="common_games_settings_title">Play Jocs</string>
+    <string name="common_get_started">Comença</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Activa</string>
+    <string name="common_google_play_services_enable_text">%1$s no funcionarà si no actives Serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa Serveis de Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_install_button">Instal·la</string>
+    <string name="common_google_play_services_install_text">"%1$s no s'executarà si el dispositiu no té instal·lada l'aplicació Serveis de Google Play."</string>
+    <string name="common_google_play_services_install_title">"Obtén l'aplicació Serveis de Google Play"</string>
+    <string name="common_google_play_services_notification_ticker">Error de Serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s té problemes amb Serveis de Google Play. Torna-ho a provar.</string>
+    <string name="common_google_play_services_unsupported_text">"%1$s no es pot executar sense l'aplicació Serveis de Google Play, però no és compatible amb el teu dispositiu."</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"%1$s no s'executarà si no actualitzes l'aplicació Serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">"Actualitza l'aplicació Serveis de Google Play"</string>
+    <string name="common_google_play_services_updating_text">"%1$s no s'executarà sense l'aplicació Serveis de Google Play, que s'està actualitzant en aquest moment."</string>
+    <string name="common_google_play_services_updating_title">Actualitzant Serveis de Google Play</string>
+    <string name="common_google_play_services_wear_update_text">"Cal una nova versió de l'aplicació Serveis de Google Play. S'actualitzarà automàticament aviat."</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">"L'aplicació Serveis de Google Play s'ha instal·lat amb una arquitectura incorrecta."</string>
+    <string name="common_google_play_services_wrong_architecture_text">"L'aplicació Serveis de Google Play s'ha instal·lat amb una arquitectura (%1$s) diferent de l'arquitectura del dispositiu (%2$s)."</string>
+    <string name="common_google_play_services_wrong_architecture_title">Arquitectura incorrecta</string>
+    <string name="common_google_settings">Configuració Google</string>
+    <string name="common_google_settings_account">Compte</string>
+    <string name="common_google_settings_credentials_title">Smart Lock per a contrasenyes</string>
+    <string name="common_google_settings_developer">Desenvolupador</string>
+    <string name="common_google_settings_services">Serveis</string>
+    <string name="common_got_it">"D'acord"</string>
+    <string name="common_install">Instal·la</string>
+    <string name="common_learn_more">Més informació</string>
+    <string name="common_list_apps_menu_help">Ajuda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajuda i suggeriments</string>
+    <string name="common_loading">"S'està carregant…"</string>
+    <string name="common_location_settings_title">Ubicació</string>
+    <string name="common_magictether_settings_title">Compartició de xarxa instantània</string>
+    <string name="common_maps_settings_title">Maps i Latitude</string>
+    <string name="common_mdm_feature_name">Gestor de dispositius Android</string>
+    <string name="common_missing_url_viewer">Per mostrar un URL extern, cal un visualitzador.</string>
+    <string name="common_more_options">Més opcions</string>
+    <string name="common_networking_settings_title">Xarxes</string>
+    <string name="common_no_browser_for_restricted_url">"Accés restringit. No s'ha trobat cap navegador."</string>
+    <string name="common_no_devices_found">"No s'ha trobat cap dispositiu"</string>
+    <string name="common_no_network">No disponible perquè el dispositiu no té connexió</string>
+    <string name="common_no_thanks">No, gràcies</string>
+    <string name="common_not_now">Ara no</string>
+    <string name="common_off">Desactivat</string>
+    <string name="common_ok">"D'acord"</string>
+    <string name="common_on">Activat</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_open_source_licenses">Llicències de codi obert</string>
+    <string name="common_people_settings_title">Contactes</string>
+    <string name="common_permissions_enable_in_settings">Activa a Configuració</string>
+    <string name="common_permissions_missing_end">Per continuar, obre Configuració i després Permisos, i permet els elements de la llista.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Per activar l'aplicació, vés a
+Configuració >
+Permisos >
+Serveis de Google Play"</string>
+    <string name="common_permissions_missing_start">"Aquesta aplicació no funcionarà si no permets que l'aplicació Serveis de Google Play accedeixi a:"</string>
+    <string name="common_permissions_open_settings">Obre Configuració</string>
+    <string name="common_phone">Telèfon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Política de privadesa</string>
+    <string name="common_restore">Restaura</string>
+    <string name="common_restricted_no_accounts">No hi ha cap compte per seleccionar</string>
+    <string name="common_retry">Torna-ho a provar</string>
+    <string name="common_search_settings_title">Cerca</string>
+    <string name="common_security_ootp_setting_title">Codi de seguretat</string>
+    <string name="common_security_settings_title">Seguretat</string>
+    <string name="common_send">Envia</string>
+    <string name="common_sending">"S'està enviant…"</string>
+    <string name="common_set_up_nearby_device_settings_title">Configura un dispositiu proper</string>
+    <string name="common_settings">Configuració</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicia la sessió amb Google</string>
+    <string name="common_something_went_wrong">"S'ha produït un error"</string>
+    <string name="common_system_info">Informació del sistema</string>
+    <string name="common_take_photo_label">Fes una foto</string>
+    <string name="common_terms_of_service">Condicions del servei</string>
+    <string name="common_try_again">Torna-ho a provar</string>
+    <string name="common_turn_on_bluetooth">Activa el Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Suprimeix</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ho entenc i ho vull suprimir</string>
+    <string name="common_unknown">Desconegut</string>
+    <string name="common_update">Actualitza</string>
+    <string name="common_url_load_unsuccessful_message">El teu dispositiu Android no està connectat a cap servei de dades. Per mostrar aquesta informació ara, visita %s amb un navegador web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">"El teu dispositiu Android no està connectat a cap xarxa Wi-Fi. Vés a %s des d'un navegador web per veure aquesta informació ara."</string>
+    <string name="common_url_login_notice">Inicia la sessió com a %1$s</string>
+    <string name="common_usage_and_diagnostics">Ús i diagnòstic</string>
+    <string name="common_yesterday">Ahir</string>
+    <string name="confirm_copy_button_text">Copia</string>
+    <string name="contacts_number_device_and_icloud">"%1$d d'iCloud®, %2$d del dispositiu"</string>
+    <string name="contacts_number_device_and_icloud_with_google">"Contactes de Google, %1$d d'iCloud®, %2$d del dispositiu"</string>
+    <string name="contacts_number_device_and_sim_with_google">Contactes de Google, %1$d de la SIM, %2$d del dispositiu</string>
+    <string name="contacts_number_device_with_google">Contactes de Google, %1$d del dispositiu</string>
+    <string name="contacts_number_icloud_with_google">"Contactes de Google, %1$d d'iCloud®"</string>
+    <string name="contacts_number_sim_with_google">Contactes de Google, %1$d de la SIM</string>
+    <string name="continue_to_login_heading">Inicia la sessió.</string>
+    <string name="continue_to_login_text">"S'han acceptat les credencials. Ja pots iniciar la sessió al primer dispositiu."</string>
+    <string name="copy_confirmation_description">Es copiaran aplicacions i dades, com ara el teu compte de Google, al telèfon nou</string>
+    <string name="copy_confirmation_title">Vols copiar-ho al telèfon nou?</string>
+    <string name="d2d_app_picker_description_no_apps">No hem trobat cap aplicació</string>
+    <string name="d2d_app_picker_title">Aplicacions</string>
+    <string name="d2d_migration_canceled_on_source">"S'ha cancel·lat la còpia"</string>
+    <string name="data_copied_fragment_description">"Les teves dades s'han copiat al telèfon nou. Ja pots desconnectar el cable."</string>
+    <string name="data_copied_fragment_description_cancel">"Has decidit aturar la còpia, de manera que només s'han copiat algunes dades al telèfon nou."</string>
+    <string name="data_copied_fragment_description_cancel_no_data">"Has decidit aturar la còpia, de manera que no s'ha copiat res al telèfon nou."</string>
+    <string name="data_copied_fragment_description_error">"S'ha produït un error i no hem pogut copiar-ho tot."</string>
+    <string name="data_copied_fragment_description_error_no_data">"S'ha produït un error i no hem pogut copiar les teves dades."</string>
+    <string name="data_copied_fragment_no_data_title">"No s'ha pogut copiar"</string>
+    <string name="data_copied_fragment_some_data_title">"S'han copiat algunes dades"</string>
+    <string name="data_copied_fragment_title">Dades copiades</string>
+    <string name="device_backup_title">Còpia de seguretat del dispositiu</string>
+    <string name="device_not_supported_fragment_new_device">"Has connectat un telèfon nou. Per continuar, torna a connectar l'anterior."</string>
+    <string name="device_not_supported_fragment_new_device_title">Torna a connectar el telèfon anterior</string>
+    <string name="device_not_supported_fragment_no_data_cable">Aquest cable no pot transferir dades. Connecta un cable diferent i torna-ho a provar.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Prova un altre cable</string>
+    <string name="device_not_supported_fragment_retry_description">"Comprova que el telèfon antic estigui desbloquejat i, a continuació, desconnecta el cable i torna'l a connectar"</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">"S'ha produït un error"</string>
+    <string name="device_not_supported_ios_supervised_description">El teu dispositiu iPhone® està supervisat, així que hauràs de triar una altra manera de copiar les dades</string>
+    <string name="device_picker_description">"Les còpies de seguretat s'emmagatzemen a Google Drive"</string>
+    <string name="device_picker_empty">No hi ha cap còpia de seguretat enllaçada a %1$s.</string>
+    <string name="device_picker_empty_title">"No s'ha trobat cap còpia de seguretat"</string>
+    <string name="device_picker_item">Còpia de seguretat de: %1$s</string>
+    <string name="device_picker_last_used">Últim ús: ^1</string>
+    <string name="device_picker_skip">No restauris</string>
+    <string name="device_picker_title">Tria la còpia de seguretat que vulguis restaurar</string>
+    <string name="disabled_by_admin_summary_text">"Controlada per l'administrador"</string>
+    <string name="download_msg_error_invalid">"La baixada no s'ha configurat correctament."</string>
+    <string name="download_msg_in_progress">La baixada està en curs.</string>
+    <string name="download_msg_not_allowed_space">No hi ha prou espai per dur a terme la baixada.</string>
+    <string name="download_msg_pending">La baixada està pendent.</string>
+    <string name="download_notification_description">%1$s ho ha sol·licitat.</string>
+    <string name="download_notification_title">"S'estan obtenint més dades"</string>
+    <string name="drive_backup_account">Compte de còpia de seguretat</string>
+    <string name="drive_backup_apps_in_backup">"Dades d'aplicacions amb còpia de seguretat"</string>
+    <string name="drive_backup_apps_last_backup">Última còpia de seguretat</string>
+    <string name="drive_backup_apps_loading">"S'està carregant…"</string>
+    <string name="drive_backup_apps_screen_title">"Dades d'aplicacions"</string>
+    <string name="drive_backup_content_apps_title">"Dades d'aplicacions"</string>
+    <string name="drive_backup_content_calendar_dialog_message">Els esdeveniments creats a Google Calendar se sincronitzaran en tots els dispositius en què hagis iniciat la sessió al teu compte de Google.</string>
+    <string name="drive_backup_content_calendar_title">Google Calendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">La còpia de seguretat inclou la data i el destinatari de les trucades rebudes i enviades.</string>
+    <string name="drive_backup_content_callhistory_title">Historial de trucades</string>
+    <string name="drive_backup_content_contacts_dialog_message">Els contactes creats a Contactes de Google se sincronitzaran en tots els dispositius en què hagis iniciat la sessió al teu compte de Google.</string>
+    <string name="drive_backup_content_contacts_title">Contactes de Google</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">La còpia de seguretat inclou la configuració del dispositiu, com ara el fons de pantalla, les contrasenyes de xarxes Wi-Fi i les aplicacions predeterminades.</string>
+    <string name="drive_backup_content_devicesettings_title">Configuració del dispositiu</string>
+    <string name="drive_backup_content_header">Contingut</string>
+    <string name="drive_backup_content_photos_dialog_message">"S'ha canviat el compte de còpia de seguretat principal. També pots canviar el compte de còpia de seguretat de Google Fotos per %s."</string>
+    <string name="drive_backup_content_photos_dialog_no">IGNORA</string>
+    <string name="drive_backup_content_photos_dialog_title">També vols canviar el compte de les fotos i dels vídeos?</string>
+    <string name="drive_backup_content_photos_dialog_yes">CANVIA</string>
+    <string name="drive_backup_content_photos_title">Fotos i vídeos</string>
+    <string name="drive_backup_content_sms_dialog_message">La còpia de seguretat inclou els missatges enviats i rebuts; no inclou el contingut multimèdia dels MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">"D'acord"</string>
+    <string name="drive_backup_content_status_error">"S'ha produït un error en obtenir la data de l'última sincronització"</string>
+    <string name="drive_backup_content_status_lastsaved">Última còpia de seguretat: %1$td %1$tb de %1$tY a les %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Última sincronització: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Còpia de seguretat pendent</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Configuració de sincronització</string>
+    <string name="drive_backup_content_status_sync_off">La sincronització està desactivada</string>
+    <string name="drive_backup_content_status_updating">"S'està comprovant l'estat…"</string>
+    <string name="drive_backup_disabled_backuplist">"La còpia de seguretat inclou:
+\u0009- Aplicacions i dades d'aplicacions
+\u0009- Historial de trucades
+\u0009- Configuració del dispositiu (incloses les contrasenyes de les xarxes Wi-Fi)
+\u0009- Google Calendar
+\u0009- Contactes de Google
+\u0009- Fotos i vídeos
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"La còpia de seguretat inclou el següent:
+\u0009- Aplicacions i dades d'aplicacions
+\u0009- Historial de trucades
+\u0009- Configuració del dispositiu (incloses les contrasenyes de les xarxes Wi-Fi)
+\u0009- Google Calendar
+\u0009- Contactes de Google
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">"Desactivada per l'administrador"</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Calendar, Contactes de Google, les fotos i els vídeos se sincronitzen amb el teu compte de Google i es poden fer servir en tots els serveis.
+
+La sincronització es pot activar fins i tot si la còpia de seguretat està desactivada. La configuració de sincronització es pot canviar a Configuració > Comptes > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Calendar i Contactes de Google se sincronitzen amb el teu compte de Google i es poden fer servir en tots els serveis.
+
+La sincronització es pot activar encara que la còpia de seguretat estigui desactivada. La configuració de sincronització es pot canviar a Configuració > Comptes > Google."</string>
+    <string name="drive_backup_disabled_introduction">"La còpia de seguretat automàtica t'assegura que puguis canviar de telèfon o restaurar-lo fàcilment en qualsevol moment."</string>
+    <string name="drive_backup_settings_title">Còpia de seguretat</string>
+    <string name="drive_backup_state">Crea una còpia de seguretat a Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"La còpia de seguretat de les dades del dispositiu desada a Google Drive se suprimirà de manera permanent.
+
+Les fotos i els vídeos de què s'hagi creat una còpia de seguretat anteriorment continuaran estant disponibles a Google Drive.
+
+Google Calendar i Contactes de Google se seguiran sincronitzant amb el teu compte de Google. La configuració de sincronització es pot canviar a Configuració > Comptes > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Les dades de la còpia de seguretat del dispositiu desades a Google Drive se suprimiran de manera permanent.
+
+Google Calendar i Contactes de Google es continuaran sincronitzant amb el teu compte de Google. La configuració de sincronització es pot canviar a Configuració > Comptes > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Desactiva i suprimeix</string>
+    <string name="drive_backup_state_dialog_title">Vols desactivar-ho i suprimir la còpia de seguretat?</string>
+    <string name="durationDayHour">%1$d dia %2$d h</string>
+    <string name="durationDayHours">%1$d dia %2$d h</string>
+    <string name="durationDays">%1$d dies</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d hores</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d minuts</string>
+    <string name="durationSecond">%1$d segon</string>
+    <string name="durationSeconds">%1$d segons</string>
+    <string name="encryption_warning_fragment_description">"El teu dispositiu iPhone® té la funció d'encriptació de la còpia de seguretat activada. Si no l'has activat manualment, és possible que ho hagi fet el departament d'administració de TI.
+
+Només es poden transferir fotos, música i vídeos. Per obtenir-ne més informació, visita "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Encriptació de la còpia de seguretat</string>
+    <string name="fido_begin_button">COMENÇA</string>
+    <string name="fido_ble_device_icon_content_description">Dispositiu Bluetooth detectat</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Mantén premut el botó de la clau durant 5 segons com a mínim per assegurar-te que estigui en mode de vinculació</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">"D'acord"</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">"S'ha produït un error"</string>
+    <string name="fido_ble_dont_see_your_key_hint">No veus la clau?</string>
+    <string name="fido_ble_enable_body">La clau de seguretat només funciona quan el Bluetooth del dispositiu està activat</string>
+    <string name="fido_ble_enable_title">Activa el Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">ACTIVA</string>
+    <string name="fido_ble_instructions_body">Per fer servir la majoria de les claus, només cal tocar el botó</string>
+    <string name="fido_ble_instructions_title">"Vols permetre l'ús de la teva clau de seguretat?"</string>
+    <string name="fido_ble_locate_pin_body">El PIN de vinculació sol ser un número de 4 o 6 xifres i pot ser que figuri a la part posterior de la clau. Continua quan estiguis a punt per introduir el PIN.</string>
+    <string name="fido_ble_locate_pin_continue_button">CONTINUA</string>
+    <string name="fido_ble_locate_pin_title">Troba el PIN de vinculació Bluetooth per a la teva clau %1$s</string>
+    <string name="fido_ble_pair_device_pairing">"S'està vinculant la teva clau de seguretat…"</string>
+    <string name="fido_ble_pair_instructions_body">Vincula la teva clau amb aquest dispositiu per poder-lo utilitzar amb el teu compte</string>
+    <string name="fido_ble_pair_instructions_title">Estàs a punt per vincular la teva clau de seguretat?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Torna a activar el mode de vinculació a la clau</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">TORNA-HO A PROVAR</string>
+    <string name="fido_ble_pairing_failure_dialog_title">"S'ha produït un error"</string>
+    <string name="fido_ble_pairing_mode_body">Mantén premut el botó de la clau de seguretat durant 5 segons com a mínim</string>
+    <string name="fido_ble_pairing_mode_title">Activa el mode de vinculació</string>
+    <string name="fido_ble_select_device_body">Selecciona a la llista següent la clau de seguretat que vulguis vincular amb el dispositiu. Pot ser que el nom estigui imprès a la part posterior de la clau.</string>
+    <string name="fido_ble_select_device_title">Selecciona la teva clau de seguretat</string>
+    <string name="fido_cancel_button">Cancel·la</string>
+    <string name="fido_nfc_enable_body">"La teva Clau de seguretat només funciona quan l'NFC del teu dispositiu està activada"</string>
+    <string name="fido_nfc_enable_title">"Activa l'NFC"</string>
+    <string name="fido_nfc_enable_turn_on_button">ACTIVA</string>
+    <string name="fido_nfc_instructions_body">Mantén la clau plana contra la part posterior del dispositiu fins que deixi de vibrar</string>
+    <string name="fido_nfc_instructions_title">"Vols permetre l'ús de la teva clau de seguretat?"</string>
+    <string name="fido_pair_another_security_key">Vincula una altra clau de seguretat</string>
+    <string name="fido_processing">"S'està verificant la teva clau de seguretat…"</string>
+    <string name="fido_transport_selection_bluetooth">Utilitza la clau de seguretat amb Bluetooth</string>
+    <string name="fido_transport_selection_body">Les claus de seguretat funcionen amb Bluetooth i NFC. Tria quin dels dos mètodes vols utilitzar.</string>
+    <string name="fido_transport_selection_nfc">Utilitza la clau de seguretat amb NFC</string>
+    <string name="fido_transport_selection_title">Tria com vols fer servir la clau de seguretat</string>
+    <string name="fido_use_ble_instead">Utilitza la clau de seguretat amb Bluetooth</string>
+    <string name="fido_use_nfc_instead">Utilitza la clau de seguretat amb NFC</string>
+    <string name="fido_welcome_body">"Fer servir la clau de seguretat amb %1$s t'ajuda a protegir les teves dades privades."</string>
+    <string name="fido_welcome_title">Utilitza la teva clau de seguretat amb %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">"No trobo l'adaptador"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Agafa el Quick Switch Adapter que vas rebre amb el dispositiu ^1.
+
+Connecta-hi el cable."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">"Connecta-hi l'adaptador i el cable"</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">"Desbloqueja el telèfon antic i endolla l'adaptador a aquest telèfon."</string>
+    <string name="fragment_usb_connect_both_phones_title">Connecta-hi els dos telèfons</string>
+    <string name="fragment_usb_dialog_cancel_description">"El cable és l'instrument que permet transferir més contingut. Si els cables que hi ha a la capsa no encaixen amb el teu telèfon antic, fes servir un cable de càrrega o de dades que s'hi pugui connectar."</string>
+    <string name="fragment_usb_dialog_cancel_title">"Vols transferir les dades d'una altra manera?"</string>
+    <string name="fragment_usb_dont_have_cable">No tinc cap cable</string>
+    <string name="fragment_usb_dont_have_old_phone">No tinc el telèfon antic</string>
+    <string name="fragment_usb_find_cable_description">Utilitza un cable que es pugui connectar al teu telèfon antic, com ara un cable de dades o de càrrega.</string>
+    <string name="fragment_usb_find_cable_title">Cerca el cable adequat</string>
+    <string name="fragment_usb_initial_description">Transfereix les dades del telèfon antic al dispositiu ^1.</string>
+    <string name="fragment_usb_initial_title">Copia les teves dades</string>
+    <string name="fragment_usb_legacy_description">"Aquesta és la manera més ràpida de transferir la major quantitat de dades possible.
+
+Connecta al telèfon nou l'adaptador que trobaràs a la capsa. A continuació, connecta els dos telèfons amb un cable i desbloqueja el telèfon antic."</string>
+    <string name="fragment_usb_other_ways">Transfereix les dades sense fer servir cap cable</string>
+    <string name="fragment_usb_plug_cable">Connecta el cable al telèfon antic</string>
+    <string name="fragment_waiting_title">Un moment…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Permisos de les aplicacions</string>
+    <string name="google_contacts_static_text">Contactes de Google se sincronitzarà</string>
+    <string name="google_contacts_static_text_off">Contactes de Google se sincronitzarà de totes maneres</string>
+    <string name="google_legal_title">Informació legal de Google</string>
+    <string name="google_play_tos_title">Termes i condicions de Google Play</string>
+    <string name="google_plus_privacy_policy_title">Política de privadesa de Google Plus</string>
+    <string name="google_privacy_policy_title">Política de privadesa de Google</string>
+    <string name="google_terms_of_service_title">Termes i condicions de Google</string>
+    <string name="header_set_backup_account">Compte de còpia de seguretat</string>
+    <string name="i_message_dialog_message">"Per continuar rebent missatges SMS d'usuaris de dispositius iPhone®, has de desactivar iMessage®.
+
+Vés a "<b>g.co/iMessageHelp</b> per consultar les instruccions.</string>
+    <string name="instant_apps_settings_title">Aplicacions instantànies</string>
+    <string name="instructions_fragment_title">"Continua a l'altre telèfon"</string>
+    <string name="ios_connected_fragment_description">"A la pantalla següent, pots iniciar la sessió al compte de Google o crear-ne un de nou.
+
+Si no afegeixes el teu compte de Google, els esdeveniments del Calendari d'iOS® no es transferiran."</string>
+    <string name="ios_message_attachment_explanation">[Els fitxers adjunts al missatge són a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]</string>
+    <string name="ios_message_attachment_failed_explanation">"[Alguns fitxers adjunts no s'han pogut transferir. Els fitxers transferits són a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]"</string>
+    <string name="ios_message_attachment_placeholder">[Fitxer adjunt desat a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]</string>
+    <string name="ios_message_attachments_placeholder">[Fitxers adjunts desats a Google Fotos > Carpetes del dispositiu > Fitxers adjunts del missatge]</string>
+    <string name="ios_migration_default_calendar_title">Calendari</string>
+    <string name="ios_migration_other_contact_relation">Una altra opció</string>
+    <string name="ios_photos_dialog_message">"Les fotos emmagatzemades a iCloud® no es poden copiar.
+
+Per transferir-les al dispositiu ^1, instal·la l'aplicació Google Fotos a l'iPhone® i activa l'opció Crea una còpia de seguretat i sincronitza. A la pàgina "<b>g.co/datatransferhelp</b> trobaràs les instruccions per fer-ho.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Afegeix un compte</string>
+    <string name="lockscreen_smartdevice_action_next">Següent</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Desbloqueja el telèfon per continuar amb la configuració</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Per motius de seguretat, has de confirmar el bloqueig de pantalla per continuar amb la configuració</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Confirma el bloqueig de pantalla</string>
+    <string name="manage_data_label">Compte de Google</string>
+    <string name="master_clear_title">Restableix les dades de fàbrica</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Recomanacions de xarxa</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Missatges per a xarxes Wi-Fi</string>
+    <string name="notification_channel_network_available">Hi ha una xarxa disponible</string>
+    <string name="notification_channel_wakeup_name">La xarxa Wi-Fi està activada</string>
+    <string name="notification_content_text_set_backup_account">Has de definir el compte de seguretat</string>
+    <string name="notification_content_title_set_backup_account">Crea un compte de seguretat</string>
+    <string name="notification_ticker">"S'ha sol·licitat accés"</string>
+    <string name="notification_ticker_set_backup_account">Cal un compte de seguretat</string>
+    <string name="open_in_web_button">Obre al web</string>
+    <string name="open_source_activity_prompt_heading">"Obre l'aplicació"</string>
+    <string name="open_source_activity_prompt_text">"Obre SourceResponseActivity al telèfon per completar el procés d'autenticació. "</string>
+    <string name="opt_in_account_content_description">Selecciona un compte. Ara mateix, %1$s és el que està seleccionat.</string>
+    <string name="opt_in_account_null_state">Crea un compte</string>
+    <string name="opt_in_agreement">En continuar, acceptes les <a href="https://play.google.com/about/play-terms.html">Condicions del servei de Google Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Més informació</a></string>
+    <string name="opt_in_confirm">Sí, ho accepto</string>
+    <string name="opt_in_description">"Quan toques un enllaç, Google Play comprova si hi ha una aplicació instantània i l'executa sense que hagis d'instal·lar-la. Les aplicacions instantànies es desen al dispositiu temporalment.
+
+Aquestes aplicacions et sol·liciten permisos a mesura que les utilitzes. La informació de les aplicacions, com ara les compres fetes des de les aplicacions, es pot consultar a Google Play Store. La configuració i les dades de les aplicacions se sincronitzen amb els dispositius en què hagis iniciat la sessió amb el compte següent:"</string>
+    <string name="opt_in_description_m_plus">"Quan toques un enllaç, Google Play comprova si hi ha una aplicació instantània i l'executa sense que hagis d'instal·lar-la. Les aplicacions instantànies es desen al dispositiu temporalment.
+
+La informació de les aplicacions, com ara les compres fetes des de les aplicacions, es pot consultar a Google Play Store. La configuració i les dades de les aplicacions se sincronitzen amb els dispositius en què hagis iniciat la sessió amb el compte següent:"</string>
+    <string name="opt_in_subtitle">"Utilitza aplicacions sense haver d'instal·lar-les"</string>
+    <string name="opt_in_title">Aplicacions instantànies</string>
+    <string name="permgrouplab_calendar">Calendari</string>
+    <string name="permgrouplab_camera">Càmera</string>
+    <string name="permgrouplab_contacts">Contactes</string>
+    <string name="permgrouplab_location">Ubicació</string>
+    <string name="permgrouplab_microphone">Micròfon</string>
+    <string name="permgrouplab_phone">Telèfon</string>
+    <string name="permgrouplab_sensors">Sensors corporals</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Emmagatzematge</string>
+    <string name="permissions_not_granted_text">Torna a iniciar la sessió per concedir permisos.</string>
+    <string name="permissions_not_granted_title">"Els permisos no s'han concedit."</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Ara no hi ha cap compte que emmagatzemi les fotos amb còpia de seguretat</string>
+    <string name="photos_backup_title">Còpia de seguretat de les fotos</string>
+    <string name="photos_filtering_option_all">Tot</string>
+    <string name="photos_filtering_option_none">Cap</string>
+    <string name="plus_manage_app_only_you_label">Només tu</string>
+    <string name="plus_network_unreliable">No es pot establir una connexió fiable amb el servidor.</string>
+    <string name="plus_oob_interstitial_loading_text">Aquest procés pot tardar uns quants minuts.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Els contactes copiats es desaran al teu compte de Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Els contactes i els calendaris copiats es desaran al teu compte de Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">És possible que algunes dades no es copiïn al teu ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Més informació</annotation></string>
+    <string name="restore_choice_deselect_some_content">Anul·la la selecció de part del contingut per continuar</string>
+    <string name="restore_choice_learn_more_android">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● baixades (com ara fitxers PDF)
+
+ ● fotos, vídeos i música emmagatzemats en carpetes ocultes
+
+ ● fotos, vídeos i música rebuts a través d'un missatge de text
+
+ ● aplicacions que no formen part de Google Play Store
+
+ ● dades d'aplicacions (si l'aplicació no fa servir Android Backup)
+
+ ● determinades opcions de configuració del dispositiu
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google
+
+ ● sons de trucada
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, vés a g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Algunes dades del teu telèfon antic no es poden copiar automàticament:
+
+ ● aplicacions i dades d'aplicacions
+
+ ● fotos que no tenen el fitxer original emmagatzemat al telèfon (per exemple, si l'opció Optimitza l'emmagatzematge està activada, les fotos originals es desen a iCloud®)
+
+ ● fitxers i documents emmagatzemats a iCloud®
+
+ ● configuració del dispositiu (com ara contrasenyes Wi-Fi i fons de pantalla)
+
+ ● música protegida amb gestió de drets digitals (DRM, Digital Rights Management), com ara la música d'iTunes® comprada abans del mes d'abril de 2009 o la música baixada per escoltar-la sense connexió en una aplicació de reproducció de música
+
+ ● comptes que no siguin de Google (i totes les dades associades)
+
+ ● contactes i calendaris sincronitzats amb serveis que no pertanyin a Google o a iCloud®
+
+ ● adreces d'interès de Safari®
+
+ Els fitxers adjunts d'iMessage® estaran disponibles a Google Fotos > Carpetes del dispositiu > Fitxers adjunts dels missatges.
+
+ Per obtenir més informació i ajuda per copiar algunes d'aquestes dades, vés a g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">No hi ha prou espai</string>
+    <string name="restore_choice_total_text">"de l'espai total disponible, %1$s / Durada de la transferència: %2$s"</string>
+    <string name="restore_error_message">"S'ha produït un error durant el procés de restauració."</string>
+    <string name="restore_instant_apps_notif_text">"L'element necessari %1$s s'ha suprimit d'aquest dispositiu"</string>
+    <string name="restore_instant_apps_notif_title">Restaura Aplicacions instantànies</string>
+    <string name="restore_item_appdata">"Dades d'aplicacions"</string>
+    <string name="restore_item_calendar">Calendari</string>
+    <string name="restore_item_calendar_ical_description">Calendari iOS®, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar se sincronitzarà de totes maneres</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar se sincronitzarà</string>
+    <string name="restore_item_call_logs">Historial de trucades</string>
+    <string name="restore_item_contacts">Contactes</string>
+    <string name="restore_item_device_settings_description">Contrasenyes Wi-Fi i més</string>
+    <string name="restore_item_downloads">Baixades</string>
+    <string name="restore_item_email">Correu electrònic</string>
+    <string name="restore_item_email_description">Gmail se sincronitzarà</string>
+    <string name="restore_item_message_attachments">Fitxers adjunts dels missatges</string>
+    <string name="restore_item_messages">Missatges</string>
+    <string name="restore_item_music">Música</string>
+    <string name="restore_item_photos">Fotos i vídeos</string>
+    <string name="restore_item_settings">Configuració del dispositiu</string>
+    <string name="restore_item_sms">Missatges SMS</string>
+    <string name="restore_item_will_be_synced_text">Se sincronitzarà amb el teu telèfon</string>
+    <string name="restore_progress_title">"S'està restaurant…"</string>
+    <string name="restore_supervisor_description">Per obrir enllaços en aplicacions instantànies, restaura %1$s</string>
+    <string name="restore_supervisor_success">Aplicacions instantànies restaurades correctament</string>
+    <string name="restore_supervisor_title">Vols restaurar les Aplicacions instantànies?</string>
+    <string name="search_menu_title">Cerca</string>
+    <string name="setup_failure_description">No es poden configurar les Aplicacions instantànies. <a href="https://support.google.com/googleplay/?p=instant_apps">Més informació</a></string>
+    <string name="setup_failure_title">No es pot configurar</string>
+    <string name="sharedUserLabel">Serveis de Google</string>
+    <string name="sid_lsid_grant_detail">"De la mateixa manera com passa amb les contrasenyes, les galetes d'identificació de la sessió (SID) i d'identificació de la sessió local (LSID) associen la teva identitat amb una sèrie de sol·licituds del navegador. També permeten l'accés complet a totes les dades del compte. Només els navegadors tenen permís per utilitzar aquestes galetes."</string>
+    <string name="sid_lsid_grant_label">Utilitza galetes SID i LSID per obtenir accés a totes les dades del compte de Google.</string>
+    <string name="small_time_duration">"Menys d'un minut"</string>
+    <string name="smartdevice_action_copy">Copia</string>
+    <string name="smartdevice_action_next">Següent</string>
+    <string name="smartdevice_action_open_app">"Obre l'aplicació"</string>
+    <string name="smartdevice_action_skip">Omet</string>
+    <string name="smartdevice_action_try_another_way">Prova un altre mètode</string>
+    <string name="smartdevice_action_turn_on_location">Activa la ubicació</string>
+    <string name="smartdevice_alert_disconnected_message">"S'ha desconnectat el dispositiu.
+Per continuar amb la configuració, connecta'l i torna a començar."</string>
+    <string name="smartdevice_alert_disconnected_title">"S'ha desconnectat el dispositiu"</string>
+    <string name="smartdevice_alert_dm_backup_account_message">"Malauradament no pots utilitzar aquesta funció perquè l'administrador del teu dispositiu gestiona el compte de còpia de seguretat."</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funció no disponible</string>
+    <string name="smartdevice_alert_exit_setup_message">"Confirmes que vols sortir de la configuració de l'altre dispositiu?"</string>
+    <string name="smartdevice_alert_exit_setup_title">Sortir de configuració del dispositiu?</string>
+    <string name="smartdevice_alert_generic_error_title">"S'ha produït un error"</string>
+    <string name="smartdevice_alert_generic_error_toast_text">"S'ha produït un error"</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Cal com a mínim un compte de Google per configurar el dispositiu.</string>
+    <string name="smartdevice_alert_no_accounts_text">Cal com a mínim un compte de Google per configurar %s.</string>
+    <string name="smartdevice_alert_no_accounts_title">No hi ha cap compte per copiar</string>
+    <string name="smartdevice_alert_quit_button">Surt</string>
+    <string name="smartdevice_alert_restart_setup_button">Reinicia la configuració</string>
+    <string name="smartdevice_alert_setup_incomplete">"No s'ha completat la configuració"</string>
+    <string name="smartdevice_alert_skip_button">Omet</string>
+    <string name="smartdevice_alert_start_over_button">Torna a començar</string>
+    <string name="smartdevice_alert_work_profile_message">Els comptes professionals encara no es poden copiar. Quan hagis copiat la resta de comptes de Google i les dades, vés a Configuració des del dispositiu nou per afegir-hi el compte professional.</string>
+    <string name="smartdevice_alert_work_profile_title">No es pot copiar un compte professional</string>
+    <string name="smartdevice_application_label">Configuració del dispositiu</string>
+    <string name="smartdevice_choose_device">Tria el dispositiu</string>
+    <string name="smartdevice_companion_app_ready">"L'aplicació %s ja està instal·lada en aquest dispositiu."</string>
+    <string name="smartdevice_connect_to_wifi">Connecta el dispositiu</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">"S'està connectant amb el dispositiu…"</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Es copiaran els comptes de Google, altres comptes, les aplicacions i les dades</string>
+    <string name="smartdevice_d2d_copy_account_text">"Confirmes que vols copiar els comptes de Google, les aplicacions i les dades a l'altre dispositiu?"</string>
+    <string name="smartdevice_d2d_copy_account_title">Vols copiar al dispositiu?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">"No s'ha reconegut"</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Prova la pantalla de bloqueig</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">"Per motius de seguretat, cal que confirmis l'empremta digital. Els teus Comptes de Google, les aplicacions i les dades es copiaran al dispositiu %s."</string>
+    <string name="smartdevice_d2d_lockscreen_description">Desbloqueja el dispositiu per seguir configurant-lo</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Per motius de seguretat, confirma el bloqueig de pantalla per continuar la configuració.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Confirma per continuar</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">"La connexió mitjançant Bluetooth no està disponible en aquest dispositiu i, per tant, no es pot configurar l'altre dispositiu des d'aquí."</string>
+    <string name="smartdevice_d2d_source_disabled_text">"Aquest element s'ha desactivat per motius de seguretat. A l'altre dispositiu, toca Omet per continuar amb la configuració."</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Configurar un dispositiu nou</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Configuració del dispositiu</string>
+    <string name="smartdevice_d2d_source_notification_title">Configuració de ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Reinicieu la configuració i trieu el dispositiu ^1 per assegurar-vos que copieu les aplicacions i les dades dels comptes de Google al dispositiu correcte.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">¿No veieu el codi?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">¿No veieu el codi?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">"Cerqueu aquest codi a l'altre dispositiu per confirmar que trieu el correcte"</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Verifica el codi</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">"No es pot configurar un dispositiu nou des d'un perfil d'usuari restringit."</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Acaba la configuració a %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Gairebé ja has acabat.</string>
+    <string name="smartdevice_d2d_target_choice_description">Si fas servir un altre dispositiu Android, pots copiar ràpidament la teva configuració actual en aquest dispositiu (%s).</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Recupera tota la informació possible del teu dispositiu antic si és Android</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Configura el dispositiu com si fos nou</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">"Copia d'un altre dispositiu Android"</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">No, gràcies</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Segueix els passos que hi ha a continuació per configurar aquest dispositiu</string>
+    <string name="smartdevice_d2d_target_choice_title">Tens un altre dispositiu?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">"Copia comptes de Google, aplicacions i dades d'un altre dispositiu"</string>
+    <string name="smartdevice_d2d_target_continue_description">"Continua la configuració a l'altre dispositiu."</string>
+    <string name="smartdevice_d2d_target_copying_accounts">"S'estan copiant els comptes…"</string>
+    <string name="smartdevice_d2d_target_description">"A l'altre dispositiu:&lt;br/>&lt;br/> 1. Digues &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> o escriu \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" i toca per confirmar-ho&lt;br/>&lt;br/> 2. Toca &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> a la llista i segueix les instruccions que es mostren en pantalla"</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Prova això</string>
+    <string name="smartdevice_d2d_target_google_settings_description">"A l'altre dispositiu:&lt;br/>&lt;br/> 1. Obre l'aplicació &lt;b>Configuració Google&lt;/b>.&lt;br/>&lt;br/> 2. Selecciona &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Configura un dispositiu proper>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 3. Toca &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> a la llista i segueix les instruccions que es mostren en pantalla."</string>
+    <string name="smartdevice_d2d_target_google_settings_link">No es poden completar aquests passos</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Utilitza Configuració</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">"A l'altre dispositiu:&lt;br/>&lt;br/> 1. Toca la icona Totes les aplicacions i, a continuació, obre l'&lt;b>aplicació Configuració&lt;/b>. &lt;br/>&lt;br/> 2. Toca &lt;b>Google&lt;/b>. &lt;br/>&lt;br/> 3. Selecciona &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Configura un dispositiu proper>%1$s&lt;/xliff:g>&lt;/b>. &lt;br/>&lt;br/> 4. Toca &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> a la llista i segueix les instruccions en pantalla."</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">"Copia d'un altre dispositiu Android"</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Tens problemes?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">No el trobes?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">"Obre l'aplicació Google a l'altre dispositiu"</string>
+    <string name="smartdevice_d2d_target_instruction_description">"Obre l'aplicació Google"</string>
+    <string name="smartdevice_d2d_target_instruction_title">En un altre dispositiu</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Per fer la còpia: 
+
+1. Assegura't que l'altre dispositiu estigui encès i desbloquejat 
+
+2. Apropa els dos dispositius per la part posterior fins que sentis un to i, a continuació, separa'ls"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">"La funció Toca i prou utilitza NFC per copiar els comptes de Google, les aplicacions i les dades d'un altre dispositiu. Assegura't que la funció NFC del dispositiu estigui activada al menú Configuració."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Tens problemes?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Funció Toca i prou</string>
+    <string name="smartdevice_d2d_target_other_device_description">"L'aplicació Google ve instal·lada a tots els dispositius Android. Toca el botó Totes les aplicacions de la pantalla d'inici i cerca la icona que et mostrem més amunt."</string>
+    <string name="smartdevice_d2d_target_pin_code_description">"Aquest codi ha de coincidir amb el de l'altre dispositiu:"</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">No ometis</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">La configuració no copiarà aquest compte ni les còpies de seguretat de les aplicacions i les dades en aquest dispositiu.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Omet igualment</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Vols ometre aquest compte?</string>
+    <string name="smartdevice_d2d_target_title">"A l'aplicació Google"</string>
+    <string name="smartdevice_default_device_name">dispositiu</string>
+    <string name="smartdevice_install_app">"Instal·lar l'aplicació"</string>
+    <string name="smartdevice_install_app_reason" formatted="false">"Baixa l'aplicació %s per controlar i gestionar el nou dispositiu %s des d'aquest dispositiu"</string>
+    <string name="smartdevice_install_on_this_device">Instal·la</string>
+    <string name="smartdevice_search_again">Torna a cercar</string>
+    <string name="smartdevice_searching_for_devices">"S'estan cercant dispositius"</string>
+    <string name="smartdevice_setup_enter_code">Introdueix el codi al dispositiu. Es mostrarà en un adhesiu.</string>
+    <string name="smartdevice_setup_enter_code_hint">Introdueix el codi</string>
+    <string name="smartdevice_setup_enter_pin_4">"Introdueix el codi de quatre dígits que es mostra a l'altre dispositiu"</string>
+    <string name="smartdevice_setup_info_installing_app">"S'està instal·lant l'aplicació…"</string>
+    <string name="smartdevice_setup_intro_text">"Per configurar l'altre dispositiu, s'utilitzaran la connexió Wi-Fi i el Bluetooth del telèfon."</string>
+    <string name="smartdevice_setup_intro_text_nfc">"Per configurar l'altre dispositiu, s'utilitzarà el Bluetooth del telèfon."</string>
+    <string name="smartdevice_setup_intro_title">Comencem</string>
+    <string name="smartdevice_setup_password_hint">Introdueix la contrasenya de la xaxa Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Mostra la contrasenya</string>
+    <string name="smartdevice_setup_title_verify_code">Verificar el codi</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Per configurar aquest dispositiu, només es poden utilitzar xarxes obertes i xarxes WPA/WPA2</string>
+    <string name="smartdevice_wifi_cannot_connect_title">No es pot utilitzar la xarxa Wi-Fi</string>
+    <string name="smartdevice_wifi_skip_dialog_text">"Sense Wi-Fi, és possible que el dispositiu no funcioni correctament. Per continuar amb la configuració, connecta'l a una xarxa Wi-Fi."</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Tria una xarxa Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Per cercar xarxes Wi-Fi, activa la ubicació.
+
+Podràs tornar a canviar aquesta opció més tard a Configuració."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">No es poden cercar xarxes Wi-Fi</string>
+    <string name="source_connected_description">"S'està preparant…"</string>
+    <string name="source_connected_title">"S'ha connectat al dispositiu %1$s"</string>
+    <string name="source_copying_description">"Les dades que has triat s'estan copiant al telèfon nou"</string>
+    <string name="source_copying_title">"S'està copiant…"</string>
+    <string name="source_default_target_device_name">dispositiu nou</string>
+    <string name="source_notification_device_disconnected">Torna a connectar el cable</string>
+    <string name="source_notification_text">Transferència de telèfon a telèfon en curs</string>
+    <string name="source_notification_title">Transferència de dades</string>
+    <string name="source_success_description">Finalitza la configuració al dispositiu %1$s.</string>
+    <string name="source_success_screen_title">Fet!</string>
+    <string name="source_unplugged_description">Torna a connectar el dispositiu %1$s</string>
+    <string name="source_unplugged_title">"El cable s'ha desconnectat"</string>
+    <string name="source_waiting_title">Continua amb la configuració al dispositiu %1$s</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="stop_copying_dialog_continue_button">Ignora</string>
+    <string name="stop_copying_dialog_message_before_transfer">"Les dades no s'han copiat al telèfon nou"</string>
+    <string name="stop_copying_dialog_message_during_transfer">"Algunes dades no s'han copiat al telèfon nou"</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">No copiïs les dades</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Atura</string>
+    <string name="stop_copying_dialog_title_before_transfer">No vols copiar les dades?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Vols aturar la còpia?</string>
+    <string name="storage_management_wear_descriptive_text">"Les aplicacions fan servir l'emmagatzematge del dispositiu per replicar les dades en un complement connectat."</string>
+    <string name="storage_management_wear_manage_size_label">"Gestiona l'emmagatzematge dels complements connectats"</string>
+    <string name="storage_management_wear_size_label">Emmagatzematge de complements connectats</string>
+    <string name="storage_managment_all_storage_descriptive_text">"Les dades totals que utilitza l'aplicació Serveis de Google Play, incloses les dades del motor de cerca i altres dades"</string>
+    <string name="storage_managment_clear_all_data">Esborrar totes les dades</string>
+    <string name="storage_managment_computing_size">"S'està calculant..."</string>
+    <string name="storage_managment_icing_size_label">Dades de cerca</string>
+    <string name="storage_managment_manage_icing_button">Gestiona les dades de cerca</string>
+    <string name="storage_managment_search_index_descriptive_text">Accelerem la cerca al dispositiu proporcionant un motor de cerca que poden fer servir les teves aplicacions.</string>
+    <string name="storage_managment_title">Emmagatzematge de Serveis de Google Play</string>
+    <string name="storage_managment_total_size_label">Emmagatzematge total</string>
+    <string name="supervisor_downloading_description">"S'està baixant %1$s"</string>
+    <string name="supervisor_downloading_title">Espera un moment mentre configurem el dispositiu</string>
+    <string name="supervisor_installing_description">"S'està instal·lant %1$s"</string>
+    <string name="supervisor_title">Serveis de Google Play per a Aplicacions instantànies</string>
+    <string name="suw_back_button_label">Enrere</string>
+    <string name="suw_more_button_label">Més</string>
+    <string name="suw_next_button_label">Següent</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Toca per obtenir més informació</string>
+    <string name="system_update_activity_battery_low_text">"No hi ha prou bateria per instal·lar l'actualització"</string>
+    <string name="system_update_activity_name">Actualitzacions del sistema</string>
+    <string name="system_update_activity_roaming_text">No es poden baixar les actualitzacions del sistema en itinerància.</string>
+    <string name="system_update_activity_roaming_text_glif">"No es pot baixar l'actualització en itinerància"</string>
+    <string name="system_update_android_version_text">"Versió d'Android: ^1"</string>
+    <string name="system_update_check_now_button_text">Comprova actualitzacions</string>
+    <string name="system_update_checking_status_text">"S'està comprovant"</string>
+    <string name="system_update_complete_label">Actualització del sistema</string>
+    <string name="system_update_countdown_cancel_button">Cancel·la la instal·lació</string>
+    <string name="system_update_countdown_complete">"S'està reiniciant..."</string>
+    <string name="system_update_download_and_install_button_text">Baixa i instal·la</string>
+    <string name="system_update_download_button_text">Baixa</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">"No hi ha prou espai per baixar l'actualització"</string>
+    <string name="system_update_download_failed_no_space_status_text">No hi ha prou espai disponible per a la baixada.</string>
+    <string name="system_update_download_failed_status_text">"No s'ha pogut baixar."</string>
+    <string name="system_update_download_manage_storage_button_text">"Gestiona l'emmagatzematge"</string>
+    <string name="system_update_download_paused_no_wifi_status_text">"S'està esperant que hi hagi connexió Wi-Fi"</string>
+    <string name="system_update_download_paused_title_text">La baixada està en pausa</string>
+    <string name="system_update_download_retry_button_text">Torna a provar la baixada</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">"L'actualització es començarà a baixar automàticament entre ^1 i ^2."</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Pots baixar aquesta actualització amb Wi-Fi en qualsevol moment. Si no, es començarà a baixar automàticament entre ^1 i ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Per baixar aquesta actualització, primer cal que canviïs a la teva altra targeta SIM.</string>
+    <string name="system_update_download_waiting_status_text">"S'està esperant per baixar."</string>
+    <string name="system_update_downloading_status_text">"S'està baixant."</string>
+    <string name="system_update_downloading_title_text">"S'està baixant l'actualització del sistema…"</string>
+    <string name="system_update_downloading_wifi_status2_text">Mitjançant ^1 només fins a: ^2</string>
+    <string name="system_update_file_browser_ok_button">Selecciona</string>
+    <string name="system_update_file_browser_title">"Selecció d'un fitxer d'actualització"</string>
+    <string name="system_update_free_up_space_button_text">Allibera espai</string>
+    <string name="system_update_from_sd_card_button_and_title">Actualització des de la targeta SD</string>
+    <string name="system_update_from_sd_card_unknown_status">"S'està comprovant..."</string>
+    <string name="system_update_from_sd_card_verification_failure_status">"No s'ha pogut verificar."</string>
+    <string name="system_update_from_sd_card_verified_description">"L'actualització està verificada i ja es pot instal·lar."</string>
+    <string name="system_update_from_sd_card_verifying_status">"S'està verificant..."</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Cal una xarxa Wi-Fi sense límit</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">"Es recomana l'ús d'una Wi-Fi"</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Aquesta actualització es pot baixar mitjançant ^1 només fins a: ^2.
+
+Per continuar la baixada, connecta't a ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Has de connectar-te a una xarxa Wi-Fi</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">"Connecta't a una xarxa Wi-Fi sense límit per evitar possibles càrrecs per l'ús de dades."</string>
+    <string name="system_update_install_button_text">Reinicia i instal·la</string>
+    <string name="system_update_install_failed_button_qualifier_text">"Problema d'instal·lació"</string>
+    <string name="system_update_install_failed_title_text">"No s'ha pogut fer l'actualització"</string>
+    <string name="system_update_install_steps_text">Pas ^1 de 2</string>
+    <string name="system_update_installing_title_text">"S'està instal·lant l'actualització del sistema…"</string>
+    <string name="system_update_last_checkin">Última comprovació: ^1.</string>
+    <string name="system_update_last_checkin_glif">Última comprovació: ^1</string>
+    <string name="system_update_managed_by_policy">"La teva organització controla l'actualització del programari del sistema per a aquest dispositiu."</string>
+    <string name="system_update_no_update_content_text">El sistema està actualitzat</string>
+    <string name="system_update_no_update_content_text_glif">El sistema està actualitzat</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">"No s'ha pogut baixar l'actualització del sistema."</string>
+    <string name="system_update_not_owner_text">Hi ha una actualització del programari del sistema disponible, però només la pot instal·lar el propietari.</string>
+    <string name="system_update_notification_header_name">Actualització del sistema Android</string>
+    <string name="system_update_pause_button_text">Posa la baixada en pausa</string>
+    <string name="system_update_processing_status_text">"S'està processant"</string>
+    <string name="system_update_requires_restart_status_text">Cal reiniciar</string>
+    <string name="system_update_restart_to_install_button_text">"Reinicia ara per instal·lar l'actualització"</string>
+    <string name="system_update_restart_to_update_button_text">Reinicia ara per actualitzar el sistema</string>
+    <string name="system_update_resume_button_text">Reprèn</string>
+    <string name="system_update_scheduled_status_text">Programada</string>
+    <string name="system_update_security_patch_level_text">Nivell del pedaç de seguretat: ^1</string>
+    <string name="system_update_security_update_available_title_text">Hi ha una actualització de seguretat disponible</string>
+    <string name="system_update_security_update_downloading_title_text">"S'està baixant l'actualització de seguretat…"</string>
+    <string name="system_update_security_update_installing_title_text">"S'està instal·lant l'actualització de seguretat…"</string>
+    <string name="system_update_size_label">"Mida de l'actualització:"</string>
+    <string name="system_update_suw_download_and_install_text">"Aquesta actualització pot tardar uns quants minuts a baixar-se i instal·lar-se.
+
+A continuació, el dispositiu es reiniciarà automàticament."</string>
+    <string name="system_update_suw_download_text">"Aquesta actualització pot tardar uns quants minuts a baixar-se.
+
+A continuació, el dispositiu es reiniciarà automàticament."</string>
+    <string name="system_update_suw_download_title">"S'està baixant l'actualització…"</string>
+    <string name="system_update_suw_restart_text">"El dispositiu es reiniciarà perquè es pugui instal·lar l'actualització del sistema."</string>
+    <string name="system_update_suw_restart_title">A punt de reiniciar</string>
+    <string name="system_update_suw_wifi_needed">Per continuar la baixada, selecciona ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">"Llisca cap a l'esquerra per baixar"</string>
+    <string name="system_update_update_available_notification_message">"Toca per obtenir més informació sobre l'actualització i baixar-la"</string>
+    <string name="system_update_update_available_notification_title">Actualització del sistema disponible</string>
+    <string name="system_update_update_available_tap_to_download">"Toca per baixar l'actualització"</string>
+    <string name="system_update_update_available_title_text">Hi ha una actualització del sistema disponible</string>
+    <string name="system_update_update_download_auto_paused_notification_title">La baixada està en pausa</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">No hi ha prou espai disponible</string>
+    <string name="system_update_update_downloaded_install_message_wearable">"Llisca cap a l'esquerra per instal·lar"</string>
+    <string name="system_update_update_downloaded_notification_message">"Toca per obtenir més informació sobre l'actualització i instal·lar-la"</string>
+    <string name="system_update_update_downloaded_notification_title">Actualització del sistema baixada</string>
+    <string name="system_update_update_downloaded_tap_to_install">"Toca per instal·lar l'actualització"</string>
+    <string name="system_update_verification_failed_text">Error de verificació</string>
+    <string name="system_update_verified_status_text">Baixada i verificada</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Problema de verificació</string>
+    <string name="system_update_verifying_status_text">"S'està verificant."</string>
+    <string name="system_update_wearable_countdown_message">"Es reiniciarà d'aquí a %d…"</string>
+    <string name="target_default_source_device_model">dispositiu antic</string>
+    <string name="target_device_not_supported_cant_continue_description">Hauràs de triar una alta manera de copiar les dades</string>
+    <string name="target_device_not_supported_cant_continue_title">"L'altre telèfon no és compatible"</string>
+    <string name="target_device_not_supported_try_restarting_description">"Desconnecta el cable i reinicia el telèfon antic. A continuació, torna a connectar el cable i segueix les instruccions que es mostren al telèfon Pixel.
+
+Si l'error no desapareix, és possible que hagis de fer la còpia d'una altra manera."</string>
+    <string name="target_device_not_supported_try_restarting_title">És possible que el telèfon no sigui compatible</string>
+    <string name="target_smart_device_timeout_add_account">AFEGEIX UN COMPTE</string>
+    <string name="target_smart_device_timeout_description">"Pots provar d'afegir el compte manualment"</string>
+    <string name="target_smart_device_timeout_dismiss">DESCARTA</string>
+    <string name="target_smart_device_timeout_title">Tens problemes?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Els telèfons estan connectats</string>
+    <string name="toast_reconnect_cable">Torna a connectar el cable</string>
+    <string name="transfer_finished_fragment_title">Estem afegint els últims retocs…</string>
+    <string name="transfer_summary_copied">Dades copiades</string>
+    <string name="transfer_summary_fragment_description">Ja pots desconnectar el cable.</string>
+    <string name="transfer_summary_fragment_finish">FINALITZA</string>
+    <string name="transfer_summary_fragment_title">El telèfon està gairebé a punt</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">"Algunes fotos no s'han copiat. "<annotation id="transfer_summary_learn_more">Més informació</annotation></string>
+    <string name="transfer_summary_not_copied">Dades no copiades</string>
+    <string name="transfer_summary_partial">"S'han copiat %1$s elements de %2$s"</string>
+    <string name="transfer_summary_will_sync">Les dades se sincronitzaran després de la configuració</string>
+    <string name="transferring_fragment_calculating_remaining_time">"S'està calculant quant falta…"</string>
+    <string name="transferring_fragment_header">"S'està copiant…"</string>
+    <string name="transferring_fragment_remaining_time">Temps restant: %1$s</string>
+    <string name="trust_instructions_description">Per continuar, comprova el dispositiu iPhone® i aprova la connexió</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari i iTunes són marques comercials d'Apple Inc., registrades als Estats Units i en altres països."</string>
+    <string name="unmetered_wifi_string">una xarxa Wi-Fi sense límit</string>
+    <string name="url_load_unsuccessful_message">"El teu dispositiu Android no està connectat a cap servei de dades mòbils. Per accedir a aquesta informació ara, vés a %s des d'un navegador web."</string>
+    <string name="url_load_unsuccessful_message_wifi_only">El teu dispositiu Android no està connectat a una xarxa Wi-Fi. Per visualitzar aquesta informació ara, visita %s amb un navegador web.</string>
+    <string name="use_nearby_device_heading">Fas servir un dispositiu proper?</string>
+    <string name="use_nearby_device_text">Vols fer servir un dispositiu proper per concedir les credencials?</string>
+    <string name="waiting_for_account_info_text">"S'està esperant la informació del compte…"</string>
+    <string name="wifi_available_action_all_networks">Totes les xarxes</string>
+    <string name="wifi_available_action_connect">"Connecta-t'hi"</string>
+    <string name="wifi_available_content_failed">Toca per veure totes les xarxes</string>
+    <string name="wifi_available_title">"Connecta't a una xarxa Wi-Fi oberta"</string>
+    <string name="wifi_available_title_connected">"S'ha connectat a la xarxa Wi-Fi"</string>
+    <string name="wifi_available_title_connecting">"S'està connectant a una xarxa Wi-Fi oberta"</string>
+    <string name="wifi_available_title_failed">"No s'ha pogut connectar a la xarxa Wi‑Fi"</string>
+    <string name="wifi_string">una xarxa Wi-Fi</string>
+    <string name="wifi_wakeup_enabled_notification_context">"Ets a prop d'una xarxa desada: %1$s"</string>
+    <string name="wifi_wakeup_enabled_notification_title">"La Wi‑Fi s'ha activat automàticament"</string>
+</resources>

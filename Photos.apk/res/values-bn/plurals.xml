@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">অন্যান্য %d জনের বেশি</item>
+        <item quantity="one">অন্যান্য %d জনের বেশি</item>
+    </plurals>
+    <plurals name="autocomplete_ellipsis_text">
+        <item quantity="other">এবং অন্যান্য %d জন</item>
+        <item quantity="one">এবং অন্যান্য %d জন</item>
+    </plurals>
+    <plurals name="delete_everywhere_message_text">
+        <item quantity="other">এই আইটেমগুলিকে ট্র্যাসে সরালে, তাদের এই জায়গাগুলি থেকেও সরিয়ে ফেলা হবে</item>
+        <item quantity="one">এই আইটেমগুলিকে ট্র্যাসে সরালে, তাদের এই জায়গাগুলিকে থেকেও সরিয়ে ফেলা হবে</item>
+    </plurals>
+    <plurals name="file_too_big_for_trash_message">
+        <item quantity="other">এই আইটেমগুলি এতটাই বড় যে তা আপনার ডিভাইসের ট্র্যাসে ধরবে না। আপনি তাদের মুছে দিলে, এটি আপনার ডিভাইস ও অ্যাকাউন্ট থেকে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="one">এই আইটেমগুলি এতটাই বড় যে তা আপনার ডিভাইসের ট্র্যাসে ধরবে না। আপনি তাদের মুছে দিলে, এটি আপনার ডিভাইস ও অ্যাকাউন্ট থেকে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$dটি আইটেম স্ক্যান করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম স্ক্যান করা হয়েছে</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$dটি আইটেম নির্বাচন করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম নির্বাচন করা হয়েছে</item>
+    </plurals>
+    <plurals name="moved_to_trash_undo_text">
+        <item quantity="other">%dটি আইটেম ট্র্যাসে সরানো হয়েছে</item>
+        <item quantity="one">%dটি আইটেম ট্র্যাসে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%dটি মন্তব্য</item>
+        <item quantity="one">%dটি মন্তব্য</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_album_limit">
+        <item quantity="other">নতুন অ্যালবামের আকার বর্তমানে %1$dটি আইটেমের সীমার থেকে বড়৷</item>
+        <item quantity="one">নতুন অ্যালবামের আকার বর্তমানে %1$dটি আইটেমের সীমার থেকে বড়৷</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">অ্যালবামে %1$dটি আইটেম রাখা যাবে৷</item>
+        <item quantity="one">অ্যালবামে %1$dটি আইটেম রাখা যাবে৷</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_confirmation">
+        <item quantity="other">অ্যালবাম থেকে %1$dটি আইটেম সরাবেন?</item>
+        <item quantity="one">অ্যালবাম থেকে %1$dটি আইটেম সরাবেন?</item>
+    </plurals>
+    <plurals name="photos_album_editalbumphotos_remove_from_album">
+        <item quantity="other">অ্যালবাম থেকে %dটি আইটেম সরানো হচ্ছে…</item>
+        <item quantity="one">অ্যালবাম থেকে %dটি আইটেম সরানো হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_added">
+        <item quantity="other">%dটি অবস্থান যোগ করা হয়েছে</item>
+        <item quantity="one">%dটি অবস্থান যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_location_subsentence">
+        <item quantity="other">%dটি অবস্থান</item>
+        <item quantity="one">%dটি অবস্থান</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_locations_and_maps_added_maps_subsentence">
+        <item quantity="other">%dটি মানচিত্র</item>
+        <item quantity="one">%dটি মানচিত্র</item>
+    </plurals>
+    <plurals name="photos_album_enrichment_ui_maps_added">
+        <item quantity="other">%dটি মানচিত্র যোগ করা হয়েছে</item>
+        <item quantity="one">%dটি মানচিত্র যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_item_pending">
+        <item quantity="other">এই অ্যালবাম থেকে আইটেমগুলিকে সরানো হচ্ছে…</item>
+        <item quantity="one">এই অ্যালবাম থেকে আইটেমগুলিকে সরানো হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_items_removed">
+        <item quantity="other">%dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_photo_pending">
+        <item quantity="other">এই অ্যালবাম থেকে ফটোগুলিকে সরানো হচ্ছে…</item>
+        <item quantity="one">এই অ্যালবাম থেকে ফটোগুলিকে সরানো হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_album_removefromalbum_video_pending">
+        <item quantity="other">এই অ্যালবাম থেকে ভিডিওগুলিকে সরানো হচ্ছে…</item>
+        <item quantity="one">এই অ্যালবাম থেকে ভিডিওগুলিকে সরানো হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_albums_grid_items_count">
+        <item quantity="other">%1$dটি আইটেম</item>
+        <item quantity="one">%1$dটি আইটেম</item>
+    </plurals>
+    <plurals name="photos_allphotos_data_album_items_title">
+        <item quantity="other">%dটি আইটেম</item>
+        <item quantity="one">%dটি আইটেম</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_delete_title">
+        <item quantity="other">ডিভাইসের প্রতিলিপিগুলি মুছবেন?</item>
+        <item quantity="one">ডিভাইসের প্রতিলিপিগুলি মুছবেন?</item>
+    </plurals>
+    <plurals name="photos_allphotos_ui_actionconfirmation_local_only_delete_message">
+        <item quantity="other">এই আইটেমগুলির আপনার ফটো লাইব্রেরিতে ব্যাক আপ নেওয়া হয়নি এবং এখন সেগুলি মুছে দিলে তাদের স্থায়ীভাবে আপনার ফটো থেকে সরিয়ে ফেলা হবে</item>
+        <item quantity="one">এই আইটেমগুলির আপনার ফটো লাইব্রেরিতে ব্যাক আপ নেওয়া হয়নি এবং এখন সেগুলি মুছে দিলে তাদের স্থায়ীভাবে আপনার ফটো থেকে সরিয়ে ফেলা হবে</item>
+    </plurals>
+    <plurals name="photos_archive_actions_archived_toast_text">
+        <item quantity="other">%dটি আইটেম আর্কাইভ করা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম আর্কাইভ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_archive_actions_unarchived_toast_text">
+        <item quantity="other">%dটি আইটেম আর্কাইভ থেকে সরানো হয়েছে</item>
+        <item quantity="one">%dটি আইটেম আর্কাইভ থেকে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_items_left">
+        <item quantity="other">%dটি আইটেম বাকি আছে</item>
+        <item quantity="one">%dটি আইটেম বাকি আছে</item>
+    </plurals>
+    <plurals name="photos_assistant_autobackup_photos_to_back_up">
+        <item quantity="other">%dটি আইটেমের ব্যাক আপ নেওয়া বাকি</item>
+        <item quantity="one">%dটি আইটেমের ব্যাক আপ নেওয়া বাকি</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left">
+        <item quantity="other">%dটি ফটো বাকি আছে</item>
+        <item quantity="one">%dটি ফটো বাকি আছে</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_items_left_to_back_up">
+        <item quantity="other">%dটি ফটোর ব্যাক আপ নেওয়া বাকি আছে</item>
+        <item quantity="one">%dটি ফটোর ব্যাক আপ নেওয়া বাকি আছে</item>
+    </plurals>
+    <plurals name="photos_autobackup_widget_photos_to_be_uploaded">
+        <item quantity="other">%dটি ফটোর ব্যাক আপ নেওয়া যায়নি</item>
+        <item quantity="one">%dটি ফটোর ব্যাক আপ নেওয়া যায়নি</item>
+    </plurals>
+    <plurals name="photos_backup_notifications_stalled_notification_title">
+        <item quantity="other">%1$dটি ফটোর ব্যাক আপ নেওয়া হয়নি</item>
+        <item quantity="one">%1$dটি ফটোর ব্যাক আপ নেওয়া হয়নি</item>
+    </plurals>
+    <plurals name="photos_burst_actionsheet_trash_all">
+        <item quantity="other">%dটি ফটোর সবকটি</item>
+        <item quantity="one">%dটি ফটোর সবকটি</item>
+    </plurals>
+    <plurals name="photos_create_add_to_album_local_photos_offline_title">
+        <item quantity="other">%dটি ফটোর ব্যাক আপ নেওয়া হয়নি</item>
+        <item quantity="one">%dটি ফটোর ব্যাক আপ নেওয়া হয়নি</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_album_limit">
+        <item quantity="other">নতুন অ্যালবামের আকার বর্তমানে %1$dটি আইটেমের সীমার থেকে বড়।</item>
+        <item quantity="one">নতুন অ্যালবামের আকার বর্তমানে %1$dটি আইটেমের সীমার থেকে বড়।</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_album_will_be_too_large_new_estimate_size">
+        <item quantity="other">অ্যালবামে %1$dটি আইটেম রাখা যাবে।</item>
+        <item quantity="one">অ্যালবামে %1$dটি আইটেম রাখা যাবে।</item>
+    </plurals>
+    <plurals name="photos_create_addtoalbum_success_existing_album">
+        <item quantity="other">%1$dটি আইটেম যোগ করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_add_to_album">
+        <item quantity="other">এই অ্যালবামে সর্বাধিক %dটি আইটেম রাখা যাবে।</item>
+        <item quantity="one">এই অ্যালবামে সর্বাধিক %dটি আইটেম রাখা যাবে।</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_max">
+        <item quantity="other">সর্বাধিক %dটি আইটেম নির্বাচন করুন৷</item>
+        <item quantity="one">সর্বাধিক %dটি আইটেম নির্বাচন করুন৷</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_min">
+        <item quantity="other">কমপক্ষে %dটি আইটেম নির্বাচন করুন।</item>
+        <item quantity="one">কমপক্ষে %dটি আইটেম নির্বাচন করুন।</item>
+    </plurals>
+    <plurals name="photos_create_mediabundle_validation_error_story_time_delta">
+        <item quantity="other">অনুগ্রহ করে %d দিনের ব্যাপ্তির মধ্য থেকে আইটেমগুলি নির্বাচন করুন৷</item>
+        <item quantity="one">অনুগ্রহ করে %d দিনের ব্যাপ্তির মধ্য থেকে আইটেমগুলি নির্বাচন করুন৷</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_existing_album">
+        <item quantity="other">অ্যালবামে %dটি আইটেম যোগ কর্রা হচ্ছে…</item>
+        <item quantity="one">অ্যালবামে %dটি আইটেম যোগ করা হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_create_uploadhandlers_success_existing_album">
+        <item quantity="other">%dটি আইটেম যোগ করা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_dateformat_n_days_ago">
+        <item quantity="other">%d দিন আগে</item>
+        <item quantity="one">%d দিন আগে</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_24_hours">
+        <item quantity="other">%d ঘণ্টা</item>
+        <item quantity="one">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_31_days">
+        <item quantity="other">%d সপ্তাহ</item>
+        <item quantity="one">%d সপ্তাহ</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_hour">
+        <item quantity="other">%d মিনিট</item>
+        <item quantity="one">%d মিনিট</item>
+    </plurals>
+    <plurals name="photos_dateformat_within_seven_days">
+        <item quantity="other">%d দিন</item>
+        <item quantity="one">%d দিন</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_dialog_title_text">
+        <item quantity="other">%1$dটি আইটেম সরাবেন?</item>
+        <item quantity="one">%1$dটি আইটেম সরাবেন?</item>
+    </plurals>
+    <plurals name="photos_devicemanagement_assistant_freeing_up_space_subtitle">
+        <item quantity="other">%1$dটি আসল ফটো বা ভিডিও সরানো হচ্ছে</item>
+        <item quantity="one">%1$dটি আসল ফটো বা ভিডিও সরানো হচ্ছে</item>
+    </plurals>
+    <plurals name="photos_drawermenu_unread_assistant_card">
+        <item quantity="other">%dটি নতুন কার্ড</item>
+        <item quantity="one">%dটি নতুন কার্ড</item>
+    </plurals>
+    <plurals name="photos_envelope_feednoresources_commentbanner_num_comments">
+        <item quantity="other">%1$dটি মন্তব্য</item>
+        <item quantity="one">%1$dটি মন্তব্য</item>
+    </plurals>
+    <plurals name="photos_envelope_savetolibrary_pending">
+        <item quantity="other">লাইব্রেরিতে আইটেমগুলি সংরক্ষণ করা হচ্ছে…</item>
+        <item quantity="one">লাইব্রেরিতে আইটেমগুলি সংরক্ষণ করা হচ্ছে…</item>
+    </plurals>
+    <plurals name="photos_envelope_suggest_banner_related_photos_found">
+        <item quantity="other">%dটি সংশ্লিষ্ট ফটো পাওয়া গেছে। সেগুলি যোগ করবেন?</item>
+        <item quantity="one">%dটি সংশ্লিষ্ট ফটো পাওয়া গেছে। সেগুলি যোগ করবেন?</item>
+    </plurals>
+    <plurals name="photos_envelope_uploadhandler_success_adding">
+        <item quantity="other">%dটি আইটেম যোগ করা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_limits_exceed_shared_album_limit_n_left_message">
+        <item quantity="other">আপনি কেবলমাত্র আর %dটি আইটেম যোগ করতে পারবেন।</item>
+        <item quantity="one">আপনি কেবলমাত্র আর %dটি আইটেম যোগ করতে পারবেন।</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_delete_folder_on_device">
+        <item quantity="other">ফোল্ডারটি এবং তাতে থাকা %dটি আইটেম মুছুন</item>
+        <item quantity="one">ফোল্ডারটি এবং তাতে থাকা %dটি আইটেম মুছুন</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_error">
+        <item quantity="other">%dটি আইটেম কপি করা গেল না</item>
+        <item quantity="one">%dটি আইটেম কপি করা গেল না</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_copy_to_folder_success">
+        <item quantity="other">%dটি আইটেম কপি করা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম কপি করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_error">
+        <item quantity="other">%dটি আইটেম সরানো গেল না</item>
+        <item quantity="one">%dটি আইটেম সরানো গেল না</item>
+    </plurals>
+    <plurals name="photos_localmedia_ui_filemanagement_move_to_folder_success">
+        <item quantity="other">%dটি আইটেম সরানো হয়েছে</item>
+        <item quantity="one">%dটি আইটেম সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_places">
+        <item quantity="other">আপনার ফটোতে আরো %1$dটি স্থান রয়েছে</item>
+        <item quantity="one">আপনার ফটোতে আরো %1$dটি স্থান রয়েছে</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_2_categories_things">
+        <item quantity="other">আপনার ফটোতে আরো %1$dটি জিনিস রয়েছে</item>
+        <item quantity="one">আপনার ফটোতে আরো %1$dটি জিনিস রয়েছে</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_content_with_3_categories">
+        <item quantity="other">এছাড়াও আপনার ফটোতে থাকা %1$dটি স্থান এবং জিনিস</item>
+        <item quantity="one">এছাড়াও আপনার ফটোতে থাকা %1$dটি স্থান এবং জিনিস</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_people">
+        <item quantity="other">%1$d জন ব্যক্তিকে পাওয়া গেছে</item>
+        <item quantity="one">%1$d জন ব্যক্তিকে পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_places">
+        <item quantity="other">%1$dটি স্থান পাওয়া গেছে</item>
+        <item quantity="one">%1$dটি স্থান পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="photos_search_localclusters_notification_title_things">
+        <item quantity="other">%1$dটি জিনিস পাওয়া গেছে</item>
+        <item quantity="one">%1$dটি জিনিস পাওয়া গেছে</item>
+    </plurals>
+    <plurals name="photos_search_peoplelabeling_header_count">
+        <item quantity="other">%dটি ফটো</item>
+        <item quantity="one">%dটি ফটো</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$dটি আইটেম নির্বাচন করা হয়েছে</item>
+        <item quantity="one">%1$dটি আইটেম নির্বাচন করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_selection_cabmode_title_n_selected">
+        <item quantity="other">%dটি নির্বাচিত</item>
+        <item quantity="one">%dটি নির্বাচিত</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_error_title">
+        <item quantity="other">%1$dটি ফটো বা ভিডিও মোছা যায় নি</item>
+        <item quantity="one">%1$dটি ফটো বা ভিডিও মোছা যায় নি</item>
+    </plurals>
+    <plurals name="photos_settings_deleting_progress_title">
+        <item quantity="other">%1$dটি ফটো বা ভিডিও মোছা হচ্ছে...</item>
+        <item quantity="one">%1$dটি ফটো বা ভিডিও মোছা হচ্ছে...</item>
+    </plurals>
+    <plurals name="photos_share_handler_add_to_existing_album_success_toast_text">
+        <item quantity="other">অ্যালবামটিতে %dটি আইটেম যোগ করা হয়েছে</item>
+        <item quantity="one">অ্যালবামটিতে %dটি আইটেম যোগ করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_share_handler_background_share_waiting_for_upload">
+        <item quantity="other">সংযুক্ত হলে %dটি আইটেম আপলোড করা হবে</item>
+        <item quantity="one">সংযুক্ত হলে %dটি আইটেম আপলোড করা হবে</item>
+    </plurals>
+    <plurals name="photos_sharedlinks_subtitle_recipient_list">
+        <item quantity="other">%1$s এবং অন্যান্য %2$d জন</item>
+        <item quantity="one">%1$s এবং অন্যান্য %2$d জন</item>
+    </plurals>
+    <plurals name="photos_sharedmedia_envelope_items_title">
+        <item quantity="other">%dটি আইটেম</item>
+        <item quantity="one">%dটি আইটেম</item>
+    </plurals>
+    <plurals name="photos_trash_delete_delete_error">
+        <item quantity="other">আইটেমগুলি মোছা যাবে না</item>
+        <item quantity="one">আইটেমগুলি মোছা যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_error">
+        <item quantity="other">ডিভাইসের প্রতিলিপিগুলি মোছা যাবে না</item>
+        <item quantity="one">ডিভাইসের প্রতিলিপিগুলি মোছা যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_delete_local_only_delete_toast_text">
+        <item quantity="other">ডিভাইসের প্রতিলিপিগুলি মুছে ফেলা হয়েছে</item>
+        <item quantity="one">ডিভাইসের প্রতিলিপিগুলি মুছে ফেলা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_trash_delete_on_sd_card_title">
+        <item quantity="other">%dটি আইটেম মোছা যাবে না</item>
+        <item quantity="one">%dটি আইটেম মোছা যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_error">
+        <item quantity="other">%dটি আইটেম স্থায়ীভাবে মোছা যাবে না</item>
+        <item quantity="one">%dটি আইটেম স্থায়ীভাবে মোছা যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_item_pending">
+        <item quantity="other">আইটেমগুলি স্থায়ীভাবে মোছা হচ্ছে...</item>
+        <item quantity="one">আইটেমগুলি স্থায়ীভাবে মোছা হচ্ছে...</item>
+    </plurals>
+    <plurals name="photos_trash_delete_permanent_delete_toast_text">
+        <item quantity="other">%dটি আইটেম স্থায়ীভাবে মোছা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম স্থায়ীভাবে মোছা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_item_pending">
+        <item quantity="other">আইটেমগুলি পুনরুদ্ধার করা হচ্ছে...</item>
+        <item quantity="one">আইটেমগুলি পুনরুদ্ধার করা হচ্ছে...</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restore_photo_error">
+        <item quantity="other">%dটি আইটেম পুনরুদ্ধার করা যাবে না</item>
+        <item quantity="one">%dটি আইটেম পুনরুদ্ধার করা যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_restore_restored_from_trash_toast_text">
+        <item quantity="other">%dটি আইটেম ট্র্যাশ থেকে পুনরুদ্ধার করা হয়েছে</item>
+        <item quantity="one">%dটি আইটেম ট্র্যাশ থেকে পুনরুদ্ধার করা হয়েছে</item>
+    </plurals>
+    <plurals name="photos_trash_skip_trash_title">
+        <item quantity="other">আইটেমগুলি স্থায়ীভাবে মুছবেন?</item>
+        <item quantity="one">আইটেমগুলি স্থায়ীভাবে মুছবেন?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_message">
+        <item quantity="other">ট্র্যাস থেকে আইটেমগুলি মুছে দিলে তা আর ফিরে পাওয়া যাবে না</item>
+        <item quantity="one">ট্র্যাস থেকে আইটেমগুলি মুছে দিলে তা আর ফিরে পাওয়া যাবে না</item>
+    </plurals>
+    <plurals name="photos_trash_ui_delete_dialog_title">
+        <item quantity="other">আইটেমগুলি মুছবেন?</item>
+        <item quantity="one">আইটেমগুলি মুছবেন?</item>
+    </plurals>
+    <plurals name="photos_trash_ui_empty_trash_dialog_text_with_count">
+        <item quantity="other">স্থায়ীভাবে %dটি আইটেম মুছুন</item>
+        <item quantity="one">স্থায়ীভাবে %dটি আইটেম মুছুন</item>
+    </plurals>
+    <plurals name="photos_update_x_days_left">
+        <item quantity="other">এই সংস্করণের মেয়াদ শেষ হতে %d দিন বাকি আছে। Google ফটো ব্যবহার করা চালিয়ে যেতে, এখনই আপডেট করুন।</item>
+        <item quantity="one">এই সংস্করণের মেয়াদ শেষ হতে %d দিন বাকি আছে। Google ফটো ব্যবহার করা চালিয়ে যেতে, এখনই আপডেট করুন।</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description">
+        <item quantity="other">এখন এই আইটেমগুলির ব্যাক আপ নেওয়ার জন্য আপনাকে %s ডেটা ব্যবহার করতে হবে৷ ডেটার ব্যবহার উপেক্ষা করতে ওয়াই-ফাই এর সাথে সংযোগ করুন৷</item>
+        <item quantity="one">এখন এই আইটেমগুলির ব্যাক আপ নেওয়ার জন্য আপনাকে প্রায় %s ডেটা ব্যবহার করতে হবে৷ ডেটার ব্যবহার উপেক্ষা করতে ওয়াই-ফাই এর সাথে সংযোগ করুন৷</item>
+    </plurals>
+    <plurals name="photos_upload_manual_data_dialog_description_unknown">
+        <item quantity="other">এই আইটেমগুলির ব্যাক আপ নেওয়া হলে তা আপনার কিছু ডেটা ব্যবহার করবে৷ ডেটার ব্যবহার উপেক্ষা করতে ওয়াই-ফাই এর সাথে সংযোগ করুন৷</item>
+        <item quantity="one">এই আইটেমগুলির ব্যাক আপ নেওয়া হলে তা আপনার কিছু ডেটা ব্যবহার করবে৷ ডেটার ব্যবহার উপেক্ষা করতে ওয়াই-ফাই এর সাথে সংযোগ করুন৷</item>
+    </plurals>
+    <plurals name="photos_upload_title_uploading">
+        <item quantity="other">আপলোড করা হচ্ছে…%dটি বাকি</item>
+        <item quantity="one">আপলোড করা হচ্ছে…%dটি বাকি</item>
+    </plurals>
+    <plurals name="photos_uploadtoalbum_upload_media_num_files">
+        <item quantity="other">%dটি ফাইল</item>
+        <item quantity="one">%dটি ফাইল</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos">
+        <item quantity="other">%sটি ফটো</item>
+        <item quantity="one">%sটি ফটো</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_photos_or_videos">
+        <item quantity="other">%sটি আইটেম</item>
+        <item quantity="one">%sটি আইটেম</item>
+    </plurals>
+    <plurals name="picker_external_folder_subtitle_videos">
+        <item quantity="other">%sটি ভিডিও</item>
+        <item quantity="one">%sটি ভিডিও</item>
+    </plurals>
+    <plurals name="picker_external_title_photos">
+        <item quantity="other">ফটোগুলি নির্বাচন করুন</item>
+        <item quantity="one">ফটোগুলি নির্বাচন করুন</item>
+    </plurals>
+    <plurals name="picker_external_title_photos_or_videos">
+        <item quantity="other">আইটেমগুলি নির্বাচন করুন</item>
+        <item quantity="one">আইটেমগুলি নির্বাচন করুন</item>
+    </plurals>
+    <plurals name="picker_external_title_videos">
+        <item quantity="other">ভিডিওগুলি নির্বাচন করুন</item>
+        <item quantity="one">ভিডিওগুলি নির্বাচন করুন</item>
+    </plurals>
+    <plurals name="sendkit_ui_coalesced_expanded">
+        <item quantity="other">%1$s। %2$dটি যোগাযোগের পদ্ধতি</item>
+        <item quantity="one">%1$s। %2$dটি যোগাযোগের পদ্ধতি</item>
+    </plurals>
+    <plurals name="sendkit_ui_members">
+        <item quantity="other">%d জন সদস্য</item>
+        <item quantity="one">%d জন সদস্য</item>
+    </plurals>
+    <plurals name="sendkit_ui_multiple_contact_methods">
+        <item quantity="other">%dটি নির্বাচন করা হয়েছে</item>
+        <item quantity="one">%dটি নির্বাচন করা হয়েছে</item>
+    </plurals>
+    <plurals name="sendkit_ui_partially_selected_members">
+        <item quantity="other">%1$d জনের মধ্যে %2$d জন সদস্য বেছে নেওয়া হয়েছে</item>
+        <item quantity="one">%1$d জনের মধ্যে %2$d জন সদস্য বেছে নেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="sendkit_ui_selected_members">
+        <item quantity="other">%d জন সদস্য বেছে নেওয়া হয়েছে</item>
+        <item quantity="one">%d জন সদস্য বেছে নেওয়া হয়েছে</item>
+    </plurals>
+    <plurals name="trash_full_message">
+        <item quantity="other">আপনার ডিভাইসের ট্র্যাস ভর্তি। আপনি এই আইটেমগুলি মুছে দিলে, তাদের আপনার ডিভাইস ও অ্যাকাউন্ট থেকে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+        <item quantity="one">আপনার ডিভাইসের ট্র্যাস ভর্তি। আপনি এই আইটেমগুলি মুছে দিলে, তাদের আপনার ডিভাইস ও অ্যাকাউন্ট থেকে স্থায়ীভাবে মুছে ফেলা হবে।</item>
+    </plurals>
+</resources>

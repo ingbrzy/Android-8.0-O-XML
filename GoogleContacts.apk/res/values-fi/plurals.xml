@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d päällekkäistä yhteystietoa</item>
+        <item quantity="one">1 päällekkäinen yhteystieto</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d viimeaikaista puhelua • Viimeisin %2$s</item>
+        <item quantity="one">%1$d viimeaikainen puhelu • Viimeisin %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">%d yhteystieto</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d yhteystietoa, %2$s</item>
+        <item quantity="one">%1$d yhteystieto, %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Yhteystiedot poistettu</item>
+        <item quantity="one">Yhteystieto poistettu</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 yhteystietoa • ^2</item>
+        <item quantity="one">^1 yhteystieto • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Tuo SIM-korteilta</item>
+        <item quantity="one">Tuo SIM-kortilta</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d yhteystietoa</item>
+        <item quantity="one">1 yhteystieto</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">%d SIM-yhteystietoa tuotiin.</item>
+        <item quantity="one">Yksi SIM-yhteystieto tuotiin.</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Jaa yhteystiedot sovelluksella</item>
+        <item quantity="one">Jaa yhteystieto sovelluksella</item>
+    </plurals>
+</resources>

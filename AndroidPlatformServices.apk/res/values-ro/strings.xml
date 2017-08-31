@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAȚI</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți la %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="account_blocked_title">Contul a fost blocat</string>
+    <string name="account_level_title">Acțiune în cont necesară</string>
+    <string name="account_removed_notification_text">%1$s a fost eliminat, deoarece gestionarea dispozitivului nu a fost finalizată</string>
+    <string name="account_removed_notification_title">Cont eliminat</string>
+    <string name="android_privacy_policy_title">Politica de confidențialitate suplimentară</string>
+    <string name="app_has_in_app_purchases">Achiziții în aplicație</string>
+    <string name="app_has_permissions">Permisiuni: %s</string>
+    <string name="app_has_runtime_permissions">Aplicația va solicita permisiuni</string>
+    <string name="app_level_title">Solicitare de conectare</string>
+    <string name="app_level_title_secondary">%s solicită conectarea</string>
+    <string name="app_picker_app_already_installed_toast">Această aplicație este instalată deja</string>
+    <string name="app_picker_loading">Se caută aplicații disponibile…</string>
+    <string name="app_picker_loading_toast">Aplicațiile disponibile se vor încărca în curând</string>
+    <string name="app_picker_no_apps">Nicio aplicație selectată</string>
+    <string name="app_picker_no_apps_found">Nu s-au găsit aplicații</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Achizițiile în aplicație nu vor fi transferate pe ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Este posibil ca unele achiziții în aplicație să nu se transfere pe ^1.</string>
+    <string name="apps_permissions_described_v2">"Numai aplicațiile populare iOS® gratuite pot fi echivalate cu aplicații Android. Majoritatea achizițiilor în aplicație nu se vor transfera. Puteți găsi mai multe aplicații în Magazinul Play după finalizarea configurării.
+
+Poate fi necesar să acordați unor aplicații permisiuni în avans să acceseze anumite funcții sau informații de pe dispozitiv. Permisiunile sunt organizate în grupuri de permisiuni. Alegând să instalați aceste aplicații, acceptați permisiunile care fac parte din fiecare grup. Mai jos sunt disponibile descrierile fiecărui grup de permisiuni.
+
+Este posibil ca anumite aplicații să nu necesite acceptarea în avans a permisiunilor. Când folosiți una dintre aceste aplicații, puteți să acordați sau să refuzați o anumită permisiune înainte ca aplicația să folosească tipul respectiv de date.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Dacă instalați fiecare aplicație, atunci sunteți de acord cu permisiunile acesteia. <annotation id="apps_permissions_learn_more">Aflați mai multe</annotation></string>
+    <string name="audience_selection_done">Terminat</string>
+    <string name="auth_account_already_has_gmail">Contul folosește deja Gmail.</string>
+    <string name="auth_account_content_provider_label">Datele Contului Google</string>
+    <string name="auth_account_removed_default_description">Gestionarea dispozitivului nu a fost finalizată. Începeți și conectați-vă din nou.</string>
+    <string name="auth_account_removed_default_title">Configurare anulată</string>
+    <string name="auth_account_removed_dm_bad_result_description">Gestionarea dispozitivului nu a putut fi finalizată. Începeți și conectați-vă din nou.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domeniul dvs. necesită gestionarea dispozitivului mobil, dar funcția nu este acceptată pe acest dispozitiv. Încercați să folosiți un alt cont.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Gestionarea dispozitivului neacceptată</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Gestionarea dispozitivului nu s-a instalat corespunzător. Începeți și conectați-vă din nou.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Probleme la instalare</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Gestionarea dispozitivului nu a fost finalizată. Începeți și conectați-vă din nou.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Configurare anulată</string>
+    <string name="auth_account_settings_title">Setările contului</string>
+    <string name="auth_account_setup_title">Contul Google</string>
+    <string name="auth_account_state_sync_title">Sincronizarea stării contului</string>
+    <string name="auth_allow_button_label">Permiteți</string>
+    <string name="auth_allow_external_site_access">Beneficiați de acces continuu la datele dvs. pe %s</string>
+    <string name="auth_app_permission_ok_footnote">Dacă continuați, permiteți acestei aplicații și companiei Google să utilizeze informațiile dvs. în conformitate cu termenii și condițiile și cu politicile de confidențialitate.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Permiteți conectarea</string>
+    <string name="auth_authzen_allow_reset_button_text">Permiteți resetarea parolei</string>
+    <string name="auth_authzen_google_logo_label">Siglă Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Conectare aprobată</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Conectare anulată</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Permiteți conectarea</string>
+    <string name="auth_authzen_login_challenge_desc_text">Vă conectați din %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google a oprit încercarea de conectare.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Număr incorect</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Atingeți numărul afișat pe celălalt ecran. Prin această acțiune vă veți conecta de pe computer.</string>
+    <string name="auth_authzen_login_challenge_title_text">Încercați să vă conectați?</string>
+    <string name="auth_authzen_profile_picture_label">Fotografie de profil</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Alegeți contul cu care încercați să vă conectați:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Încercați să vă conectați?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Nu s-au găsit notificări de conectare.</string>
+    <string name="auth_authzen_pull_offline_error">Eroare internă</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Pe computer, dați clic pe „Aveți un cod?”, apoi introduceți:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Ați încercați să vă conectați la Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Resetarea parolei a fost aprobată</string>
+    <string name="auth_authzen_recovery_canceled_text">Resetarea parolei a fost anulată</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Permiteți resetarea parolei din %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Avem nevoie de confirmarea dvs.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google a oprit încercarea de resetare a parolei.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Număr incorect</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Atingeți numărul afișat pe celălalt ecran. Ca urmare a acestei acțiuni, parola va fi resetată.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Permiteți resetarea parolei</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Cineva a solicitat resetarea parolei pentru Contul dvs. Google. Google a oprit încercarea de resetare a parolei.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Resetarea parolei a fost împiedicată</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Ați solicitat resetarea parolei din %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Ați încercat să resetați parola?</string>
+    <string name="auth_authzen_secure_account_button_text">Mențineți securitatea contului</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Se caută notificări de conectare...</string>
+    <string name="auth_back_button_label">Înapoi</string>
+    <string name="auth_cant_add_work_account_message">Acest tip de cont este gestionat de organizația dvs.</string>
+    <string name="auth_captcha_instructions">Introduceți aici textul pe care îl vedeți:</string>
+    <string name="auth_captcha_title">Trebuie să introduceți CAPTCHA</string>
+    <string name="auth_common_next_button">Înainte</string>
+    <string name="auth_common_skip">Omiteți</string>
+    <string name="auth_common_switch_accounts">Comutați conturile</string>
+    <string name="auth_communicating_message">Dispozitivul contactează Google pentru a salva informațiile în contul dvs. Procesul poate dura până la 5 minute.</string>
+    <string name="auth_confirm_creds_sync_title">Starea datelor de conectare</string>
+    <string name="auth_d2d_source_alert_title">Tap &amp; Go</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Blocați și confirmați</string>
+    <string name="auth_d2d_source_copy_notice">Copiați conturile și datele pe celălalt dispozitiv?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">După ce confirmați, conexiunea Bluetooth va fi activată pentru ca dispozitivele să poată comunica.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">După ce confirmați, dispozitivele se vor conecta prin Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Pentru a continua, ecranul va fi blocat și va trebui să îl deblocați pentru confirmare.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Nu se poate folosi funcția „Tap &amp; Go”, deoarece nu există conturi pe dispozitiv.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Nu se poate folosi funcția „Tap &amp; Go”, deoarece Bluetooth nu este disponibil pe dispozitiv.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Conexiunea Bluetooth va fi activată pentru ca dispozitivele să poată comunica.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Se folosește conexiunea Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Transfer Tap &amp; Go terminat</string>
+    <string name="auth_d2d_source_restricted_user_toast">Nu se poate utiliza funcția Atingeți și restabiliți dintr-un profil de utilizator cu drepturi limitate.</string>
+    <string name="auth_d2d_source_title">Restabiliți conturile</string>
+    <string name="auth_d2d_source_unknown_device_name">Dispozitiv necunoscut</string>
+    <string name="auth_d2d_target_sorry_alert">Ne pare rău, a apărut o eroare</string>
+    <string name="auth_d2d_target_tap_progress_message">Pentru a continua, atingeți OK pe celălalt dispozitiv</string>
+    <string name="auth_d2d_target_title">Tap &amp; Go</string>
+    <string name="auth_d2d_target_unlock_progress_message">Verificați pe celălalt dispozitiv</string>
+    <string name="auth_d2d_target_wait_progress_message">Se preiau conturile și datele...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Refuzați</string>
+    <string name="auth_device_management_download_app_icon">Pictograma aplicației %s</string>
+    <string name="auth_device_management_download_description">Acest cont necesită gestionarea dispozitivelor mobile. Instalați aplicația ^1 pentru a aplica politicile de securitate necesare pentru cont.</string>
+    <string name="auth_device_management_download_description_kids">Pentru a adăuga contul pe acest dispozitiv, mai întâi, instalați <b>^1</b>". Folosind 
+
+^1, puteți să configurați acest dispozitiv pentru copilul dvs."</string>
+    <string name="auth_device_management_download_failed_message">Puteți să continuați configurarea și fără această aplicație</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Gestionarea dispozitivelor nu s-a instalat. Acest cont va fi eliminat. Încercați din nou mai târziu.</string>
+    <string name="auth_device_management_download_failed_title">Nu se poate descărca aplicația</string>
+    <string name="auth_device_management_download_not_updated_message">Puteți să continuați configurarea folosind versiunea curentă</string>
+    <string name="auth_device_management_download_paused">Întreruptă</string>
+    <string name="auth_device_management_download_progress">Se descarcă...</string>
+    <string name="auth_device_management_download_skip_message">Acest cont necesită gestionarea dispozitivului. Continuați fără aceasta?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Pentru adăugarea acestui cont este necesară gestionarea dispozitivelor. Doriți să începeți din nou cu un alt cont?</string>
+    <string name="auth_device_management_go_back">Înapoi</string>
+    <string name="auth_device_management_screenlock_description">Pentru a vă accesa contul de serviciu pe acest dispozitiv, trebuie să setați un ecran de blocare. Aceasta este politica organizației dvs. privind dispozitivele mobile.</string>
+    <string name="auth_device_management_screenlock_skip_message">Pentru acest cont este necesară o opțiune de securitate prin blocarea ecranului. Doriți să începeți din nou cu un alt cont?</string>
+    <string name="auth_device_management_start_description">Acest cont necesită gestionarea dispozitivelor mobile. După ce atingeți Înainte, veți putea aplica politicile de securitate necesare pentru cont folosind aplicația ^1.</string>
+    <string name="auth_device_management_start_description_kids">Pentru a adăuga contul pe acest dispozitiv, utilizați <b>^1</b>". Folosind 
+
+^1, puteți să configurați acest dispozitiv pentru copilul dvs."</string>
+    <string name="auth_device_management_title">Gestionarea dispozitivului</string>
+    <string name="auth_device_management_update_description">Acest cont necesită gestionarea dispozitivelor mobile. Trebuie să instalați o versiune mai nouă a aplicației ^1 pentru a respecta politicile de securitate asociate contului.</string>
+    <string name="auth_device_management_update_description_kids">Pentru a adăuga contul pe acest dispozitiv, mai întâi, instalați cea mai recentă versiune a aplicației <b>^1</b>". Folosind 
+
+^1, puteți să configurați acest dispozitiv pentru copilul dvs."</string>
+    <string name="auth_dismiss_button_label">Închideți</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> nu folosește Gmail.</string>
+    <string name="auth_error_account_disabled">"Acest cont a fost dezactivat. 
+
+(Pentru detalii, accesați http://google.com/accounts cu un browser web.)"</string>
+    <string name="auth_error_account_not_verified">"Acest cont nu a fost confirmat. Verificați e-mailurile primite și accesați linkul inclus pentru a confirma acest cont. 
+
+(Pentru a recupera informațiile contului, accesați http://www.google.com/accounts/recovery de pe computer.)"</string>
+    <string name="auth_error_bad_password">Parola este prea slabă sau conține caractere nevalide. Încercați din nou.</string>
+    <string name="auth_error_bad_username">Nume de utilizator nevalid.</string>
+    <string name="auth_error_generic_server_error">"A apărut o problemă la comunicarea cu serverele Google. 
+
+Încercați din nou mai târziu."</string>
+    <string name="auth_error_invalid_second_factor">Utilizați o parolă specifică aplicației în loc de parola obișnuită a contului dvs.</string>
+    <string name="auth_error_login_failed">"Numele de utilizator și parola nu se potrivesc. Încercați din nou.
+
+Pentru a recupera informațiile contului, accesați google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Pentru a vă accesa contul, trebuie să vă conectați pe web. Atingeți Înainte pentru a porni conectarea în browser.</string>
+    <string name="auth_error_no_network">"Nu aveți conexiune la rețea. 
+
+Aceasta ar putea fi o problemă temporară. Încercați din nou sau conectați-vă la altă rețea Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">Utilizatorul nu este conectat.</string>
+    <string name="auth_error_username_unavailable">Numele de utilizator nu este disponibil.</string>
+    <string name="auth_existing_account_error_text">Există deja un cont ^1 pe acest dispozitiv Android.</string>
+    <string name="auth_existing_account_error_title">Contul există deja</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Nu vă puteți conecta pe dispozitiv din cauza unei schimbări recente a parolei. Încercați să vă conectați din nou la 24 de ore după schimbarea parolei.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Funcțiile de protecție a dispozitivului nu vor mai putea fi folosite.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Dacă mutați din profilul personal ultimul cont Google de pe dispozitiv, funcțiile de protecție a dispozitivului împotriva furtului vor fi dezactivate. Puteți adăuga un alt cont pe dispozitiv pentru a le activa din nou mai târziu.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Confirmați?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Mutați contul în Profilul de serviciu?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Nu vă puteți conecta pe dispozitiv din cauza unei erori necunoscute. Încercați cu un alt cont sau încercați să vă conectați din nou după 24 de ore.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Conectați-vă folosind unul dintre conturile proprietarului pentru acest dispozitiv</string>
+    <string name="auth_field_cant_be_blank">Câmpul nu poate fi necompletat.</string>
+    <string name="auth_frp_add_account_no">Nu</string>
+    <string name="auth_frp_add_account_prompt">Adăugați ^1 pe dispozitiv acum? Dacă mai aveți un cont, îl puteți adăuga ulterior.</string>
+    <string name="auth_frp_add_account_yes">Da</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Acest cont nu a putut fi accesat. Asigurați-vă că dispozitivul respectă politicile de securitate ale organizației dvs. Dacă eroarea persistă, contactați administratorul organizației.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Eroare de cont</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domeniul dvs. necesită gestionarea dispozitivelor mobile. Instalați aplicația Google Apps Device Policy pentru a aplica politicile de securitate necesare pentru contul  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Descărcați</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" poate conține numai litere,
+numere și puncte."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> nu conține litere.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> conține mai puțin de 6 sau mai mult de 30 de caractere.</string>
+    <string name="auth_gls_is_not_available">Numele de utilizator <b>^1</b> nu este disponibil.</string>
+    <string name="auth_gls_name_checking_info_title">Se verifică informațiile…</string>
+    <string name="auth_gls_sync_item_title">Sincronizați %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Contul  "<b>^1</b> trebuie să fie adăugat pe un dispozitiv sau într-un profil de serviciu administrat de organizația dvs. Urmați instrucțiunile primite de la administratorul dvs. IT pentru a finaliza această acțiune.</string>
+    <string name="auth_google_title_logo">Siglă Google</string>
+    <string name="auth_invalid_login_character">Caracter nevalid. Sunt permise numai cifre 0 – 9, litere minuscule a – z, litere majuscule A – Z și puncte.</string>
+    <string name="auth_invalid_password_character">Caracter nevalid în parolă.</string>
+    <string name="auth_invalid_username">Textul introdus nu reprezintă un nume de utilizator valid.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Continuând, sunteți de acord că este posibil ca acest dispozitiv să descarce și să instaleze automat actualizări și aplicații de la Google, de la operatorul dvs. și de la producătorul dispozitivului, eventual folosind datele mobile. Este posibil ca unele dintre aceste aplicații să ofere achiziții în aplicație. Puteți elimina oricând aceste aplicații.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Eliberați spațiu dacă stocarea dispozitivului este aproape plină</b> eliminând unele date de pe acest dispozitiv, cum ar fi fotografiile și videoclipurile cărora li s-a făcut backup.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Faceți backup automat pentru datele dispozitivului</b> (de exemplu, parolele Wi-Fi și istoricul apelurilor) și pentru datele aplicațiilor (de exemplu, setările și fișierele stocate de aplicații) în contul Google Drive al copilului dvs.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Când activați backupul automat, datele dispozitivului și ale aplicațiilor sunt salvate periodic într-un dosar privat din contul Google Drive al copilului dvs. Datele unei aplicații pot fi orice date pe care le-a salvat aplicația (în funcție de setările dezvoltatorului), inclusiv date posibil sensibile, cum ar fi persoanele de contact, mesajele și fotografiile.
+
+Datele cărora li s-a făcut backup nu se iau în considerare la calcularea cotei de stocare Drive a copilului dvs. Fișierelor mari sau fișierelor pe care dezvoltatorii au ales să le excludă din serviciu nu li se va face backup."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Faceți backup automat pentru datele dispozitivului</b> (de exemplu, parolele Wi-Fi și istoricul SMS-urilor şi apelurilor), pentru setări și pentru datele aplicațiilor (de exemplu, setările și fișierele stocate de aplicații) în contul Google Drive al copilului dvs.</string>
+    <string name="auth_kids_setup_wizard_services_description">Ca părinte, puteți să activați sau să dezactivați oricând aceste servicii pentru contul copilului dvs. Datele vor fi folosite conform <annotation link="google_privacy">politicilor</annotation>" Google.
+
+Dacă doriți să aflați mai multe, puteți atinge fiecare serviciu."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Folosiți serviciul de localizare Google pentru a ajuta aplicațiile</b> să stabilească locația copilului dvs. Când dispozitivul este activat, se vor trimite la Google date anonime despre locație.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Serviciul de localizare Google folosește surse cum ar fi rețelele Wi‑Fi și cele mobile pentru a estima mai rapid și mai precis locația acestui dispozitiv. Acest serviciu este activ când setarea Locație a dispozitivului este activată și se află într-un mod care folosește rețelele Wi-Fi sau pe cele mobile pentru a estima locația, cum ar fi modul Precizie ridicată sau Economisirea bateriei (Economisirea energiei).
+
+Puteți dezactiva acest serviciu astfel:
+
+"<li>dezactivați setarea principală Locație pe acest dispozitiv;</li>"
+
+"<li>mențineți activată setarea principală Locație și selectați un mod care folosește numai GPS-ul, uneori numit „Numai cu ajutorul dispozitivului”.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Contribuiți la îmbunătățirea experienței Android</b> trimițând automat la Google date de diagnosticare și de utilizare a dispozitivului și a aplicațiilor. Acestea nu vor fi folosite pentru identificarea copilului dvs. și vor optimiza autonomia bateriei, stabilitatea aplicațiilor, conexiunea la rețea și altele.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Acestea sunt informații generale despre dispozitiv și despre modul în care este folosit (de exemplu, nivelul bateriei, utilizarea aplicațiilor și conexiunea la rețea). Datele vor fi folosite pentru îmbunătățirea produselor și serviciilor Google în beneficiul tuturor. Unele informații agregate vor ajuta partenerii, cum ar fi dezvoltatorii Android, să își îmbunătățească aplicațiile și produsele.
+
+Dezactivarea acestei funcții nu afectează capacitatea dispozitivului de a trimite informațiile necesare pentru a primi servicii esențiale, cum ar fi actualizările de sistem și de securitate."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Acestea sunt informații generale despre dispozitiv și despre modul în care este folosit (de exemplu, nivelul bateriei, utilizarea aplicațiilor și conexiunea la rețea). Datele vor fi folosite pentru îmbunătățirea produselor și serviciilor Google în beneficiul tuturor. Unele informații agregate vor ajuta partenerii, cum ar fi dezvoltatorii Android, să își îmbunătățească aplicațiile și produsele.
+
+Dezactivarea acestei funcții nu afectează capacitatea dispozitivului de a trimite informațiile necesare pentru a primi servicii esențiale, cum ar fi actualizările de sistem și de securitate.
+
+Puteți să controlați această funcție din Setări > Google. Selectați Utilizare și diagnosticare din meniu."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Ați introdus o parolă incorectă sau datele contului dvs. s-au schimbat. Reintroduceți parola. Dacă ați uitat parola și este nevoie să vă recuperați contul, dați clic <annotation id="help_url">aici</annotation>.</string>
+    <string name="auth_login_activity_task_title">Se conectează...</string>
+    <string name="auth_login_activity_title">Conectați-vă</string>
+    <string name="auth_login_task_title">Conectarea</string>
+    <string name="auth_login_title">Introduceți adresa de e-mail și parola</string>
+    <string name="auth_minutemaid_ssl_error">"A apărut o problemă privind conectarea la  %s."</string>
+    <string name="auth_network_unreliable_help">Este posibil ca aceasta să fie o problemă temporară sau ca dispozitivul Android să nu fie pregătit pentru servicii de date. Dacă problema persistă apelați Serviciul de relații cu clienții.</string>
+    <string name="auth_next_button_label">Înainte</string>
+    <string name="auth_no_network">Nu aveți o conexiune la rețea.</string>
+    <string name="auth_no_network_help">Este posibil ca aceasta să fie o problemă temporară sau ca dispozitivul Android să nu fie pregătit pentru servicii de date. Încercați din nou când veți fi conectat(ă) la o rețea mobilă sau conectați-vă la o rețea Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Aceasta ar putea fi o problemă temporară. Încercați din nou sau conectați-vă la altă rețea Wi-Fi.</string>
+    <string name="auth_otp_error">A apărut o problemă la generarea codului de securitate.</string>
+    <string name="auth_otp_explained_paragraph">Dacă ați uitat parola sau dacă a intervenit ceva nou la conectare, Google poate solicita un cod de securitate pentru a vă proteja contul. Utilizați-l acum sau reveniți pentru un cod nou.</string>
+    <string name="auth_otp_header_message">Când să folosiți acest cod pentru conectare</string>
+    <string name="auth_otp_help">Ajutor și feedback</string>
+    <string name="auth_otp_no_accounts_available_message">Nu există niciun cont configurat pe acest dispozitiv.</string>
+    <string name="auth_otp_progress_dialog_message">Se generează un cod de securitate.</string>
+    <string name="auth_password">Parolă</string>
+    <string name="auth_plus_audience_selection_description_acl">PERMITEȚI ACCESUL PENTRU</string>
+    <string name="auth_plus_failure_new_account_text">Contul Google a fost creat, dar solicitarea de a crea un profil Google+ nu a fost acceptată. Încercați din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_plus_failure_text">Solicitarea dvs. de înscriere la Google+ nu a fost primită. Încercați din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_plus_failure_title">Creați un profil Google+ mai târziu</string>
+    <string name="auth_plus_info_fragment_app_name">%s dorește:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">Aplicația %s de pe dispozitivul %s dorește:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Cercurile dvs. extinse</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Cercurile selectate</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Numai dvs.</string>
+    <string name="auth_plus_scope_fragment_public_label">Oricine de pe web</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Cercurile dvs.</string>
+    <string name="auth_relogin_activity_title">Introduceți din nou parola</string>
+    <string name="auth_remove_account_start_over">Începeți din nou</string>
+    <string name="auth_scope_more_details">Mai multe informații</string>
+    <string name="auth_server_error">A apărut o problemă de comunicare cu serverele Google.</string>
+    <string name="auth_server_error_help">Încercați din nou mai târziu.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Cont adăugat</string>
+    <string name="auth_setup_wizard_account_added_description">Contul dvs. a fost adăugat. Continuați și selectați opțiunile pentru serviciile Google.</string>
+    <string name="auth_setup_wizard_back_button_label">Înapoi</string>
+    <string name="auth_setup_wizard_next_button_label">Înainte</string>
+    <string name="auth_setup_wizard_services_activity_title">Serviciile Google</string>
+    <string name="auth_setup_wizard_services_agreement">Continuând, sunteți de acord că este posibil ca acest dispozitiv să descarce și să instaleze automat actualizări și aplicații de la Google, de la operatorul dvs. și de la producătorul dispozitivului, eventual folosind datele mobile. Este posibil ca unele dintre aceste aplicații să ofere achiziții în aplicație. Puteți elimina oricând aceste aplicații.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Pentru a elimina aplicații, accesați Setări > Aplicații sau Manager de aplicații. Apoi atingeți aplicația pe care doriți să o dezinstalați (poate fi necesar să glisați spre dreapta sau spre stânga pentru a găsi aplicația). Apoi, atingeți Dezinstalați sau Dezactivați.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">De asemenea, sunteți de acord și acordați permisiune aplicațiilor Google preîncărcate de a accesa informații și funcții de pe dispozitivul dvs. Pentru mai multe informații despre utilizarea acestor permisiuni, consultați <annotation link="app_permissions">această pagină</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Instalați actualizări și aplicații</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Când memoria telefonului este aproape plină, eliberați spațiu eliminând unele date, cum ar fi fotografiile și videoclipurile cărora li s-a făcut backup.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Puteți accesa aceste date și când sunteți conectat(ă). Puteți controla această funcție și ce conținut este eliminat accesând Setări > Stocare > Stocare inteligentă.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Eliberați spațiu</string>
+    <string name="auth_setup_wizard_services_backup">Restabiliți sau schimbați cu ușurință telefoanele în orice moment. Backupul include aplicațiile, datele aplicațiilor și setările dispozitivului (inclusiv parolele Wi-Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Datele unei aplicații pot fi orice date pe care le-a salvat aplicația (în funcție de setările dezvoltatorului), inclusiv date posibil sensibile, cum ar fi persoanele de contact, mesajele și fotografiile.
+
+Datele cărora le-a fost făcut backup nu sunt luate în considerare la calcularea cotei de stocare Google Drive.
+
+Puteți dezactiva acest serviciu din Setări."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Datele unei aplicații pot fi orice date pe care le-a salvat aplicația (în funcție de setările dezvoltatorului), inclusiv date posibil sensibile, cum ar fi persoanele de contact, mesajele și fotografiile.
+
+Fotografiile și videoclipurile de pe acest dispozitiv sunt sincronizate cu Google Foto pentru a putea fi căutate, editate, șterse și trimise de pe oricare dintre dispozitivele dvs. În mod prestabilit, fotografiile și videoclipurile sunt încărcate la rezoluție completă.
+
+Datele cărora le-a fost făcut backup nu sunt luate în considerare la calcularea cotei de stocare Google Drive.
+
+Puteți dezactiva acest serviciu din Setări."</string>
+    <string name="auth_setup_wizard_services_backup_title">Faceți backup în Google Drive</string>
+    <string name="auth_setup_wizard_services_backup_v23">Restabiliți sau schimbați cu ușurință telefoanele în orice moment. Backupul include aplicațiile, datele aplicațiilor, istoricul apelurilor, persoanele de contact și setările dispozitivului (inclusiv parolele Wi-Fi și permisiunile).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Restabiliți sau schimbați cu ușurință telefoanele în orice moment. Backupul include aplicațiile, datele aplicațiilor, istoricul apelurilor, persoanele de contact, setările dispozitivului (inclusiv parolele Wi-Fi și permisiunile) și SMS-urile.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Restabiliți sau schimbați cu ușurință telefoanele în orice moment. Backupul include aplicațiile, datele aplicațiilor, istoricul apelurilor, persoanele de contact, setările dispozitivului (inclusiv parolele Wi-Fi și permisiunile), fotografiile, videoclipurile și SMS-urile. Fotografiile și videoclipurile sunt sincronizate cu Contul Google și pot fi folosite în toate serviciile.</string>
+    <string name="auth_setup_wizard_services_description">Atingeți ca să aflați mai multe despre fiecare serviciu, ca de exemplu cum să le activați sau dezactivați mai târziu. Datele vor fi folosite conform <annotation link="google_privacy">Politicii de confidențialitate</annotation> Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Detaliile despre aplicație, inclusiv achizițiile în aplicație, sunt disponibile în Magazinul Play. Datele și setările aplicațiilor se sincronizează cu dispozitivele conectate cu Contul dvs. Google. 
+
+Folosirea aplicațiilor instantanee este reglementată de "<a href="https://play.google.com/about/play-terms.html">Termenii și condițiile Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Aflați mai multe</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Când atingeți un link, Google Play verifică dacă există o aplicație instantanee și o rulează fără să o instalați. Aplicațiile instantanee sunt păstrate pe dispozitiv temporar.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Folosiți aplicațiile fără să le instalați</string>
+    <string name="auth_setup_wizard_services_location_sharing">Folosiți serviciul de localizare Google pentru a ajuta aplicațiile să vă stabilească locația. Când dispozitivul este activat, se vor trimite la Google date anonime despre locație.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Serviciul de localizare Google folosește surse cum ar fi rețelele Wi‑Fi și cele mobile pentru a estima mai rapid și mai precis locația acestui dispozitiv. Acest serviciu este activ când setarea Locație a dispozitivului este activată și se află într-un mod care folosește rețelele Wi-Fi sau pe cele mobile pentru a estima locația, cum ar fi modul Precizie ridicată sau Economisirea bateriei (Economisirea energiei).
+
+Puteți dezactiva acest serviciu astfel:
+
+"<li>dezactivați setarea principală Locație pe dispozitiv;</li>"
+
+"<li>mențineți activată setarea principală Locație și selectați un mod care folosește numai GPS-ul, uneori numit „Numai cu ajutorul dispozitivului”.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Ajutați aplicațiile să găsească locația</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Permiteți aplicațiilor și serviciilor să caute rețele Wi-Fi, chiar și atunci când acestea sunt dezactivate.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Puteți să dezactivați această opțiune din setările pentru locație.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Îmbunătățiți precizia locației</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Permiteți aplicațiilor și serviciilor să caute rețele Wi-Fi și Bluetooth, chiar și atunci când aceste setări sunt dezactivate.</string>
+    <string name="auth_setup_wizard_services_play">Doresc să primesc știri și oferte actualizate de la Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Backup și stocare</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Întreținerea dispozitivului</string>
+    <string name="auth_setup_wizard_services_section_location">Locație</string>
+    <string name="auth_setup_wizard_services_tos">Dacă veți continua, sunteți de acord și cu <annotation link="tos">Termenii și condițiile Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Când folosiți acest dispozitiv, respectăm <annotation link="google_privacy">Politica de confidențialitate</annotation> și se aplică <annotation link="tos">termeni și condiții suplimentare</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Contribuiți la îmbunătățirea experienței Android trimițând automat la Google date de diagnosticare și de utilizare a dispozitivului și a aplicațiilor. Acestea vor optimiza autonomia bateriei, stabilitatea aplicațiilor, conexiunea la rețea și altele. Dacă ați activat suplimentar Activitatea pe web și în aplicații, aceste informații vor fi stocate în contul dvs., astfel încât să le puteți gestiona în Activitatea mea.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Acestea sunt informații generale despre dispozitivul dvs. și despre modul în care îl folosiți (de exemplu, nivelul bateriei, utilizarea aplicațiilor și conexiunea la rețea). Datele vor fi folosite pentru îmbunătățirea produselor și serviciilor Google în beneficiul tuturor. Unele informații agregate vor ajuta partenerii, cum ar fi dezvoltatorii Android, să își îmbunătățească aplicațiile și produsele.
+
+Dezactivarea acestei funcții nu afectează capacitatea dispozitivului de a trimite informațiile necesare pentru a primi servicii esențiale, cum ar fi actualizările de sistem și de securitate."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Puteți actualiza setările pentru Activitatea mea pe myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Puteți să controlați această funcție din Setări Google. Selectați Utilizare și diagnosticare din meniu.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Puteți să controlați această funcție din Setări > Google. Selectați Utilizare și diagnosticare din meniu.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Trimiteți date de sistem</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Permiteți ca imaginile de fundal live Google să se adapteze la locația dvs. accesând serviciul de localizare Google.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Puteți să activați sau să dezactivați accesul Imaginilor de fundal live la serviciul de localizare Google accesând Setări > Aplicații și notificări > Informații despre aplicații. În meniul suplimentar, apăsați Afișați aplicațiile de sistem > Imagini de fundal cu date live sau Imagini de fundal live cu Pământul > Permisiuni.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Permiteți imaginilor de fundal să folosească locația</string>
+    <string name="auth_setup_wizard_title">Aplicație-asistent de configurare</string>
+    <string name="auth_show_error_activity_title">Nu v-ați conectat</string>
+    <string name="auth_show_error_title">Eroare</string>
+    <string name="auth_sign_in_agreement">Conectându-vă, sunteți de acord cu Politicile de confidențialitate <annotation id="google_privacy">Google</annotation> și cu cele <annotation id="android_privacy">suplimentare</annotation>.</string>
+    <string name="auth_sign_in_browser">Conectare în browser</string>
+    <string name="auth_sign_in_button_label">Conectați-vă</string>
+    <string name="auth_sign_in_with_google_account_short">Conectați-vă utilizând Contul Google:</string>
+    <string name="auth_skip_button_label">Omiteți</string>
+    <string name="auth_submission_error_text">A apărut o eroare, încercați din nou.</string>
+    <string name="auth_submission_title">Ne pare rău…</string>
+    <string name="auth_try_again_button_label">Încercați din nou</string>
+    <string name="auth_ui_activity_authenticating">Se autentifică…</string>
+    <string name="auth_ui_activity_title">Conectare la Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Conectați-vă</string>
+    <string name="auth_ui_add_account_title">Configurarea contului</string>
+    <string name="auth_uncertified_notification_content">Producătorul nu a certificat acest dispozitiv</string>
+    <string name="auth_uncertified_notification_description">"Producătorul acestui dispozitiv utilizează aplicații Google fără să certifice acest dispozitiv la Google.
+
+Este posibil ca dispozitivele necertificate să nu fie sigure și să nu primească actualizări de sistem sau ale aplicațiilor. Unele aplicații și funcții, cum ar fi backupul fișierelor sau fotografiilor, ar putea să nu funcționeze corect.
+
+ Contactați producătorul dispozitivului pentru a rezolva această problemă. 
+
+ Puteți accesa %s pentru mai multe informații despre partenerii certificați Google."</string>
+    <string name="auth_uncertified_notification_learn_more">Aflați mai multe</string>
+    <string name="auth_uncertified_notification_title">Avertisment: dispozitiv necertificat</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_work_authenticator_label">Cont gestionat</string>
+    <string name="authorization_dialog">Caseta de dialog de autorizare</string>
+    <string name="auto_restore_summary">La reinstalarea unei aplicații, restabiliți setările și datele cărora le-ați făcut backup</string>
+    <string name="auto_restore_title">Restabilire automată</string>
+    <string name="autofill_dataset_password">Folosiți parola pentru: <b>^1</b></string>
+    <string name="autofill_datatype_address">Adrese</string>
+    <string name="autofill_datatype_password">Parole salvate</string>
+    <string name="autofill_datatype_payment">Carduri de credit</string>
+    <string name="autofill_datatype_profile">Informații personale</string>
+    <string name="autofill_label">Completare automată cu Google</string>
+    <string name="autofill_optin_line1"><b>Atingeți pentru a permite Google să introducă în locul dvs.</b></string>
+    <string name="autofill_optin_line2">informațiile salvate deja în Completare automată Chrome</string>
+    <string name="autofill_setup_points">"• Google folosește informațiile de pe ecran pentru a stabili ce poate fi completat automat. 
+• Puteți să vedeți și să gestionați informațiile privind completarea automată în Setări."</string>
+    <string name="autofill_setup_summary">Printr-o singură atingere, introduceți parole, adrese, carduri de credit și alte informații salvate în contul dvs.</string>
+    <string name="autofill_setup_summary_single_account">Printr-o singură atingere, introduceți parole, adrese, carduri de credit și alte informații salvate în contul dvs. (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">În prezent, niciun cont nu stochează date cărora li s-a făcut backup</string>
+    <string name="backup_configure_account_title">Cont pentru backup</string>
+    <string name="backup_data_summary">Faceți backup pentru datele aplicațiilor, parolele Wi-Fi și pentru alte setări în Google Drive</string>
+    <string name="backup_data_summary_full">"Faceți backup automat pentru datele dispozitivului (de exemplu, parolele Wi-Fi și istoricul apelurilor) și pentru datele aplicațiilor (de exemplu, setările și fișierele stocate de aplicații) de la distanță.
+
+Când activați backupul automat, datele dispozitivului și ale aplicațiilor sunt salvate periodic de la distanță. Datele unei aplicații pot fi orice date pe care le-a salvat aplicația (în funcție de setările dezvoltatorului), inclusiv date posibil sensibile, cum a fi persoanele de contact, mesajele și fotografiile."</string>
+    <string name="backup_data_title">Faceți backup în Google Drive</string>
+    <string name="backup_erase_dialog_message">Doriți să nu li se mai facă backup parolelor Wi-Fi, marcajelor, altor setări și datelor aplicațiilor și să ștergeți toate copiile din Google Drive?</string>
+    <string name="backup_erase_dialog_message_full">Doriți să nu se mai facă backup pentru datele dispozitivului (de exemplu, parolele Wi-Fi și istoricul apelurilor) și pentru datele aplicațiilor (de exemplu, setările și fișierele stocate de aplicații) și să ștergeți toate copiile din Google Drive?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">A apărut o eroare la deschiderea setărilor fotografiilor</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Când activați backupul automat:
+
+ ● setările dispozitivului și datele aplicațiilor sunt salvate periodic într-un dosar privat în Google Drive. Datele unei aplicații pot fi orice date pe care le-a salvat aplicația (în funcție de setările dezvoltatorului), inclusiv date posibil sensibile, cum ar fi persoanele de contact, mesajele și fotografiile.
+
+Fișierelor mari sau fișierelor pe care dezvoltatorii au ales să le excludă din serviciu nu li se va face backup.
+
+ ● fotografiile și înregistrările video de pe acest dispozitiv sunt sincronizate cu biblioteca dvs. Google Foto pentru a putea fi căutate, editate, șterse și trimise de pe oricare dintre dispozitivele dvs.
+
+ În mod prestabilit, fotografiile și videoclipurile sunt încărcate la rezoluția completă. Acestea nu sunt luate în considerare la calcularea cotei de stocare Drive.
+
+ ● persoanele de contact și datele asociate de pe acest dispozitiv sunt sincronizate cu Agenda Google. Puteți folosi aplicația Agenda Google ca să căutați, să editați, să ștergeți și să trimiteți persoanele de contact de pe oricare dintre dispozitivele dvs.
+
+ ● elementele din calendar și datele asociate de pe acest dispozitiv sunt sincronizate cu Google Calendar. Puteți folosi aplicația Google Calendar ca să căutați, să editați, să ștergeți și să trimiteți elementele din calendar de pe oricare dintre dispozitivele dvs.
+
+ Backupul datelor nu se ia în considerare la calcularea cotei de stocare Drive."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Când activați backupul automat:
+
+ ● setările dispozitivului și datele aplicațiilor se salvează periodic într-un dosar privat din Google Drive. Datele aplicațiilor pot fi orice date salvate de o aplicație (pe baza setărilor dezvoltatorului), inclusiv date posibil sensibile, cum ar fi persoanele de contact, mesajele și fotografiile.
+
+ Pentru fișierele mari sau fișierele pe care dezvoltatorii au ales să le excludă din serviciu nu se va face backup.
+
+ ● persoanele de contact și datele asociate de pe acest dispozitiv sunt sincronizate cu Agenda Google. Puteți utiliza aplicația Agenda Google pentru a căuta, a edita, a șterge și a trimite persoane de contact de pe oricare dintre dispozitivele dvs.
+
+ ● intrările în Calendar și datele asociate de pe acest dispozitiv sunt sincronizate cu Google Calendar. Puteți folosi aplicația Google Calendar pentru a căuta, a edita, a șterge și a trimite persoane de contact de pe oricare dintre dispozitivele dvs.
+
+ Datele pentru care s-a făcut backup nu vor fi luate în considerare la calcularea cotei de stocare în Drive."</string>
+    <string name="backup_opt_in_backup_description_extra">Calendarul, persoanele de contact, fotografiile și videoclipurile sunt sincronizate cu Contul Google și pot fi folosite în toate serviciile.</string>
+    <string name="backup_opt_in_backup_description_v2">Prin backupul automat, vă asigurați că puteți oricând să restabiliți sau să schimbați cu ușurință telefoanele. <annotation id="backup_opt_in_learn_more">Aflați mai multe</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Astfel, se va dezactiva backupul pentru:
+
+aplicații și datele aplicațiilor,
+istoricul apelurilor,
+setările dispozitivului,
+fotografii și videoclipuri,
+SMS-uri.
+
+Calendarul și persoanele de contact se vor sincroniza în continuare cu Contul Google. După ce configurarea este finalizată, puteți modifica setările de sincronizare accesând "<annotation id="backup_opt_in_settings_instructions">Setări > Conturi > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Dezactivați backupul?</string>
+    <string name="backup_opt_in_backup_list">"Aplicații și date ale aplicațiilor
+Calendar
+Istoricul apelurilor
+Agendă
+Setările dispozitivului (inclusiv parolele Wi-Fi)
+Fotografii și videoclipuri
+SMS-uri"</string>
+    <string name="backup_opt_in_backup_list_header">Backupul include:</string>
+    <string name="backup_opt_in_backup_title">Faceți backup în Google Drive</string>
+    <string name="backup_opt_in_disable_backup">Dezactivați backupul</string>
+    <string name="backup_photos_update">Actualizați Google Foto</string>
+    <string name="backup_settings_activity_backup_title">Backup</string>
+    <string name="backup_settings_activity_title">Backup și resetare</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nu copiați</string>
+    <string name="chrome_privacy_title">Notificare confidențialitate Chrome</string>
+    <string name="chrome_tos_title">Termenii și condițiile Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Parolele dvs. actuale pentru %1$s au fost criptate folosind expresia de acces. Dacă ați uitat expresia de acces, opriți și resetați sincronizarea prin &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Expresia de acces pentru Sincronizarea Chrome</string>
+    <string name="chromesync_enter_passphrase_hint">Introduceți expresia de acces</string>
+    <string name="chromesync_entered_wrong_passphrase">Expresie de acces greșită</string>
+    <string name="chromesync_no_browser_found">Nu s-a găsit niciun browser pentru a deschide acest link</string>
+    <string name="close_button_label">Închideți</string>
+    <string name="cloud_restore_app_picker_button">Restabiliți</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Backupul nu conține aplicații</string>
+    <string name="cloud_restore_app_picker_title">Alegeți aplicațiile de restabilit</string>
+    <string name="common_accept">Accept</string>
+    <string name="common_account_chip_add_account_button_label">Folosiți alt cont</string>
+    <string name="common_add_account_button_label">Adăugați un cont</string>
+    <string name="common_add_account_label">Adăugați un cont</string>
+    <string name="common_ads_settings_title">Anunțuri</string>
+    <string name="common_agree">Sunt de acord</string>
+    <string name="common_app_name">Servicii Google Play</string>
+    <string name="common_asm_preferences_settings_title">Preferințe privind contul</string>
+    <string name="common_asm_privacy_settings_title">Setări de confidențialitate</string>
+    <string name="common_asm_security_settings_title">Conectare și securitate</string>
+    <string name="common_audience_edit_button_label">Editați</string>
+    <string name="common_cancel">Anulați</string>
+    <string name="common_cannot_start_hangouts_security_exception">Aplicația Hangouts nu poate fi pornită (eroare de permisiune).</string>
+    <string name="common_car_permission_desc">Accesul la service-ul de mașini.</string>
+    <string name="common_car_permission_label">Service de mașini</string>
+    <string name="common_chips_label_empty_circles">Niciun cerc</string>
+    <string name="common_chips_label_extended_circles">Cercuri extinse</string>
+    <string name="common_chips_label_only_you">Numai dvs.</string>
+    <string name="common_chips_label_public">Public</string>
+    <string name="common_chips_label_your_circles">Cercurile dvs.</string>
+    <string name="common_choose_account">Alegeți un cont</string>
+    <string name="common_choose_account_for_app_label">Alegeți contul pentru %1$s</string>
+    <string name="common_choose_account_label">Alegeți un cont</string>
+    <string name="common_clear_app_data_menu_item">Ștergeți datele aplicației</string>
+    <string name="common_connected">Conectat(ă)</string>
+    <string name="common_connected_apps_settings_title">Aplicații conectate</string>
+    <string name="common_connecting">Se conectează…</string>
+    <string name="common_continue">Continuați</string>
+    <string name="common_disagree">Nu sunt de acord</string>
+    <string name="common_disconnect">Deconectați-vă</string>
+    <string name="common_done">Terminat</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">De la:</string>
+    <string name="common_games_settings_title">Jocuri Play</string>
+    <string name="common_get_started">Începeți</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Activați</string>
+    <string name="common_google_play_services_enable_text">%1$s nu va funcționa decât dacă activați serviciile Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activați serviciile Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Eroare</string>
+    <string name="common_google_play_services_install_button">Instalați</string>
+    <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
+    <string name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
+    <string name="common_google_play_services_update_button">Actualizați</string>
+    <string name="common_google_play_services_update_text">%1$s nu va rula decât dacă actualizați serviciile Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizați serviciile Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s nu va rula fără serviciile Google Play, care momentan se actualizează.</string>
+    <string name="common_google_play_services_updating_title">Se actualizează serviciile Google Play</string>
+    <string name="common_google_play_services_wear_update_text">Este necesară o nouă versiune a serviciilor Google Play. Se vor actualiza automat în curând.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Ați instalat serviciile Google Play cu arhitectura nepotrivită.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Serviciile Google Play au fost instalate cu o arhitectură (%1$s) diferită de arhitectura dispozitivului (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Arhitectură nepotrivită</string>
+    <string name="common_google_settings">Setări Google</string>
+    <string name="common_google_settings_account">Cont</string>
+    <string name="common_google_settings_credentials_title">Smart Lock pentru parole</string>
+    <string name="common_google_settings_developer">Dezvoltator</string>
+    <string name="common_google_settings_services">Servicii</string>
+    <string name="common_got_it">Am înțeles</string>
+    <string name="common_install">Instalați</string>
+    <string name="common_learn_more">Aflați mai multe</string>
+    <string name="common_list_apps_menu_help">Ajutor</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajutor și feedback</string>
+    <string name="common_loading">Se încarcă…</string>
+    <string name="common_location_settings_title">Locație</string>
+    <string name="common_magictether_settings_title">Tethering instantaneu</string>
+    <string name="common_maps_settings_title">Maps și Latitude</string>
+    <string name="common_mdm_feature_name">Manager de dispozitiv Android</string>
+    <string name="common_missing_url_viewer">Lipsește vizualizatorul pentru afișarea unei adrese URL externe.</string>
+    <string name="common_more_options">Mai multe opțiuni</string>
+    <string name="common_networking_settings_title">Conectare la rețele</string>
+    <string name="common_no_browser_for_restricted_url">Acces restricționat. Nu a fost găsit niciun browser.</string>
+    <string name="common_no_devices_found">Nu s-a găsit niciun dispozitiv</string>
+    <string name="common_no_network">Indisponibil, deoarece dispozitivul este offline</string>
+    <string name="common_no_thanks">Nu, mulțumesc</string>
+    <string name="common_not_now">Nu acum</string>
+    <string name="common_off">Dezactivat</string>
+    <string name="common_ok">OK</string>
+    <string name="common_on">Activat</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_open_source_licenses">Licențe open source</string>
+    <string name="common_people_settings_title">Agendă</string>
+    <string name="common_permissions_enable_in_settings">Activați în Setări</string>
+    <string name="common_permissions_missing_end">Pentru a continua, deschideți Setări, apoi Permisiuni și permiteți accesul la toate elementele enumerate.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Pentru activare, accesați
+Setări >
+Permisiuni >
+Servicii Google Play"</string>
+    <string name="common_permissions_missing_start">Această aplicație nu va funcționa corect dacă nu acceptați solicitarea serviciilor Google Play de a accesa următoarele:</string>
+    <string name="common_permissions_open_settings">Deschideți setările</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Politică de confidențialitate</string>
+    <string name="common_restore">Restabiliți</string>
+    <string name="common_restricted_no_accounts">Nu există conturi de selectat.</string>
+    <string name="common_retry">Reîncercați</string>
+    <string name="common_search_settings_title">Căutarea Google</string>
+    <string name="common_security_ootp_setting_title">Cod de securitate</string>
+    <string name="common_security_settings_title">Securitate</string>
+    <string name="common_send">Trimiteți</string>
+    <string name="common_sending">Se trimite…</string>
+    <string name="common_set_up_nearby_device_settings_title">Configurați un dispozitiv din apropiere</string>
+    <string name="common_settings">Setări</string>
+    <string name="common_signin_button_text">Conectați-vă</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="common_something_went_wrong">A apărut o eroare</string>
+    <string name="common_system_info">Informațiile despre sistem</string>
+    <string name="common_take_photo_label">Fotografiați</string>
+    <string name="common_terms_of_service">Termeni și condiții</string>
+    <string name="common_try_again">Încercați din nou</string>
+    <string name="common_turn_on_bluetooth">Activați Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Ștergeți</string>
+    <string name="common_ui_confirm_deleting_checkbox">Înțeleg și șterg</string>
+    <string name="common_unknown">Necunoscută</string>
+    <string name="common_update">Actualizați</string>
+    <string name="common_url_load_unsuccessful_message">Dispozitivul Android nu este conectat la niciun serviciu de date. Afișați informațiile accesând %s cu un browser web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Dispozitivul Android nu este conectat la o rețea Wi-Fi. Pentru a vedea aceste informații acum, accesați %s într-un browser web.</string>
+    <string name="common_url_login_notice">Conectați-vă ca %1$s</string>
+    <string name="common_usage_and_diagnostics">Utilizare și diagnosticare</string>
+    <string name="common_yesterday">Ieri</string>
+    <string name="confirm_copy_button_text">Copiați</string>
+    <string name="contacts_number_device_and_icloud">%1$d în iCloud®, %2$d pe dispozitiv</string>
+    <string name="contacts_number_device_and_icloud_with_google">În Agenda Google, %1$d în iCloud®, %2$d pe dispozitiv</string>
+    <string name="contacts_number_device_and_sim_with_google">În Agenda Google, %1$d pe SIM, %2$d pe dispozitiv</string>
+    <string name="contacts_number_device_with_google">În Agenda Google, %1$d pe dispozitiv</string>
+    <string name="contacts_number_icloud_with_google">În Agenda Google, %1$d în iCloud®</string>
+    <string name="contacts_number_sim_with_google">În Agenda Google, %1$d pe SIM</string>
+    <string name="continue_to_login_heading">Conectați-vă.</string>
+    <string name="continue_to_login_text">Datele de conectare au fost acordate. Continuați conectarea pe primul dispozitiv.</string>
+    <string name="copy_confirmation_description">Veți copia date, cum ar fi Contul Google și aplicațiile, pe noul telefon</string>
+    <string name="copy_confirmation_title">Copiați pe noul telefon?</string>
+    <string name="d2d_app_picker_description_no_apps">Nu s-a găsit nicio aplicație</string>
+    <string name="d2d_app_picker_title">Aplicații</string>
+    <string name="d2d_migration_canceled_on_source">Copierea a fost anulată</string>
+    <string name="data_copied_fragment_description">Datele au fost copiate pe noul telefon. Puteți deconecta cablul.</string>
+    <string name="data_copied_fragment_description_cancel">Ați ales să opriți copierea, așa că numai unele date au fost copiate pe noul telefon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Ați ales să opriți copierea, așa că nu s-a copiat nimic pe noul telefon.</string>
+    <string name="data_copied_fragment_description_error">A apărut o eroare, așa că nu am putut copia totul.</string>
+    <string name="data_copied_fragment_description_error_no_data">A apărut o eroare, așa că nu am putut copia datele.</string>
+    <string name="data_copied_fragment_no_data_title">Datele nu s-au putut copia</string>
+    <string name="data_copied_fragment_some_data_title">Unele date au fost copiate</string>
+    <string name="data_copied_fragment_title">Datele au fost copiate</string>
+    <string name="device_backup_title">Backup pentru dispozitiv</string>
+    <string name="device_not_supported_fragment_new_device">V-ați conectat la un telefon nou. Pentru a continua, reconectați-vă la cel anterior.</string>
+    <string name="device_not_supported_fragment_new_device_title">Reconectați la telefonul anterior</string>
+    <string name="device_not_supported_fragment_no_data_cable">Acest cablu nu poate transfera date. Reconectați folosind un alt cablu și încercați din nou.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Încercați un alt cablu</string>
+    <string name="device_not_supported_fragment_retry_description">Asigurați-vă că vechiul telefon este deblocat, apoi deconectați și reconectați cablul</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">A apărut o eroare</string>
+    <string name="device_not_supported_ios_supervised_description">Dat fiind că dispozitivul dvs. iPhone® este monitorizat, va trebui să alegeți alt mod de a copia datele</string>
+    <string name="device_picker_description">Backupurile sunt stocate în Google Drive</string>
+    <string name="device_picker_empty">Niciun backup conectat la %1$s.</string>
+    <string name="device_picker_empty_title">Nu s-a găsit niciun backup</string>
+    <string name="device_picker_item">Backup al dispozitivului %1$s</string>
+    <string name="device_picker_last_used">Ultima utilizare: ^1</string>
+    <string name="device_picker_skip">Nu restabiliți</string>
+    <string name="device_picker_title">Alegeți un backup de restabilit</string>
+    <string name="disabled_by_admin_summary_text">Controlată de administrator</string>
+    <string name="download_msg_error_invalid">Descărcarea a fost configurată incorect.</string>
+    <string name="download_msg_in_progress">Descărcarea este în curs.</string>
+    <string name="download_msg_not_allowed_space">Nu există suficient spațiu pentru a efectua descărcarea.</string>
+    <string name="download_msg_pending">Descărcarea este în așteptare.</string>
+    <string name="download_notification_description">Date solicitate de %1$s.</string>
+    <string name="download_notification_title">Se preiau mai multe date</string>
+    <string name="drive_backup_account">Cont pentru backup</string>
+    <string name="drive_backup_apps_in_backup">Aplicații pentru ale căror date s-a făcut backup</string>
+    <string name="drive_backup_apps_last_backup">Ultimul backup</string>
+    <string name="drive_backup_apps_loading">Se încarcă…</string>
+    <string name="drive_backup_apps_screen_title">Datele aplicațiilor</string>
+    <string name="drive_backup_content_apps_title">Datele aplicațiilor</string>
+    <string name="drive_backup_content_calendar_dialog_message">Evenimentele create în Google Calendar se vor sincroniza pe toate dispozitivele care sunt conectate la Contul dvs. Google.</string>
+    <string name="drive_backup_content_calendar_title">Google Calendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Backupul include data și destinatarul apelurilor efectuate și primite.</string>
+    <string name="drive_backup_content_callhistory_title">Istoricul apelurilor</string>
+    <string name="drive_backup_content_contacts_dialog_message">Persoanele de contact create în Agenda Google se vor sincroniza pe toate dispozitivele care sunt conectate la Contul dvs. Google.</string>
+    <string name="drive_backup_content_contacts_title">Agendă Google</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Backupul include configurarea dispozitivului, cum ar fi imaginea de fundal, parolele pentru Wi-Fi și aplicațiile prestabilite.</string>
+    <string name="drive_backup_content_devicesettings_title">Setările dispozitivului</string>
+    <string name="drive_backup_content_header">Conținut</string>
+    <string name="drive_backup_content_photos_dialog_message">Contul de backup principal a fost schimbat. Puteți să schimbați și contul de backup pentru Google Foto în %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ÎNCHIDEȚI</string>
+    <string name="drive_backup_content_photos_dialog_title">Schimbați și contul pentru fotografii și videoclipuri?</string>
+    <string name="drive_backup_content_photos_dialog_yes">MODIFICAȚI</string>
+    <string name="drive_backup_content_photos_title">Fotografii și videoclipuri</string>
+    <string name="drive_backup_content_sms_dialog_message">Backupul include mesajele trimise și primite. Aici nu este inclus conținutul media al mesajelor MMS.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Am înțeles</string>
+    <string name="drive_backup_content_status_error">Eroare la preluarea datei ultimei sincronizări</string>
+    <string name="drive_backup_content_status_lastsaved">Ultimul backup: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Ultima sincronizare: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Se așteaptă pentru backup</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Setări privind sincronizarea</string>
+    <string name="drive_backup_content_status_sync_off">Sincronizarea este DEZACTIVATĂ</string>
+    <string name="drive_backup_content_status_updating">Se verifică starea…</string>
+    <string name="drive_backup_disabled_backuplist">"Backupul include:
+\u0009– aplicațiile și datele aplicațiilor;
+\u0009– istoricul apelurilor;
+\u0009– setările dispozitivului (inclusiv parolele pentru Wi-Fi);
+\u0009– Google Calendar;
+\u0009– Agenda Google;
+\u0009– fotografii și videoclipuri;
+\u0009– SMS-uri."</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Backupul include:
+\u0009- aplicațiile și datele aplicațiilor,
+\u0009- istoricul apelurilor,
+\u0009- setările dispozitivului (inclusiv parolele de Wi-Fi),
+\u0009- Google Calendar,
+\u0009- Agenda Google,
+\u0009- SMS-urile."</string>
+    <string name="drive_backup_disabled_by_device_owner">Dezactivat de administrator</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google Calendar, Agenda Google, fotografiile și videoclipurile sunt sincronizate cu Contul Google și pot fi folosite în toate serviciile.
+
+Este posibil ca sincronizarea să fie activată chiar dacă backupul este dezactivat. Setările privind sincronizarea pot fi modificate din Setări > Conturi > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google Calendar și Agenda Google sunt sincronizate cu Contul dvs. Google și pot fi folosite în toate serviciile.
+
+Sincronizarea poate fi activată chiar dacă backupul este dezactivat. Setările de sincronizare pot fi modificate în Setări > Conturi > Google."</string>
+    <string name="drive_backup_disabled_introduction">Backupul automat vă asigură că puteți oricând să restabiliți sau să schimbați cu ușurință telefoanele.</string>
+    <string name="drive_backup_settings_title">Backup</string>
+    <string name="drive_backup_state">Faceți backup pe Google Drive</string>
+    <string name="drive_backup_state_dialog_message">"Datele din backup ale acestui dispozitiv stocate în Google Drive vor fi șterse definitiv.
+
+Fotografiile și videoclipurile cărora li s-a făcut deja backup vor fi disponibile în continuare în Google Drive.
+
+Google Calendar și Agenda Google se vor sincroniza în continuare cu Contul Google. Setările privind sincronizarea pot fi modificate din Setări > Conturi > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Datele de pe acest dispozitiv pentru care s-a făcut backup în Google Drive vor fi șterse definitiv.
+
+Google Calendar și Agenda Google vor continua să se sincronizeze cu Contul dvs. Google. Setările de sincronizare pot fi modificate în Setări > Conturi > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Dezactivați și ștergeți</string>
+    <string name="drive_backup_state_dialog_title">Dezactivați și ștergeți backupul?</string>
+    <string name="durationDayHour">%1$d zi %2$d oră</string>
+    <string name="durationDayHours">%1$d zi %2$d ore</string>
+    <string name="durationDays">%1$d zile</string>
+    <string name="durationHourMinute">%1$d oră %2$d min.</string>
+    <string name="durationHourMinutes">%1$d oră %2$d min.</string>
+    <string name="durationHours">%1$d ore</string>
+    <string name="durationMinute">%1$d minut</string>
+    <string name="durationMinuteSecond">%1$d min. %2$d sec.</string>
+    <string name="durationMinuteSeconds">%1$d min. %2$d sec.</string>
+    <string name="durationMinutes">%1$d minute</string>
+    <string name="durationSecond">%1$d secundă</string>
+    <string name="durationSeconds">%1$d secunde</string>
+    <string name="encryption_warning_fragment_description">"Criptarea backupului este activată pentru dispozitivul dvs. iPhone®. Dacă nu dvs. ați activat-o, este posibil să fi fost activată de administratorul dvs. informatic.
+
+Numai fotografiile, muzica și videoclipurile pot fi copiate. Pentru mai multe informații, vizitați "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Criptarea backupului</string>
+    <string name="fido_begin_button">ÎNCEPEȚI</string>
+    <string name="fido_ble_device_icon_content_description">Dispozitiv Bluetooth descoperit</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Apăsați lung butonul de pe cheie timp de cel puțin 5 secunde pentru a vă asigura că este în modul de asociere</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">OK</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">A apărut o eroare</string>
+    <string name="fido_ble_dont_see_your_key_hint">Cheia dvs. nu este afișată?</string>
+    <string name="fido_ble_enable_body">Cheia de securitate funcționează numai atunci când dispozitivul are Bluetooth activat</string>
+    <string name="fido_ble_enable_title">Activați Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">ACTIVAȚI</string>
+    <string name="fido_ble_instructions_body">Pentru a folosi cheia, de obicei trebuie doar să apăsați butonul</string>
+    <string name="fido_ble_instructions_title">Permiteți folosirea Cheii dvs. de securitate?</string>
+    <string name="fido_ble_locate_pin_body">De obicei, codul PIN de asociere este un număr de 4 sau 6 cifre și se poate afla pe spatele cheii. Continuați când sunteți gata să introduceți codul PIN.</string>
+    <string name="fido_ble_locate_pin_continue_button">CONTINUAȚI</string>
+    <string name="fido_ble_locate_pin_title">Găsiți codul PIN de asociere prin Bluetooth pentru cheia dvs. %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Se asociază Cheia de securitate…</string>
+    <string name="fido_ble_pair_instructions_body">Asociați-vă cheia cu acest dispozitiv ca să o puteți folosi cu contul dvs.</string>
+    <string name="fido_ble_pair_instructions_title">Sunteți gata să asociați Cheia de securitate?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Readuceți cheia în modul de asociere</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">ÎNCERCAȚI DIN NOU</string>
+    <string name="fido_ble_pairing_failure_dialog_title">A apărut o eroare</string>
+    <string name="fido_ble_pairing_mode_body">Apăsați lung butonul de pe Cheia de securitate timp de cel puțin 5 secunde</string>
+    <string name="fido_ble_pairing_mode_title">Intrați în modul de asociere</string>
+    <string name="fido_ble_select_device_body">Din lista de mai jos, selectați Cheia de securitate pe care doriți să o asociați cu dispozitivul dvs. Este posibil ca numele să fie imprimat pe spatele cheii.</string>
+    <string name="fido_ble_select_device_title">Selectați Cheia dvs. de securitate</string>
+    <string name="fido_cancel_button">Anulați</string>
+    <string name="fido_nfc_enable_body">Cheia de securitate funcționează numai atunci când dispozitivul are NFC activat</string>
+    <string name="fido_nfc_enable_title">Activați NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">ACTIVAȚI</string>
+    <string name="fido_nfc_instructions_body">Țineți orizontal cheia pe spatele dispozitivului până când nu mai vibrează</string>
+    <string name="fido_nfc_instructions_title">Permiteți folosirea Cheii dvs. de securitate?</string>
+    <string name="fido_pair_another_security_key">Asociați o altă Cheie de securitate</string>
+    <string name="fido_processing">Se verifică Cheia de securitate…</string>
+    <string name="fido_transport_selection_bluetooth">Utilizați Cheia de securitate cu Bluetooth</string>
+    <string name="fido_transport_selection_body">Cheile de securitate funcționează cu Bluetooth și NFC. Alegeți modul în care doriți să folosiți cheia.</string>
+    <string name="fido_transport_selection_nfc">Utilizați Cheia de securitate cu NFC</string>
+    <string name="fido_transport_selection_title">Alegeți modul de folosire a Cheii de securitate</string>
+    <string name="fido_use_ble_instead">Folosiți Cheia de securitate cu Bluetooth</string>
+    <string name="fido_use_nfc_instead">Folosiți Cheia de securitate cu NFC</string>
+    <string name="fido_welcome_body">Dacă vă folosiți Cheia de securitate cu %1$s, contribuiți la protejarea datelor dvs. private.</string>
+    <string name="fido_welcome_title">Folosiți Cheia de securitate cu %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Nu găsesc adaptorul</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Găsiți accesoriul Quick Switch Adapter pe care l-ați primit în aceeași cutie cu ^1.
+
+Conectați cablul la adaptor."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Conectați adaptorul și cablul</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Deblocați telefonul vechi, apoi conectați adaptorul la acest telefon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Conectați ambele telefoane</string>
+    <string name="fragment_usb_dialog_cancel_description">Veți transfera cel mai mult conținut dacă folosiți un cablu. În cazul în care cablurile din cutie nu se potrivesc, încercați să folosiți un cablu de alimentare sau de date care funcționează cu vechiul telefon.</string>
+    <string name="fragment_usb_dialog_cancel_title">Copiați datele altfel?</string>
+    <string name="fragment_usb_dont_have_cable">Nu am cablu</string>
+    <string name="fragment_usb_dont_have_old_phone">Nu am telefonul vechi</string>
+    <string name="fragment_usb_find_cable_description">Folosiți un cablu care se potrivește pentru telefonul vechi, cum ar fi un cablu de date sau de alimentare.</string>
+    <string name="fragment_usb_find_cable_title">Găsiți cablul potrivit</string>
+    <string name="fragment_usb_initial_description">Transferați datele de pe telefonul vechi pe acest ^1.</string>
+    <string name="fragment_usb_initial_title">Să vă copiem datele</string>
+    <string name="fragment_usb_legacy_description">"Aceasta este cea mai rapidă modalitate de a transfera majoritatea datelor.
+
+Găsiți adaptorul în cutie și conectați-l la telefonul nou. Conectați telefoanele folosind un cablu, apoi deblocați telefonul vechi."</string>
+    <string name="fragment_usb_other_ways">Copiați fără cablu</string>
+    <string name="fragment_usb_plug_cable">Conectați cablul la telefonul vechi</string>
+    <string name="fragment_waiting_title">O secundă…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Permisiuni pentru aplicații</string>
+    <string name="google_contacts_static_text">Agenda Google se va sincroniza</string>
+    <string name="google_contacts_static_text_off">Agenda Google se va sincroniza în continuare</string>
+    <string name="google_legal_title">Aspecte juridice Google</string>
+    <string name="google_play_tos_title">Termeni și condiții Google Play</string>
+    <string name="google_plus_privacy_policy_title">Politica de confidențialit. Google Plus</string>
+    <string name="google_privacy_policy_title">Politica de confidențialitate Google</string>
+    <string name="google_terms_of_service_title">Termenii și condițiile Google</string>
+    <string name="header_set_backup_account">Setați contul de backup</string>
+    <string name="i_message_dialog_message">"Pentru a primi în continuare mesaje SMS de la utilizatorii dispozitivelor iPhone®, trebuie să dezactivați iMessage®.
+
+Pentru instrucțiuni, accesați "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instant_apps_settings_title">Aplicații instantanee</string>
+    <string name="instructions_fragment_title">Continuați pe celălalt telefon</string>
+    <string name="ios_connected_fragment_description">"Pe ecranul următor, puteți să vă conectați la Contul dvs. Google sau să creați un cont.
+
+Dacă nu vă adăugați Contul Google, evenimentele dvs. iOS Calendar® nu se vor transfera."</string>
+    <string name="ios_message_attachment_explanation">[Atașamentele mesajului dvs. sunt în Google Foto > Dosarele dispozitivului > Atașamente de mesaje]</string>
+    <string name="ios_message_attachment_failed_explanation">[Unele atașamente nu au putut fi copiate. Atașamentele care au fost transferate se găsesc în Google Foto > Dosarele dispozitivului > Atașamente de mesaje]</string>
+    <string name="ios_message_attachment_placeholder">[Atașamentul a fost salvat în Google Foto > Dosarele dispozitivului > Atașamente de mesaje]</string>
+    <string name="ios_message_attachments_placeholder">[Atașamentele au fost salvate în Google Foto > Dosarele dispozitivului > Atașamente de mesaje]</string>
+    <string name="ios_migration_default_calendar_title">Calendar</string>
+    <string name="ios_migration_other_contact_relation">Alta</string>
+    <string name="ios_photos_dialog_message">"Fotografiile stocate în iCloud® nu pot fi copiate.
+
+Pentru a le avea pe ^1, instalați aplicația Google Foto pe dispozitivul iPhone® și activați Backup și sincronizare. Pentru mai multe instrucțiuni, accesați "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Adăugați un cont</string>
+    <string name="lockscreen_smartdevice_action_next">Înainte</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Deblocați pentru a continua configurarea telefonului</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Din motive de securitate, ca să continuați configurarea, trebuie să confirmați blocarea ecranului</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Confirmați blocarea ecranului</string>
+    <string name="manage_data_label">Contul Google</string>
+    <string name="master_clear_title">Revenire la setările din fabrică</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Recomandări de rețele</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Mesaje Wi‑Fi</string>
+    <string name="notification_channel_network_available">Rețea disponibilă</string>
+    <string name="notification_channel_wakeup_name">Conexiunea prin Wi-Fi este activată</string>
+    <string name="notification_content_text_set_backup_account">Este necesar să configurați un cont pentru backup</string>
+    <string name="notification_content_title_set_backup_account">Backup</string>
+    <string name="notification_ticker">Acces solicitat</string>
+    <string name="notification_ticker_set_backup_account">Este necesar un cont pentru copia de rezervă</string>
+    <string name="open_in_web_button">Deschideți în browser</string>
+    <string name="open_source_activity_prompt_heading">Deschideți aplicația</string>
+    <string name="open_source_activity_prompt_text">"Deschideți SourceResponseActivity pe telefon pentru a finaliza procesul de autentificare. "</string>
+    <string name="opt_in_account_content_description">Selectați un cont. Selectat în prezent: %1$s</string>
+    <string name="opt_in_account_null_state">Creați un cont</string>
+    <string name="opt_in_agreement">Continuând, acceptați <a href="https://play.google.com/about/play-terms.html">Termenii și condițiile Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Aflați mai multe</a></string>
+    <string name="opt_in_confirm">Da, accept</string>
+    <string name="opt_in_description">"Când atingeți un link, Google Play verifică dacă există o aplicație instantanee și o deschide fără să o instalați. Aplicațiile instantanee sunt păstrate temporar pe dispozitiv.
+
+Aplicațiile instantanee solicită permisiunile atunci când le folosiți. Detaliile despre aplicație, inclusiv achizițiile în aplicație, sunt disponibile în Magazinul Google Play. Datele și setările aplicațiilor sunt sincronizate cu dispozitivele conectate folosind:"</string>
+    <string name="opt_in_description_m_plus">"Când atingeți un link, Google Play verifică dacă există o aplicație instantanee și o deschide fără să o instalați. Aplicațiile instantanee sunt păstrate temporar pe dispozitiv.
+
+Detaliile despre aplicație, inclusiv achizițiile în aplicație, sunt disponibile în Magazinul Google Play. Datele și setările aplicațiilor sunt sincronizate cu dispozitivele conectate folosind:"</string>
+    <string name="opt_in_subtitle">Folosiți aplicațiile fără să le instalați</string>
+    <string name="opt_in_title">Aplicații instantanee</string>
+    <string name="permgrouplab_calendar">Calendar</string>
+    <string name="permgrouplab_camera">Cameră foto</string>
+    <string name="permgrouplab_contacts">Agendă</string>
+    <string name="permgrouplab_location">Locație</string>
+    <string name="permgrouplab_microphone">Microfon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Senzori corporali</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Stocare</string>
+    <string name="permissions_not_granted_text">Pentru a acorda permisiuni, conectați-vă din nou.</string>
+    <string name="permissions_not_granted_title">Permisiunile nu au fost acordate.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">În prezent, niciun cont nu stochează fotografii cărora li s-a făcut backup</string>
+    <string name="photos_backup_title">Backup pentru fotografii</string>
+    <string name="photos_filtering_option_all">Tot</string>
+    <string name="photos_filtering_option_none">Nimic</string>
+    <string name="plus_manage_app_only_you_label">Numai dvs.</string>
+    <string name="plus_network_unreliable">Nu se poate stabili o conexiune sigură la server.</string>
+    <string name="plus_oob_interstitial_loading_text">Procesul poate dura câteva minute.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Persoanele de contact copiate vor fi salvate în Contul Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Persoanele de contact și calendarele copiate vor fi salvate în Contul Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Este posibil ca unele dintre datele dvs. să nu poată fi copiate pe ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Aflați mai multe</annotation></string>
+    <string name="restore_choice_deselect_some_content">Pentru a continua, deselectați o parte din conținut</string>
+    <string name="restore_choice_learn_more_android">"Unele date de pe telefonul vechi nu pot fi copiate automat:
+
+ ● descărcări (cum ar fi fișierele PDF);
+
+ ● fotografii, videoclipuri și cântece stocate în dosare ascunse;
+
+ ● fotografii, videoclipuri și cântece primite prin mesaje text;
+
+ ● aplicații care nu sunt din Magazinul Google Play;
+
+ ● date ale aplicațiilor (dacă aplicația nu folosește Android Backup Service);
+
+ ● anumite setări ale dispozitivului;
+
+ ● alte conturi decât Conturile Google (și toate datele asociate);
+
+ ● persoane de contact și calendare sincronizate cu alte servicii decât Google;
+
+ ● tonuri de sonerie.
+
+ Pentru mai multe detalii și ajutor cu privire la copierea unor date, accesați g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Unele date de pe telefonul vechi nu pot fi copiate automat:
+
+ ● aplicații și datele aplicațiilor;
+
+ ● fotografii ale căror versiuni originale nu sunt stocate pe telefon (de exemplu, dacă setarea Optimizați stocarea este activată, fotografiile originale sunt stocate în iCloud®);
+
+ ● fișiere și documente stocate în iCloud®;
+
+ ● setări ale dispozitivului (cum ar fi parolele Wi-Fi și imaginea de fundal);
+
+ ● muzica protejată prin Digital Rights Management (DRM) (de exemplu, muzica de pe iTunes® achiziționată înainte de aprilie 2009 sau muzica descărcată pentru a fi ascultată offline într-o aplicație de redare în flux a muzicii);
+
+ ● alte conturi decât Conturile Google (și toate datele asociate);
+
+ ● persoanele de contact și calendarele sincronizate cu alte servicii decât Google sau iCloud®;
+
+ ● marcaje din Safari®.
+
+ Atașamentele din iMessage® vor fi disponibile în Google Foto > Dosarele dispozitivului > Atașamente de mesaje.
+
+ Pentru mai multe detalii și ajutor cu privire la copierea unora dintre aceste date, accesați g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Spațiu insuficient</string>
+    <string name="restore_choice_total_text">din transferul de %1$s/%2$s</string>
+    <string name="restore_error_message">A apărut o eroare la restabilire. Ne pare rău.</string>
+    <string name="restore_instant_apps_notif_text">%1$s sunt necesare, dar au fost eliminate de pe acest dispozitiv</string>
+    <string name="restore_instant_apps_notif_title">Restabiliți aplic. instantanee</string>
+    <string name="restore_item_appdata">Datele aplicațiilor</string>
+    <string name="restore_item_calendar">Calendar</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google Calendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google Calendar se va sincroniza în continuare</string>
+    <string name="restore_item_calendar_sync_description">Google Calendar se va sincroniza</string>
+    <string name="restore_item_call_logs">Istoricul apelurilor</string>
+    <string name="restore_item_contacts">Persoane de contact</string>
+    <string name="restore_item_device_settings_description">Parolele Wi-Fi și altele</string>
+    <string name="restore_item_downloads">Descărcări</string>
+    <string name="restore_item_email">E-mailuri</string>
+    <string name="restore_item_email_description">Gmail se va sincroniza</string>
+    <string name="restore_item_message_attachments">Atașamente din mesaje</string>
+    <string name="restore_item_messages">Mesaje</string>
+    <string name="restore_item_music">Muzică</string>
+    <string name="restore_item_photos">Fotografii și videoclipuri</string>
+    <string name="restore_item_settings">Setările dispozitivului</string>
+    <string name="restore_item_sms">Mesajele SMS</string>
+    <string name="restore_item_will_be_synced_text">Aceste date se vor sincroniza pe telefon</string>
+    <string name="restore_progress_title">Se restabilește…</string>
+    <string name="restore_supervisor_description">Pentru a deschide linkuri în aplicații instantanee, restabiliți %1$s</string>
+    <string name="restore_supervisor_success">Aplicațiile instantanee au fost restabilite</string>
+    <string name="restore_supervisor_title">Doriți să restabiliți aplicațiile instantanee?</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="setup_failure_description">Imposibil de configurat aplicațiile instantanee. <a href="https://support.google.com/googleplay/?p=instant_apps">Aflați mai multe</a></string>
+    <string name="setup_failure_title">Eroare de configurare</string>
+    <string name="sharedUserLabel">Servicii Google</string>
+    <string name="sid_lsid_grant_detail">Ca în cazul parolelor, cookie-urile de identificare a sesiunii (SID) și cele de identificare a sesiunii locale (LSID) vă asociază identitatea cu o serie de solicitări generate de un browser. Acestea permit accesul complet la toate datele din contul dvs. Numai browserele utilizează aceste cookie-uri în mod justificat.</string>
+    <string name="sid_lsid_grant_label">Folosiți cookie-uri SID și LSID pentru a avea acces la toate datele din Contul Google.</string>
+    <string name="small_time_duration">Mai puțin de 1 minut</string>
+    <string name="smartdevice_action_copy">Copiază</string>
+    <string name="smartdevice_action_next">Înainte</string>
+    <string name="smartdevice_action_open_app">Deschide aplicația</string>
+    <string name="smartdevice_action_skip">Omite</string>
+    <string name="smartdevice_action_try_another_way">Încearcă altfel</string>
+    <string name="smartdevice_action_turn_on_location">Activați Locația</string>
+    <string name="smartdevice_alert_disconnected_message">"Dispozitivul a fost deconectat.
+Pentru a continua configurarea, conectează-l și reia procedura."</string>
+    <string name="smartdevice_alert_disconnected_title">Dispozitiv deconectat</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Din păcate, nu puteți folosi această funcție, deoarece contul dvs. de backup este gestionat de administratorul dispozitivului.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Funcția nu este disponibilă</string>
+    <string name="smartdevice_alert_exit_setup_message">Sigur vrei să ieși din configurarea celuilalt dispozitiv?</string>
+    <string name="smartdevice_alert_exit_setup_title">Ieși din configurarea dispozitivului?</string>
+    <string name="smartdevice_alert_generic_error_title">A apărut o eroare</string>
+    <string name="smartdevice_alert_generic_error_toast_text">A apărut o eroare</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Pentru a configura dispozitivul, ai nevoie de cel puțin un cont Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">Pentru a configura dispozitivul %s, ai nevoie de cel puțin un cont Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Niciun cont de copiat</string>
+    <string name="smartdevice_alert_quit_button">Ieși</string>
+    <string name="smartdevice_alert_restart_setup_button">Repornește configurarea</string>
+    <string name="smartdevice_alert_setup_incomplete">Configurarea nu a fost finalizată</string>
+    <string name="smartdevice_alert_skip_button">Omite</string>
+    <string name="smartdevice_alert_start_over_button">Reia</string>
+    <string name="smartdevice_alert_work_profile_message">Conturile de serviciu nu pot fi copiate încă. După ce copiați celelalte Conturi Google și datele acestora, accesați Setările de pe noul dispozitiv pentru a adăuga contul de serviciu.</string>
+    <string name="smartdevice_alert_work_profile_title">Contul de serviciu nu poate fi copiat</string>
+    <string name="smartdevice_application_label">Configurarea dispozitivului</string>
+    <string name="smartdevice_choose_device">Alege dispozitivul</string>
+    <string name="smartdevice_companion_app_ready">Aplicația %s este deja instalată pe acest dispozitiv.</string>
+    <string name="smartdevice_connect_to_wifi">Conectează dispozitivul</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Se conectează dispozitivul…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Conturile Google, celelalte conturi, aplicațiile și datele dvs. vor fi copiate</string>
+    <string name="smartdevice_d2d_copy_account_text">Îți copiezi conturile, aplicațiile și datele Google pe celălalt dispozitiv?</string>
+    <string name="smartdevice_d2d_copy_account_title">Copiezi pe dispozitiv?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Nu este recunoscută</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Încercați cu ecranul de blocare</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Din motive de securitate, confirmați amprenta. Conturile Google, aplicațiile și datele dvs. vor fi copiate pe %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Deblochează pentru a continua configurarea dispozitivului</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Din motive de securitate, confirmați blocarea ecranului pentru a continua configurarea.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Confirmați ca să continuați</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Celălalt dispozitiv nu poate fi configurat deoarece funcția Bluetooth nu este disponibilă pe dispozitivul tău.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Această funcție a fost dezactivată din motive de securitate. Atinge Omite pe celălalt dispozitiv pentru a continua configurarea.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Configurează un dispozitiv nou</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Configurarea dispozitivului</string>
+    <string name="smartdevice_d2d_source_notification_title">Configurarea dispozitivului ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Repornește configurarea și alege dispozitivul ^1 pentru a te asigura că îți copiezi conturile Google, aplicațiile și datele pe dispozitivul dorit.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Codul nu se afișează?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Codul nu se afișează?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Caută acest cod pe celălalt dispozitiv pentru a confirma că ai ales dispozitivul dorit</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Confirmă codul</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Nu se pot configura dispozitive noi dintr-un profil de utilizator restricționat.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Termină configurarea pe dispozitivul %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Aproape ați terminat!</string>
+    <string name="smartdevice_d2d_target_choice_description">Dacă folosiți alt dispozitiv Android, puteți să copiați rapid configurarea actuală pe acest %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Obțineți aproape tot conținutul de pe dispozitivul anterior dacă este Android</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Configurați ca nou</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Copiați de pe un alt dispozitiv Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Nu, mulțumesc</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, urmează pașii următori pentru a configura dispozitivul</string>
+    <string name="smartdevice_d2d_target_choice_title">Ai alt dispozitiv?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Copiază Conturi Google, aplicații și date de pe celălalt dispozitiv.</string>
+    <string name="smartdevice_d2d_target_continue_description">Continuă configurarea pe celălalt dispozitiv.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Se copiază conturile…</string>
+    <string name="smartdevice_d2d_target_description">Reveniți la celălalt dispozitiv:&lt;br/>&lt;br/> 1. rostiți &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> sau tastați \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" și atingeți pentru a confirma;&lt;br/>&lt;br/> 2. atingeți &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> în listă și urmați instrucțiunile de pe ecran.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Încercați astfel</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Pe celălalt dispozitiv:&lt;br/>&lt;br/> 1. deschideți aplicația &lt;b>Setări Google&lt;/b>;&lt;br/>&lt;br/> 2. selectați &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Configurați un dispozitiv din apropiere>%1$s&lt;/xliff:g>&lt;/b>; &lt;br/>&lt;br/> 3. atingeți &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> în listă și urmați instrucțiunile de pe ecran</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Acești pași nu pot fi finalizați</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Să folosim Setările</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">Pe celălalt dispozitiv:&lt;br/>&lt;br/> 1. atingeți pictograma Toate aplicațiile, apoi deschideți &lt;b>aplicația Setări&lt;/b>; &lt;br/>&lt;br/> 2. atingeți &lt;b>Google&lt;/b>; &lt;br/>&lt;br/> 3. selectați &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Configurați un dispozitiv din apropiere>%1$s&lt;/xliff:g>&lt;/b>;&lt;br/>&lt;br/> 4. atingeți &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> în listă și urmați instrucțiunile de pe ecran</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Copiați de pe un alt dispozitiv Android</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Nu vă descurcați?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Nu-l găsești?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Pe celălalt dispozitiv, deschideți aplicația Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">Deschide aplicația Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">Pe celălalt dispozitiv</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Înainte de copiere: 
+
+1. nu uita să pornești și să deblochezi celălalt dispozitiv; 
+
+2. așază spate în spate cele două dispozitive până când auzi un ton, apoi desparte-le."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Funcția Tap &amp; Go folosește tehnologia NFC pentru a vă copia Conturile Google, aplicațiile și datele de pe celălalt dispozitiv. Asigurați-vă că dispozitivul are NFC activat din Setări.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Nu vă descurcați?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Tap &amp; Go</string>
+    <string name="smartdevice_d2d_target_other_device_description">Aplicația Google este instalată în prealabil pe toate dispozitivele Android. Atinge butonul „Toate aplicațiile” din ecranul de pornire și caută pictograma de mai sus.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Acest cod trebuie să corespundă cu cel de pe celălalt dispozitiv:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Nu omite</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Acest cont sau aplicațiile și datele pentru care există backup nu se vor copia pe acest dispozitiv în timpul configurării.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Omite oricum</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Omiți acest cont?</string>
+    <string name="smartdevice_d2d_target_title">Din aplicația Google</string>
+    <string name="smartdevice_default_device_name">dispozitiv</string>
+    <string name="smartdevice_install_app">Instalează aplicația</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Descarcă aplicația %s pentru a-ți controla și gestiona dispozitivul %s de pe acest dispozitiv</string>
+    <string name="smartdevice_install_on_this_device">Instalați</string>
+    <string name="smartdevice_search_again">Caută din nou</string>
+    <string name="smartdevice_searching_for_devices">Se caută dispozitive</string>
+    <string name="smartdevice_setup_enter_code">Introdu codul pe dispozitiv. Ar trebui să se afișeze într-un sticker.</string>
+    <string name="smartdevice_setup_enter_code_hint">Introdu codul</string>
+    <string name="smartdevice_setup_enter_pin_4">Introdu codul din 4 cifre afișat acum pe celălalt dispozitiv</string>
+    <string name="smartdevice_setup_info_installing_app">Se instalează aplicația…</string>
+    <string name="smartdevice_setup_intro_text">Se vor folosi datele Wi-Fi și Bluetooth ale telefonului pentru configurarea dispozitivului.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Se va folosi funcția Bluetooth pentru configurarea dispozitivului.</string>
+    <string name="smartdevice_setup_intro_title">Noțiuni introductive</string>
+    <string name="smartdevice_setup_password_hint">Introdu parola pentru Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Afișează parola</string>
+    <string name="smartdevice_setup_title_verify_code">Confirmă codul</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Se pot folosi numai rețele deschise și rețele WPA/WPA2 pentru configurarea acestui dispozitiv</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Nu se poate utiliza rețeaua Wi-Fi</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Fără Wi-Fi, s-ar putea ca dispozitivul să nu funcționeze corect. Conectează-l la o rețea Wi-Fi pentru a continua configurarea.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Alege o rețea Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Pentru a căuta Wi-Fi, activați Locația.
+
+Puteți modifica această setare oricând în Setări."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Nu se pot căuta rețele Wi-Fi</string>
+    <string name="source_connected_description">Se pregătește...</string>
+    <string name="source_connected_title">Conectat la %1$s</string>
+    <string name="source_copying_description">Datele pe care le-ați ales se copiază pe noul telefon</string>
+    <string name="source_copying_title">Se copiază…</string>
+    <string name="source_default_target_device_name">dispozitiv nou</string>
+    <string name="source_notification_device_disconnected">Reconectați cablul</string>
+    <string name="source_notification_text">Transferul între telefoane este în desfășurare</string>
+    <string name="source_notification_title">Transfer de date</string>
+    <string name="source_success_description">Finalizați configurarea pe %1$s.</string>
+    <string name="source_success_screen_title">Gata!</string>
+    <string name="source_unplugged_description">Reconectați la %1$s</string>
+    <string name="source_unplugged_title">Cablul a fost deconectat</string>
+    <string name="source_waiting_title">Continuați configurarea pe %1$s</string>
+    <string name="status_bar_notification_info_overflow">˃999</string>
+    <string name="stop_copying_dialog_continue_button">Închideți</string>
+    <string name="stop_copying_dialog_message_before_transfer">Datele dvs. nu au fost copiate pe noul telefon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Anumite date nu au fost copiate pe noul telefon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nu copiați</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Opriți</string>
+    <string name="stop_copying_dialog_title_before_transfer">Nu copiați?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Opriți copierea?</string>
+    <string name="storage_management_wear_descriptive_text">Aplicațiile utilizează stocarea dispozitivului pentru a reproduce date pe un accesoriu inteligent.</string>
+    <string name="storage_management_wear_manage_size_label">Gestion. stoc. pe accesorii inteligente</string>
+    <string name="storage_management_wear_size_label">Stoc. pe accesorii inteligente</string>
+    <string name="storage_managment_all_storage_descriptive_text">Totalul datelor utilizate de serviciile Google Play, inclusiv motorul de căutare și alte date.</string>
+    <string name="storage_managment_clear_all_data">Ștergeți toate datele</string>
+    <string name="storage_managment_computing_size">Se calculează...</string>
+    <string name="storage_managment_icing_size_label">Date de căutare</string>
+    <string name="storage_managment_manage_icing_button">Gestionați datele de căutare</string>
+    <string name="storage_managment_search_index_descriptive_text">Accelerăm căutarea pe dispozitiv oferind un motor de căutare pentru a fi utilizat de aplicațiile dvs.</string>
+    <string name="storage_managment_title">Stocare servicii Google Play</string>
+    <string name="storage_managment_total_size_label">Spațiu total de stocare</string>
+    <string name="supervisor_downloading_description">Se descarcă %1$s</string>
+    <string name="supervisor_downloading_title">Așteptați puțin, până vă configurăm dispozitivul</string>
+    <string name="supervisor_installing_description">Se instalează %1$s</string>
+    <string name="supervisor_title">Serviciile Google Play pentru aplicații instantanee</string>
+    <string name="suw_back_button_label">Înapoi</string>
+    <string name="suw_more_button_label">Mai mult</string>
+    <string name="suw_next_button_label">Înainte</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Atingeți ca să aflați mai multe</string>
+    <string name="system_update_activity_battery_low_text">Bateria este prea descărcată pentru a se instala actualizarea</string>
+    <string name="system_update_activity_name">Actualizări de sistem</string>
+    <string name="system_update_activity_roaming_text">Actualizările de sistem nu se pot descărca în roaming.</string>
+    <string name="system_update_activity_roaming_text_glif">Nu se poate descărca în roaming</string>
+    <string name="system_update_android_version_text">Versiune Android: ^1</string>
+    <string name="system_update_check_now_button_text">Căutați actualizări</string>
+    <string name="system_update_checking_status_text">Se verifică</string>
+    <string name="system_update_complete_label">Actualizare sistem</string>
+    <string name="system_update_countdown_cancel_button">Anulați instalarea</string>
+    <string name="system_update_countdown_complete">Repornește acum...</string>
+    <string name="system_update_download_and_install_button_text">Descărcați și instalați</string>
+    <string name="system_update_download_button_text">Descărcați</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Spațiu insuficient pentru a descărca</string>
+    <string name="system_update_download_failed_no_space_status_text">Spațiu disponibil insuficient pentru descărcare</string>
+    <string name="system_update_download_failed_status_text">Descărcarea nu a reușit</string>
+    <string name="system_update_download_manage_storage_button_text">Gestionați spațiul de stocare</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Se așteaptă conexiunea Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Descărcare întreruptă</string>
+    <string name="system_update_download_retry_button_text">Încercați din nou descărcarea</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Actualizarea va începe să se descarce automat între ^1 și ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Puteți să descărcați această actualizare prin Wi-Fi oricând. În caz contrar, aceasta va începe să se descarce automat între ^1 și ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Pentru a descărca actualizarea, mai întâi comutați la celălalt card SIM.</string>
+    <string name="system_update_download_waiting_status_text">Se așteaptă descărcarea</string>
+    <string name="system_update_downloading_status_text">Se descarcă</string>
+    <string name="system_update_downloading_title_text">Se descarcă actualizarea de sistem…</string>
+    <string name="system_update_downloading_wifi_status2_text">Numai prin ^1 înainte de ^2</string>
+    <string name="system_update_file_browser_ok_button">Selectați</string>
+    <string name="system_update_file_browser_title">Selectați un fișier de actualizare</string>
+    <string name="system_update_free_up_space_button_text">Eliberați spațiu</string>
+    <string name="system_update_from_sd_card_button_and_title">Actualizați de pe cardul SD</string>
+    <string name="system_update_from_sd_card_unknown_status">Se verifică...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Nu s-a putut verifica</string>
+    <string name="system_update_from_sd_card_verified_description">Actualizarea este verificată și pregătită pentru instalare.</string>
+    <string name="system_update_from_sd_card_verifying_status">Se verifică...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Este necesară o rețea Wi-Fi necontorizată</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Se recomandă Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Această actualizare poate fi descărcată numai prin ^1 înainte de ^2.
+
+Pentru a continua descărcarea, conectați-vă la ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Este necesară rețeaua Wi-Fi</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Pentru a evita posibilele taxe pentru date, conectați-vă la o rețea Wi-Fi necontorizată.</string>
+    <string name="system_update_install_button_text">Reporniți și instalați</string>
+    <string name="system_update_install_failed_button_qualifier_text">Problemă la instalare</string>
+    <string name="system_update_install_failed_title_text">Nu s-a putut actualiza</string>
+    <string name="system_update_install_steps_text">Pasul ^1 din 2</string>
+    <string name="system_update_installing_title_text">Se instalează actualizarea de sistem…</string>
+    <string name="system_update_last_checkin">Ultima căutare de actualizări a avut loc ^1.</string>
+    <string name="system_update_last_checkin_glif">Ultima căutare de actualizări: ^1</string>
+    <string name="system_update_managed_by_policy">Actualizarea de software de sistem pe acest dispozitiv este controlată de organizația dvs.</string>
+    <string name="system_update_no_update_content_text">Sistemul dvs. este actualizat.</string>
+    <string name="system_update_no_update_content_text_glif">Sistemul dvs. este actualizat</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Nu s-au putut descărca actualizări ale sistemului</string>
+    <string name="system_update_not_owner_text">Este disponibilă o actualizare de software de sistem, dar numai proprietarul o poate instala.</string>
+    <string name="system_update_notification_header_name">Actualizare de sistem Android</string>
+    <string name="system_update_pause_button_text">Întrerupeți descărcarea</string>
+    <string name="system_update_processing_status_text">Se procesează</string>
+    <string name="system_update_requires_restart_status_text">Este necesară repornirea</string>
+    <string name="system_update_restart_to_install_button_text">Reporniți acum pentru a instala</string>
+    <string name="system_update_restart_to_update_button_text">Reporniți acum pentru a actualiza</string>
+    <string name="system_update_resume_button_text">Reluați</string>
+    <string name="system_update_scheduled_status_text">Programată</string>
+    <string name="system_update_security_patch_level_text">Nivelul corecției de securitate: ^1</string>
+    <string name="system_update_security_update_available_title_text">Este disponibilă o actualizare de securitate</string>
+    <string name="system_update_security_update_downloading_title_text">Se descarcă actualizarea de securitate…</string>
+    <string name="system_update_security_update_installing_title_text">Se instalează actualizarea de securitate…</string>
+    <string name="system_update_size_label">Dimensiunea actualizării:</string>
+    <string name="system_update_suw_download_and_install_text">"Poate dura câteva minute să se descarce și să se instaleze actualizarea.
+
+Ulterior, dispozitivul va reporni automat."</string>
+    <string name="system_update_suw_download_text">"Poate dura câteva minute să se descarce actualizarea.
+
+Ulterior, dispozitivul va reporni automat."</string>
+    <string name="system_update_suw_download_title">Se descarcă actualizarea…</string>
+    <string name="system_update_suw_restart_text">Dispozitivul va reporni, pentru ca actualizarea de sistem să poată fi instalată.</string>
+    <string name="system_update_suw_restart_title">Pregătit pentru repornire</string>
+    <string name="system_update_suw_wifi_needed">Pentru a continua descărcarea, selectați ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Glisați către stânga pentru a descărca.</string>
+    <string name="system_update_update_available_notification_message">Atingeți ca să aflați mai multe și să descărcați</string>
+    <string name="system_update_update_available_notification_title">Actualizare de sistem disponibilă</string>
+    <string name="system_update_update_available_tap_to_download">Atingeți pentru a descărca</string>
+    <string name="system_update_update_available_title_text">Actualizare de sistem disponibilă</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Descărcare întreruptă</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Nu există suficient spațiu disponibil</string>
+    <string name="system_update_update_downloaded_charge_wearable">Încărcați bateria până la cel puțin %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Glisați către stânga pentru a instala.</string>
+    <string name="system_update_update_downloaded_notification_message">Atingeți ca să aflați mai multe și să instalați</string>
+    <string name="system_update_update_downloaded_notification_title">Actualizare de sistem descărcată</string>
+    <string name="system_update_update_downloaded_tap_to_install">Atingeți pentru a instala</string>
+    <string name="system_update_verification_failed_text">Verificarea nu a reușit</string>
+    <string name="system_update_verified_status_text">Descărcat și verificat</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Problemă la verificare</string>
+    <string name="system_update_verifying_status_text">În curs de verificare</string>
+    <string name="system_update_wearable_countdown_message">Repornește peste %d...</string>
+    <string name="target_default_source_device_model">vechiul dispozitiv</string>
+    <string name="target_device_not_supported_cant_continue_description">Va fi necesar să alegeți o altă modalitate de a copia datele</string>
+    <string name="target_device_not_supported_cant_continue_title">Celălalt telefon nu este acceptat</string>
+    <string name="target_device_not_supported_try_restarting_description">"Deconectați cablul și reporniți telefonul vechi, apoi conectați din nou cablul și urmați instrucțiunile de pe Pixel.
+
+Dacă eroarea aceasta continuă să se afișeze, va trebui să încercați să copiați altfel."</string>
+    <string name="target_device_not_supported_try_restarting_title">Este posibil ca telefonul să nu fie acceptat</string>
+    <string name="target_smart_device_timeout_add_account">ADĂUGAȚI CONTUL</string>
+    <string name="target_smart_device_timeout_description">Dacă doriți, puteți încerca să adăugați contul manual</string>
+    <string name="target_smart_device_timeout_dismiss">ÎNCHIDEȚI</string>
+    <string name="target_smart_device_timeout_title">Întâmpinați probleme?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefoanele sunt conectate</string>
+    <string name="toast_reconnect_cable">Reconectați cablul</string>
+    <string name="transfer_finished_fragment_title">Se adaugă ultimele setări…</string>
+    <string name="transfer_summary_copied">Datele au fost copiate</string>
+    <string name="transfer_summary_fragment_description">Puteți deconecta cablul.</string>
+    <string name="transfer_summary_fragment_finish">FINALIZAȚI</string>
+    <string name="transfer_summary_fragment_title">Telefonul dvs. este aproape gata</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Unele fotografii nu au fost copiate. <annotation id="transfer_summary_learn_more">Aflați mai multe</annotation></string>
+    <string name="transfer_summary_not_copied">Datele nu au fost copiate</string>
+    <string name="transfer_summary_partial">%1$s/%2$s copiate</string>
+    <string name="transfer_summary_will_sync">Datele se vor sincroniza după configurare</string>
+    <string name="transferring_fragment_calculating_remaining_time">Se calculează timpul rămas…</string>
+    <string name="transferring_fragment_header">Se copiază…</string>
+    <string name="transferring_fragment_remaining_time">Timp rămas: %1$s</string>
+    <string name="trust_instructions_description">Pentru a continua, verificați dispozitivul iPhone® și aprobați conexiunea</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari și iTunes sunt mărci comerciale ale Apple Inc., înregistrate în S.U.A. și în alte țări.</string>
+    <string name="unmetered_wifi_string">o rețea Wi-Fi necontorizată</string>
+    <string name="url_load_unsuccessful_message">Dispozitivul Android nu este conectat la un serviciu de date mobile. Pentru a vedea aceste informații acum, accesați %s într-un browser web.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Dispozitivul Android nu este conectat la nicio rețea Wi-Fi. Afișați informațiile accesând %s cu un browser web.</string>
+    <string name="use_nearby_device_heading">Folosiți un dispozitiv din apropiere?</string>
+    <string name="use_nearby_device_text">Doriți să folosiți un dispozitiv din apropiere pentru a oferi permisiuni?</string>
+    <string name="waiting_for_account_info_text">Se așteaptă informațiile despre cont…</string>
+    <string name="wifi_available_action_all_networks">Toate rețelele</string>
+    <string name="wifi_available_action_connect">Conectați-vă</string>
+    <string name="wifi_available_content_failed">Atingeți pentru a vedea toate rețelele</string>
+    <string name="wifi_available_title">Conectați-vă la o rețea Wi‑Fi deschisă</string>
+    <string name="wifi_available_title_connected">S-a realizat conexiunea la rețeaua Wi-Fi</string>
+    <string name="wifi_available_title_connecting">Se stabilește conexiunea la o rețea Wi‑Fi deschisă</string>
+    <string name="wifi_available_title_failed">Nu s-a putut realiza conexiunea la rețeaua Wi‑Fi</string>
+    <string name="wifi_string">o rețea Wi-Fi</string>
+    <string name="wifi_wakeup_enabled_notification_context">Vă aflați lângă o rețea salvată: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi-Fi s-a activat automat</string>
+</resources>

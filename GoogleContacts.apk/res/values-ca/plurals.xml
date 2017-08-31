@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d contactes duplicats</item>
+        <item quantity="one">1 contacte duplicat</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">"%1$d trucades recents • L'última el dia %2$s"</item>
+        <item quantity="one">"%1$d trucada recent • L'última el dia %2$s"</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">%d contacte</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d contactes · %2$s</item>
+        <item quantity="one">%1$d contacte · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">"S'han suprimit els contactes"</item>
+        <item quantity="one">"S'ha suprimit el contacte"</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 contactes • ^2</item>
+        <item quantity="one">^1 contacte • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Importa de les targetes SIM</item>
+        <item quantity="one">Importa de la targeta SIM</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d contactes</item>
+        <item quantity="one">1 contacte</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">"S'han importat %d contactes de la SIM"</item>
+        <item quantity="one">"S'ha importat 1 contacte de la SIM"</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Comparteix els contactes per</item>
+        <item quantity="one">Comparteix el contacte per</item>
+    </plurals>
+</resources>

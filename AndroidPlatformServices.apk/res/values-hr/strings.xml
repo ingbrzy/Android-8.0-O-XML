@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Idi na početnu</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Idi gore</string>
+    <string name="abc_action_menu_overflow_description">Dodatne opcije</string>
+    <string name="abc_action_mode_done">Gotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Prikaži sve</string>
+    <string name="abc_activitychooserview_choose_application">Odabir aplikacije</string>
+    <string name="abc_capital_off">ISKLJUČENO</string>
+    <string name="abc_capital_on">UKLJUČENO</string>
+    <string name="abc_search_hint">Pretražite…</string>
+    <string name="abc_searchview_description_clear">Izbriši upit</string>
+    <string name="abc_searchview_description_query">Upit za pretraživanje</string>
+    <string name="abc_searchview_description_search">Pretraživanje</string>
+    <string name="abc_searchview_description_submit">Pošalji upit</string>
+    <string name="abc_searchview_description_voice">Glasovno pretraživanje</string>
+    <string name="abc_shareactionprovider_share_with">Dijeljenje sa</string>
+    <string name="abc_shareactionprovider_share_with_application">Dijeljenje sa: %s</string>
+    <string name="abc_toolbar_collapse_description">Sažmi</string>
+    <string name="account_blocked_title">Račun blokiran</string>
+    <string name="account_level_title">Izvršite radnju za račun</string>
+    <string name="account_removed_notification_text">Uklonjen je račun %1$s jer upravljanje uređajem nije dovršeno</string>
+    <string name="account_removed_notification_title">Račun je uklonjen</string>
+    <string name="android_privacy_policy_title">Dodatna pravila o privatnosti</string>
+    <string name="app_has_in_app_purchases">Kupnje putem aplikacije</string>
+    <string name="app_has_permissions">Dopuštenja: %s</string>
+    <string name="app_has_runtime_permissions">Aplikacija će tražiti dopuštenja</string>
+    <string name="app_level_title">Zahtjev za prijavu</string>
+    <string name="app_level_title_secondary">Zahtjev za prijavu šalje %s</string>
+    <string name="app_picker_app_already_installed_toast">Ta je aplikacija već instalirana</string>
+    <string name="app_picker_loading">Traženje dostupnih aplikacija…</string>
+    <string name="app_picker_loading_toast">Dostupne će se aplikacije uskoro učitati</string>
+    <string name="app_picker_no_apps">Aplikacije nisu odabrane</string>
+    <string name="app_picker_no_apps_found">Aplikacije nisu pronađene</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Kupnje putem aplikacije neće se prenijeti na vaš uređaj ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Neke kupnje putem aplikacije možda se neće prenijeti na vaš uređaj ^1.</string>
+    <string name="apps_permissions_described_v2">"Podudaranja s Android aplikacijama mogu se pronaći samo za popularne, besplatne iOS® aplikacije. Većina kupnji putem aplikacije neće se prenijeti. Više aplikacija možete pronaći u Trgovini Play kada se postavljanje dovrši.
+
+Nekim aplikacijama možda ćete morati unaprijed dati dopuštenje za pristup određenim mogućnostima ili informacijama na uređaju. Dopuštenja se organiziraju u grupe dopuštenja. Instaliranjem tih aplikacija prihvaćate dopuštenja koja su dio svake grupe. Opis svake grupe dopuštenja naveden je u nastavku.
+
+Neke aplikacije možda neće zahtijevati da prihvatite dopuštenja unaprijed. Kada upotrebljavate neku od tih aplikacija, možete dopustiti ili odbiti pojedinačna dopuštenja prije nego što aplikacija upotrijebi tu vrstu podataka.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Instaliranjem aplikacija prihvaćate njihova dopuštenja. <annotation id="apps_permissions_learn_more">Saznajte više</annotation></string>
+    <string name="audience_selection_done">Gotovo</string>
+    <string name="auth_account_already_has_gmail">Račun već ima Gmail.</string>
+    <string name="auth_account_content_provider_label">Podaci Google računa</string>
+    <string name="auth_account_removed_default_description">Upravljanje uređajem nije dovršeno. Počnite ispočetka i prijavite se ponovo.</string>
+    <string name="auth_account_removed_default_title">Postavljanje otkazano</string>
+    <string name="auth_account_removed_dm_bad_result_description">Upravljanje uređajem nije se moglo dovršiti. Počnite ispočetka i prijavite se ponovo.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Domena zahtijeva upravljanje mobilnim uređajem, no ovaj ga uređaj ne podržava. Pokušajte s nekim drugim računom.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Nema upravljanja uređajem</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Upravljanje uređajem nije se pravilno instaliralo. Počnite ispočetka i prijavite se ponovo.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Problemi instalacije</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Upravljanje uređajem nije dovršeno. Počnite ispočetka i prijavite se ponovo.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Postavlj. otkazano</string>
+    <string name="auth_account_settings_title">Postavke računa</string>
+    <string name="auth_account_setup_title">Google račun</string>
+    <string name="auth_account_state_sync_title">Sinkronizacija stanja računa</string>
+    <string name="auth_allow_button_label">Dopusti</string>
+    <string name="auth_allow_external_site_access">Stalan pristup podacima na adresi %s</string>
+    <string name="auth_app_permission_ok_footnote">Ako nastavite, dopuštate toj aplikaciji i Googleu da upotrebljavaju vaše informacije u skladu sa svojim uvjetima pružanja usluge i pravilima o privatnosti.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Dopusti prijavu</string>
+    <string name="auth_authzen_allow_reset_button_text">Poništ. zaporke</string>
+    <string name="auth_authzen_google_logo_label">Googleov logotip</string>
+    <string name="auth_authzen_login_challenge_approved_text">Prijava je odobrena</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Prijava je otkazana</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Dopuštanje prijave</string>
+    <string name="auth_authzen_login_challenge_desc_text">Prijavljujete se s lokacije %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google je zaustavio pokušaj prijave.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Netočan broj</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Dodirnite broj koji se prikazuje na drugom zaslonu. Na taj ćete se način prijaviti na računalu.</string>
+    <string name="auth_authzen_login_challenge_title_text">Pokušavate li se prijaviti?</string>
+    <string name="auth_authzen_profile_picture_label">Slika profila</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Odaberite račun kojim se pokušavate prijaviti:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Pokušavate li se prijaviti?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Nema obavijesti o prijavi.</string>
+    <string name="auth_authzen_pull_offline_error">Interna pogreška</string>
+    <string name="auth_authzen_pull_offline_instructions_text">Na računalu kliknite \"Imate li kôd?\", a zatim upišite:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Jeste li se upravo pokušali prijaviti na Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Odobreno je poništavanje zaporke</string>
+    <string name="auth_authzen_recovery_canceled_text">Otkazano je poništavanje zaporke</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Želite li dopustiti poništavanje zaporke s lokacije %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Morate potvrditi</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google je zaustavio pokušaj poništavanja zaporke.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Netočan broj</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Dodirnite broj koji se prikazuje na drugom zaslonu. Na taj ćete način poništiti zaporku.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Dopusti poništavanje zaporke</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Netko je zatražio poništavanje zaporke vašeg Google računa. Google je zaustavio pokušaj poništavanja zaporke.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Poništavanje zaporke spriječeno</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Jeste li zatražili poništavanje zaporke s lokacije %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Jeste li pokušali poništiti zaporku?</string>
+    <string name="auth_authzen_secure_account_button_text">Zaštitite račun</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Traženje obavijesti o prijavi...</string>
+    <string name="auth_back_button_label">Natrag</string>
+    <string name="auth_cant_add_work_account_message">Tom vrstom računa upravlja vaša organizacija.</string>
+    <string name="auth_captcha_instructions">Upišite tekst koji vidite ovdje:</string>
+    <string name="auth_captcha_title">Treba unijeti kôd CAPTCHA</string>
+    <string name="auth_common_next_button">Dalje</string>
+    <string name="auth_common_skip">Preskoči</string>
+    <string name="auth_common_switch_accounts">Promjena računa</string>
+    <string name="auth_communicating_message">Vaš uređaj kontaktira Google radi spremanja informacija na vaš račun. To može potrajati i do 5 minuta.</string>
+    <string name="auth_confirm_creds_sync_title">Stanje vjerodajnica</string>
+    <string name="auth_d2d_source_alert_title">Prijenos dodirom</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Zaključaj i potvrdi</string>
+    <string name="auth_d2d_source_copy_notice">Želite li kopirati račune i podatke na svoj drugi uređaj?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Nakon potvrde uključit će se Bluetooth tako da vaši uređaji mogu komunicirati.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Nakon potvrde vaši će se uređaji povezati putem Bluetootha.</string>
+    <string name="auth_d2d_source_lock_notice">U nastavku će se zaslon zaključati i morat ćete ga otključati za potvrdu.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Prijenos dodirom nije dostupan jer na uređaju nema računa.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Prijenos dodirom nije dostupan jer na uređaju nije dostupan Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth će se uključiti tako da vaši uređaji mogu komunicirati.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Upotrebljava se Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Prijenos dodirom izvršen</string>
+    <string name="auth_d2d_source_restricted_user_toast">Obnavljanje dodirom nije moguće na ograničenom korisničkom profilu.</string>
+    <string name="auth_d2d_source_title">Vraćanje računa</string>
+    <string name="auth_d2d_source_unknown_device_name">Nepoznati uređaj</string>
+    <string name="auth_d2d_target_sorry_alert">Žao nam je, nešto je pošlo po zlu</string>
+    <string name="auth_d2d_target_tap_progress_message">Da biste nastavili, dodirnite U redu na drugom uređaju</string>
+    <string name="auth_d2d_target_title">Prijenos dodirom</string>
+    <string name="auth_d2d_target_unlock_progress_message">Provjerite svoj drugi uređaj</string>
+    <string name="auth_d2d_target_wait_progress_message">Dohvaćanje računa i podataka...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Odbij</string>
+    <string name="auth_device_management_download_app_icon">Ikona aplikacije %s</string>
+    <string name="auth_device_management_download_description">Račun zahtijeva upravljanje mobilnim uređajem. Instalirajte aplikaciju ^1 da biste primijenili sigurnosna pravila obavezna za taj račun.</string>
+    <string name="auth_device_management_download_description_kids">Da biste na ovaj uređaj dodali račun, morate instalirati aplikaciju <b>^1</b>". 
+
+^1 omogućuje postavljanje ovog uređaja za vaše dijete."</string>
+    <string name="auth_device_management_download_failed_message">Postavljanje možete nastaviti i bez te aplikacije</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Instaliranje upravljanja uređajem nije uspjelo. Račun će se ukloniti. Pokušajte ponovo kasnije.</string>
+    <string name="auth_device_management_download_failed_title">Aplikacija nije preuzeta</string>
+    <string name="auth_device_management_download_not_updated_message">Postavljanje možete nastaviti i s trenutačnom verzijom</string>
+    <string name="auth_device_management_download_paused">Pauzirano</string>
+    <string name="auth_device_management_download_progress">Preuzimanje...</string>
+    <string name="auth_device_management_download_skip_message">Ovaj račun zahtijeva upravljanje uređajem. Želite li nastaviti bez njega?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Za dodavanje ovog računa potrebno je upravljanje uređajem. Želite li početi ispočetka s nekim drugim računom?</string>
+    <string name="auth_device_management_go_back">Natrag</string>
+    <string name="auth_device_management_screenlock_description">Da biste pristupali svojem radnom računu na ovom uređaju, morat ćete postaviti zaključavanje zaslona. To su pravila za mobilne uređaje vaše organizacije.</string>
+    <string name="auth_device_management_screenlock_skip_message">Za ovaj račun potrebna je zaštita zaključavanjem zaslona. Želite li krenuti ispočetka s nekim drugim računom?</string>
+    <string name="auth_device_management_start_description">Račun zahtijeva upravljanje mobilnim uređajem. Kada dodirnete Dalje, aplikacija ^1 olakšat će vam primjenu sigurnosnih pravila obaveznih za račun.</string>
+    <string name="auth_device_management_start_description_kids">Da biste na ovaj uređaj dodali račun, upotrijebite aplikaciju <b>^1</b>". 
+
+^1 omogućuje postavljanje ovog uređaja za vaše dijete."</string>
+    <string name="auth_device_management_title">Upravljanje uređajem</string>
+    <string name="auth_device_management_update_description">Račun zahtijeva upravljanje mobilnim uređajem. Da biste udovoljili sigurnosnim pravilima povezanima s računom, morate instalirati noviju verziju aplikacije ^1.</string>
+    <string name="auth_device_management_update_description_kids">Da biste na ovaj uređaj dodali račun, morate instalirati najnoviju verziju aplikacije <b>^1</b>". 
+
+^1 omogućuje postavljanje ovog uređaja za vaše dijete."</string>
+    <string name="auth_dismiss_button_label">Odbaci</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> ne upotrebljava Gmail.</string>
+    <string name="auth_error_account_disabled">"Ovaj je račun onemogućen. 
+
+(Za pojedinosti posjetite http://google.com/accounts u web-pregledniku.)"</string>
+    <string name="auth_error_account_not_verified">"Ovaj račun nije potvrđen. Provjerite e-poštu i slijedite vezu u poruci da biste potvrdili račun. 
+
+(Ako želite obnoviti podatke o računu, posjetite web-lokaciju http://www.google.com/accounts/recovery na računalu.)"</string>
+    <string name="auth_error_bad_password">Zaporka je preslaba ili sadrži nevažeće znakove. Pokušajte ponovo.</string>
+    <string name="auth_error_bad_username">Nevažeće korisničko ime.</string>
+    <string name="auth_error_generic_server_error">"Pojavio se problem prilikom komunikacije s Googleovim poslužiteljima. 
+
+Pokušajte ponovo kasnije."</string>
+    <string name="auth_error_invalid_second_factor">Upotrijebite zaporku za pristup aplikaciji umjesto redovite zaporke računa.</string>
+    <string name="auth_error_login_failed">"Vaše korisničko ime ne podudara se s vašom zaporkom. Pokušajte ponovo.
+
+Ako želite obnoviti podatke o računu, posjetite google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Da biste pristupili računu, morate se prijaviti na webu. Dodirnite Dalje da biste pokrenuli prijavu putem preglednika.</string>
+    <string name="auth_error_no_network">"Nemate mrežnu vezu. 
+
+To bi mogao biti privremeni problem. Pokušajte ponovo ili se povežite s nekom drugom Wi-Fi mrežom."</string>
+    <string name="auth_error_not_logged_in">Korisnik nije prijavljen.</string>
+    <string name="auth_error_username_unavailable">Korisničko ime nije dostupno.</string>
+    <string name="auth_existing_account_error_text">Na ovom uređaju s Androidom već postoji račun ^1.</string>
+    <string name="auth_existing_account_error_title">Račun već postoji</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Ne možete se prijaviti na uređaj jer je nedavno promijenjena zaporka. Pokušajte se prijaviti ponovo kada isteknu 24 sata od promjene zaporke.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Značajke za zaštitu uređaja više neće funkcionirati.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Uklanjanjem zadnjeg Google računa na uređaju iz osobnog profila onemogućit ćete značajke zaštite uređaja od krađe. Možete dodati neki drugi račun na uređaj da biste ih ponovo omogućili.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Jeste li sigurni?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Želite li premjestiti račun u radni profil?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Ne možete se prijaviti na uređaj zbog nepoznate pogreške. Pokušajte s nekim drugim računom ili se pokušajte prijaviti ponovo nakon 24 sata.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Prijavite se jednim od vlasničkih računa za ovaj uređaj</string>
+    <string name="auth_field_cant_be_blank">Polje ne može biti prazno.</string>
+    <string name="auth_frp_add_account_no">Ne</string>
+    <string name="auth_frp_add_account_prompt">Želite li odmah dodati ^1 na uređaj? Ako imate još računa, možete ih dodati kasnije.</string>
+    <string name="auth_frp_add_account_yes">Da</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Pristup računu nije uspio. Provjerite slijedi li uređaj sigurnosna pravila vaše organizacije. Ako se ova pogreška prikaže ponovo, obratite se administratoru organizacije.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Pogreška računa</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Vaša domena zahtijeva upravljanje mobilnim uređajem. Instalirajte aplikaciju Google Apps Device Policy da biste primijenili sigurnosna pravila koja zahtijeva račun  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Preuzmi</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" može sadržavati samo slova,
+brojke i točke."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> ne sadrži slova.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> sadrži manje od 6 ili više od 30 znakova.</string>
+    <string name="auth_gls_is_not_available">Korisničko ime <b>^1</b> nije dostupno.</string>
+    <string name="auth_gls_name_checking_info_title">Provjera informacija...</string>
+    <string name="auth_gls_sync_item_title">Sinkroniziraj: %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Račun  "<b>^1</b> morate dodati na uređaj ili radni profil kojim upravlja vaša organizacija. Slijedite upute IT administratora da biste dovršili postupak.</string>
+    <string name="auth_google_title_logo">Googleov logotip</string>
+    <string name="auth_invalid_login_character">Nevažeći znak. Dopušteni su samo znakovi 0 – 9, a – z, A – Z i točke.</string>
+    <string name="auth_invalid_password_character">Nevažeći znak zaporke.</string>
+    <string name="auth_invalid_username">Tekst koji ste unijeli nije valjano korisničko ime.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Ako nastavite, pristajete na to da ovaj uređaj također može pomoću mobilnih podataka automatski preuzimati i instalirati ažuriranja i aplikacije od Googlea, vašeg mobilnog operatera i proizvođača. Neke od tih aplikacija mogu nuditi kupnju putem aplikacije. Te aplikacije možete ukloniti u bilo kojem trenutku.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Da biste oslobodili prostor kada je uređaj gotovo pun</b>, uklonite neke podatke, kao što su sigurnosne kopije fotografija i videozapisa.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Automatski napravite sigurnosnu kopiju podataka s uređaja</b> (kao što su zaporke Wi-Fi-ja i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju) na Google disku svojeg djeteta.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Kada uključite automatsku izradu sigurnosnih kopija, podaci uređaja i aplikacija periodički se spremaju u privatnu mapu na Google disku vašeg djeteta. Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+Podaci sigurnosnih kopija neće se ubrajati u kvotu pohrane na Disku vašeg djeteta. Velike datoteke ili datoteke koje su razvojni programeri isključili iz ove usluge neće se sigurnosno kopirati."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Automatski napravite sigurnosnu kopiju podataka s uređaja</b> (kao što su zaporke Wi-Fi-ja, SMS-ovi i povijest poziva), postavki i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju) na Google disku svojeg djeteta.</string>
+    <string name="auth_kids_setup_wizard_services_description">Kao roditelj, u bilo kojem trenutku možete uključiti ili isključiti te usluge za djetetov račun. Podaci će se upotrebljavati u skladu s Googleovim <annotation link="google_privacy">pravilima</annotation>".
+
+Ako želite saznati više, dodirnite svaku od usluga."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Upotrebljavajte Googleovu uslugu lokacije koja aplikacijama omogućuje</b> da odrede lokaciju vašeg djeteta. Anonimni podaci o lokaciji slat će se Googleu kad je uređaj uključen.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Googleova usluga lokacije upotrebljava izvore kao što su Wi‑Fi i mobilne mreže da bi brže i točnije odredila lokaciju uređaja. Ta usluga aktivna je kad je postavka lokacije uređaja uključena i uređaj se nalazi u načinu rada koji za određivanje lokacije upotrebljava Wi-Fi ili mobilne mreže, kao što su Visoka preciznost ili Štednja baterije (Štednja energije).
+
+Tu uslugu možete isključiti tako da:
+
+"<li>isključite glavnu postavku lokacije na uređaju</li>"
+
+"<li>ostavite postavku lokacije uključenu i odaberete način rada koji upotrebljava samo GPS, a ponekad se naziva i Samo uređaj.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Pomognite poboljšati svoj doživljaj Androida</b> automatskim slanjem dijagnostičkih podataka i podataka o upotrebi uređaja i aplikacija Googleu. Ti se podaci neće upotrebljavati za identifikaciju vašeg djeteta, a pomoći će poboljšati trajanje baterije, stabilnost aplikacija, mrežno povezivanje i drugo.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"To su općenite informacije o ovom uređaju i načinu na koji se upotrebljava (kao što su razina baterije, upotreba aplikacija i mrežno povezivanje). Ti podaci upotrijebit će se za poboljšanje Googleovih proizvoda i usluga za sve. Neki skupni podaci pomoći će partnerima, na primjer razvojnim programerima Androida, pri poboljšanju aplikacija i proizvoda.
+
+Isključivanje te značajke ne utječe na mogućnost uređaja da šalje informacije koje su potrebne za primanje bitnih usluga kao što su ažuriranja sustava i sigurnost."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"To su općenite informacije o ovom uređaju i načinu na koji se upotrebljava (kao što su razina baterije, upotreba aplikacija i mrežno povezivanje). Ti podaci upotrijebit će se za poboljšanje Googleovih proizvoda i usluga za sve. Neki skupni podaci pomoći će partnerima, na primjer razvojnim programerima Androida, pri poboljšanju njihovih aplikacija i proizvoda.
+
+Isključivanje te značajke ne utječe na mogućnost uređaja da šalje informacije koje su potrebne za primanje bitnih usluga kao što su ažuriranja sustava i sigurnost.
+
+Tom značajkom možete upravljati pod Postavke > Google. U izborniku odaberite Upotreba i dijagnostika."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Upisali ste netočnu zaporku ili vam se račun promijenio. Ponovo upišite zaporku. Ako ste zaboravili zaporku i morate oporaviti račun, kliknite <annotation id="help_url">ovdje</annotation>.</string>
+    <string name="auth_login_activity_task_title">Prijavljivanje…</string>
+    <string name="auth_login_activity_title">Prijava</string>
+    <string name="auth_login_task_title">Prijava</string>
+    <string name="auth_login_title">Unesite e-adresu i zaporku</string>
+    <string name="auth_minutemaid_ssl_error">"Pojavio se problem pri povezivanju s hostom  %s."</string>
+    <string name="auth_network_unreliable_help">Možda je riječ o privremenom problemu, a moguće je i da vaš uređaj s Androidom nije opremljen za podatkovne usluge. Ako se problem ne riješi, nazovite korisničku službu.</string>
+    <string name="auth_next_button_label">Dalje</string>
+    <string name="auth_no_network">Nemate mrežnu vezu.</string>
+    <string name="auth_no_network_help">Možda je riječ o privremenom problemu, a moguće je i da vaš uređaj s Androidom nije opremljen za podatkovne usluge. Pokušajte ponovo nakon povezivanja s mobilnom mrežom ili se povežite s Wi-Fi mrežom.</string>
+    <string name="auth_no_network_help_wifi_only">Problem bi mogao biti privremen. Pokušajte ponovo ili se povežite s nekom drugom Wi-Fi mrežom.</string>
+    <string name="auth_otp_error">Pojavio se problem prilikom generiranja sigurnosnog koda.</string>
+    <string name="auth_otp_explained_paragraph">Ako ste zaboravili zaporku ili ako se nešto promijenilo u vezi s vašom prijavom, Google može tražiti sigurnosni kôd da bi zaštitio vaš račun. Upotrijebite ga odmah ili se vratite po novi.</string>
+    <string name="auth_otp_header_message">Kada upotrijebiti kôd za prijavu</string>
+    <string name="auth_otp_help">Pomoć i povratne informacije</string>
+    <string name="auth_otp_no_accounts_available_message">Na uređaju nema konfiguriranih računa.</string>
+    <string name="auth_otp_progress_dialog_message">Generiranje sigurnosnog koda.</string>
+    <string name="auth_password">Zaporka</string>
+    <string name="auth_plus_audience_selection_description_acl">PODIJELITE SA SLJEDEĆIMA</string>
+    <string name="auth_plus_failure_new_account_text">Vaš je Google račun izrađen, ali vaš zahtjev za izradu profila na usluzi Google+ nije prošao. Pokušajte ponovo kasnije na stranici plus.google.com u bilo kojem web-pregledniku.</string>
+    <string name="auth_plus_failure_text">Vaš zahtjev za pridruživanje usluzi Google+ nije prošao. Pokušajte ponovo kasnije na stranici plus.google.com u bilo kojem web-pregledniku.</string>
+    <string name="auth_plus_failure_title">Izradite profil na usluzi Google+ kasnije</string>
+    <string name="auth_plus_info_fragment_app_name">%s želi:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s s uređaja %s želi:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Vaši prošireni krugovi</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Odabrani krugovi</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Samo vi</string>
+    <string name="auth_plus_scope_fragment_public_label">Svi na webu</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Vaši krugovi</string>
+    <string name="auth_relogin_activity_title">Ponovo unesite zaporku</string>
+    <string name="auth_remove_account_start_over">Počni ispočetka</string>
+    <string name="auth_scope_more_details">Više informacija</string>
+    <string name="auth_server_error">Došlo je do problema u komunikaciji s Googleovim poslužiteljima.</string>
+    <string name="auth_server_error_help">Pokušajte ponovo kasnije.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Račun dodan</string>
+    <string name="auth_setup_wizard_account_added_description">Račun je dodan. Nastavite da biste odabrali opcije Googleovih usluga</string>
+    <string name="auth_setup_wizard_back_button_label">Natrag</string>
+    <string name="auth_setup_wizard_next_button_label">Dalje</string>
+    <string name="auth_setup_wizard_services_activity_title">Googleove usluge</string>
+    <string name="auth_setup_wizard_services_agreement">Ako nastavite, pristajete na to da ovaj uređaj također može pomoću mobilnih podataka automatski preuzimati i instalirati ažuriranja i aplikacije od Googlea, vašeg mobilnog operatera i proizvođača. Neke od tih aplikacija mogu nuditi kupnju putem aplikacije. Te aplikacije možete ukloniti u bilo kojem trenutku.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Za uklanjanje aplikacije idite na Postavke > Aplikacije ili Upravitelj aplikacija. Zatim dodirnite aplikaciju koju želite deinstalirati (možda ćete morati prijeći prstom udesno ili ulijevo kako biste pronašli aplikaciju). Zatim dodirnite Deinstaliraj ili Onemogući.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Ovime također dopuštate unaprijed učitanim Googleovim aplikacijama da pristupaju informacijama i funkcijama na vašem uređaju. Više informacija o upotrebi tih dopuštenja potražite na <annotation link="app_permissions">ovoj stranici</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Instaliranje ažuriranja i aplikacija</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Ako je telefon gotovo pun, oslobodite prostor uklanjanjem nekih podataka, kao što su sigurnosne kopije fotografija i videozapisa.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Kad ste povezani, i dalje možete pristupiti tim podacima. Ovom značajkom i stavkama za uklanjanje možete upravljati u izborniku Postavke > Pohrana > Smart Storage.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Oslobodi prostor</string>
+    <string name="auth_setup_wizard_services_backup">Jednostavno vratite podatke na telefon ili prijeđite na drugi telefon u bilo kojem trenutku. Sigurnosna kopija uključuje aplikacije, podatke aplikacija i postavke uređaja (uključujući zaporke za Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+Podaci sigurnosne kopije ne ulaze u kvotu pohrane na Disku.
+
+Tu uslugu možete isključiti u postavkama."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+Fotografije i videozapisi s ovog uređaja sinkroniziraju se s Google fotografijama da biste ih mogli pretraživati, uređivati, brisati i dijeliti s bilo kojeg uređaja. Prema zadanim postavkama fotografije i videozapisi prenose se u punoj razlučivosti.
+
+Podaci sigurnosne kopije ne ulaze u kvotu pohrane na Disku.
+
+Tu uslugu možete isključiti u postavkama."</string>
+    <string name="auth_setup_wizard_services_backup_title">Izrada sigurnosne kopije na Google disku</string>
+    <string name="auth_setup_wizard_services_backup_v23">Jednostavno vratite podatke na telefon ili prijeđite na drugi telefon u bilo kojem trenutku. Sigurnosna kopija uključuje aplikacije, podatke aplikacija, povijest poziva, kontakte i postavke uređaja (uključujući dopuštenja i zaporke za Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Jednostavno vratite podatke na telefon ili prijeđite na drugi telefon u bilo kojem trenutku. Sigurnosna kopija uključuje aplikacije, podatke aplikacija, povijest poziva, kontakte, postavke uređaja (uključujući dopuštenja i zaporke za Wi‑Fi) i SMS-ove.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Jednostavno vratite podatke na telefon ili prijeđite na drugi telefon u bilo kojem trenutku. Sigurnosna kopija uključuje aplikacije, podatke aplikacija, povijest poziva, kontakte, postavke uređaja (uključujući dopuštenja i zaporke za Wi‑Fi), fotografije, videozapise i SMS-ove. Fotografije i videozapisi sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na više usluga.</string>
+    <string name="auth_setup_wizard_services_description">Dodirnite da biste saznali više o svakoj usluzi, primjerice kako je kasnije uključiti ili isključiti. Podaci će se upotrebljavati u skladu s Googleovim <annotation link="google_privacy">pravilima o privatnosti</annotation>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Pojedinosti o aplikaciji, uključujući kupnje putem aplikacije, možete pronaći u Trgovini Play. Podaci i postavke aplikacije sinkroniziraju se s uređajima na kojima ste prijavljeni svojim Google računom. 
+
+Upotrebu instant aplikacija reguliraju  "<a href="https://play.google.com/about/play-terms.html">Uvjeti pružanja usluge Google Playa</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Saznajte više</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Kada dodirnete vezu, Google Play provjerava postoji li instant aplikacija i pokreće je bez instalacije. Instant aplikacije privremeno se zadržavaju na uređaju.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Upotreba aplikacija bez instalacije</string>
+    <string name="auth_setup_wizard_services_location_sharing">Upotrebljavajte Googleovu uslugu lokacije kako bi aplikacije lakše odredile lokaciju. Anonimni podaci o lokaciji slat će se Googleu kad je uređaj uključen.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Googleova usluga lokacije upotrebljava izvore kao što su Wi‑Fi i mobilne mreže za bržu i precizniju procjenu lokacije vašeg uređaja. Ta je usluga aktivna kad je postavka lokacije uređaja uključena i uređaj se nalazi u načinu rada koji za određivanje lokacije upotrebljava Wi-Fi ili mobilne mreže, kao što su Visoka preciznost ili Štednja baterije (Štednja energije)
+
+Tu uslugu možete isključiti tako da:
+
+"<li>isključite glavnu postavku lokacije na uređaju</li>"
+
+"<li>ostavite postavku lokacije uključenu i odaberete način rada koji upotrebljava samo GPS, a ponekad se naziva i Samo uređaj.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Pomogni aplikacijama da pronađu lokaciju</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Dopustite aplikacijama i uslugama traženje Wi‑Fi mreža, čak i kada je Wi‑Fi isključen.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">To možete isključiti u postavkama lokacije.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Poboljšajte točnost lokacije</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Dopustite aplikacijama i uslugama da traže Wi‑Fi mreže i Bluetooth uređaje, čak i kada su te postavke isključene.</string>
+    <string name="auth_setup_wizard_services_play">Redovito mi šalji vijesti i ponude usluge Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Sigurnosno kopiranje i pohrana</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Održavanje uređaja</string>
+    <string name="auth_setup_wizard_services_section_location">Lokacija</string>
+    <string name="auth_setup_wizard_services_tos">Ako nastavite, također prihvaćate <annotation link="tos">Googleove uvjete pružanja usluge</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Kada koristite ovaj uređaj, pridržavamo se svojih <annotation link="google_privacy">Pravila o privatnosti</annotation> i primjenjuju se <annotation link="tos">dodatni uvjeti</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Pomognite poboljšati Android automatskim slanjem dijagnostičkih podataka te podataka o upotrebi uređaja i aplikacija Googleu. Na taj će se način produljiti trajanje baterije, stabilnost aplikacija, mrežno povezivanje i drugo. Ako ste uključili dodatnu Aktivnost na webu i u aplikaciji, ti će se podaci spremati na vaš račun kako biste mogli upravljati njima na stranici Moja aktivnost.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"To su općenite informacije o vašem uređaju i načinu na koji se upotrebljava (kao što su razina baterije, upotreba aplikacija i mrežno povezivanje). Ti podaci upotrijebit će se za poboljšanje Googleovih proizvoda i usluga za sve. Neki skupni podaci pomoći će partnerima, na primjer razvojnim programerima Androida, pri poboljšanju njihovih aplikacija i proizvoda.
+
+Isključivanje te značajke ne utječe na mogućnost uređaja da šalje informacije koje su potrebne za primanje bitnih usluga kao što su ažuriranja sustava i sigurnost."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Postavke stranice Moja aktivnost možete ažurirati na stranici myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Tom značajkom možete upravljati u Google postavkama. U izborniku odaberite opciju Upotreba i dijagnostika.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Tom značajkom možete upravljati u odjeljku Postavke > Google. U izborniku odaberite opciju Upotreba i dijagnostika.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Šalji podatke o sustavu</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Dopustite Google animiranim pozadinama da reagiraju na vašu lokaciju tako što će pristupiti Googleovoj usluzi lokacije.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Pristup Googleovoj usluzi lokacije za animirane pozadine možete uključiti ili isključiti tako da dodirnete stavku Dopuštenja u izborniku Postavke > Aplikacije i obavijesti > Informacije o aplikaciji. Na dodatnom izborniku dodirnite Prikaži sustav > Pozadine s podacima uživo ili Animirane pozadine sa slikama Zemlje > Dopuštenja.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Dopusti pozadinama upotrebu lokacije</string>
+    <string name="auth_setup_wizard_title">Čarobnjak za postavljanje</string>
+    <string name="auth_show_error_activity_title">Neuspjela prijava</string>
+    <string name="auth_show_error_title">Pogreška</string>
+    <string name="auth_sign_in_agreement">Prijavom prihvaćate {<annotation id="google_privacy">Googleova</annotation> i <annotation id="android_privacy">Dodatna</annotation> pravila o privatnosti.</string>
+    <string name="auth_sign_in_browser">Prijava putem preglednika</string>
+    <string name="auth_sign_in_button_label">Prijava</string>
+    <string name="auth_sign_in_with_google_account_short">Prijavite se svojim Google računom:</string>
+    <string name="auth_skip_button_label">Preskoči</string>
+    <string name="auth_submission_error_text">Došlo je do pogreške. Pokušajte ponovo.</string>
+    <string name="auth_submission_title">Žao nam je...</string>
+    <string name="auth_try_again_button_label">Pokušajte ponovo</string>
+    <string name="auth_ui_activity_authenticating">Provjera autentičnosti…</string>
+    <string name="auth_ui_activity_title">Prijava na Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Prijava</string>
+    <string name="auth_ui_add_account_title">Postavljanje računa</string>
+    <string name="auth_uncertified_notification_content">Proizvođač nije certificirao ovaj uređaj</string>
+    <string name="auth_uncertified_notification_description">"Proizvođač ovog uređaja upotrebljava Googleove aplikacije bez Googleova certifikata za uređaj. 
+
+Necertificirani uređaji mogu biti nesigurni i možda neće primati ažuriranja sustava ili aplikacije. Aplikacije i značajke, kao što je sigurnosno kopiranje datoteka ili fotografija, možda neće funkcionirati pravilno. 
+
+Da biste riješili taj problem, obratite se proizvođaču uređaja. 
+
+Više informacija o partnerima koje je certificirao Google potražite na stranici %s."</string>
+    <string name="auth_uncertified_notification_learn_more">Saznajte više</string>
+    <string name="auth_uncertified_notification_title">Upozorenje: necertificiran uređaj</string>
+    <string name="auth_username">E-pošta</string>
+    <string name="auth_work_authenticator_label">Upravljani račun</string>
+    <string name="authorization_dialog">Dijaloški okvir autorizacije</string>
+    <string name="auto_restore_summary">Vraćanje sigurnosno kopiranih postavki i podataka pri ponovnoj instalaciji aplikacije</string>
+    <string name="auto_restore_title">Automatska obnova</string>
+    <string name="autofill_dataset_password">Upotrijebite zaporku za: <b>^1</b></string>
+    <string name="autofill_datatype_address">Adrese</string>
+    <string name="autofill_datatype_password">Spremljene zaporke</string>
+    <string name="autofill_datatype_payment">Kreditne kartice</string>
+    <string name="autofill_datatype_profile">Osobni podaci</string>
+    <string name="autofill_label">Automatsko popunjavanje uz Google</string>
+    <string name="autofill_optin_line1"><b>Dodirnite da bi Google to popunio umjesto vas</b></string>
+    <string name="autofill_optin_line2">podacima koji su već spremljeni u Chromeovo Automatsko popunjavanje</string>
+    <string name="autofill_setup_points">"• Google utvrđuje što se može automatski popuniti na temelju sadržaja zaslona. 
+• U postavkama možete pregledati podatke automatskog popunjavanja i upravljati njima."</string>
+    <string name="autofill_setup_summary">Jednim dodirom unesite zaporke, adrese, kreditne kartice i druge podatke spremljene na vaš račun.</string>
+    <string name="autofill_setup_summary_single_account">Jednim dodirom unesite zaporke, adrese, kreditne kartice i druge podatke spremljene na vaš račun (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">Nijedan račun trenutačno ne pohranjuje sigurnosne kopije podataka</string>
+    <string name="backup_configure_account_title">Sigurnosni račun</string>
+    <string name="backup_data_summary">Stvaranje sigurnosne kopije podataka aplikacije, Wi-Fi zaporki i ostalih postavki na Google disku</string>
+    <string name="backup_data_summary_full">"Daljinski pokrenite automatsko sigurnosno kopiranje podataka uređaja (kao što su zaporke Wi-Fi-ja i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije pohranjuju).
+
+Kad uključite automatsko sigurnosno kopiranje, podaci uređaja i aplikacija periodično se daljinski spremaju. Podaci aplikacije mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije."</string>
+    <string name="backup_data_title">Izradi sigurnosnu kopiju na Google disku</string>
+    <string name="backup_erase_dialog_message">Želite li zaustaviti sigurnosno kopiranje Wi-Fi zaporki, oznaka, drugih postavki i podataka aplikacija te izbrisati sve kopije na Google disku?</string>
+    <string name="backup_erase_dialog_message_full">Želite li zaustaviti sigurnosno kopiranje podatka s uređaja (kao što su zaporke za Wi-Fi i povijest poziva) i podataka aplikacija (kao što su postavke i datoteke koje aplikacije spremaju) te izbrisati sve kopije na Google disku?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Došlo je do pogreške pri otvaranju postavki fotografija</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Kada uključite automatsku izradu sigurnosnih kopija:
+
+ ● Postavke uređaja i podaci aplikacija periodički se spremaju u privatnu mapu na Google disku. Podaci aplikacija mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+ Velike datoteke ili datoteke koje su razvojni programeri isključili iz ove usluge neće se sigurnosno kopirati.
+
+ ● Fotografije i videosnimke s ovog uređaja sinkroniziraju se s vašom zbirkom na Google fotografijama da biste ih mogli pretraživati, uređivati, brisati i dijeliti na svim svojim uređajima.
+
+ Prema zadanim postavkama prenose se fotografije i videozapisi pune razlučivosti. To se ne ubraja u vašu kvotu pohrane na Disku.
+
+ ● Kontakti i povezani podaci s ovog uređaja sinkroniziraju se s Google kontaktima. Aplikaciju Google kontakti možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ ● Kalendarski unosi i povezani podaci s ovog uređaja sinkroniziraju se s Google kalendarom. Aplikaciju Google kalendar možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ Sigurnosna kopija podataka neće se ubrajati u vašu kvotu pohrane na Disku."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Kada uključite automatsku izradu sigurnosnih kopija:
+
+ ● Postavke uređaja i podaci aplikacija periodički se spremaju u privatnu mapu na Google disku. Podaci aplikacija mogu biti bilo koji podaci koje je aplikacija spremila (na temelju postavki razvojnog programera), uključujući potencijalno osjetljive podatke kao što su kontakti, poruke i fotografije.
+
+ Velike datoteke ili datoteke koje su razvojni programeri isključili iz ove usluge neće se sigurnosno kopirati.
+
+ ● Kontakti i povezani podaci s ovog uređaja sinkroniziraju se s Google kontaktima. Aplikaciju Google kontakti možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ ● Kalendarski unosi i povezani podaci s ovog uređaja sinkroniziraju se s Google kalendarom. Aplikaciju Google kalendar možete upotrebljavati za pretraživanje, uređivanje, brisanje i dijeljenje kontakata na svim svojim uređajima.
+
+ Sigurnosna kopija podataka neće se ubrajati u vašu kvotu pohrane na Disku."</string>
+    <string name="backup_opt_in_backup_description_extra">Kalendar, kontakti, fotografije i videozapisi sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na više usluga.</string>
+    <string name="backup_opt_in_backup_description_v2">Automatska izrada sigurnosne kopije omogućuje vam lako vraćanje podataka ili promjenu telefona u bilo kojem trenutku. <annotation id="backup_opt_in_learn_more">Saznajte više</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Isključit će se sigurnosno kopiranje za sljedeće:
+
+aplikacije i podatke aplikacija
+povijest poziva
+postavke uređaja
+fotografije i videozapise
+SMS.
+
+Kalendar i kontakti nastavit će se sinkronizirati s vašim Google računom. Kada postavljanje završi, postavke sinkronizacije možete promijeniti. Otvorite "<annotation id="backup_opt_in_settings_instructions">Postavke > Računi > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Isključiti sigurnosno kopiranje?</string>
+    <string name="backup_opt_in_backup_list">"aplikacije i podatke aplikacija
+kalendar
+povijest poziva
+kontakte
+postavke uređaja (uključujući zaporke za Wi-Fi)
+fototgrafije i videozapise
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Sigurnosno kopiranje uključuje:</string>
+    <string name="backup_opt_in_backup_title">Izrada sigurnosne kopije na Google disku</string>
+    <string name="backup_opt_in_disable_backup">Isključi sigurnosno kopiranje</string>
+    <string name="backup_photos_update">Ažurirajte Google fotografije</string>
+    <string name="backup_settings_activity_backup_title">Sigurnosna kopija</string>
+    <string name="backup_settings_activity_title">Kopiranje i vraćanje na zadano</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Nemoj kopirati</string>
+    <string name="chrome_privacy_title">Obavijest o privatnosti usluge Chrome</string>
+    <string name="chrome_tos_title">Uvjeti pružanja usluge Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Vaše postojeće zaporke za %1$s kriptirane su vašom šifrom. Ako ste zaboravili šifru, zaustavite sinkronizaciju i poništite je na &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Šifra za ChromeSync</string>
+    <string name="chromesync_enter_passphrase_hint">Unesite šifru</string>
+    <string name="chromesync_entered_wrong_passphrase">Pogrešna šifra</string>
+    <string name="chromesync_no_browser_found">Nije pronađen preglednik za otvaranje veze</string>
+    <string name="close_button_label">Zatvori</string>
+    <string name="cloud_restore_app_picker_button">Vrati</string>
+    <string name="cloud_restore_app_picker_description_no_apps">U sigurnosnoj kopiji nema aplikacija</string>
+    <string name="cloud_restore_app_picker_title">Odaberite aplikacije za vraćanje</string>
+    <string name="common_accept">Prihvati</string>
+    <string name="common_account_chip_add_account_button_label">Upotrijebi neki drugi račun</string>
+    <string name="common_add_account_button_label">Dodaj račun</string>
+    <string name="common_add_account_label">Dodajte račun</string>
+    <string name="common_ads_settings_title">Oglasi</string>
+    <string name="common_agree">Slažem se</string>
+    <string name="common_app_name">Usluge za Google Play</string>
+    <string name="common_asm_preferences_settings_title">Postavke računa</string>
+    <string name="common_asm_privacy_settings_title">Osobni podaci i privatnost</string>
+    <string name="common_asm_security_settings_title">Prijava i sigurnost</string>
+    <string name="common_audience_edit_button_label">Uredi</string>
+    <string name="common_cancel">Odustani</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts nije moguće pokrenuti (pogreška dopuštenja).</string>
+    <string name="common_car_permission_desc">Pristup automobilskoj usluzi.</string>
+    <string name="common_car_permission_label">Automobilska usluga</string>
+    <string name="common_chips_label_empty_circles">Bez krugova</string>
+    <string name="common_chips_label_extended_circles">Prošireni krugovi</string>
+    <string name="common_chips_label_only_you">Samo vi</string>
+    <string name="common_chips_label_public">Javno</string>
+    <string name="common_chips_label_your_circles">Vaši krugovi</string>
+    <string name="common_choose_account">Odaberite račun</string>
+    <string name="common_choose_account_for_app_label">Odaberite račun za %1$s</string>
+    <string name="common_choose_account_label">Odaberite račun</string>
+    <string name="common_clear_app_data_menu_item">Brisanje podataka aplikacije</string>
+    <string name="common_connected">Povezano</string>
+    <string name="common_connected_apps_settings_title">Povezane aplikacije</string>
+    <string name="common_connecting">Povezivanje…</string>
+    <string name="common_continue">Nastavi</string>
+    <string name="common_disagree">Ne slažem se</string>
+    <string name="common_disconnect">Prekini vezu</string>
+    <string name="common_done">Gotovo</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Šalje:</string>
+    <string name="common_games_settings_title">Igre na usluzi Play</string>
+    <string name="common_get_started">Početak</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Omogući</string>
+    <string name="common_google_play_services_enable_text">%1$s neće funkcionirati ako ne omogućite usluge Google Playa.</string>
+    <string name="common_google_play_services_enable_title">Omogućivanje usluga Google Playa</string>
+    <string name="common_google_play_services_error_dialog_title">Pogreška</string>
+    <string name="common_google_play_services_install_button">Instaliraj</string>
+    <string name="common_google_play_services_install_text">%1$s neće funkcionirati bez usluga Google Playa koje nisu instalirane na vašem uređaju.</string>
+    <string name="common_google_play_services_install_title">Preuzimanje usluga Google Playa</string>
+    <string name="common_google_play_services_notification_ticker">Pogreška Usluga za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ima poteškoća s uslugama Google Playa. Pokušajte ponovo.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s neće funkcionirati bez usluga Google Playa koje vaš uređaj ne podržava.</string>
+    <string name="common_google_play_services_update_button">Ažuriraj</string>
+    <string name="common_google_play_services_update_text">%1$s neće funkcionirati ako ne ažurirate Google Play usluge.</string>
+    <string name="common_google_play_services_update_title">Ažuriranje usluga Google Playa</string>
+    <string name="common_google_play_services_updating_text">%1$s neće se pokrenuti bez usluga Google Playa koje se trenutačno ažuriraju.</string>
+    <string name="common_google_play_services_updating_title">Ažuriranje usluga Google Playa u tijeku</string>
+    <string name="common_google_play_services_wear_update_text">Potrebna je nova verzija usluga Google Playa. Uskoro će se ažurirati.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play usluge instalirane su s pogrešnom arhitekturom.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play usluge instalirane su s arhitekturom (%1$s) koja se razlikuje od arhitekture uređaja (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Pogrešna arhitektura</string>
+    <string name="common_google_settings">Postavke usluge Google</string>
+    <string name="common_google_settings_account">Račun</string>
+    <string name="common_google_settings_credentials_title">Smart Lock za zaporke</string>
+    <string name="common_google_settings_developer">Razvojni programer</string>
+    <string name="common_google_settings_services">Usluge</string>
+    <string name="common_got_it">Shvaćam</string>
+    <string name="common_install">Instaliraj</string>
+    <string name="common_learn_more">Saznajte više</string>
+    <string name="common_list_apps_menu_help">Pomoć</string>
+    <string name="common_list_apps_menu_help_and_feedback">Pomoć i povratne inf.</string>
+    <string name="common_loading">Učitavanje…</string>
+    <string name="common_location_settings_title">Lokacija</string>
+    <string name="common_magictether_settings_title">Automatsko modemsko povezivanje</string>
+    <string name="common_maps_settings_title">Karte i Latitude</string>
+    <string name="common_mdm_feature_name">Upravitelj Android uređaja</string>
+    <string name="common_missing_url_viewer">Nedostaje preglednik za prikazivanje vanjskog URL-a.</string>
+    <string name="common_more_options">Više opcija</string>
+    <string name="common_networking_settings_title">Umrežavanje</string>
+    <string name="common_no_browser_for_restricted_url">Pristup je ograničen. Nije pronađen nijedan preglednik.</string>
+    <string name="common_no_devices_found">Nije pronađen nijedan uređaj</string>
+    <string name="common_no_network">Nije dostupno jer uređaj nije povezan s mrežom</string>
+    <string name="common_no_thanks">Ne, hvala</string>
+    <string name="common_not_now">Ne sada</string>
+    <string name="common_off">Isključeno</string>
+    <string name="common_ok">U REDU</string>
+    <string name="common_on">Uključeno</string>
+    <string name="common_open_on_phone">Otvori na telefonu</string>
+    <string name="common_open_source_licenses">Licence otvorenog koda</string>
+    <string name="common_people_settings_title">Kontakti</string>
+    <string name="common_permissions_enable_in_settings">Omogući u postavkama</string>
+    <string name="common_permissions_missing_end">Da biste nastavili, otvorite Postavke, a zatim Dopuštenja i dopustite sve navedeno.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Da biste to omogućili, otvorite 
+Postavke >
+Dopuštenja >
+Usluge Google Playa"</string>
+    <string name="common_permissions_missing_start">Aplikacija neće funkcionirati pravilno ako ne dopustite uslugama Google Playa da pristupaju sljedećem:</string>
+    <string name="common_permissions_open_settings">Otvori postavke</string>
+    <string name="common_phone">Telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Pravila o privatnosti</string>
+    <string name="common_restore">Vrati</string>
+    <string name="common_restricted_no_accounts">Nema računa za odabir</string>
+    <string name="common_retry">Pokušaj ponovo</string>
+    <string name="common_search_settings_title">Pretraživanje</string>
+    <string name="common_security_ootp_setting_title">Sigurnosni kôd</string>
+    <string name="common_security_settings_title">Sigurnost</string>
+    <string name="common_send">Pošalji</string>
+    <string name="common_sending">Slanje…</string>
+    <string name="common_set_up_nearby_device_settings_title">Postavljanje uređaja u blizini</string>
+    <string name="common_settings">Postavke</string>
+    <string name="common_signin_button_text">Prijava</string>
+    <string name="common_signin_button_text_long">Prijava putem Googlea</string>
+    <string name="common_something_went_wrong">Nešto nije u redu</string>
+    <string name="common_system_info">Informacije o sustavu</string>
+    <string name="common_take_photo_label">Snimi fotografiju</string>
+    <string name="common_terms_of_service">Uvjeti pružanja usluge</string>
+    <string name="common_try_again">Pokušaj ponovo</string>
+    <string name="common_turn_on_bluetooth">Uključi Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Izbriši</string>
+    <string name="common_ui_confirm_deleting_checkbox">Razumijem i želim izbrisati</string>
+    <string name="common_unknown">Nepoznato</string>
+    <string name="common_update">Ažuriraj</string>
+    <string name="common_url_load_unsuccessful_message">Vaš uređaj sa sustavom Android nije povezan s podatkovnom uslugom. Da biste odmah pogledali ove informacije, posjetite %s u web-pregledniku.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Vaš Android uređaj nije povezan s Wi-Fi mrežom. Da biste odmah pogledali te informacije, posjetite %s u web-pregledniku.</string>
+    <string name="common_url_login_notice">Prijavite se kao %1$s</string>
+    <string name="common_usage_and_diagnostics">Upotreba i dijagnostika</string>
+    <string name="common_yesterday">Jučer</string>
+    <string name="confirm_copy_button_text">Kopiraj</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d na uređaju</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google kontakti, %1$d iCloud®, %2$d na uređaju</string>
+    <string name="contacts_number_device_and_sim_with_google">Google kontakti, %1$d na SIM-u, %2$d na uređaju</string>
+    <string name="contacts_number_device_with_google">Google kontakti, %1$d na uređaju</string>
+    <string name="contacts_number_icloud_with_google">Google kontakti, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google kontakti, %1$d SIM</string>
+    <string name="continue_to_login_heading">Prijavite se.</string>
+    <string name="continue_to_login_text">Vjerodajnice dodijeljene. Prijavite se na prvom uređaju.</string>
+    <string name="copy_confirmation_description">Kopirat ćete podatke, na primjer Google račun i aplikacije, na novi telefon</string>
+    <string name="copy_confirmation_title">Želite li kopirati na novi telefon?</string>
+    <string name="d2d_app_picker_description_no_apps">Nismo pronašli nijednu aplikaciju</string>
+    <string name="d2d_app_picker_title">Aplikacije</string>
+    <string name="d2d_migration_canceled_on_source">Kopiranje otkazano</string>
+    <string name="data_copied_fragment_description">Vaši se podaci kopiraju na novi telefon. Možete iskopčati kabel.</string>
+    <string name="data_copied_fragment_description_cancel">Zaustavili ste kopiranje, pa je samo dio podataka kopiran na novi telefon.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Zaustavili ste kopiranje, pa se ništa nije kopiralo na novi telefon.</string>
+    <string name="data_copied_fragment_description_error">Dogodila se pogreška, pa nismo mogli kopirati sve.</string>
+    <string name="data_copied_fragment_description_error_no_data">Dogodila se pogreška, pa nismo mogli kopirati vaše podatke.</string>
+    <string name="data_copied_fragment_no_data_title">Kopiranje nije uspjelo</string>
+    <string name="data_copied_fragment_some_data_title">Neki su podaci kopirani</string>
+    <string name="data_copied_fragment_title">Podaci su kopirani</string>
+    <string name="device_backup_title">Stvori sigurnosnu kopiju uređaja</string>
+    <string name="device_not_supported_fragment_new_device">Povezali ste se s novim telefonom. Da biste nastavili, ponovo se povežite s prethodnim.</string>
+    <string name="device_not_supported_fragment_new_device_title">Ponovo se povežite s prethodnim telefonom</string>
+    <string name="device_not_supported_fragment_no_data_cable">Taj kabel ne može prenositi podatke. Upotrijebite neki drugi kabel i pokušajte ponovo.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Pokušajte s nekim drugim kabelom</string>
+    <string name="device_not_supported_fragment_retry_description">Provjerite je li stari telefon otključan, a zatim iskopčajte i ponovo ukopčajte kabel</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Nešto nije u redu</string>
+    <string name="device_not_supported_ios_supervised_description">Budući da je vaš iPhone® uređaj pod nadzorom, morat ćete kopirati podatke na neki drugi način</string>
+    <string name="device_picker_description">Sigurnosne kopije pohranjene su na Google disku</string>
+    <string name="device_picker_empty">Nijedna sigurnosna kopija nije povezana s računom %1$s.</string>
+    <string name="device_picker_empty_title">Nije pronađena nijedna sigurnosna kopija</string>
+    <string name="device_picker_item">Sigurnosna kopija uređaja %1$s</string>
+    <string name="device_picker_last_used">Zadnja upotreba: ^1</string>
+    <string name="device_picker_skip">Ne vraćaj</string>
+    <string name="device_picker_title">Odaberite sigurnosnu kopiju koju ćete vratiti</string>
+    <string name="disabled_by_admin_summary_text">Kontrolira administrator</string>
+    <string name="download_msg_error_invalid">Preuzimanje je pogrešno konfigurirano.</string>
+    <string name="download_msg_in_progress">Preuzimanje je u tijeku.</string>
+    <string name="download_msg_not_allowed_space">Nema dovoljno prostora za preuzimanje.</string>
+    <string name="download_msg_pending">Preuzimanje je na čekanju.</string>
+    <string name="download_notification_description">To je zatražio paket %1$s.</string>
+    <string name="download_notification_title">Dohvaćanje više podataka</string>
+    <string name="drive_backup_account">Sigurnosni račun</string>
+    <string name="drive_backup_apps_in_backup">Sigurnosno kopirani podaci aplikacija</string>
+    <string name="drive_backup_apps_last_backup">Posljednja sigurnosna kopija</string>
+    <string name="drive_backup_apps_loading">Učitavanje…</string>
+    <string name="drive_backup_apps_screen_title">Podaci aplikacija</string>
+    <string name="drive_backup_content_apps_title">Podaci aplikacija</string>
+    <string name="drive_backup_content_calendar_dialog_message">Događaji izrađeni u Google kalendaru sinkronizirat će se na svim uređajima na kojima ste se prijavili na svoj Google račun.</string>
+    <string name="drive_backup_content_calendar_title">Google kalendar</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Sigurnosna kopija uključuje datum i primatelja upućenih i primljenih poziva.</string>
+    <string name="drive_backup_content_callhistory_title">Povijest poziva</string>
+    <string name="drive_backup_content_contacts_dialog_message">Kontakti izrađeni u Google kontaktima sinkronizirat će se na svim uređajima na kojima ste se prijavili na svoj Google račun.</string>
+    <string name="drive_backup_content_contacts_title">Google kontakti</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Sigurnosna kopija uključuje konfiguraciju uređaja, na primjer pozadinu, zaporke za Wi-Fi i zadane aplikacije.</string>
+    <string name="drive_backup_content_devicesettings_title">Postavke uređaja</string>
+    <string name="drive_backup_content_header">Sadržaj</string>
+    <string name="drive_backup_content_photos_dialog_message">Vaš se primarni račun za izradu sigurnosnih kopija promijenio. I račun za sigurnosno kopiranje Google fotografija možete promijeniti u %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ODBACI</string>
+    <string name="drive_backup_content_photos_dialog_title">Želite li promijeniti i račun za fotografije i videozapise?</string>
+    <string name="drive_backup_content_photos_dialog_yes">PROMIJENI</string>
+    <string name="drive_backup_content_photos_title">Fotografije i videozapisi</string>
+    <string name="drive_backup_content_sms_dialog_message">Sigurnosna kopija uključuje poslane i primljene poruke. To ne uključuje MMS-ove.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Shvaćam</string>
+    <string name="drive_backup_content_status_error">Pogreška pri dohvaćanju datuma posljednje sinkronizacije</string>
+    <string name="drive_backup_content_status_lastsaved">Posljednja sigurnosna kopija: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Posljednja sinkronizacija: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Čeka se sigurnosno kopiranje</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Postavke sinkronizacije</string>
+    <string name="drive_backup_content_status_sync_off">Sinkronizacija je isključena</string>
+    <string name="drive_backup_content_status_updating">Provjeravanje statusa...</string>
+    <string name="drive_backup_disabled_backuplist">"Izrada sigurnosnih kopija uključuje:
+\u0009– aplikacije i podatke aplikacija
+\u0009– povijest poziva
+\u0009– postavke uređaja (uključujući zaporke za Wi-Fi)
+\u0009– Google kalendar
+\u0009– Google kontakte
+\u0009– fotografije i videozapise
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Sigurnosna kopija uključuje:
+\u0009– aplikacije i podatke aplikacija
+\u0009– povijest poziva
+\u0009– postavke uređaja (uključujući zaporke za Wi-Fi)
+\u0009– Google kalendar
+\u0009– Google kontakte
+\u0009– SMS-ove"</string>
+    <string name="drive_backup_disabled_by_device_owner">Onemogućio administrator</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google kalendar, Google kontakti, fotografije i videozapisi sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na drugim uslugama.
+
+Sinkronizacija može biti omogućena čak i ako je izrada sigurnosnih kopija isključena. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google kalendar i Google kontakti sinkroniziraju se s vašim Google računom i mogu se upotrebljavati na drugim uslugama.
+
+Sinkronizacija može biti omogućena čak i ako je izrada sigurnosnih kopija isključena. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_disabled_introduction">Automatska izrada sigurnosne kopije omogućuje vam lako vraćanje podataka ili promjenu telefona u bilo kojem trenutku.</string>
+    <string name="drive_backup_settings_title">Sigurnosno kopiranje</string>
+    <string name="drive_backup_state">Izradi sigurnosnu kopiju na Google disku</string>
+    <string name="drive_backup_state_dialog_message">"Podaci sigurnosnih kopija ovog uređaja na Google disku izbrisat će se zauvijek.
+
+Fotografije i videozapisi koji su već sigurnosno pohranjeni i dalje će biti dostupni na Google disku.
+
+Google kalendar i Google kontakti nastavit će se sinkronizirati s vašim Google računom. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Sigurnosna kopija podataka s ovog uređaja na Google disku trajno će se izbrisati.
+
+Google kalendar i Google kontakti nastavit će se sinkronizirati s vašim Google računom. Postavke sinkronizacije mogu se promijeniti u odjeljku Postavke > Računi > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Isključi i izbriši</string>
+    <string name="drive_backup_state_dialog_title">Želite li isključiti i izbrisati sigurnosne kopije?</string>
+    <string name="durationDayHour">%1$d dan %2$d sat</string>
+    <string name="durationDayHours">%1$d d %2$d h</string>
+    <string name="durationDays">%1$d d</string>
+    <string name="durationHourMinute">%1$d h %2$d min</string>
+    <string name="durationHourMinutes">%1$d h %2$d min</string>
+    <string name="durationHours">%1$d h</string>
+    <string name="durationMinute">%1$d min</string>
+    <string name="durationMinuteSecond">%1$d min %2$d s</string>
+    <string name="durationMinuteSeconds">%1$d min %2$d s</string>
+    <string name="durationMinutes">%1$d min</string>
+    <string name="durationSecond">%1$d s</string>
+    <string name="durationSeconds">%1$d s</string>
+    <string name="encryption_warning_fragment_description">"Enkripcija sigurnosnih kopija uključena je za vaš iPhone® uređaj. Ako je niste uključili sami, možda ju je uključio vaš IT administrator.
+
+Kopirati se mogu samo fotografije, glazba i videozapisi. Više informacija potražite na stranici "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Enkripcija sigurnosnih kopija</string>
+    <string name="fido_begin_button">ZAPOČNI</string>
+    <string name="fido_ble_device_icon_content_description">Otkriven je Bluetooth uređaj</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Pritisnite i zadržite tipku na ključu najmanje 5 sekundi da bi se pokrenuo način uparivanja</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">U REDU</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Nešto nije u redu</string>
+    <string name="fido_ble_dont_see_your_key_hint">Ne vidite svoj ključ?</string>
+    <string name="fido_ble_enable_body">Vaš sigurnosni ključ funkcionira samo kada je uključen Bluetooth na vašem uređaju</string>
+    <string name="fido_ble_enable_title">Uključite Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">UKLJUČI</string>
+    <string name="fido_ble_instructions_body">Na većini ključeva jednostavno dodirnite tipku</string>
+    <string name="fido_ble_instructions_title">Želite li dopustiti upotrebu sigurnosnog ključa?</string>
+    <string name="fido_ble_locate_pin_body">PIN za uparivanje obično ima 4 ili 6 znamenki i može se nalaziti sa stražnje strane ključa. Nastavite kada budete spremni unijeti PIN.</string>
+    <string name="fido_ble_locate_pin_continue_button">NASTAVI</string>
+    <string name="fido_ble_locate_pin_title">Pronađite PIN za uparivanje putem Bluetootha za svoj ključ %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Uparivanje sigurnosnog ključa…</string>
+    <string name="fido_ble_pair_instructions_body">Uparite ključ s ovim uređajem da biste ga mogli upotrebljavati sa svojim računom</string>
+    <string name="fido_ble_pair_instructions_title">Jeste li spremni za uparivanje sigurnosnog ključa?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Vratite ključ u način uparivanja</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">PONOVI</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Nešto nije u redu</string>
+    <string name="fido_ble_pairing_mode_body">Pritisnite i zadržite tipku na sigurnosnom ključu najmanje 5 sekundi</string>
+    <string name="fido_ble_pairing_mode_title">Pokreni način uparivanja</string>
+    <string name="fido_ble_select_device_body">Na popisu u nastavku odaberite sigurnosni ključ koji želite upariti s uređajem. Naziv je možda otisnut sa stražnje strane ključa.</string>
+    <string name="fido_ble_select_device_title">Odaberite svoj sigurnosni ključ</string>
+    <string name="fido_cancel_button">Odustani</string>
+    <string name="fido_nfc_enable_body">Vaš sigurnosni ključ funkcionira samo kada je uključen NFC na vašem uređaju</string>
+    <string name="fido_nfc_enable_title">Uključite NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">UKLJUČI</string>
+    <string name="fido_nfc_instructions_body">Prislonite ključ uz stražnju stranu uređaja dok ne prestane vibrirati</string>
+    <string name="fido_nfc_instructions_title">Želite li dopustiti upotrebu sigurnosnog ključa?</string>
+    <string name="fido_pair_another_security_key">Upari drugi sigurnosni ključ</string>
+    <string name="fido_processing">Potvrda sigurnosnog ključa…</string>
+    <string name="fido_transport_selection_bluetooth">Upotreba sigurnosnog ključa s Bluetoothom</string>
+    <string name="fido_transport_selection_body">Sigurnosni ključevi funkcioniraju uz Bluetooth i NFC. Odaberite kako želite upotrebljavati ključ.</string>
+    <string name="fido_transport_selection_nfc">Upotreba sigurnosnog ključa s NFC-om</string>
+    <string name="fido_transport_selection_title">Odaberite način upotrebe sigurnosnog ključa</string>
+    <string name="fido_use_ble_instead">Upotreba sigurnosnog ključa s Bluetoothom</string>
+    <string name="fido_use_nfc_instead">Upotreba sigurnosnog ključa s NFC-om</string>
+    <string name="fido_welcome_body">Upotrebom sigurnosnog ključa uz %1$s bolje štitite svoje privatne podatke.</string>
+    <string name="fido_welcome_title">Upotrijebite sigurnosni ključ uz %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Ne mogu pronaći adapter</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Pronađite Quick Switch Adapter koji ste dobili u kutiji s uređajem ^1.
+
+Priključite kabel u taj adapter."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Povežite adapter i kabel</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Otključajte stari telefon, a zatim priključite adapter u ovaj telefon.</string>
+    <string name="fragment_usb_connect_both_phones_title">Povežite oba telefona</string>
+    <string name="fragment_usb_dialog_cancel_description">Kabelom se može prenijeti najviše sadržaja. Ako kabeli iz kutije ne odgovaraju, upotrijebite kabel za prijenos podataka ili punjenje koji funkcionira sa starim telefonom.</string>
+    <string name="fragment_usb_dialog_cancel_title">Želite li kopirati podatke na neki drugi način?</string>
+    <string name="fragment_usb_dont_have_cable">Nemam kabel</string>
+    <string name="fragment_usb_dont_have_old_phone">Nemam stari telefon</string>
+    <string name="fragment_usb_find_cable_description">Upotrijebite kabel koji odgovara starom telefonu, na primjer kabel za prijenos podataka ili punjenje.</string>
+    <string name="fragment_usb_find_cable_title">Pronađite odgovarajući kabel</string>
+    <string name="fragment_usb_initial_description">Prenesite podatke sa starog telefona na ovaj uređaj ^1.</string>
+    <string name="fragment_usb_initial_title">Hajdemo kopirati podatke</string>
+    <string name="fragment_usb_legacy_description">"To je najbrži način za prijenos većine podataka.
+
+Pronađite adapter u kutiji i priključite ga u telefon. Povežite telefone kabelom, a zatim otključajte stari telefon."</string>
+    <string name="fragment_usb_other_ways">Kopiraj bez kabela</string>
+    <string name="fragment_usb_plug_cable">Priključite kabel u stari telefon</string>
+    <string name="fragment_waiting_title">Samo tren...</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Dopuštenja aplikacije</string>
+    <string name="google_contacts_static_text">Sinkronizirat će se Google kontakti</string>
+    <string name="google_contacts_static_text_off">Google kontakti i dalje će se sinkronizirati</string>
+    <string name="google_legal_title">Googleove pravne informacije</string>
+    <string name="google_play_tos_title">Uvjeti pružanja usluge Google Play</string>
+    <string name="google_plus_privacy_policy_title">Pravila o privatnosti za Google Plus</string>
+    <string name="google_privacy_policy_title">Googleova pravila o privatnosti</string>
+    <string name="google_terms_of_service_title">Googleovi uvjeti pružanja usluge</string>
+    <string name="header_set_backup_account">Postavi račun za sig. kopiju</string>
+    <string name="i_message_dialog_message">"Da biste nastavili primati SMS poruke korisnika iPhone® uređaja, morat ćete isključiti iMessage®.
+
+Upute potražite na stranici "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instant_apps_settings_title">Instant aplikacije</string>
+    <string name="instructions_fragment_title">Nastavite na drugom telefonu</string>
+    <string name="ios_connected_fragment_description">"Na sljedećem zaslonu možete se prijaviti na Google račun ili izraditi novi.
+
+Ako ne dodate Google račun, događaji na usluzi iOS Calendar® neće se prenijeti."</string>
+    <string name="ios_message_attachment_explanation">[Privitci iz vaših poruka nalaze se na Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachment_failed_explanation">[Neki privitci nisu se mogli kopirati. Prenesene privitke možete pronaći u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachment_placeholder">[Privitak spremljen u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_message_attachments_placeholder">[Privitci spremljeni u Google fotografijama > Mape uređaja > Privitci poruka]</string>
+    <string name="ios_migration_default_calendar_title">Kalendar</string>
+    <string name="ios_migration_other_contact_relation">Ostalo</string>
+    <string name="ios_photos_dialog_message">"Fotografije pohranjene na usluzi iCloud® ne mogu se kopirati.
+
+Da biste ih prenijeli na uređaj ^1, na iPhone® uređaju instalirajte aplikaciju Google fotografije i uključite sigurnosno kopiranje i sinkroniziranje. Više uputa možete pronaći na stranici "<b>g.co/datatransferhelp</b>.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">Dodaj račun</string>
+    <string name="lockscreen_smartdevice_action_next">Dalje</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Otključajte da biste nastavili s postavljanjem telefona</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Zbog sigurnosnih razloga morate potvrditi zaključavanje zaslona da biste nastavili s postavljanjem</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Potvrda zaključavanja zaslona</string>
+    <string name="manage_data_label">Google račun</string>
+    <string name="master_clear_title">Vraćanje na tvorničko stanje</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">Mrežne preporuke</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Poruke Wi‑Fi-ja</string>
+    <string name="notification_channel_network_available">Mreža je dostupna</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi uključen</string>
+    <string name="notification_content_text_set_backup_account">Potrebno je postaviti račun za sigurnosnu kopiju</string>
+    <string name="notification_content_title_set_backup_account">Sigurnosno kopiranje</string>
+    <string name="notification_ticker">Zatražen je pristup</string>
+    <string name="notification_ticker_set_backup_account">Potrebna je sigurnosna kopija računa</string>
+    <string name="open_in_web_button">Otvori na webu</string>
+    <string name="open_source_activity_prompt_heading">Otvorite aplikaciju</string>
+    <string name="open_source_activity_prompt_text">"Otvorite aplikaciju SourceResponseActivity na telefonu da biste dovršili postupak autentifikacije. "</string>
+    <string name="opt_in_account_content_description">Odaberite račun. Trenutačno je odabran: %1$s</string>
+    <string name="opt_in_account_null_state">Izradite račun</string>
+    <string name="opt_in_agreement">Nastavljanjem prihvaćate <a href="https://play.google.com/about/play-terms.html">Uvjete pružanja usluge Playa</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Saznajte više</a></string>
+    <string name="opt_in_confirm">Da, u redu</string>
+    <string name="opt_in_description">"Kada dodirnete vezu, Google Play provjerava postoji li instant aplikacija i pokreće je bez instaliranja. Instant aplikacije privremeno se zadržavaju na uređaju.
+
+Instant aplikacije traže dopuštenja dok ih upotrebljavate. Pojedinosti o aplikaciji, uključujući kupnje putem aplikacije, dostupne su u Trgovini Google Play. Podaci i postavke aplikacije sinkroniziraju se s uređajima na kojima ste prijavljeni računom:"</string>
+    <string name="opt_in_description_m_plus">"Kada dodirnete vezu, Google Play provjerava postoji li instant aplikacija i pokreće je bez instaliranja. Instant aplikacije privremeno se zadržavaju na uređaju.
+
+Pojedinosti o aplikaciji, uključujući kupnje putem aplikacije, dostupne su u Trgovini Google Play. Podaci i postavke aplikacije sinkroniziraju se s uređajima na kojima ste prijavljeni računom:"</string>
+    <string name="opt_in_subtitle">Upotreba aplikacija bez instalacije</string>
+    <string name="opt_in_title">Instant aplikacije</string>
+    <string name="permgrouplab_calendar">Kalendar</string>
+    <string name="permgrouplab_camera">Fotoaparat</string>
+    <string name="permgrouplab_contacts">Kontakti</string>
+    <string name="permgrouplab_location">Lokacija</string>
+    <string name="permgrouplab_microphone">Mikrofon</string>
+    <string name="permgrouplab_phone">Telefon</string>
+    <string name="permgrouplab_sensors">Biometrijski senzori</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Pohrana</string>
+    <string name="permissions_not_granted_text">Da biste odobrili dopuštenja, prijavite se ponovo.</string>
+    <string name="permissions_not_granted_title">Dopuštenja nisu odobrena.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Nijedan račun trenutačno ne pohranjuje sigurnosne kopije fotografija</string>
+    <string name="photos_backup_title">Stvori sigurnosnu kopiju fotografija</string>
+    <string name="photos_filtering_option_all">Sve</string>
+    <string name="photos_filtering_option_none">Ništa</string>
+    <string name="plus_manage_app_only_you_label">Samo vi</string>
+    <string name="plus_network_unreliable">Nije moguće uspostaviti pouzdanu vezu s poslužiteljem.</string>
+    <string name="plus_oob_interstitial_loading_text">To može potrajati nekoliko minuta.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Kopirani kontakti spremit će se na vaš Google račun.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Kopirani kontakti i kalendari spremit će se na vaš Google račun.</string>
+    <string name="restore_choice_data_disclaimer_v2">Neki se podaci možda neće kopirati na vaš uređaj ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Saznajte više</annotation></string>
+    <string name="restore_choice_deselect_some_content">Poništite odabir dijela sadržaja da biste nastavili</string>
+    <string name="restore_choice_learn_more_android">"Neki podaci sa starog telefona ne mogu se kopirati automatski:
+
+ ● preuzimanja (npr. PDF datoteke)
+
+ ● fotografije, videozapisi i glazba u skrivenim mapama
+
+ ● fotografije, videozapisi i glazba primljeni tekstnim porukama
+
+ ● aplikacije koje nisu iz Trgovine Google Play
+
+ ● podaci aplikacija (ako aplikacija ne upotrebljava Androidovo sigurnosno kopiranje)
+
+ ● određene postavke uređaja
+
+ ● računi koji nisu Google računi (i svi podaci povezani s njima)
+
+ ● kontakti i kalendari koji se sinkroniziraju s uslugama izvan Googlea
+
+ ● melodije zvona.
+
+ Više pojedinosti i pomoć za kopiranje nekih od tih podataka potražite na stranici g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Neki podaci s vašeg starog telefona ne mogu se kopirati automatski:
+
+ ● aplikacije i podaci aplikacija
+
+ ● fotografije čiji izvornik nije pohranjen na vašem telefonu (npr. ako je uključena postavka optimizacije pohrane, izvorne fotografije pohranjuju se na usluzi iCloud®)
+
+ ● datoteke i dokumenti pohranjeni na usluzi iCloud®
+
+ ● postavke uređaja (npr. zaporke za Wi-Fi i pozadine)
+
+ ● glazba zaštićena Digital Rights Management (DRM) zaštitom (npr. iTunes® glazba kupljena prije travnja 2009. ili glazba preuzeta za offline slušanje u aplikaciji za strujanje glazbe)
+
+ ● računi koji nisu Google računi (i svi podaci povezani s njima)
+
+ ● kontakti i kalendari koji se sinkroniziraju s uslugama koje nisu Google ili iCloud®
+
+ ● oznake iz preglednika Safari®
+
+ iMessage® privitci bit će dostupni u Google fotografijama > Mape uređaja > Privitci poruka.
+
+ Više pojedinosti i pomoć za kopiranje nekih od tih podataka potražite na stranici g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Nema dovoljno prostora</string>
+    <string name="restore_choice_total_text">od ukupno %1$s/%2$s prijenosa</string>
+    <string name="restore_error_message">Vraćanje nije uspjelo.</string>
+    <string name="restore_instant_apps_notif_text">Zatražena stavka %1$s uklonjena je s ovog uređaja</string>
+    <string name="restore_instant_apps_notif_title">Vraćanje Instant aplikacija</string>
+    <string name="restore_item_appdata">Podaci aplikacije</string>
+    <string name="restore_item_calendar">Kalendar</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google kalendar</string>
+    <string name="restore_item_calendar_ical_off_description">Google kalendar i dalje će se sinkronizirati</string>
+    <string name="restore_item_calendar_sync_description">Sinkronizirat će se Google kalendar</string>
+    <string name="restore_item_call_logs">Povijest poziva</string>
+    <string name="restore_item_contacts">Kontakti</string>
+    <string name="restore_item_device_settings_description">Zaporke za Wi-Fi i ostalo</string>
+    <string name="restore_item_downloads">Preuzimanja</string>
+    <string name="restore_item_email">E-pošta</string>
+    <string name="restore_item_email_description">Sinkronizirat će se Gmail</string>
+    <string name="restore_item_message_attachments">Privitci poruka</string>
+    <string name="restore_item_messages">Poruke</string>
+    <string name="restore_item_music">Glazba</string>
+    <string name="restore_item_photos">Fotografije i videozapisi</string>
+    <string name="restore_item_settings">Postavke uređaja</string>
+    <string name="restore_item_sms">SMS poruke</string>
+    <string name="restore_item_will_be_synced_text">Ti će se podaci sinkronizirati s vašim telefonom</string>
+    <string name="restore_progress_title">Vraćanje...</string>
+    <string name="restore_supervisor_description">Da biste otvorili veze u instant aplikacijama, vratite stavku %1$s</string>
+    <string name="restore_supervisor_success">Instant aplikacije uspješno vraćene</string>
+    <string name="restore_supervisor_title">Želite li vratiti instant aplikacije?</string>
+    <string name="search_menu_title">Pretraživanje</string>
+    <string name="setup_failure_description">Postavljanje Instant aplikacija nije uspjelo. <a href="https://support.google.com/googleplay/?p=instant_apps">Saznajte više</a></string>
+    <string name="setup_failure_title">Postavljanje nije uspjelo</string>
+    <string name="sharedUserLabel">Googleove usluge</string>
+    <string name="sid_lsid_grant_detail">Slično zaporkama, kolačići za identifikaciju sesije (SID) i lokalnu identifikaciju sesije (LSID) povezuju vaš identitet s nizom zahtjeva upućenih iz preglednika. Dopuštaju potpuni pristup svim podacima vašeg računa. Samo preglednici imaju pravo upotrebljavati te kolačiće.</string>
+    <string name="sid_lsid_grant_label">Upotrebljavajte SID i LSID kolačiće da biste pristupili svim podacima Google računa.</string>
+    <string name="small_time_duration">Manje od 1 minute</string>
+    <string name="smartdevice_action_copy">Kopiraj</string>
+    <string name="smartdevice_action_next">Dalje</string>
+    <string name="smartdevice_action_open_app">Otvori aplikaciju</string>
+    <string name="smartdevice_action_skip">Preskoči</string>
+    <string name="smartdevice_action_try_another_way">Pokušaj na drugi način</string>
+    <string name="smartdevice_action_turn_on_location">Uključi lokaciju</string>
+    <string name="smartdevice_alert_disconnected_message">"Prekinuta je veza s uređajem.
+Da biste nastavili postavljanje, povežite ga pa počnite ispočetka."</string>
+    <string name="smartdevice_alert_disconnected_title">Uređaj je isključen</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Ne možete upotrebljavati tu značajku jer računom za sigurnosno kopiranje upravlja administrator uređaja.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Značajka nije dostupna</string>
+    <string name="smartdevice_alert_exit_setup_message">Jeste li sigurni da želite prekinuti postavljanje drugog uređaja?</string>
+    <string name="smartdevice_alert_exit_setup_title">Želite prekinuti postavljanje uređaja?</string>
+    <string name="smartdevice_alert_generic_error_title">Žao nam je, nešto je pošlo po zlu</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Žao nam je, nešto je pošlo po zlu</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Da biste postavili uređaj, potreban je barem jedan Google račun.</string>
+    <string name="smartdevice_alert_no_accounts_text">Za postavljanje svojeg uređaja %s potreban je najmanje jedan Google račun.</string>
+    <string name="smartdevice_alert_no_accounts_title">Nema računa za kopiranje</string>
+    <string name="smartdevice_alert_quit_button">Izlaz</string>
+    <string name="smartdevice_alert_restart_setup_button">Ponovno pokreni postavljanje</string>
+    <string name="smartdevice_alert_setup_incomplete">Postavljanje nije dovršeno</string>
+    <string name="smartdevice_alert_skip_button">Preskoči</string>
+    <string name="smartdevice_alert_start_over_button">Započnite iznova</string>
+    <string name="smartdevice_alert_work_profile_message">Radni se računi još ne mogu kopirati. Nakon što kopirate druge Google račune i podatke, u postavkama na novom uređaju dodajte radni račun.</string>
+    <string name="smartdevice_alert_work_profile_title">Radni se račun ne može kopirati</string>
+    <string name="smartdevice_application_label">Postavljanje uređaja</string>
+    <string name="smartdevice_choose_device">Odaberite svoj uređaj</string>
+    <string name="smartdevice_companion_app_ready">Aplikacija %s već je instalirana na ovom uređaju.</string>
+    <string name="smartdevice_connect_to_wifi">Povežite svoj uređaj</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Povezivanje s uređajem…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Kopirat će se vaši Google računi, drugi računi, aplikacije i podaci</string>
+    <string name="smartdevice_d2d_copy_account_text">Želite li kopirati svoje Google račune, aplikacije i podatke na drugi uređaj?</string>
+    <string name="smartdevice_d2d_copy_account_title">Kopirati na uređaj?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Nije prepoznat</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Pokušajte s otključavanjem zaslona</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Iz sigurnosnih razloga potvrdite otisak prsta. Vaši Google računi, aplikacije i podaci kopirat će se na uređaj %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Otključajte za nastavak postavljanja uređaja</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Radi sigurnosti potvrdite zaključavanje zaslona da biste nastavili s postavljanjem.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Potvrdite za nastavak</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Nije moguće postaviti drugi uređaj jer Bluetooth nije dostupan na vašem uređaju.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Ta je značajka zbog sigurnosti onemogućena. Na drugom uređaju dodirnite Preskoči i nastavite s postavljanjem.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Postavljanje novog uređaja</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Postavljanje uređaja</string>
+    <string name="smartdevice_d2d_source_notification_title">Postavljanje uređaja ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Ponovno pokreni postavljanje i odaberite svoj uređaj ^1 kako biste sigurno kopirali Google račune, aplikacije i podatke na pravi uređaj.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Ne vidite kod?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Ne vidite kod?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Potražite ovaj kod na drugom uređaju da biste potvrdili da ste odabrali pravi</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Potvrda koda</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Nije moguće postaviti novi uređaj iz ograničenog korisničkog profila.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Dovršite postavljanje na uređaju %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Još malo i gotovo!</string>
+    <string name="smartdevice_d2d_target_choice_description">Ako upotrebljavate neki drugi Android uređaj, možete brzo kopirati trenutačno postavljanje na taj uređaj %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Prenesite što više podataka s prethodnog Android uređaja</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Postavi kao novi</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Kopiraj s drugog Android uređaja</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Ne, hvala</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Da biste postavili uređaj, slijedite upute u nastavku</string>
+    <string name="smartdevice_d2d_target_choice_title">Imate li još jedan uređaj?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Kopirajte Google račune, aplikacije i podatke s drugog uređaja</string>
+    <string name="smartdevice_d2d_target_continue_description">Nastavite postavljanje na drugom uređaju.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Kopiranje računa…</string>
+    <string name="smartdevice_d2d_target_description">Na drugom uređaju:&lt;br/>&lt;br/> 1. Recite &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> ili unesite \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" i dodirnite da biste potvrdili.&lt;br/>&lt;br/> 2. Na popisu dodirnite &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> i slijedite upute na zaslonu.</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Umjesto toga, pokušajte ovo</string>
+    <string name="smartdevice_d2d_target_google_settings_description">Na drugom uređaju:&lt;br/>&lt;br/> 1. Otvorite aplikaciju &lt;b>Google postavke&lt;/b>&lt;br/>&lt;br/> 2. Odaberite &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Postavi uređaj u blizini>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Dodirnite &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> na popisu i potom slijedite upute na zaslonu</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Ne mogu izvršiti te korake</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Iskoristimo postavke</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">Na drugom uređaju:&lt;br/>&lt;br/> 1. Dodirnite ikonu Sve aplikacije, a zatim otvorite &lt;b>aplikaciju Postavke&lt;/b> &lt;br/>&lt;br/> 2. Dodirnite &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Odaberite &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Postavi uređaj u blizini>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Dodirnite &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> na popisu i potom slijedite upute na zaslonu</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Kopiraj s drugog Android uređaja</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Imate li poteškoća?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Ne možete pronaći uređaj?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Na drugom uređaju otvorite aplikaciju Google</string>
+    <string name="smartdevice_d2d_target_instruction_description">Otvorite Google aplikaciju</string>
+    <string name="smartdevice_d2d_target_instruction_title">Na svom drugom uređaju</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Da biste kopirali: 
+
+1. Provjerite je li vaš drugi uređaj uključen i otključan 
+
+2. Okrenite poleđine oba uređaja jednu prema drugoj dok se ne začuje zvuk, a potom uređaje odložite"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Funkcija Dodirni i prenesi upotrebljava NFC za kopiranje Google računa, aplikacija i podataka s drugog uređaja. U postavkama provjerite je li NFC na uređaju uključen.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Imate li poteškoća?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Prijenos dodirom</string>
+    <string name="smartdevice_d2d_target_other_device_description">Google aplikacija unaprijed je instalirana na svim Android uređajima. Dodirnite gumb \"Sve aplikacije\" na početnom zaslonu i potražite gore prikazanu ikonu.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Ovaj se kod mora podudarati s onim na drugom uređaju:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Nemoj preskoč.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Postavljanje neće kopirati ovaj račun niti sigurnosno kopirati aplikacije ni podatke na ovom uređaju.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Ipak preskoči</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Želite li preskočiti ovaj račun?</string>
+    <string name="smartdevice_d2d_target_title">U Google aplikaciji</string>
+    <string name="smartdevice_default_device_name">uređaj</string>
+    <string name="smartdevice_install_app">Instalacija aplikacije</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Nabavite aplikaciju %s da biste putem ovog uređaja kontrolirati i upravljali novim uređajem %s</string>
+    <string name="smartdevice_install_on_this_device">Instaliraj</string>
+    <string name="smartdevice_search_again">Ponovno pretraži</string>
+    <string name="smartdevice_searching_for_devices">Traženje uređaja</string>
+    <string name="smartdevice_setup_enter_code">Unesite kôd u uređaj. Trebao bi se nalaziti na naljepnici.</string>
+    <string name="smartdevice_setup_enter_code_hint">Unesite kôd</string>
+    <string name="smartdevice_setup_enter_pin_4">Unesite 4-znamenkasti kôd koji se trenutačno prikazuje na drugom uređaju</string>
+    <string name="smartdevice_setup_info_installing_app">Instaliranje aplikacije…</string>
+    <string name="smartdevice_setup_intro_text">Za postavljanje drugog uređaja upotrijebit će se Bluetooth i Wi-Fi podaci na vašem telefonu.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Za postavljanje drugog uređaja upotrijebit će se Bluetooth na vašem mobitelu.</string>
+    <string name="smartdevice_setup_intro_title">Početak upotrebe</string>
+    <string name="smartdevice_setup_password_hint">Unesite WiFi lozinku</string>
+    <string name="smartdevice_setup_show_password">Prikaži zaporku</string>
+    <string name="smartdevice_setup_title_verify_code">Potvrdite kôd</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Za postavljanje ovog uređaja možete upotrebljavati samo otvorene mreže i WPA/WPA2 mreže</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Ne možete upotrebljavati Wi-Fi mrežu</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Bez Wi-Fi mreže uređaj možda neće pravilno funkcionirati. Da biste nastavili s postavljanjem, povežite ga s Wi-Fi mrežom.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Odabir Wi-Fi mreže</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Da biste pretražili Wi-Fi, uključite lokaciju.
+
+To možete promijeniti kasnije u postavkama."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Traženje Wi-Fi mreža nije moguće</string>
+    <string name="source_connected_description">Pripremanje...</string>
+    <string name="source_connected_title">Povezano s vašim uređajem %1$s</string>
+    <string name="source_copying_description">Podaci koje ste odabrali kopiraju se na vaš novi telefon</string>
+    <string name="source_copying_title">Kopiranje...</string>
+    <string name="source_default_target_device_name">novi uređaj</string>
+    <string name="source_notification_device_disconnected">Ponovo priključite kabel</string>
+    <string name="source_notification_text">U tijeku je prijenos s telefona na telefon</string>
+    <string name="source_notification_title">Prijenos podataka</string>
+    <string name="source_success_description">Dovršite postavljanje na uređaju %1$s.</string>
+    <string name="source_success_screen_title">Sve je gotovo!</string>
+    <string name="source_unplugged_description">Ponovo ga uključite u uređaj %1$s</string>
+    <string name="source_unplugged_title">Kabel isključen</string>
+    <string name="source_waiting_title">Nastavite s postavljanjem na uređaju %1$s</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">Odbaci</string>
+    <string name="stop_copying_dialog_message_before_transfer">Vaši se podaci nisu kopirali na novi telefon</string>
+    <string name="stop_copying_dialog_message_during_transfer">Neki vaši podaci nisu se kopirali na novi telefon</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Nemoj kopirati</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Zaustavi</string>
+    <string name="stop_copying_dialog_title_before_transfer">Ne želite kopirati?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Želite li zaustaviti kopiranje?</string>
+    <string name="storage_management_wear_descriptive_text">Aplikacije upotrebljavaju pohranu uređaja za replikaciju podataka na nosivu aplikaciju.</string>
+    <string name="storage_management_wear_manage_size_label">Upravljaj pohranom nosivih aplikacija</string>
+    <string name="storage_management_wear_size_label">Pohrana nosivih aplikacija</string>
+    <string name="storage_managment_all_storage_descriptive_text">Ukupna količina podataka koju upotrebljavaju usluge za Google Play, uključujući podatke tražilice i ostale podatke.</string>
+    <string name="storage_managment_clear_all_data">Izbriši sve podatke</string>
+    <string name="storage_managment_computing_size">Izračunavanje...</string>
+    <string name="storage_managment_icing_size_label">Podaci pretraživanja</string>
+    <string name="storage_managment_manage_icing_button">Upravljanje podacima pretraž.</string>
+    <string name="storage_managment_search_index_descriptive_text">Ubrzavamo pretraživanje na vašem uređaju pružanjem tražilice kojom će se koristiti vaše aplikacije.</string>
+    <string name="storage_managment_title">Pohrana usluga za Google Play</string>
+    <string name="storage_managment_total_size_label">Ukupna pohrana</string>
+    <string name="supervisor_downloading_description">Preuzima se %1$s</string>
+    <string name="supervisor_downloading_title">Samo trenutak dok ne postavimo uređaj</string>
+    <string name="supervisor_installing_description">Instalira se %1$s</string>
+    <string name="supervisor_title">Google Play usluge za Instant aplikacije</string>
+    <string name="suw_back_button_label">Natrag</string>
+    <string name="suw_more_button_label">Više</string>
+    <string name="suw_next_button_label">Dalje</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Dodirnite za više informacija</string>
+    <string name="system_update_activity_battery_low_text">Baterija je preslaba za instalaciju ažuriranja</string>
+    <string name="system_update_activity_name">Ažuriranja sustava</string>
+    <string name="system_update_activity_roaming_text">Ažuriranja sustava nije moguće preuzimati u roamingu.</string>
+    <string name="system_update_activity_roaming_text_glif">Preuzimanje u roamingu nije moguće</string>
+    <string name="system_update_android_version_text">Verzija sustava Android: ^1</string>
+    <string name="system_update_check_now_button_text">Provjeri ažuriranja</string>
+    <string name="system_update_checking_status_text">Provjera</string>
+    <string name="system_update_complete_label">Ažuriranje sustava</string>
+    <string name="system_update_countdown_cancel_button">Otkaži instalaciju</string>
+    <string name="system_update_countdown_complete">Ponovno pokretanje...</string>
+    <string name="system_update_download_and_install_button_text">Preuzmi i instaliraj</string>
+    <string name="system_update_download_button_text">Preuzmi</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Nema dovoljno prostora za preuzimanje</string>
+    <string name="system_update_download_failed_no_space_status_text">Nema dovoljno prostora za preuzimanje</string>
+    <string name="system_update_download_failed_status_text">Preuzimanje nije moguće</string>
+    <string name="system_update_download_manage_storage_button_text">Upravljaj pohranom</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Čekanje na Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Preuzimanje je pauzirano</string>
+    <string name="system_update_download_retry_button_text">Pokušajte ponovo preuzeti</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Preuzimanje ažuriranja automatski će započeti između ^1 i ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">To ažuriranje možete preuzeti putem Wi-Fi mreže u bilo kojem trenutku. U suprotnom će se automatski početi preuzimati između ^1 i ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Prijeđite na drugu SIM karticu da biste preuzeli to ažuriranje.</string>
+    <string name="system_update_download_waiting_status_text">Čeka se preuzimanje</string>
+    <string name="system_update_downloading_status_text">Preuzimanje</string>
+    <string name="system_update_downloading_title_text">Preuzimanje ažuriranja sustava...</string>
+    <string name="system_update_downloading_wifi_status2_text">Samo putem mreže ^1 do ^2</string>
+    <string name="system_update_file_browser_ok_button">Odaberi</string>
+    <string name="system_update_file_browser_title">Odabir datoteke ažuriranja</string>
+    <string name="system_update_free_up_space_button_text">Oslobodi prostor</string>
+    <string name="system_update_from_sd_card_button_and_title">Ažuriraj sa SD kartice</string>
+    <string name="system_update_from_sd_card_unknown_status">Provjera...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Nije potvrđeno</string>
+    <string name="system_update_from_sd_card_verified_description">Ažuriranje je potvrđeno i spremno za instaliranje.</string>
+    <string name="system_update_from_sd_card_verifying_status">Potvrđivanje...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Potrebna je neograničena Wi-Fi mreža</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Preporučuje se Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Ovo ažuriranje može se preuzeti samo putem mreže ^1 do ^2.
+
+Da biste nastavili s preuzimanjem, povežite se s mrežom ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Potrebna je Wi-Fi mreža</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Da biste izbjegli moguće troškove za prijenos podataka, povežite se s Wi-Fi mrežom bez naplate po količini prijenosa.</string>
+    <string name="system_update_install_button_text">Ponovo pokreni i instaliraj</string>
+    <string name="system_update_install_failed_button_qualifier_text">Problem s instalacijom</string>
+    <string name="system_update_install_failed_title_text">Ažuriranje nije moguće</string>
+    <string name="system_update_install_steps_text">Korak ^1 od 2</string>
+    <string name="system_update_installing_title_text">Instalacija ažuriranja sustava...</string>
+    <string name="system_update_last_checkin">Zadnja provjera ažuriranja ^1.</string>
+    <string name="system_update_last_checkin_glif">Posljednja provjera ažuriranja ^1</string>
+    <string name="system_update_managed_by_policy">Ažuriranjem softvera sustava ovog uređaja upravlja vaša organizacija.</string>
+    <string name="system_update_no_update_content_text">Vaš je sustav ažuriran.</string>
+    <string name="system_update_no_update_content_text_glif">Sustav je ažuriran</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Nije moguće preuzeti ažuriranje sustava</string>
+    <string name="system_update_not_owner_text">Dostupno je sistemsko ažuriranje softvera, ali može ga instalirati samo vlasnik.</string>
+    <string name="system_update_notification_header_name">Ažuriranje sustava Android</string>
+    <string name="system_update_pause_button_text">Pauziraj preuzimanje</string>
+    <string name="system_update_processing_status_text">Obrada</string>
+    <string name="system_update_requires_restart_status_text">Zahtijeva ponovno pokretanje</string>
+    <string name="system_update_restart_to_install_button_text">Ponovo pokreni i instaliraj</string>
+    <string name="system_update_restart_to_update_button_text">Ponovo pokreni i ažuriraj</string>
+    <string name="system_update_resume_button_text">Nastavi</string>
+    <string name="system_update_scheduled_status_text">Planirano</string>
+    <string name="system_update_security_patch_level_text">Razina sigurnosne zakrpe: ^ 1</string>
+    <string name="system_update_security_update_available_title_text">Dostupno je sigurnosno ažuriranje</string>
+    <string name="system_update_security_update_downloading_title_text">Preuzimanje sigurnosnog ažuriranja...</string>
+    <string name="system_update_security_update_installing_title_text">Instalacija sigurnosnog ažuriranja...</string>
+    <string name="system_update_size_label">Veličina ažuriranja:</string>
+    <string name="system_update_suw_download_and_install_text">"Preuzimanje i instaliranje ažuriranja može potrajati nekoliko minuta.
+
+Nakon toga uređaj će se automatski pokrenuti ponovo."</string>
+    <string name="system_update_suw_download_text">"Preuzimanje ažuriranja može potrajati nekoliko minuta.
+
+Nakon toga uređaj će se automatski pokrenuti ponovo."</string>
+    <string name="system_update_suw_download_title">Preuzimanje ažuriranja…</string>
+    <string name="system_update_suw_restart_text">Uređaj će se ponovo pokrenuti kako bi se instaliralo ažuriranje sustava.</string>
+    <string name="system_update_suw_restart_title">Uređaj će se pokrenuti ponovo</string>
+    <string name="system_update_suw_wifi_needed">Da biste nastavili s preuzimanjem, odaberite mrežu ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Prijeđite prstom ulijevo za preuzimanje.</string>
+    <string name="system_update_update_available_notification_message">Dodirnite za više informacija i preuzimanje</string>
+    <string name="system_update_update_available_notification_title">Dostupno je ažuriranje sustava</string>
+    <string name="system_update_update_available_tap_to_download">Dodirnite za preuzimanje</string>
+    <string name="system_update_update_available_title_text">Dostupno je ažuriranje sustava</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Preuzimanje je pauzirano</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Nema dovoljno prostora</string>
+    <string name="system_update_update_downloaded_charge_wearable">Napunite bateriju do najmanje %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Prijeđite prstom ulijevo za instaliranje.</string>
+    <string name="system_update_update_downloaded_notification_message">Dodirnite za više informacija i instalaciju</string>
+    <string name="system_update_update_downloaded_notification_title">Preuzeto je ažuriranje sustava</string>
+    <string name="system_update_update_downloaded_tap_to_install">Dodirnite za instaliranje</string>
+    <string name="system_update_verification_failed_text">Potvrđivanje nije uspjelo.</string>
+    <string name="system_update_verified_status_text">Preuzeto i potvrđeno</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Problem s potvrđivanjem</string>
+    <string name="system_update_verifying_status_text">Provjera</string>
+    <string name="system_update_wearable_countdown_message">Ponovno pokretanje za %d...</string>
+    <string name="target_default_source_device_model">stari uređaj</string>
+    <string name="target_device_not_supported_cant_continue_description">Morat ćete kopirati podatke na neki drugi način</string>
+    <string name="target_device_not_supported_cant_continue_title">Drugi telefon nije podržan</string>
+    <string name="target_device_not_supported_try_restarting_description">"Iskopčajte kabel i ponovo pokrenite stari telefon, zatim ponovo ukopčajte kabel i slijedite upute na Pixelu.
+
+Ako se pogreška ponovi, možda biste trebali kopirati na neki drugi način."</string>
+    <string name="target_device_not_supported_try_restarting_title">Telefon možda nije podržan</string>
+    <string name="target_smart_device_timeout_add_account">DODAJ RAČUN</string>
+    <string name="target_smart_device_timeout_description">Ako želite, račun možete pokušati dodati ručno</string>
+    <string name="target_smart_device_timeout_dismiss">ODBACI</string>
+    <string name="target_smart_device_timeout_title">Imate li poteškoća?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Telefoni su povezani</string>
+    <string name="toast_reconnect_cable">Ponovo priključite kabel</string>
+    <string name="transfer_finished_fragment_title">Dodavanje završnih detalja...</string>
+    <string name="transfer_summary_copied">Podaci su kopirani</string>
+    <string name="transfer_summary_fragment_description">Možete iskopčati kabel.</string>
+    <string name="transfer_summary_fragment_finish">ZAVRŠI</string>
+    <string name="transfer_summary_fragment_title">Telefon je gotovo spreman</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Neke se fotografije nisu kopirale. <annotation id="transfer_summary_learn_more">Saznajte više</annotation></string>
+    <string name="transfer_summary_not_copied">Podaci nisu kopirani</string>
+    <string name="transfer_summary_partial">Kopirano %1$s/%2$s</string>
+    <string name="transfer_summary_will_sync">Podaci će se sinkronizirati nakon postavljanja</string>
+    <string name="transferring_fragment_calculating_remaining_time">Izračun preostalog vremena...</string>
+    <string name="transferring_fragment_header">Kopiranje...</string>
+    <string name="transferring_fragment_remaining_time">Preostalo vrijeme: %1$s</string>
+    <string name="trust_instructions_description">Da biste nastavili, provjerite na uređaju iPhone® i odobrite povezivanje</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari i iTunes zaštitni su znakovi tvrtke Apple Inc. registrirane u SAD-u i drugim zemljama.</string>
+    <string name="unmetered_wifi_string">Wi-Fi bez ograničenja</string>
+    <string name="url_load_unsuccessful_message">Vaš Android uređaj nije povezan s mobilnom podatkovnom uslugom. Da biste pogledali te informacije odmah, otvorite %s u web-pregledniku.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Vaš uređaj sa sustavom Android nije povezan s Wi-Fi mrežom. Da biste odmah pogledali ove informacije, posjetite %s u web-pregledniku.</string>
+    <string name="use_nearby_device_heading">Želite li upotrijebiti uređaj u blizini?</string>
+    <string name="use_nearby_device_text">Želite li upotrijebiti uređaj u blizini da biste dodijelili vjerodajnice?</string>
+    <string name="waiting_for_account_info_text">Čekaju se podaci o računu...</string>
+    <string name="wifi_available_action_all_networks">Sve mreže</string>
+    <string name="wifi_available_action_connect">Poveži</string>
+    <string name="wifi_available_content_failed">Dodirnite da biste vidjeli sve mreže</string>
+    <string name="wifi_available_title">Povezivanje s otvorenom Wi‑Fi mrežom</string>
+    <string name="wifi_available_title_connected">Povezano s Wi-Fi mrežom</string>
+    <string name="wifi_available_title_connecting">Povezivanje s otvorenom Wi‑Fi mrežom</string>
+    <string name="wifi_available_title_failed">Povezivanje s Wi‑Fi mrežom nije uspjelo</string>
+    <string name="wifi_string">Wi-Fi</string>
+    <string name="wifi_wakeup_enabled_notification_context">Nalazite se u blizini spremljene mreže: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi‑Fi je uključen automatski</string>
+</resources>

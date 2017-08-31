@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d dupliranih kontakata</item>
+        <item quantity="one">%d duplirani kontakt</item>
+        <item quantity="few">%d duplirana kontakta</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nedavnih poziva • Poslednji put %2$s</item>
+        <item quantity="one">%1$d nedavni poziv • Poslednji put %2$s</item>
+        <item quantity="few">%1$d nedavna poziva • Poslednji put %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontakata</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakta</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontakata · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+        <item quantity="few">%1$d kontakta · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakti su izbrisani</item>
+        <item quantity="one">Kontakti su izbrisani</item>
+        <item quantity="few">Kontakti su izbrisani</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontakata</item>
+        <item quantity="one">%1$d kontakt</item>
+        <item quantity="few">%1$d kontakta</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontakata • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+        <item quantity="few">^1 kontakta • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Uvezite sa SIM kartica</item>
+        <item quantity="one">Uvezite sa SIM kartica</item>
+        <item quantity="few">Uvezite sa SIM kartica</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontakata</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakta</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Uvezeno je %d kontakata sa SIM kartice</item>
+        <item quantity="one">Uvezen je %d kontakt sa SIM kartice</item>
+        <item quantity="few">Uvezena su %d kontakta sa SIM kartice</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Delite kontakte preko</item>
+        <item quantity="one">Delite kontakte preko</item>
+        <item quantity="few">Delite kontakte preko</item>
+    </plurals>
+</resources>

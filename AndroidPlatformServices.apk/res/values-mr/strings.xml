@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">खाते अवरोधित केले</string>
+    <string name="account_level_title">खाते क्रिया आवश्यक आहे</string>
+    <string name="account_removed_notification_text">डिव्हाइस व्यवस्थापन पूर्ण झाले नसल्याने %1$s काढले होते</string>
+    <string name="account_removed_notification_title">खाते काढले</string>
+    <string name="android_privacy_policy_title">अतिरिक्त गोपनीयता धोरण</string>
+    <string name="app_has_in_app_purchases">अॅप-मधील खरेदी</string>
+    <string name="app_has_permissions">परवानग्या: %s</string>
+    <string name="app_has_runtime_permissions">अॅप परवानग्यांसाठी विचारेल</string>
+    <string name="app_level_title">साइन-इन विनंती</string>
+    <string name="app_level_title_secondary">%s द्वारे साइन-इन विनंती</string>
+    <string name="app_picker_app_already_installed_toast">हा अ‍ॅप आधीपासून स्थापित केला आहे</string>
+    <string name="app_picker_loading">उपलब्ध असलेले अॅप्स शोधत आहे...</string>
+    <string name="app_picker_loading_toast">उपलब्ध असलेले अॅप्स लवकरच लोड होतील</string>
+    <string name="app_picker_no_apps">कोणतेही अॅप्स निवडले नाहीत</string>
+    <string name="app_picker_no_apps_found">कोणतेही अॅप्स आढळले नाहीत</string>
+    <string name="apps_in_app_purchases_disclaimer_all">अ‍ॅप-मधील खरेदी आपल्या ^1 मध्ये हस्तांतरित केल्या जाणार नाहीत.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">काही अ‍ॅप-मधील खरेदी आपल्या ^1 मध्ये हस्तांतरित केल्या जाऊ शकत नाहीत.</string>
+    <string name="apps_permissions_described_v2">"केवळ लोकप्रिय, विनामूल्य iOS® अ‍ॅप्स Android अ‍ॅप्सशी जुळविले जाऊ शकतात. बहुतेक अ‍ॅप-मधील खरेदी स्थानांतरित केल्या जाणार नाहीत. सेटअप पूर्ण झाल्यानंतर आपण Play स्टोअर मध्ये अधिक अ‍ॅप्स शोधू शकता.
+
+आपल्या डिव्हाइस वरील माहिती किंवा विशिष्ट क्षमतांमध्ये प्रवेश करण्यासाठी आपल्याला काही अॅप्सना आगाऊ परवानगी द्यावी लागेल. परवानगी गटांमध्ये परवानग्या व्यवस्थापित केल्या जातात. हे अॅप्स स्थापित करणे निवडून, प्रत्येक गटाचा भाग असलेल्या परवानग्या आपण स्वीकार करता. प्रत्येक परवानग्या गटाचे वर्णन खाली प्रदान केले आहे. 
+
+काही अॅप्सना कदाचित आगाऊ परवानग्या स्वीकार करण्याची आवश्यकता नसेल. आपण या अॅप्सपैकी एक वापरता तेव्‍हा, अॅपने त्या प्रकारचा डेटा वापरण्‍यापूर्वी आपण वैयक्तिक परवानगीला अनुमती देऊ शकता किंवा ती नाकारू शकता.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">प्रत्येक अॅप स्थापित करून, आपण त्याच्या परवानग्यांना सहमती देता. <annotation id="apps_permissions_learn_more">अधिक जाणून घ्या</annotation></string>
+    <string name="audience_selection_done">पूर्ण झाले</string>
+    <string name="auth_account_already_has_gmail">खात्यामध्ये आधीपासून Gmail आहे.</string>
+    <string name="auth_account_content_provider_label">Google खाते डेटा</string>
+    <string name="auth_account_removed_default_description">डिव्हाइस व्यवस्थापन पूर्ण झाले नाही. पुन्हा प्रारंभ करा आणि साइन इन करा.</string>
+    <string name="auth_account_removed_default_title">सेटअप रद्द केले</string>
+    <string name="auth_account_removed_dm_bad_result_description">डिव्हाइस व्यवस्थापन पूर्ण होऊ शकले नाही. पुन्हा प्रारंभ करा आणि साइन इन करा.</string>
+    <string name="auth_account_removed_dm_not_supported_description">आपल्या डोमेनसाठी मोबाइल डिव्हाइस व्यवस्थापन आवश्यक आहे परंतु या डिव्हाइसवर ते समर्थित नाही. भिन्न खाते वापरून पहा.</string>
+    <string name="auth_account_removed_dm_not_supported_title">डिव्हाइस व्यवस्थापन समर्थित नाही</string>
+    <string name="auth_account_removed_dm_setup_failed_description">डिव्हाइस व्यवस्थापन योग्यरित्या स्थापित झाले नाही. पुन्हा प्रारंभ करा आणि साइन इन करा.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">स्थापित करण्‍यात समस्या</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">डिव्हाइस व्यवस्थापन पूर्ण झाले नाही. पुन्हा प्रारंभ करा आणि साइन इन करा.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">सेटअप रद्द झाले</string>
+    <string name="auth_account_settings_title">खाते सेटिंग्ज</string>
+    <string name="auth_account_setup_title">Google खाते</string>
+    <string name="auth_account_state_sync_title">खाते स्थिती संकालन</string>
+    <string name="auth_allow_button_label">अनुमती द्या</string>
+    <string name="auth_allow_external_site_access">%s वर आपल्या डेटावर चालू असलेला प्रवेश असू द्या</string>
+    <string name="auth_app_permission_ok_footnote">सुरु ठेवून, आपण या अॅप ला आणि Google ला त्यांच्या आपापल्या सेवा अटी आणि गोपनीयता धोरणांनुसार आपली माहिती वापरण्यास अनुमती देता.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">लॉग इन ला अनुमती द्या</string>
+    <string name="auth_authzen_allow_reset_button_text">संकेतशब्द रीसेट करण्यास अनुमती द्या</string>
+    <string name="auth_authzen_google_logo_label">Google लोगो</string>
+    <string name="auth_authzen_login_challenge_approved_text">साइन-इन मंजूर</string>
+    <string name="auth_authzen_login_challenge_canceled_text">साइन-इन रद्द</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">साइन-इन करण्यास अनुमती द्या</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s वरून साइन इन करत आहात?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google ने साइन-इन करण्‍याचे प्रयत्न थांबविले.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">चुकीचा नंबर</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">इतर स्क्रीनवर दर्शविलेल्या नंबरला स्पर्श करा. हा आपल्याला आपल्या संगणकावर साइन इन करेल.</string>
+    <string name="auth_authzen_login_challenge_title_text">साइन इन करण्याचा प्रयत्न करीत आहात?</string>
+    <string name="auth_authzen_profile_picture_label">प्रोफाईल चित्र</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">आपण ज्यासह साइन इन करण्याचा प्रयत्न करत आहात ते खाते निवडा:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">साइन इन करण्याचा प्रयत्न करीत आहात?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">कोणत्याही साइन इन सूचना आढळल्या नाहीत.</string>
+    <string name="auth_authzen_pull_offline_error">अंतर्गत त्रुटी</string>
+    <string name="auth_authzen_pull_offline_instructions_text">आपल्या संगणकावर, \"कोड आहे का?\" क्लिक करा, नंतर हे टाइप करा:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">आपण Google वर लॉग इन करण्याचा इतक्यात प्रयत्न केला?</string>
+    <string name="auth_authzen_recovery_approved_text">संकेतशब्द रीसेट मंजूर केले</string>
+    <string name="auth_authzen_recovery_canceled_text">संकेतशब्द रीसेट रद्द केले</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%s वरून संकेतशब्‍द रीसेट करण्‍याची अनुमती द्यायची?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">आम्हाला आपले पुष्टीकरण आवश्यक आहे</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google ने संकेतशब्‍द रीसेट करण्‍याचे प्रयत्न थांबविले.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">चुकीचा नंबर</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">अन्य स्‍क्रीनवर दर्शविलेल्‍या नंबरला स्‍पर्श करा. हे आपला संकेतशब्‍द रीसेट करेल.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">संकेतशब्द रीसेट करण्यास अनुमती द्या</string>
+    <string name="auth_authzen_recovery_reject_desc_text">कोणीतरी आपला Google खाते संकेतशब्‍द रीसेट करण्‍याची विनंती केली. Google ने संकेतशब्‍द रीसेट करण्‍याचे प्रयत्न थांबविले.</string>
+    <string name="auth_authzen_recovery_reject_title_text">संकेतशब्‍द रीसेट करणे प्रतिबंधित केले</string>
+    <string name="auth_authzen_recovery_verification_desc_text">आपण %s वरून आपला संकेतशब्‍द रीसेट करण्‍याची विनंती केली होती का?</string>
+    <string name="auth_authzen_recovery_verification_title_text">आपला संकेतशब्‍द रीसेट करण्‍याचा प्रयत्न केला?</string>
+    <string name="auth_authzen_secure_account_button_text">आपले खाते सुरक्षित करा</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">साइन इन सूचना शोधत आहात...</string>
+    <string name="auth_back_button_label">परत</string>
+    <string name="auth_cant_add_work_account_message">या प्रकारचे खाते आपल्या संस्थेद्वारे व्यवस्थापित केले जाते.</string>
+    <string name="auth_captcha_instructions">आपण येथे पाहता तो मजकूर टाइप करा:</string>
+    <string name="auth_captcha_title">कॅप्चा प्रविष्ट करणे आवश्यक आहे</string>
+    <string name="auth_common_next_button">पुढील</string>
+    <string name="auth_common_skip">वगळा</string>
+    <string name="auth_common_switch_accounts">खाते स्विच करा</string>
+    <string name="auth_communicating_message">आपले डिव्हाइस आपल्या खात्यावर माहिती जतन करण्यासाठी Google शी संपर्क साधत आहे. यास सुमारे 5 मिनिटे लागू शकतात.</string>
+    <string name="auth_confirm_creds_sync_title">क्रेडेन्शियल स्थिती</string>
+    <string name="auth_d2d_source_alert_title">टॅप करून ट्रान्सफर करा</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">लॉक करा आणि सत्यापित करा</string>
+    <string name="auth_d2d_source_copy_notice">आपल्या इतर डिव्हाइसवर खाती आणि डेटा कॉपी करायचा?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">आपण सत्यापित करता त्यानंतर, ब्लूटुथ चालू होईल जेणेकरून आपले डिव्हाइसेस संप्रेषण करू शकतात.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">आपण सत्यापित करता त्यानंतर, आपले डिव्हाइसेस ब्लूटुथद्वारे कनेक्ट होतील.</string>
+    <string name="auth_d2d_source_lock_notice">सुरु ठेवण्यासाठी, आपली स्क्रीन लॉक होईल आणि सत्यापनाकरिता आपल्याला ती अनलॉक करण्याची आवश्यकता असेल.</string>
+    <string name="auth_d2d_source_no_accounts_toast">टॅप करून ट्रान्सफर करू शकत नाही कारण या डिव्हाइसवर कोणतीही खाती नाहीत.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">टॅप करून ट्रान्सफर करू शकत नाही कारण आपल्या डिव्हाइसवर ब्लूटुथ उपलब्ध नाही.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">ब्लूटुथ चालू होईल जेणेकरून आपले डिव्हाइसेस संप्रेषण करू शकतात.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">हे ब्लूटुथ वापरते.</string>
+    <string name="auth_d2d_source_notification_title">टॅप करून ट्रान्सफर करा पूर्ण</string>
+    <string name="auth_d2d_source_restricted_user_toast">एका प्रतिबंधित वापरकर्ता प्रोफाईलवरून टॅप आणि पुनर्संचयित करू शकत नाही.</string>
+    <string name="auth_d2d_source_title">खाती पुनर्संचयित करा</string>
+    <string name="auth_d2d_source_unknown_device_name">अज्ञात डिव्हाइस</string>
+    <string name="auth_d2d_target_sorry_alert">क्षमस्‍व, काहीतरी चूक झाली</string>
+    <string name="auth_d2d_target_tap_progress_message">सुरु ठेवण्यासाठी, आपल्या अन्य डिव्हाइसवर ठीक आहे टॅप करा</string>
+    <string name="auth_d2d_target_title">टॅप करा आणि जा</string>
+    <string name="auth_d2d_target_unlock_progress_message">आपले अन्य डिव्हाइस तपासा</string>
+    <string name="auth_d2d_target_wait_progress_message">खाती आणि डेटा मिळवत आहे...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">नकार द्या</string>
+    <string name="auth_device_management_download_app_icon">%s अॅप चिन्ह</string>
+    <string name="auth_device_management_download_description">या खात्यास मोबाईल डिव्हाइस व्यवस्थापन आवश्यक आहे. खात्यासाठी आवश्यक असलेल्या सुरक्षितता धोरणांची अंमलबजावणी करण्यासाठी ^1 अॅप स्थापित करा.</string>
+    <string name="auth_device_management_download_description_kids">या डिव्हाइसवर खाते जोडण्यासाठी, प्रथम <b>^1</b>" स्थापित करा. आपल्या मुलासाठी हे डिव्हाइस सेट करण्यात 
+
+^1 आपल्याला मदत करतो."</string>
+    <string name="auth_device_management_download_failed_message">आपण तरीही या अ‍ॅपशिवाय सेटअप सुरू ठेवू शकता</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">डिव्हाइस व्यवस्थापन स्थापित करण्यात अयशस्वी. हे खाते काढले जाईल. नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="auth_device_management_download_failed_title">अॅप डाउनलोड करू शकत नाही</string>
+    <string name="auth_device_management_download_not_updated_message">आपण तरीही वर्तमान आवृत्ती वापरून सेटअप सुरू ठेवू शकता</string>
+    <string name="auth_device_management_download_paused">विराम दिला</string>
+    <string name="auth_device_management_download_progress">डाउनलोड करत आहे...</string>
+    <string name="auth_device_management_download_skip_message">या खात्यास डिव्‍हाइस व्यवस्थापनाची आवश्‍यकता आहे. त्याशिवाय सुरु ठेवायचे?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">या खात्यास डिव्हाइस व्यवस्थापनेची आवश्यकता आहे. आपण खाते एका भिन्न खात्यासह पुन्हा प्रारंभ करू इच्छिता?</string>
+    <string name="auth_device_management_go_back">परत जा</string>
+    <string name="auth_device_management_screenlock_description">या डिव्हाइस वरील कार्य खात्यात प्रवेश करण्‍यासाठी, आपल्याला एक लॉक स्क्रीन सेट करावी लागेल. हे आपल्या संस्थेचे मोबाइल डिव्हाइस धोरण आहे.</string>
+    <string name="auth_device_management_screenlock_skip_message">या खात्यास स्क्रीनलॉक सुरक्षिततेची आवश्यकता आहे. आपण एका भिन्न खात्यासह पुन्हा प्रारंभ करू इच्छिता?</string>
+    <string name="auth_device_management_start_description">या खात्यास मोबाईल डिव्हाइस व्यवस्थापन आवश्यक आहे. आपण पुढील टॅप करता तेव्हा, ^1 अॅप आपल्याला खात्यासाठी आवश्यक असलेल्या सुरक्षा धोरणांची अंमलबजावणी करण्यात मदत करेल.</string>
+    <string name="auth_device_management_start_description_kids">या डिव्हाइसवर खाते जोडण्यासाठी, <b>^1</b>" वापरा. आपल्या मुलासाठी हे डिव्हाइस सेट करण्यात 
+
+^1 आपल्याला मदत करतो."</string>
+    <string name="auth_device_management_title">डिव्हाइस व्यवस्थापन</string>
+    <string name="auth_device_management_update_description">या खात्यास मोबाईल डिव्हाइस व्यवस्थापन आवश्यक आहे. खात्याशी संबद्ध असलेल्या सुरक्षा धोरणांची पूर्तता करण्यासाठी, आपल्याला ^1 अॅपची एक नवीन आवृत्ती स्थापित करावी लागेल.</string>
+    <string name="auth_device_management_update_description_kids">या डिव्हाइसमध्ये खाते जोडण्यासाठी, प्रथम <b>^1</b>" ची नवीनतम आवृत्ती स्थापित करा. आपल्या मुलासाठी हे डिव्हाइस सेट करण्यात 
+
+^1 आपल्याला मदत करतो."</string>
+    <string name="auth_dismiss_button_label">डिसमिस करा</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmail चा वापर करीत नाही.</string>
+    <string name="auth_error_account_disabled">"हे खाते अक्षम केले गेले आहे. 
+
+(तपशीलांसाठी, वेब ब्राउझरवरून http://google.com/accounts ला भेट द्या.)"</string>
+    <string name="auth_error_account_not_verified">"हे खाते सत्यापित केले गेले नाही. आपला ईमेल तपासा आणि हे खाते सत्यापित करण्यासाठी समाविष्ट केलेल्या दुव्याचे अनुसरण करा. 
+
+(आपली खाते माहिती पुनर्प्राप्त करण्यासाठी, आपल्या संगणकावरील http://www.google.com/accounts/recovery वर जा.)"</string>
+    <string name="auth_error_bad_password">संकेतशब्द खूप कमकूवत आहे किंवा त्यात अवैध वर्ण आहेत. पुन्हा प्रयत्न करा.</string>
+    <string name="auth_error_bad_username">अवैध वापरकर्ता नाव.</string>
+    <string name="auth_error_generic_server_error">"Google सर्व्हरसह संप्रेषण करताना समस्या आली. 
+
+नंतर पुन्हा प्रयत्न करा."</string>
+    <string name="auth_error_invalid_second_factor">आपल्‍या नियमित खाते संकेतशब्दाऐवजी अ‍ॅप-विशिष्ट संकेतशब्‍द वापरा.</string>
+    <string name="auth_error_login_failed">"आपले वापरकर्तानाव आणि संकेतशब्द जुळत नाही. पुन्हा प्रयत्न करा.
+
+आपली खाते माहिती पुनर्प्राप्त करण्यासाठी, google.com/accounts/recovery/ वर जा."</string>
+    <string name="auth_error_needs_browser">आपल्या खात्यामध्ये प्रवेश करण्यासाठी, आपण वेबवर साइन इन करणे आवश्यक आहे. ब्राउझर साइन इन प्रारंभ करण्यासाठी पुढील ला स्पर्श करा.</string>
+    <string name="auth_error_no_network">"आपल्याकडे नेटवर्क कनेक्शन नाहीये. 
+
+ही तात्पुरती समस्या असू शकते. पुन्हा प्रयत्न करा किंवा दुसर्‍या वाय-फाय नेटवर्कशी कनेक्ट करा."</string>
+    <string name="auth_error_not_logged_in">वापरकर्त्याने साइन इन केलेले नाही.</string>
+    <string name="auth_error_username_unavailable">वापरकर्तानाव उपलब्ध नाही.</string>
+    <string name="auth_existing_account_error_text">या Android डिव्हाइसवर आधीपासून एक ^1 खाते आहे.</string>
+    <string name="auth_existing_account_error_title">खाते आधीपासून अस्तित्वात आहे</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">अलीकडील संकेतशब्द बदलामुळे डिव्हाइसमध्ये साइन इन करण्यात अक्षम आहोत. कृपया संकेतशब्द बदलल्यानंतर पुन्हा 24 तासांमध्ये साइन इन करण्याचा प्रयत्न करा.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">डिव्हाइस संरक्षण वैशिष्ट्ये यापुढे कार्य करणार नाहीत.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">डिव्‍हाइसवरील अखरेचे Google खाते आपल्‍या वैयक्तिक प्रोफोईल बाहेर हलविण्‍यामुळे डिव्‍हाइसचे चोरीपासून संरक्षण वैशिष्‍ट्ये अक्षम होतील. नंतर त्यांना पुन्हा सक्षम करण्‍यासाठी आपण डिव्‍हाइसमध्‍ये दुसरे खाते जोडू शकता.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">आपली खात्री आहे?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">खाते कार्य प्रोफाईलमध्‍ये हलवायचे?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">अज्ञात त्रुटीमुळे डिव्हाइसमध्ये साइन इन करण्यात अक्षम. कृपया दुसरे खाते वापरून पहा किंवा 24 तासानंतर पुन्हा साइन इन करण्याचा प्रयत्न करा.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">कृपया या डिव्हाइससाठी मालकाच्या खात्यांपैकी एकाचा वापर करून साइन इन करा</string>
+    <string name="auth_field_cant_be_blank">फील्ड रिक्त नसावे.</string>
+    <string name="auth_frp_add_account_no">नाही</string>
+    <string name="auth_frp_add_account_prompt">आपल्‍या डिव्‍हाइसमध्‍ये आता ^1 जोडायचे? आपल्‍याकडे दुसरे खाते असल्‍यास, आपण ते नंतर जोडू शकता.</string>
+    <string name="auth_frp_add_account_yes">होय</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">या खात्यात प्रवेश करणे शक्य झाले नाही. आपले डिव्हाइस आपल्या संस्थेच्या सुरक्षा धोरणांचे अनुसरण करते याची खात्री करा. आपल्याला ही त्रुटी दिसत राहिल्यास, आपल्या संस्थेच्या प्रशासकाशी संपर्क साधा.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">खाते त्रुटी</string>
+    <string name="auth_gls_dmagent_activity_download_message">" आपल्या डोमेनसाठी मोबाईल डिव्हाइस व्यवस्थापनाची आवश्यकता आहे.  "<b>^1</b> खात्यासाठी आवश्यक असलेल्या सुरक्षितता धोरणांची अंमलबजावणी करण्यासाठी \"Google Apps डिव्हाइस धोरण\" अॅप स्थापित करा.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">डाउनलोड करा</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" मध्ये फक्त अक्षरे,
+संख्या आणि पूर्णविरामचिन्हे असू शकतात."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> मध्ये कोणतीही अक्षरे नसतात.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> मध्ये 6 पेक्षा कमी किंवा 30 पेक्षा अधिक वर्ण असतात.</string>
+    <string name="auth_gls_is_not_available">वापरकर्तानाव <b>^1</b> उपलब्ध नाही.</string>
+    <string name="auth_gls_name_checking_info_title">माहिती तपासत आहे…</string>
+    <string name="auth_gls_sync_item_title">%s संकालित करा</string>
+    <string name="auth_gls_third_party_activity_download_message">"  "<b>^1</b> खाते आपल्या संस्थेने व्यवस्थापित केलेल्या डिव्हाइसमध्ये किंवा कार्य प्रोफाईलमध्ये जोडणे आवश्यक आहे. कृपया हे पूर्ण करण्यासाठी आपल्या IT प्रशासकाने प्रदान केलेल्या सूचनांचे अनुसरण करा.</string>
+    <string name="auth_google_title_logo">Google लोगो</string>
+    <string name="auth_invalid_login_character">अवैध वर्ण. फक्त 0-9, a-z, A-Z, आणि पूर्णविरामचिन्हे अनुमत आहेत.</string>
+    <string name="auth_invalid_password_character">अवैध संकेतशब्द वर्ण.</string>
+    <string name="auth_invalid_username">आपण टाइप केलेला मजकूर वैध वापरकर्ता नाव नाहीये.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">सुरु ठेवून, आपण सहमती देता की हे डिव्हाइस देखील स्वयंचलितपणे शक्यतो मोबाइल डेटा वापरून Google, आपला वाहक आणि या डिव्हाइसच्या निर्मात्याकडून अद्यतने आणि अॅप्स डाउनलोड आणि स्थापित करू शकते. यापैकी काही अॅप्स अॅप-मधील खरेदी प्रदान करू शकतात. आपण हे अॅप्स कधीही काढू शकता.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager">बॅक अप घेतलेले फोटो आणि व्हिडिओ यांसारखा काही डेटा या डिव्हाइसवरून काढून <b>डिव्हाइस संचय जवळजवळ भरला असताना काही जागा मोकळी करा</b>.</string>
+    <string name="auth_kids_setup_wizard_services_backup">आपल्या मुलाच्या Google ड्राइव्हवर <b>स्वयंचलितपणे डिव्हाइस डेटाचा</b> (जसे की वाय‑फाय संकेतशब्द आणि कॉल इतिहास) आणि अॅप डेटाचा (जसे की अॅप्सनी सेट केलेल्या सेटिंग्ज आणि फायली) बॅक अप घ्या.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"आपण स्वयंचलित बॅकअप चालू करता, तेव्हा आपल्या मुलाच्या Google ड्राइव्ह वरील एका खाजगी फोल्डरमध्ये डिव्हाइस आणि अॅप डेटा ठराविक कालावधीने जतन केला जातो. अॅप डेटा हा संपर्क, संदेश आणि फोटो यासारख्या संवेदनशील डेटासह, अॅपने जतन केलेला (विकासक सेटिंग्जवर आधारित) कोणताही डेटा असू शकतो.
+
+बॅकअप डेटाची आपल्या मुलाच्या ड्राइव्ह संचय कोट्यासाठी गणना केली जाणार नाही. मोठ्या फायली किंवा विकासकांनी सेवेतून वगळण्यासाठी निवडलेल्या फायलींचा बॅकअप घेतला जाणार नाही."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26">आपल्या मुलाच्या Google ड्राइव्हवर <b>डिव्हाइस डेटा</b> (जसे की वाय‑फाय संकेतशब्द, SMS आणि कॉल इतिहास), सेटिंग्ज आणि अॅप डेटा (जसे की अॅप्सनी संचयित केलेली सेटिंग्ज आणि फायली) यांचा स्वयंचलितरित्या बॅक अप घ्या.</string>
+    <string name="auth_kids_setup_wizard_services_description">पालक म्हणून, आपल्या मुलाच्या खात्यासाठी आपण या सेवा कधीही चालू किंवा बंद करू शकता. डेटाचा वापर Google च्या <annotation link="google_privacy">धोरणांनुसार</annotation>" केला जाईल.
+
+आपण अधिक जाणून घेऊ इच्छित असल्यास, आपण प्रत्येक सेवा टॅप करू शकता."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing">आपल्या मुलाचे स्थान निर्धारित करण्यात <b>अॅप्सना मदत करण्यासाठी Google च्या स्थान सेवेचा वापर करा</b>. हे डिव्हाइस चालू असते तेव्हा अनामित स्थान डेटा Google कडे पाठविला जाईल.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"या डिव्हाइसच्या स्थानाचा अधिक जलद आणि अधिक अचूक अंदाज घेण्यात मदत व्हावी म्हणून Google ची स्थान सेवा वाय‑फाय आणि मोबाइल नेटवर्क यांसारख्या स्रोतांचा वापर करते. या डिव्हाइसचे स्थान सेटिंग चालू केलेले असताना आणि ते स्थानाचा अंदाज घेण्यासाठी वाय‑फाय किंवा मोबाइल नेटवर्क वापरणार्‍या उच्च अचूकता किंवा बॅटरी बचत (ऊर्जा बचत) मोड यांसारख्या मोडमध्ये असताना ही सेवा सक्रिय असते.
+
+आपण हे करून ही सेवा बंद करू शकता:
+
+"<li>या डिव्हाइसवरील मुख्य स्थान सेटिंग बंद करणे.</li>"
+
+"<li>मुख्य स्थान सेटिंग चालू केलेले ठेवणे आणि काही वेळा केवळ डिव्हाइस म्हणवले जाणार्‍या केवळ GPS वापरणार्‍या मोडची निवड करणे.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">Google कडे स्वयंचलितपणे निदान आणि डिव्हाइस आणि अॅप वापर डेटा पाठवून <b>आपला Android अनुभव सुधारण्यात मदत करा</b>".  हे आपल्या मुलाला ओळखण्यासाठी वापरले जाणार नाही आणि बॅटरी आयुष्य, अॅप स्थिरता, नेटवर्क कनेक्टिव्हिटी आणि बरेच काही सुधारण्यात मदत करेल."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"या डिव्हाइसविषयी आणि ते कसे वापरले जाते (जसे की बॅटरी पातळी, अॅप वापर आणि नेटवर्क कनेक्टिव्हिटी) याविषयी ही सामान्य माहिती आहे. डेटाचा वापर प्रत्येकासाठी Google ची उत्पादने आणि सेवा सुधारित करण्यासाठी केला जाईल. काही एकत्रित केलेली माहिती Android विकासकांसारख्या भागीदारांना त्यांंची अॅप्स आणि उत्पादने आणखी उत्तम बनवण्यातदेखील मदत करेल.
+
+हे वैशिष्‍ट्य बंद केल्याने या डिव्हाइसच्या प्रणाली अद्यतने आणि सुरक्षितता यांसारख्या अत्यावश्यक सेवांंसाठी आवश्यक असलेली माहिती पाठवण्याची या डिव्हाइसची क्षमता प्रभावित होत नाही."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"या डिव्हाइस विषयी आणि ते कसे वापरले जाते (जसे की बॅटरी आयुष्य, अॅप स्थिरता, नेटवर्क कनेक्टिव्हिटी) याविषयी ही सर्वसाधारण माहिती आहे. डेटाचा वापर Google ची उत्पादने आणि प्रत्येकासाठी सेवा सुधारित करण्यासाठी केला जाईल. काही एकत्रित केलेली माहिती Android विकासकांसारख्या भागीदारांना त्यांंचे अॅप्स आणि उत्पादने आणखी चांगले करण्यात देखील मदत करेल.
+
+हे वैशिष्‍ट्य बंद करण्यामुळे या डिव्हाइसच्या सिस्टीम अद्यतन आणि सुरक्षितता यासारख्या आवश्यक असलेल्या सेवांंना आवश्यक असलेली माहिती पाठविण्याच्या या डिव्हाइसची क्षमता प्रभावित होत नाही.
+
+आपण सेटिंग्ज > Google मधून हे वैशिष्‍ट्य नियंत्रित करू शकता. मेनू मधून वापर आणि निदान निवडा."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">आपण अयोग्य संकेतशब्द टाइप केला किंवा आपले खाते बदलले आहे. आपला संकेतशब्द पुन्हा-टाइप करा. आपण आपला संकेतशब्द विसरल्यास आणि आपले खाते पुनर्प्राप्त करण्याची आवश्यकता असल्यास <annotation id="help_url">येथे</annotation> क्लिक करा.</string>
+    <string name="auth_login_activity_task_title">साइन इन करत आहे…</string>
+    <string name="auth_login_activity_title">साइन इन करा</string>
+    <string name="auth_login_task_title">साइन इन करीत आहे</string>
+    <string name="auth_login_title">ईमेल आणि संकेतशब्द टाइप करा</string>
+    <string name="auth_minutemaid_ssl_error">" %s शी कनेक्ट करताना समस्या आली."</string>
+    <string name="auth_network_unreliable_help">ही एक तात्पुरती समस्या असू शकते किंवा डेटा सेवांसाठी आपल्या Android डिव्हाइसची तरतूद केलेली नसू शकते. हे सुरु राहिल्यास, ग्राहक सेवेस कॉल करा.</string>
+    <string name="auth_next_button_label">पुढील</string>
+    <string name="auth_no_network">आपल्याकडे नेटवर्क कनेक्शन नाहीये.</string>
+    <string name="auth_no_network_help">ही एक तात्पुरती समस्या असू शकते किंवा डेटा सेवांसाठी आपल्या Android डिव्हाइसची तरतूद केलेली नसू शकते. मोबाईल नेटवर्कला कनेक्ट केलेले असताना पुन्हा प्रयत्न करा किंवा वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="auth_no_network_help_wifi_only">ही एक तात्पुरती समस्या असू शकते. पुन्हा प्रयत्न करा किंवा दुसर्‍या वाय-फाय नेटवर्कशी कनेक्ट करून पहा.</string>
+    <string name="auth_otp_error">सुरक्षितता कोड व्‍युत्पन्न करण्‍यात एक समस्‍या आली होती.</string>
+    <string name="auth_otp_explained_paragraph">आपला पासवर्ड आपण विसरल्‍यास किंवा आपल्‍या साइन-इन बद्दल काहीतरी नवीन असल्‍यास, आपले खाते संरक्षित करण्‍यासाठी Google सुरक्षितता कोड विचारू शकते. हे आता वापरा किंवा एका नवीनसाठी परत या.</string>
+    <string name="auth_otp_header_message">साइन इन करण्‍यासाठी हा कोड कधी वापरायचा</string>
+    <string name="auth_otp_help">मदत आणि अभिप्राय</string>
+    <string name="auth_otp_no_accounts_available_message">या डिव्हाइसवर कोणतेही खाते कॉन्फिगर केलेले नाही.</string>
+    <string name="auth_otp_progress_dialog_message">सुरक्षितता कोड व्‍युत्पन्न करीत आहे.</string>
+    <string name="auth_password">संकेतशब्द</string>
+    <string name="auth_plus_audience_selection_description_acl">यांच्यासह शेअर करा</string>
+    <string name="auth_plus_failure_new_account_text">आपले Google खाते तयार केले गेले आहे, परंतु Google+ प्रोफाईल तयार करण्याची आपली विनंती त्याद्वारे गेली नाही. कोणत्याही वेब ब्राउझरवरून plus.google.com वर नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="auth_plus_failure_text">आपली Google+ मध्ये सामील होण्याची विनंती त्याद्वारे गेली नाही. कोणत्याही वेब ब्राउझरवरून plus.google.com वर नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="auth_plus_failure_title">नंतर Google+ प्रोफाईल तयार करा</string>
+    <string name="auth_plus_info_fragment_app_name">%s हे करू इच्छितो:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s डिव्हाइस मधील %s हे करू इच्छितो:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">आपली विस्तारित मंडळे</string>
+    <string name="auth_plus_scope_fragment_mixed_label">निवडलेली मंडळे</string>
+    <string name="auth_plus_scope_fragment_only_you_label">केवळ आपण</string>
+    <string name="auth_plus_scope_fragment_public_label">वेबवरील कोणीही</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">आपली मंडळे</string>
+    <string name="auth_relogin_activity_title">संकेतशब्द पुन्हा-टाइप करा</string>
+    <string name="auth_remove_account_start_over">येथून प्रारंभ</string>
+    <string name="auth_scope_more_details">अधिक माहिती</string>
+    <string name="auth_server_error">Google सर्व्हरशी संप्रेषण करताना समस्या आली.</string>
+    <string name="auth_server_error_help">नंतर पुन्हा प्रयत्न करा.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">खाते जोडले</string>
+    <string name="auth_setup_wizard_account_added_description">आपले खाते जोडले गेले आहे. कृपया Google सेवा पर्याय निवडण्यासाठी पुढे सुरु ठेवा</string>
+    <string name="auth_setup_wizard_back_button_label">परत</string>
+    <string name="auth_setup_wizard_next_button_label">पुढील</string>
+    <string name="auth_setup_wizard_services_activity_title">Google सेवा</string>
+    <string name="auth_setup_wizard_services_agreement">सुरु ठेवून, आपण सहमती देता की हे डिव्हाइस देखील स्वयंचलितपणे शक्यतो मोबाइल डेटा वापरून Google, आपला वाहक आणि आपल्या डिव्हाइसच्या निर्मात्याकडून अद्यतने आणि अॅप्स डाउनलोड आणि स्थापित करू शकते. यापैकी काही अॅप्स अॅप-मधील खरेदी प्रदान करू शकतात. आपण हे अॅप्स कधीही काढू शकता.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">अॅप्स काढण्यासाठी, सेटिंग्ज > अॅप्स किंवा अनुप्रयोग व्यवस्थापकावर जा. नंतर आपण विस्थापित करू इच्छिता तो अॅप टॅप करा (अॅप शोधण्‍यासाठी आपल्याला कदाचित उजवीकडे किंवा डावीकडे स्वाइप करावे लागेल). नंतर विस्थापित करा किंंवा अक्षम करा टॅप करा.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">आधीपासून लोड केलेल्‍या Google अॅप्सला आपल्‍या डिव्‍हाइसवरील माहिती आणि कार्ये मध्‍ये प्रवेश करण्‍यासाठी आपण संमती आणि परवानगी देता. या परवानग्‍यांच्‍या वापराशी संबंधित अधिक माहितीसाठी <annotation link="app_permissions">हे पृष्ठ</annotation> पहा.</string>
+    <string name="auth_setup_wizard_services_agreement_title">अद्यतने आणि अ‍ॅप्स स्थापित करा</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">आपल्या फोनचा संचय जवळजवळ भरला असताना, बॅक अप घेतलेले फोटो आणि व्हिडिओ यांसारखा काही डेटा काढून जागा मोकळी करा.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">आपण कनेक्ट केलेले असताना, तरीही या डेटामध्ये प्रवेश करू शकता. आपण सेटिंग्ज > संचय > स्मार्ट संचय वर जाऊन हे वैशिष्ट्य आणि काय काढायचे ते नियंत्रित करू शकता.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">जागा मोकळी करा</string>
+    <string name="auth_setup_wizard_services_backup">कधीही सहजपणे फोन रिस्टोअर किंवा स्विच करा. बॅकअपमध्ये अ‍ॅप्स, अ‍ॅप डेटा आणि डिव्हाइस सेटिंग्ज समाविष्ट आहेत (वाय-फाय संकेतशब्दांसह).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"अ‍ॅप डेटा म्हणजे अ‍ॅपने जतन केलेला (विकासक सेटिंग्जवर आधारित) संपर्क, संदेश आणि फोटो यांसारख्या संभाव्य संवेदनशील डेटासह कोणताही डेटा असू शकतो.
+
+बॅकअप डेटा आपल्या ड्राइव्ह संचय कोट्यामध्ये गणला जाणार नाही.
+
+आपण सेटिंग्जमध्ये ही सेवा बंद करू शकता."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"अॅपने (विकासकाच्या सेटिंग्जवर आधारित) सेव्ह केलेल्या, संपर्क, संदेश आणि फोटो यासारख्या संभाव्य संवेदनशील डेटाप्रमाणे कोणताही डेटा हा अॅप डेटा असू शकतो.
+
+या डिव्हाइसमधील फोटो आणि व्हिडिओ हे तुमच्या कोणत्याही डिव्हाइसवरून एडिट, डिलीट आणि शेअर करण्यासाठी Google Photos सह संकालित केले जातात. डीफॉल्टनुसार, पूर्ण रिझोल्यूशनचे फोटो आणि व्हिडिओ आपलोड केले जातात.
+
+बॅक अप डेटा तुमच्या ड्राइव्ह संचय कोटामध्ये मोजला जाणार नाही.
+
+तुम्ही सेटिंग्‍जमधून ही सेवा बंद करू शकता."</string>
+    <string name="auth_setup_wizard_services_backup_title">Google ड्राइव्ह वर बॅक अप घ्या</string>
+    <string name="auth_setup_wizard_services_backup_v23">कधीही फोन सहजपणे रिस्टोअर किंवा स्विच करा. बॅकअपमध्ये अॅप्स, अॅप डेटा, कॉल इतिहास, संपर्क आणि डिव्हाइस सेटिंग्‍ज (वाय-फाय पासवर्ड आणि अनुमतींसह) यांचा समावेश असतो.</string>
+    <string name="auth_setup_wizard_services_backup_v26">कधीही फोन सहजपणे रिस्टोअर किंवा स्विच करा. बॅकअपमध्ये अॅप्स, अॅप डेटा, कॉल इतिहास, संपर्क आणि डिव्हाइस सेटिंग्‍ज (वाय-फाय पासवर्ड आणि अनुमतींसह), आणि SMS यांचा समावेश असतो.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">कधीही फोन सहजपणे रिस्टोअर किंवा स्विच करा. बॅकअपमध्ये अॅप्स, अॅप डेटा, कॉल इतिहास, संपर्क, डिव्हाइस सेटिंग्‍ज (वाय-फाय पासवर्ड आणि अनुमतींसह), फोटो, व्हिडिओ आणि SMS यांचा समावेश असतो. फोटो आणि व्हिडिओ तुमच्या Google खात्याशी सिंक केले जातात आणि सेवांवर वापरले जाऊ शकतात.</string>
+    <string name="auth_setup_wizard_services_description">प्रत्येक सेवेविषयी अधिक जाणून घेण्यासाठी, जसे की ती नंतर चालू किंवा बंद कशी करायची, टॅप करा. डेटा Google च्या <annotation link="google_privacy">गोपनीयता धोरणा</annotation> नुसार वापरला जाईल.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"अॅप-मधील खरेद्यांसह अ‍ॅप तपशील Play स्टोअर मध्ये सापडू शकतात. अ‍ॅप डेटा आणि सेटिंग्ज आपल्या Google खात्यासह साइन इन केलेल्या डिव्हाइसशी संकालित होतात. 
+
+इन्सटंट अ‍ॅप्सचा वापर "<a href="https://play.google.com/about/play-terms.html">Google Play सेवा अटी</a>" द्वारे संचालित आहे. 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">अधिक जाणून घ्या</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">आपण एखादा दुवा टॅप करता तेव्हा, Google Play इन्सटंट अॅप अस्तित्वात आहे का हे तपासते आणि ते स्थापनेशिवाय चालवते. इन्सटंट अॅप्स आपल्या डिव्हाइसवर तात्पुरती ठेवली जातात.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">स्थापनेशिवाय अॅप्स वापरा</string>
+    <string name="auth_setup_wizard_services_location_sharing">आपले स्थान निश्चित करण्यात अ‍ॅप्सना मदत करण्यासाठी Google ची स्थान सेवा वापरा. आपले डिव्हाइस चालू असताना अनामिक स्थान डेटा Google ला पाठवला जाईल.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"आपल्या डिव्हाइसच्या स्थानाचा अधिक जलद आणि अधिक अचूक अंदाज घेण्यात मदत व्हावी म्हणून Google ची स्थान सेवा वाय‑फाय आणि मोबाइल नेटवर्क यांसारख्या स्रोतांचा वापर करते. आपल्या डिव्हाइसचे स्थान सेटिंग चालू केलेले असताना आणि ते स्थानाचा अंदाज घेण्यासाठी वाय‑फाय किंवा मोबाइल नेटवर्क वापरणार्‍या उच्च अचूकता किंवा बॅटरी बचत (ऊर्जा बचत) मोड यांसारख्या मोडमध्ये असताना ही सेवा सक्रिय असते.
+
+आपण हे करून ही सेवा बंद करू शकता:
+
+"<li>आपल्या डिव्हाइसवरील मुख्य स्थान सेटिंग बंद करणे.</li>"
+
+"<li>मुख्य स्थान सेटिंग चालू केलेले ठेवणे आणि काही वेळा केवळ डिव्हाइस म्हणवले जाणार्‍या केवळ GPS वापरणार्‍या मोडची निवड करणे.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">अ‍ॅप्सना स्थान शोधण्यात मदत करा</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">अ‍ॅप्स आणि सेवांना वाय-फाय साठी स्कॅन करू द्या, ते बंद असले तरीही.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">आपण स्थान सेटिंग्जमध्ये हे बंद करू शकता.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">स्‍थान अचूकता सुधारा</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">अ‍ॅप्स आणि सेवांना वाय-फाय आणि ब्लूटुथ साठी स्कॅन करू द्या, ती सेटिंग्ज बंद असली तरीही.</string>
+    <string name="auth_setup_wizard_services_play">मला बातम्यांसह आणि Google Play वरील ऑफरसह अद्ययावत ठेवा.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">बॅक अप आणि संचय</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">डिव्हाइसची देखभाल</string>
+    <string name="auth_setup_wizard_services_section_location">स्थान</string>
+    <string name="auth_setup_wizard_services_tos">आपण पुढे चालू ठेवल्यास, आपण <annotation link="tos">Google सेवा अटी</annotation> ना सहमती देता.</string>
+    <string name="auth_setup_wizard_services_tos_germany">आपण हे डिव्हाइस वापरता तेव्हा आम्ही लागू असलेल्या आमच्या <annotation link="google_privacy">गोपनीयता धोरण</annotation> आणि <annotation link="tos">अतिरिक्त अटींंचे</annotation> पालन करतो.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">निदान आणि डिव्हाइस व अ‍ॅप वापर डेटा आपोआप Google ला पाठवून आपला Android अनुभव सुधारा. यामुळे बॅटरी लाईफ, अ‍ॅप स्थिरता, नेटवर्क कनेक्टिव्हिटी आणि बरेच काही सुधारण्यात मदत होईल. आपण अतिरिक्त वेब आणि अ‍ॅप क्रियाकलाप चालू केला असल्यास, ही माहिती आपल्या खात्यात संचयित केली जाईल जेणेकरून आपण ती माझा क्रियाकलाप मध्ये व्यवस्थापित करू शकाल.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"आपल्या डिव्हाइसविषयी आणि आपण ते कसे वापरता (जसे की बॅटरी पातळी, अॅप वापर आणि नेटवर्क कनेक्टिव्हिटी) याविषयी ही सामान्य माहिती आहे. डेटाचा वापर प्रत्येकासाठी Google ची उत्पादने आणि सेवा सुधारित करण्यासाठी केला जाईल. काही एकत्रित केलेली माहिती Android विकासकांसारख्या भागीदारांना त्यांंची अॅप्स आणि उत्पादने आणखी उत्तम बनवण्यातदेखील मदत करेल.
+
+हे वैशिष्‍ट्य बंद केल्याने या डिव्हाइसच्या प्रणाली अद्यतने आणि सुरक्षितता यांसारख्या अत्यावश्यक सेवांंसाठी आवश्यक असलेली माहिती पाठवण्याची या डिव्हाइसची क्षमता प्रभावित होत नाही."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">आपण myactivity.google.com येथे माझा क्रियाकलाप सेटिंग्ज अद्यतनित करू शकता.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">आपण हे वैशिष्ट्य Google सेटिंग्जमधून नियंत्रित करू शकता. मेनूमधून वापर आणि निदान निवडा.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">आपण सेटिंग्ज > Google मधून हे वैशिष्ट्य नियंत्रित करू शकता. मेनूमधून वापर आणि निदान निवडा.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">प्रणाली डेटा पाठवा</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Google लाइव्‍ह वॉलपेपरना Google च्या स्थान सेवेत प्रवेश करून आपल्या स्थानाला प्रतिसाद देऊ द्या.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">सेटिंग्ज > अ‍ॅप्स आणि सूचना > अ‍ॅप माहिती वर जाऊन आपण Google च्या स्थान सेवेमधील प्रवेश चालू किंवा बंद करू शकता. ओव्हरफ्लो मेनूमध्ये, प्रणाली दाखवा > लाइव्ह डेटा वॉलपेपर किंवा लाइव्ह एर्थ वॉलपेपर > परवानग्या टॅप करा.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">वॉलपेपरना स्थान वापरू द्या</string>
+    <string name="auth_setup_wizard_title">सेटअप विझार्ड</string>
+    <string name="auth_show_error_activity_title">साइन इन करू शकलो नाही</string>
+    <string name="auth_show_error_title">त्रुटी</string>
+    <string name="auth_sign_in_agreement">साइन इन करून आपण <annotation id="google_privacy">Google</annotation> आणि <annotation id="android_privacy">अतिरिक्त</annotation> गोपनीयता धोरणांना सहमती देता.</string>
+    <string name="auth_sign_in_browser">ब्राउझर साइन इन</string>
+    <string name="auth_sign_in_button_label">साइन इन करा</string>
+    <string name="auth_sign_in_with_google_account_short">आपल्या Google खात्यासह साइन इन करा:</string>
+    <string name="auth_skip_button_label">वगळा</string>
+    <string name="auth_submission_error_text">एक त्रुटी आली. पुन्हा प्रयत्न करा.</string>
+    <string name="auth_submission_title">क्षमस्व…</string>
+    <string name="auth_try_again_button_label">पुन्हा प्रयत्न करा</string>
+    <string name="auth_ui_activity_authenticating">प्रमाणीकरण करत आहे…</string>
+    <string name="auth_ui_activity_title">Google साइन इन</string>
+    <string name="auth_ui_activity_title_browser_signin">साइन इन करा</string>
+    <string name="auth_ui_add_account_title">खाते सेटअप</string>
+    <string name="auth_uncertified_notification_content">निर्मात्याने हे डिव्हाइस प्रमाणित केले नाही</string>
+    <string name="auth_uncertified_notification_description">"हा डिव्हाइस निर्माता Google सह हे डिव्हाइस प्रमाणित न करता Google अॅप्स वापरत आहे. 
+
+अप्रमाणित डिव्हाइसेस असुरक्षित असू शकतात आणि सिस्टीम किंवा अ‍ॅप अद्यतने कदाचित प्राप्त करू शकत नाहीत. अॅप्स आणि वैशिष्ट्ये, जसे की फायली किंवा फोटोंंचा बॅकअप घेणे कदाचित योग्यरित्या कार्य करू शकत नाही. 
+
+या समस्येचे निराकरण करण्यासाठी आपल्या डिव्हाइस निर्मात्याशी संपर्क साधा. 
+
+Google-प्रमाणित भागीदारांवरील अधिक माहितीसाठी आपण %s ला भेट देऊ शकता."</string>
+    <string name="auth_uncertified_notification_learn_more">अधिक जाणून घ्या</string>
+    <string name="auth_uncertified_notification_title">चेतावणी: अप्रमाणित डिव्हाइस</string>
+    <string name="auth_username">ईमेल</string>
+    <string name="auth_work_authenticator_label">व्यवस्थापित केलेले खाते</string>
+    <string name="authorization_dialog">प्राधिकृत संवाद</string>
+    <string name="auto_restore_summary">अॅप पुनर्स्थापित करताना, बॅक अप घेतलेल्या सेटिंग्ज आणि डेटा पुनर्संचयित करा</string>
+    <string name="auto_restore_title">स्वयंचलित पुनर्संचयन</string>
+    <string name="autofill_dataset_password"><b>^1</b>: साठी संकेतशब्द वापरा</string>
+    <string name="autofill_datatype_address">पत्ते</string>
+    <string name="autofill_datatype_password">जतन केलेले संकेतशब्द</string>
+    <string name="autofill_datatype_payment">क्रेडिट कार्ड</string>
+    <string name="autofill_datatype_profile">वैयक्तिक माहिती</string>
+    <string name="autofill_label">Google सह स्वयं-भरण</string>
+    <string name="autofill_optin_line1"><b>Google ला हे तुमच्यासाठी भरू देण्यासाठी टॅप करा</b></string>
+    <string name="autofill_optin_line2">माहिती Chrome स्वयं-भरण मध्ये आधीच जतन केलेली असताना</string>
+    <string name="autofill_setup_points">"• कशाचे स्वयं-भरण करता येईल हे निर्धारित करण्यासाठी Google आपल्या स्क्रीनवर काय आहे ते वापरते. 
+• आपण सेटिंग्जमध्ये आपली स्वयं-भरण माहिती पाहू शकता आणि व्यवस्थापित करू शकता."</string>
+    <string name="autofill_setup_summary">एकाच टॅपमध्ये, संकेतशब्द, पत्ते, क्रेडिट कार्ड आणि आपल्या खात्यावर जतन केलेली इतर माहिती भरा.</string>
+    <string name="autofill_setup_summary_single_account">एकाच टॅपमध्ये, संकेतशब्द, पत्ते, क्रेडिट कार्ड आणि आपल्या खात्यावर जतन केलेली इतर माहिती भरा. (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">कोणतेही खाते सध्या बॅकअप घेतलेला डेटा संचयित करत नाही</string>
+    <string name="backup_configure_account_title">खात्याचा बॅकअप घ्या</string>
+    <string name="backup_data_summary">अॅप डेटा, वाय-फाय संकेतशब्द आणि इतर सेटिंग्जचा Google ड्राइव्हवर बॅकअप घ्या</string>
+    <string name="backup_data_summary_full">"स्वयंचलितपणे डिव्‍हाइस डेटाचा (जसे की वाय-फाय संकेतशब्द आणि कॉल इतिहास) आणि अ‍ॅप डेटाचा (जसे की अ‍ॅप्‍स द्वारे संचयित केलेल्या सेटिंग्ज आणि फायली) दूरस्‍थपणे बॅकअप घ्‍या.
+
+आपण स्वयंचलित बॅकअप चालू करता तेव्‍हा, डिव्‍हाइस आणि अ‍ॅप डेटा ठराविक कालावधीने दूरस्‍थपणे जतन केला जातो. अ‍ॅप डेटा हा संपर्क, संदेश आणि फोटो यासारख्‍या संभाव्य संवेदनशील डेटासह अ‍ॅपने जतन केलेला (विकासकाच्या सेटिंग्जवर आधारित) कोणताही डेटा असू शकतो."</string>
+    <string name="backup_data_title">Google ड्राइव्ह वर बॅकअप घ्या</string>
+    <string name="backup_erase_dialog_message">Google ड्राइव्ह वरील आपले वाय-फाय संकेतशब्द, बुकमार्क, इतर सेटिंग्ज आणि अॅप डेटाचा बॅकअप घेणे थांबवून Google ड्राइव्ह वरील सर्व प्रतिलिपी मिटवायच्या?</string>
+    <string name="backup_erase_dialog_message_full">डिव्हाइस डेटाचा (वाय-फाय संकेतशब्द आणि कॉल इतिहास यासारख्या) आणि अॅप डेटाचा (अॅप्सद्वारे संचयित केलेल्या सेटिंग्ज आणि फायली यासारख्या) बॅकअप घेणे थांबवून, Google ड्राइव्हवरील सर्व प्रती मिटवायच्या?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">फोटो सेटिंग्ज उघडताना एक त्रुटी आली</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"आपण स्वयंचलित बॅक अप चालू करता, तेव्हा:
+
+ ● डिव्हाइस सेटिंग्ज आणि अॅप डेटा Google ड्राइव्ह मधील खाजगी फोल्डरमध्ये मधुनमधुन जतन केला जातो. अॅप डेटा हा अॅप ने जतन केलेला (विकासक सेटिंग्जवर आधारित), संपर्क, संदेश आणि फोटो यासारख्या संभाव्य संवेदनशील डेटासह, कोणताही डेटा असू शकतो.
+
+ मोठ्या फायली किंवा विकासकांनी सेवेतून वगळण्यासाठी निवडलेल्या फायलींचा बॅकअप घेतला जाणार नाही.
+
+ ● या डिव्हाइस मधील फोटो आणि व्हिडिओ रेकॉर्डिंग आपल्या कोणत्याही डिव्हाइसेसमधून शोधण्यासाठी, संपादित करण्‍यासाठी, हटविण्यासाठी आणि शेअर करण्‍यासाठी आपल्या Google Photos लायब्ररीसह संकालित केल्या जातात.
+
+ डीफॉल्टनुसार, पूर्ण रिझोल्यूशनमधील फोटो आणि व्हिडिओ अपलोड केले जातात. हे आपल्या ड्राइव्ह संचय कोट्यामध्ये मोजले जाणार नाही.
+
+ ● या डिव्हाइस मधील संपर्क आणि संबद्ध डेटा Google संपर्कांसह संकालित केले जातात. आपण Google संपर्क अॅपचा वापर आपल्या कोणत्याही डिव्हाइस मधून संपर्क शोधण्यासाठी, संपादित करण्यासाठी, हटविण्यासाठी आणि शेअर करण्‍यासाठी करू शकता.
+
+ ● या डिव्हाइस मधील कॅलेंडर प्रविष्‍टी आणि संबद्ध डेटा Google कॅलेंडरमध्ये संकालित केला जातो. आपण Google कॅलेंडर अॅपचा वापर आपल्या कोणत्याही डिव्हाइस मधून संपर्क शोधण्यासाठी, संपादित करण्यासाठी, हटविण्यासाठी आणि शेअर करण्‍यासाठी करू शकता.
+
+ बॅक अप डेटा आपल्या ड्राइव्ह डेटा संचय कोट्यामध्येमोजले जाणार नाही."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"आपण स्वयंचलित बॅकअप चालू करता तेव्हा:
+
+ ● डिव्हाइस सेटिंग्ज आणि अॅप डेटा वेळोवेळी Google ड्राइव्हवर एका खाजगी फोल्डरमध्ये जतन केला जातो. अ‍ॅपने जतन केलेला (विकासक सेटिंग्जवर आधारित) कोणताही डेटा अॅप डेटा असू शकतो, ज्यात संपर्क, संदेश आणि फोटो यांसारखा कोणताही संभाव्य संवेदनशील डेटा असू शकतो.
+
+ मोठ्या फायली किंवा विकासकांंनी सेवेतून वगळण्यासाठी निवडलेल्या फायलींचा बॅक अप घेतला जाणार नाही.
+
+ ● या डिव्हाइसमधील संपर्क आणि संबंधित डेटाचे Google संपर्क शी संकालन केले आहे. आपण आपले संपर्क शोधण्यासाठी, संपादित करण्यासाठी, हटवण्यासाठी आणि ते आपल्या कोणत्याही डिव्हाइसवरून शेअर करण्यासाठी Google संपर्क अ‍ॅप वापरू शकता.
+
+ ● या डिव्हाइसवरील कॅलेंडर प्रविष्टया आणि संबंधित डेटाचे Google कॅलेंडर शी संकालन केलेले आहे. आपण आपले संपर्क शोधण्यासाठी, संपादित करण्यासाठी, हटवण्यासाठी आणि ते आपल्या कोणत्याही डिव्हाइसवरुन शेअर करण्यासाठी Google कॅलेंडर अ‍ॅप वापरू शकता.
+
+ बॅकअप डेटा आपल्या ड्राइव्ह संचयन कोट्यात गणला जाणार नाही."</string>
+    <string name="backup_opt_in_backup_description_extra">कॅलेंडर, संपर्क, फोटो आणि व्हिडिओ आपल्या Google खात्यात संकालित केले जातात आणि सर्व सेवांवर वापरले जाऊ शकतात.</string>
+    <string name="backup_opt_in_backup_description_v2">स्वयंचलित बॅकअप सुनिश्चित करते की आपण सहजपणे पुनर्संचयन करू शकता किंवा कोणत्याही वेळी फोन स्विच करू शकता. <annotation id="backup_opt_in_learn_more">अधिक जाणून घ्या</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"हे यासाठी बॅकअप बंद करेल:
+
+अॅप्स आणि अॅप डेटा
+कॉल इतिहास
+डिव्हाइस सेटिंग्ज
+फोटो आणि व्हिडिओ
+SMS
+
+आपल्या Google खात्यामध्ये कॅलेंडर आणि संपर्क संकालित होणे सुरू असेल. सेटअप पूर्ण झाल्यावर, आपण "<annotation id="backup_opt_in_settings_instructions">सेटिंग्ज > खाती > Google</annotation> वर जाऊन संकालन सेटिंग्ज बदलू शकता.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">बॅकअप बंद करायचा?</string>
+    <string name="backup_opt_in_backup_list">"अॅप्स आणि अॅप डेटा
+कॅलेंडर
+कॉल इतिहास
+संपर्क
+डिव्हाइस सेटिंग्ज (वायफाय संकेतशब्दांसह)
+फोटो आणि व्हिडिओ
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">बॅकअपमध्ये हे समाविष्ट आहे:</string>
+    <string name="backup_opt_in_backup_title">Google ड्राइव्ह वर बॅकअप घ्या</string>
+    <string name="backup_opt_in_disable_backup">बॅकअप बंद करा</string>
+    <string name="backup_photos_update">कृपया Google Photos अद्यतनित करा</string>
+    <string name="backup_settings_activity_backup_title">बॅकअप घ्‍या</string>
+    <string name="backup_settings_activity_title">बॅकअप घ्या आणि रीसेट करा</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">कॉपी करू नका</string>
+    <string name="chrome_privacy_title">Chrome गोपनीयता सूचना</string>
+    <string name="chrome_tos_title">Chrome सेवा अटी</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$s साठी आपले विद्यमान संकेतशब्द आपल्या सांकेतिक वाक्यांशासह कूटबद्ध केले होते. आपण आपला सांकेतिक वाक्यांश विसरला असल्यास, थांबा आणि &lt;a href=%2$s>Google Dashboard&lt;/a> द्वारे संकालन रीसेट करा.</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync सांकेतिक वाक्यांश</string>
+    <string name="chromesync_enter_passphrase_hint">सांकेतिक वाक्यांश प्रविष्ट करा</string>
+    <string name="chromesync_entered_wrong_passphrase">चुकीचा सांकेतिक वाक्यांश</string>
+    <string name="chromesync_no_browser_found">हा दुवा उघडण्यासाठी कोणताही ब्राउझर आढळला नाही</string>
+    <string name="close_button_label">बंद करा</string>
+    <string name="cloud_restore_app_picker_button">पुनर्संचयित करा</string>
+    <string name="cloud_restore_app_picker_description_no_apps">आपल्या बॅकअपमध्ये कोणतेही अॅप्स नाहीत</string>
+    <string name="cloud_restore_app_picker_title">पुनर्संचयित करण्यासाठी अॅप्स निवडा</string>
+    <string name="common_accept">स्वीकार करा</string>
+    <string name="common_account_chip_add_account_button_label">अन्य खाते वापरा</string>
+    <string name="common_add_account_button_label">खाते जोडा</string>
+    <string name="common_add_account_label">एक खाते जोडा</string>
+    <string name="common_ads_settings_title">जाहिराती</string>
+    <string name="common_agree">सहमत आहे</string>
+    <string name="common_app_name">Google Play सेवा</string>
+    <string name="common_asm_preferences_settings_title">खाते प्राधान्ये</string>
+    <string name="common_asm_privacy_settings_title">वैयक्तिक माहिती आणि गोपनीयता</string>
+    <string name="common_asm_security_settings_title">साइन इन आणि सुरक्ष‍ा</string>
+    <string name="common_audience_edit_button_label">संपादित करा</string>
+    <string name="common_cancel">रद्द करा</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts प्रारंभ केले जाऊ शकत नाही (परवानगी त्रुटी).</string>
+    <string name="common_car_permission_desc">कार सेवेवर प्रवेश करा.</string>
+    <string name="common_car_permission_label">कार सेवा</string>
+    <string name="common_chips_label_empty_circles">मंडळे नाहीत</string>
+    <string name="common_chips_label_extended_circles">विस्तारित मंडळे</string>
+    <string name="common_chips_label_only_you">केवळ आपण</string>
+    <string name="common_chips_label_public">सार्वजनिक</string>
+    <string name="common_chips_label_your_circles">आपली मंडळे</string>
+    <string name="common_choose_account">एक खाते निवडा</string>
+    <string name="common_choose_account_for_app_label">%1$s साठी खाते निवडा</string>
+    <string name="common_choose_account_label">एक खाते निवडा</string>
+    <string name="common_clear_app_data_menu_item">अॅप डेटा साफ करा</string>
+    <string name="common_connected">कनेक्ट केले</string>
+    <string name="common_connected_apps_settings_title">कनेक्ट केलेले अ‍ॅप्स</string>
+    <string name="common_connecting">कनेक्ट करत आहे...</string>
+    <string name="common_continue">सुरु ठेवा</string>
+    <string name="common_disagree">सहमत नाही</string>
+    <string name="common_disconnect">‍डिस्कनेक्ट करा</string>
+    <string name="common_done">पूर्ण झाले</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">प्रेषक:</string>
+    <string name="common_games_settings_title">Play गेम</string>
+    <string name="common_get_started">प्रारंभ करा</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">सक्षम करा</string>
+    <string name="common_google_play_services_enable_text">आपण Google Play सेवा सक्षम केल्याशिवाय %1$s हा अॅप कार्य करणार नाही.</string>
+    <string name="common_google_play_services_enable_title">Google Play सेवा सक्षम करा</string>
+    <string name="common_google_play_services_error_dialog_title">त्रुटी</string>
+    <string name="common_google_play_services_install_button">स्‍थापित करा</string>
+    <string name="common_google_play_services_install_text">Google Play सेवा आपल्या डिव्हाइसवर उपलब्ध नाही, त्याशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_install_title">Google Play सेवा मिळवा</string>
+    <string name="common_google_play_services_notification_ticker">Google Play सेवा त्रुटी</string>
+    <string name="common_google_play_services_unknown_issue">%1$s ला Google Play सेवांमध्ये समस्या येत आहे. कृपया पुन्हा प्रयत्न करा.</string>
+    <string name="common_google_play_services_unsupported_text">आपले डिव्हाइस समर्थन देत नसलेल्या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_button">अद्यतनित करा</string>
+    <string name="common_google_play_services_update_text">आपण Google Play सेवा अद्यतनित करेपर्यंत %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_update_title">Google Play सेवा अद्यतनित करा</string>
+    <string name="common_google_play_services_updating_text">सध्‍या अद्यतनित होत असलेल्‍या, Google Play सेवांशिवाय %1$s चालणार नाही.</string>
+    <string name="common_google_play_services_updating_title">Google Play सेवा अद्यतनित होत आहेत</string>
+    <string name="common_google_play_services_wear_update_text">Google Play सेवांच्या नवीन आवृत्तीची आवश्यकता आहे. हे स्वत:ला लवकरच अद्यतनित करेल.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">चुक‍ीच्या रचनेसह Google Play सेवा स्थापित केल्या.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play सेवा (%1$s) रचनेसह स्थापित केली गेली आहे जी आपल्‍या (%2$s) डिव्‍हाइस रचनेपेक्षा भिन्न आहे.</string>
+    <string name="common_google_play_services_wrong_architecture_title">चुकीची रचना</string>
+    <string name="common_google_settings">Google सेटिंग्ज</string>
+    <string name="common_google_settings_account">खाते</string>
+    <string name="common_google_settings_credentials_title">संकेतशब्दासाठी Smart Lock</string>
+    <string name="common_google_settings_developer">विकासक</string>
+    <string name="common_google_settings_services">सेवा</string>
+    <string name="common_got_it">समजले</string>
+    <string name="common_install">स्‍थापित करा</string>
+    <string name="common_learn_more">अधिक जाणून घ्या</string>
+    <string name="common_list_apps_menu_help">मदत</string>
+    <string name="common_list_apps_menu_help_and_feedback">मदत आणि अभिप्राय</string>
+    <string name="common_loading">लोड करीत आहे...</string>
+    <string name="common_location_settings_title">स्थान</string>
+    <string name="common_magictether_settings_title">झटपट टिथरिंग</string>
+    <string name="common_maps_settings_title">नकाशे आणि अक्षांश</string>
+    <string name="common_mdm_feature_name">Android डिव्हाइस व्यवस्थापक</string>
+    <string name="common_missing_url_viewer">बाह्य url दर्शविण्‍यासाठी दर्शक गहाळ आहे.</string>
+    <string name="common_more_options">अधिक पर्याय</string>
+    <string name="common_networking_settings_title">नेटवर्किंग</string>
+    <string name="common_no_browser_for_restricted_url">प्रतिबंधित प्रवेश. कोणताही ब्राउझर आढळला नाही.</string>
+    <string name="common_no_devices_found">कोणतेही डिव्हाइसेस सापडले नाहीत</string>
+    <string name="common_no_network">डिव्हाइस ऑफलाइन असल्यामुळे अनुपलब्ध</string>
+    <string name="common_no_thanks">नाही धन्यवाद</string>
+    <string name="common_not_now">आत्ता नाही</string>
+    <string name="common_off">बंद</string>
+    <string name="common_ok">ठीक आहे</string>
+    <string name="common_on">चालू</string>
+    <string name="common_open_on_phone">फोनवर उघडा</string>
+    <string name="common_open_source_licenses">मुक्त स्त्रोत परवाने</string>
+    <string name="common_people_settings_title">संपर्क</string>
+    <string name="common_permissions_enable_in_settings">सेटिंग्जमध्ये सक्षम करा</string>
+    <string name="common_permissions_missing_end">सुरू ठेवण्यासाठी, सेटिंग्ज, नंतर परवानग्या उघडा आणि सर्व सूचीबद्ध आयटमना अनुमती द्या.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+सक्षम करण्यासाठी, 
+सेटिंग्ज >
+परवानग्या >
+Google Play सेवांवर जा"</string>
+    <string name="common_permissions_missing_start">आपण Google Play सेवांच्या यामध्ये प्रवेश करण्याच्या विनंतीस अनुमती देत नाही तोपर्यंत हा अॅप योग्यरित्या कार्य करणार नाही:</string>
+    <string name="common_permissions_open_settings">सेटिंग्ज उघडा</string>
+    <string name="common_phone">फोन</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">गोपनीयता धोरण</string>
+    <string name="common_restore">पुनर्संचयित करा</string>
+    <string name="common_restricted_no_accounts">निवडण्यासाठी कोणतीही खाती नाहीत</string>
+    <string name="common_retry">पुन्हा प्रयत्न करा</string>
+    <string name="common_search_settings_title">शोध</string>
+    <string name="common_security_ootp_setting_title">सुरक्षितता कोड</string>
+    <string name="common_security_settings_title">सुरक्षितता</string>
+    <string name="common_send">पाठवा</string>
+    <string name="common_sending">पाठवित आहे...</string>
+    <string name="common_set_up_nearby_device_settings_title">जवळपास चे डिव्‍हाइस सेट करा</string>
+    <string name="common_settings">सेटिंग्ज</string>
+    <string name="common_signin_button_text">साइन इन करा</string>
+    <string name="common_signin_button_text_long">Google सह साइन इन करा</string>
+    <string name="common_something_went_wrong">काहीतरी चूक झाली</string>
+    <string name="common_system_info">प्रणाली माहिती</string>
+    <string name="common_take_photo_label">फोटो घ्‍या</string>
+    <string name="common_terms_of_service">सेवा अटी</string>
+    <string name="common_try_again">पुन्हा प्रयत्न करा</string>
+    <string name="common_turn_on_bluetooth">ब्लूटुथ चालू करा</string>
+    <string name="common_ui_confirm_deleting_button">हटवा</string>
+    <string name="common_ui_confirm_deleting_checkbox">मी समजलो आणि हटवू इच्छितो</string>
+    <string name="common_unknown">अज्ञात</string>
+    <string name="common_update">अद्यतनित करा</string>
+    <string name="common_url_load_unsuccessful_message">आपला Android डिव्हाइस डेटा सेवेशी कनेक्ट केलेला नाही. ही माहिती आता पाहण्यासाठी, वेब ब्राउझरसह %s ला भेट द्या.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">आपले Android डिव्हाइस वाय-फाय नेटवर्कवर कनेक्ट केलेले नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरसह %s वर भेट द्या.</string>
+    <string name="common_url_login_notice">%1$s म्हणून साइन इन करा</string>
+    <string name="common_usage_and_diagnostics">वापर आणि निदान</string>
+    <string name="common_yesterday">काल</string>
+    <string name="confirm_copy_button_text">कॉपी करा</string>
+    <string name="contacts_number_device_and_icloud">%1$d iCloud®, %2$d डिव्हाइस</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google संपर्क, %1$d iCloud®, %2$d डिव्हाइस</string>
+    <string name="contacts_number_device_and_sim_with_google">Google संपर्क, %1$d सिम, %2$d डिव्हाइस</string>
+    <string name="contacts_number_device_with_google">Google संपर्क, %1$d डिव्हाइस</string>
+    <string name="contacts_number_icloud_with_google">Google संपर्क, %1$d iCloud®</string>
+    <string name="contacts_number_sim_with_google">Google संपर्क, %1$d सिम</string>
+    <string name="continue_to_login_heading">कृपया लॉग इन करा.</string>
+    <string name="continue_to_login_text">क्रेडेन्शियलना मंजूरी दिली. आपल्या पहिल्या डिव्हाइसवर लॉगिन करणे पुढे चालू ठेवा.</string>
+    <string name="copy_confirmation_description">आपण आपल्या नवीन फोनवर आपलेे Google खाते आणि अॅप्स यासारखा डेटा कॉपी कराल</string>
+    <string name="copy_confirmation_title">आपल्या नवीन फोनमध्ये कॉपी करायचा?</string>
+    <string name="d2d_app_picker_description_no_apps">आम्हाला कोणतेही अॅप्स सापडले नाही</string>
+    <string name="d2d_app_picker_title">अॅप्स</string>
+    <string name="d2d_migration_canceled_on_source">कॉपी करणे रद्द केले</string>
+    <string name="data_copied_fragment_description">आपला डेटा आपल्या नवीन फोनमध्ये कॉपी केला. आपण केबल अनप्लग करू शकता.</string>
+    <string name="data_copied_fragment_description_cancel">आपण कॉपी करणे थांबवायचे निवडले, त्यामुळे आपल्या नवीन फोनमध्ये फक्त काही डेटा कॉपी केला गेला आहे.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">आपण कॉपी करणे थांबवायचे निवडले, त्यामुळे आपल्या नवीन फोनमध्ये काहीही कॉपी केले गेले नाही.</string>
+    <string name="data_copied_fragment_description_error">काहीतरी चूक झाली, त्यामुळे आम्हाला प्रत्येकगोष्ट कॉपी करणे शक्य झाले नाही.</string>
+    <string name="data_copied_fragment_description_error_no_data">काहीतरी चूक झाली, त्यामुळे आपला डेटा कॉपी करणे आम्हाला शक्य झाले नाही.</string>
+    <string name="data_copied_fragment_no_data_title">कॉपी करणे शक्य झाले नाही</string>
+    <string name="data_copied_fragment_some_data_title">काही डेटा कॉपी केला</string>
+    <string name="data_copied_fragment_title">डेटा कॉपी केला</string>
+    <string name="device_backup_title">डिव्हाइसचा बॅकअप</string>
+    <string name="device_not_supported_fragment_new_device">आपण एका नवीन फोनशी कनेक्ट केले आहे. सुरु ठेवण्‍यासाठी, आपल्या पूर्वीच्या फोनशी पुन्हा कनेक्ट करा.</string>
+    <string name="device_not_supported_fragment_new_device_title">पूर्वीच्या फोनशी पुन्हा कनेक्ट करा</string>
+    <string name="device_not_supported_fragment_no_data_cable">ही केबल डेटा हस्तांतरित करू शकत नाही. एक भिन्न केबल वापरून पुन्हा कनेक्ट करा आणि पुन्हा प्रयत्न करा.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">दुसरी केबल वापरून पहा</string>
+    <string name="device_not_supported_fragment_retry_description">आपला जुना फोन अनलॉक केला असल्याची खात्री करा, नंतर केबल डिस्कनेक्ट करून पुन्हा कनेक्ट करा</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">काहीतरी चूक झाली</string>
+    <string name="device_not_supported_ios_supervised_description">आपल्या iPhone® डिव्हाइसचे पर्यवेक्षण होत असल्याने, आपल्याला डेटा कॉपी करण्‍याचा दुसरा प्रकार निवडावा लागेल</string>
+    <string name="device_picker_description">बॅकअप Google ड्राइव्ह मध्ये संचयित केले जातात</string>
+    <string name="device_picker_empty">कोणत्‍याही बॅक अपचा %1$s शी दुवा जोडलेला नाही.</string>
+    <string name="device_picker_empty_title">कोणतेही बॅक अप आढळले नाहीत</string>
+    <string name="device_picker_item">%1$s बॅकअप</string>
+    <string name="device_picker_last_used">^1 रोजी अंतिम वापरले</string>
+    <string name="device_picker_skip">पुनर्संचयित करू नका</string>
+    <string name="device_picker_title">पुनर्संचयित करण्यासाठी एक बॅकअप निवडा</string>
+    <string name="disabled_by_admin_summary_text">प्रशासकाने नियंत्रित केलेले</string>
+    <string name="download_msg_error_invalid">डाउनलोड चुकीच्या पद्धतीने कॉन्‍फिगर केले होते.</string>
+    <string name="download_msg_in_progress">डाउनलोड होत आहे.</string>
+    <string name="download_msg_not_allowed_space">डाउनलोड करण्‍यासाठी पुरेसे स्‍थान नाही.</string>
+    <string name="download_msg_pending">डाउनलोड प्रलंबित आहे.</string>
+    <string name="download_notification_description">%1$s नी याची विनंती केली आहे.</string>
+    <string name="download_notification_title">आणखी डेटा आणत आहे</string>
+    <string name="drive_backup_account">खात्याचा बॅकअप घ्या</string>
+    <string name="drive_backup_apps_in_backup">अॅप डेटाचा बॅक अप घेतला</string>
+    <string name="drive_backup_apps_last_backup">अंतिम बॅक अप</string>
+    <string name="drive_backup_apps_loading">लोड करीत आहे...</string>
+    <string name="drive_backup_apps_screen_title">अॅप डेटा</string>
+    <string name="drive_backup_content_apps_title">अॅप डेटा</string>
+    <string name="drive_backup_content_calendar_dialog_message">Google कॅलेंडर मध्ये तयार केलेले इव्हेंट आपल्या Google खात्यामध्ये साइन इन केलेल्या सर्व डिव्हाइसेसवर संकालित केले जातील.</string>
+    <string name="drive_backup_content_calendar_title">Google कॅलेंडर</string>
+    <string name="drive_backup_content_callhistory_dialog_message">बॅकअपमध्ये केलेल्या आणि प्राप्त केलेल्या कॉलची तारीख आणि प्राप्तकर्ते समाविष्ट होतात.</string>
+    <string name="drive_backup_content_callhistory_title">कॉल इतिहास</string>
+    <string name="drive_backup_content_contacts_dialog_message">Google संपर्कांमध्ये तयार केलेले संपर्क आपल्या Google खात्यामध्ये साइन इन केलेल्या सर्व डिव्हाइसेसवर संकालित केले जातील.</string>
+    <string name="drive_backup_content_contacts_title">Google संपर्क</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">बॅकअप वॉलपेपर, वायफाय संकेतशब्द आणि डीफॉल्ट अॅप्स यासारखे डिव्हाइस कॉन्फिगरेशन समाविष्ट करते.</string>
+    <string name="drive_backup_content_devicesettings_title">डिव्हाइस सेटिंग्ज</string>
+    <string name="drive_backup_content_header">सामग्री</string>
+    <string name="drive_backup_content_photos_dialog_no">डिसमिस करा</string>
+    <string name="drive_backup_content_photos_dialog_title">फोटो आणि व्हिडिओंचे खाते देखील बदलायचे?</string>
+    <string name="drive_backup_content_photos_dialog_yes">बदला</string>
+    <string name="drive_backup_content_photos_title">फोटो आणि व्हिडिओ</string>
+    <string name="drive_backup_content_sms_dialog_message">बॅकअप मध्ये पाठविलेले आणि प्राप्त झालेले संदेश समाविष्ट होतात. यात MMS मीडिया समाविष्ट केले जात नाही.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">समजले</string>
+    <string name="drive_backup_content_status_error">शेवटची संकालन तारीख मिळविण्‍यात त्रुटी</string>
+    <string name="drive_backup_content_status_lastsaved">अखेरचा बॅक अप: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">शेवटचे संकालन: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">बॅक अप घेण्याची प्रतीक्षा करीत आहे</string>
+    <string name="drive_backup_content_status_sync_adapter_action">संकालन सेटिंग्ज</string>
+    <string name="drive_backup_content_status_sync_off">संकालन बंद आहे</string>
+    <string name="drive_backup_content_status_updating">स्‍थिती तपासत आहे...</string>
+    <string name="drive_backup_disabled_backuplist">"बॅक अप मध्ये हे समाविष्‍ट आहे:
+\u0009- अॅप्स आणि अॅप्स डेटा
+\u0009- कॉल इतिहास
+\u0009- डिव्हाइस सेटिंग्ज (वाय-फाय संकेतशब्दांसह)
+\u0009- Google कॅलेंडर
+\u0009- Google संपर्क
+\u0009- फोटो आणि व्हिडिओ
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"बॅक अप मध्ये हे समाविष्‍ट आहे:
+\u0009- अॅप्स आणि अॅप्स डेटा
+\u0009- कॉल इतिहास
+\u0009- डिव्हाइस सेटिंग्ज (वाय-फाय संकेतशब्दांसह)
+\u0009- Google कॅलेंडर
+\u0009- Google संपर्क
+\u0009- SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">आपल्या प्रशासकाने अक्षम केले</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google कॅलेंडर, Google संपर्क, फोटो आणि व्हिडिओ आपल्या Google खात्यात संकालित केले जातात आणि सर्व सेवांवर वापरले जाऊ शकतात.
+
+बॅक अप बंद असले तरीही संकालन सक्षम केले जाऊ शकते. सेटिंग्ज > खाती > Google मध्ये संकालन सेटिंग्ज बदलल्या जाऊ शकतात."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google कॅलेंडर आणि Google संपर्क आपल्या Google खात्याशी संकालित केले जातात आणि सेवांवर वापरले जाऊ शकतात.
+
+बॅक अप बंद असले तरीही संकालन सक्षम केले जाऊ शकते. सेटिंग्ज > खाती > Google मध्ये संकालन सेटिंग्ज बदलली जाऊ शकतात."</string>
+    <string name="drive_backup_disabled_introduction">स्वयंचलित बॅक अप सुनिश्चित करते की आपण कधीही सहजपणे आपले फोन पुनर्संचयित किंवा स्विच करू शकता.</string>
+    <string name="drive_backup_settings_title">बॅकअप घ्या</string>
+    <string name="drive_backup_state">Google ड्राइव्ह वर बॅकअप घ्या</string>
+    <string name="drive_backup_state_dialog_message">"Google ड्राइव्ह मधील या डिव्हाइसचा बॅक अप डेटा कायमचा हटविला जाईल.
+
+आधीपासून बॅक अप घेतलेले फोटो आणि व्हिडिओ अद्याप Google ड्राइव्ह मध्ये उपलब्ध असतील.
+
+Google कॅलेंडर आणि Google संपर्क आपल्या Google खात्यामध्ये संकालित होणे सुरु असेल. सेटिंग्ज > खाती > Google मध्ये संकालन सेटिंग्ज बदलल्या जाऊ शकतात."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Google ड्राइव्ह मधील या डिव्हाइसचा बॅक अप डेटा कायमचा हटवला जाईल.
+
+Google कॅलेंडर आणि Google संपर्क आपल्या Google खात्याशी संकालित होणे सुरू राहील. सेटिंग्ज > खाती > Google मध्ये संकालन सेटिंग्ज बदलली जाऊ शकतात."</string>
+    <string name="drive_backup_state_dialog_okaction">बंद करा आणि हटवा</string>
+    <string name="drive_backup_state_dialog_title">बॅकअप बंद करून हटवायचा?</string>
+    <string name="durationDayHour">%1$d दिवस %2$d तास</string>
+    <string name="durationDayHours">%1$d दिवस %2$d तास</string>
+    <string name="durationDays">%1$d दिवस</string>
+    <string name="durationHourMinute">%1$d तास %2$d मिनिट</string>
+    <string name="durationHourMinutes">%1$d तास %2$d मिनिटे</string>
+    <string name="durationHours">%1$d तास</string>
+    <string name="durationMinute">%1$d मिनिट</string>
+    <string name="durationMinuteSecond">%1$d मिनिट %2$d सेकंद</string>
+    <string name="durationMinuteSeconds">%1$d मिनिट %2$d सेकंद</string>
+    <string name="durationMinutes">%1$d मिनिटे</string>
+    <string name="durationSecond">%1$d सेकंद</string>
+    <string name="durationSeconds">%1$d सेकंद</string>
+    <string name="encryption_warning_fragment_description">"आपल्या iPhone® डिव्हाइससाठी बॅक अप कूटबद्धीकरण चालू केले आहे. आपण स्वत: हे चालू केले नसल्यास, ते कदाचित आपल्या IT प्रशासकाने चालू केले असेल.
+
+केवळ फोटो, संगीत आणि व्हिडिओंंची कॉपी केली जाऊ शकते. अधिक माहितीसाठी, "<b>g.co/datatransferhelp</b> ला भेट द्या.</string>
+    <string name="encryption_warning_fragment_title">बॅक अप कूटबद्धीकरण</string>
+    <string name="fido_begin_button">सुरुवात करा</string>
+    <string name="fido_ble_device_icon_content_description">ब्लूटुथ डिव्हाइस शोधले</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">आपली की जोडणी मोडमध्ये आहे याची खात्री करण्‍यासाठी त्यावरील बटण किमान 5 सेकंद दाबा आणि धरून ठेवा</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">ठीक आहे</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">काहीतरी चूक झाली</string>
+    <string name="fido_ble_dont_see_your_key_hint">आपली की दिसत नाही?</string>
+    <string name="fido_ble_enable_body">आपल्या डिव्हाइसचे ब्लूटुथ चालू असते केवळ तेव्हाच आपली सुरक्षा की कार्य करते</string>
+    <string name="fido_ble_enable_title">ब्लूटुथ चालू करा</string>
+    <string name="fido_ble_enable_turn_on_button">चालू करा</string>
+    <string name="fido_ble_instructions_body">बहुतांश की वापरण्यासाठी, केवळ बटण टॅप करा</string>
+    <string name="fido_ble_instructions_title">आपल्या सुरक्षा की ला अनुमती द्यायची?</string>
+    <string name="fido_ble_locate_pin_body">जोडणी पिन सहसा 4 किंवा 6 अंकी क्रमांक असतो आणि आपल्या की च्या मागे असू शकतो. आपण पिन प्रविष्‍ट करण्यास तयार असता तेव्हा सुरु ठेवा.</string>
+    <string name="fido_ble_locate_pin_continue_button">सुरु ठेवा</string>
+    <string name="fido_ble_locate_pin_title">आपल्या %1$s की साठी ब्लूटुथ जोडणी पिन शोधा</string>
+    <string name="fido_ble_pair_device_pairing">आपल्या सुरक्षा की ची जोडणी करीत आहे...</string>
+    <string name="fido_ble_pair_instructions_body">आपली की या डिव्हाइसशी जोडा त्यामुळे आपल्या खात्यासह आपण तिचा वापर करू शकता</string>
+    <string name="fido_ble_pair_instructions_title">आपली सुरक्षा की जोडण्‍यास सज्ज आहात?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">जोडणी मोडमध्ये आपली की परत मिळवा</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">पुन्हा प्रयत्न करा</string>
+    <string name="fido_ble_pairing_failure_dialog_title">काहीतरी चूक झाली</string>
+    <string name="fido_ble_pairing_mode_body">किमान 5 सेकंदांपर्यंत आपल्या सुरक्षा की वरील बटण दाबा आणि धरून ठेवा</string>
+    <string name="fido_ble_pairing_mode_title">जोडणी मोड मध्ये जा</string>
+    <string name="fido_ble_select_device_body">आपल्या डिव्हाइसशी आपण जोडणी करू इच्छित असलेली सुरक्षा की खालील सूची मधून निवडा. की च्या मागे नाव मुद्रित केलेले असू शकते.</string>
+    <string name="fido_ble_select_device_title">आपली सुरक्षा की निवडा</string>
+    <string name="fido_cancel_button">रद्द करा</string>
+    <string name="fido_nfc_enable_body">आपल्या डिव्हाइसचे NFC चालू असते केवळ तेव्हाच आपली सुरक्षा की कार्य करते</string>
+    <string name="fido_nfc_enable_title">NFC चालू करा</string>
+    <string name="fido_nfc_enable_turn_on_button">चालू करा</string>
+    <string name="fido_nfc_instructions_body">आपले डिव्हाइस कंपन करणे थांबवित नाही तोपर्यंत त्याच्या पाठीमागे आपली की आडवी धरा</string>
+    <string name="fido_nfc_instructions_title">आपल्या सुरक्षा की ला अनुमती द्यायची?</string>
+    <string name="fido_pair_another_security_key">दुसर्‍या सुरक्षा की ची जोडणी करा</string>
+    <string name="fido_processing">आपल्या सुरक्षा की चे सत्यापन करीत आहे...</string>
+    <string name="fido_transport_selection_bluetooth">ब्लूटुथ सह सुरक्षा की वापरा</string>
+    <string name="fido_transport_selection_body">सुरक्षा की ब्लूटुथ आणि NFC सह कार्य करतात. आपली सुरक्षा की आपण कशी वापरू इच्छिता ते निवडा</string>
+    <string name="fido_transport_selection_nfc">NFC सह सुरक्षा की वापरा</string>
+    <string name="fido_transport_selection_title">आपली सुरक्षा की कशी वापरावी ते निवडा</string>
+    <string name="fido_use_ble_instead">आपली सुरक्षा की ब्लूटुथसह वापरा</string>
+    <string name="fido_use_nfc_instead">आपली सुरक्षा की NFC सह वापरा</string>
+    <string name="fido_welcome_body">%1$s सह आपली सुरक्षा की वापरण्‍यामुळे आपला खाजगी डेटा संरक्षित करण्‍यात मदत होते.</string>
+    <string name="fido_welcome_title">आपली सुरक्षा की %1$s सह वापरा</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">मी अॅडाप्टर शोधू शकत नाही</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"आपले ^1 येते त्याच बॉक्समध्ये येणारे Quick Switch Adapter शोधा.
+
+अॅडाप्टरमध्ये केबल प्लग करा."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">अॅडाप्टर आणि केबल कनेक्ट करा</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">आपला जुना फोन अनलॉक करा, नंतर या फोनमध्ये अॅडाप्टर प्लग करा.</string>
+    <string name="fragment_usb_connect_both_phones_title">दोन्ही फोन कनेक्ट करा</string>
+    <string name="fragment_usb_dialog_cancel_description">आपण केबल वापरल्यास आपल्याला बहुतांश सामग्री मिळेल. बॉक्समध्ये असलेल्या केबल जुळत नसल्यास, आपल्या जुन्या फोनसह कार्य करणारी चार्जिंग किंवा डेटा केबल वापरून पहा.</string>
+    <string name="fragment_usb_dialog_cancel_title">दुसर्‍या प्रकारे डेटा कॉपी करायचा?</string>
+    <string name="fragment_usb_dont_have_cable">माझ्याकडे केबल नाही</string>
+    <string name="fragment_usb_dont_have_old_phone">माझ्याकडे माझा जुना फोन नाही</string>
+    <string name="fragment_usb_find_cable_description">आपल्या जुन्या फोनशी जुळणारी केबल वापरा, जसे की आपला डेटा किंवा चार्जिंग केबल.</string>
+    <string name="fragment_usb_find_cable_title">योग्य केबल शोधा</string>
+    <string name="fragment_usb_initial_description">आपल्या जुन्या फोन मधून डेटा ^1 वर हस्तांतरित करा.</string>
+    <string name="fragment_usb_initial_title">आपला डेटा कॉपी करूया</string>
+    <string name="fragment_usb_legacy_description">"बहुतांश डेटा आणण्याचा हा सर्वात जलद मार्ग आहे.
+
+बॉक्समध्ये असलेले अ‍ॅडाप्टर शोधा आणि त्यास आपल्या नवीन फोनमध्ये प्लग करा. केबल वापरून फोन कनेक्ट करा, नंतर आपला जुना फोन अनलॉक करा."</string>
+    <string name="fragment_usb_other_ways">केबल शिवाय कॉपी करा</string>
+    <string name="fragment_usb_plug_cable">आपल्या जुन्या फोनमध्ये केबल प्लग करा</string>
+    <string name="fragment_waiting_title">फक्त एक सेकंद…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">अॅप परवानग्या</string>
+    <string name="google_contacts_static_text">Google संपर्क संकालित केले जातील</string>
+    <string name="google_contacts_static_text_off">Google संपर्क अद्याप संकालित केले जातील</string>
+    <string name="google_legal_title">Google कायदेशीर</string>
+    <string name="google_play_tos_title">Google Play सेवा अटी</string>
+    <string name="google_plus_privacy_policy_title">Google प्लस गोपनीयता धोरण</string>
+    <string name="google_privacy_policy_title">Google गोपनीयता धोरण</string>
+    <string name="google_terms_of_service_title">Google सेवा अटी</string>
+    <string name="header_set_backup_account">बॅकअप खाते सेट करा</string>
+    <string name="i_message_dialog_message">"iPhone® डिव्हाइस वापरकर्त्यांकडून SMS संदेश प्राप्त करणे सुरु ठेवण्‍यासाठी, आपल्याला iMessage® बंद करावे लागेल.
+
+सूचनांसाठी "<b>g.co/iMessageHelp</b> ला भेट द्या.</string>
+    <string name="instant_apps_settings_title">इन्सटंट अॅप्स</string>
+    <string name="instructions_fragment_title">आपल्या अन्य फोनवर सुरु ठेवा</string>
+    <string name="ios_connected_fragment_description">"पुढील स्क्रीनवर, आपण आपल्या Google खात्यामध्ये साइन इन करू शकता किंवा एक नवीन तयार करू शकता.
+
+आपण आपले Google खाते जोडत नसल्यास, आपले iOS Calendar® इव्हेंट हस्तांतरित केले जाणर नाही."</string>
+    <string name="ios_message_attachment_explanation">[आपली संदेश संलग्नके Google Photos >डिव्हाइस फोल्डर > संदेश संलग्नकांमध्ये आहेत]</string>
+    <string name="ios_message_attachment_failed_explanation">[काही संलग्नकांची कॉपी करणे शक्य झाले नाही. हस्तांतरित केलेली संलग्नके Google Photos > डिव्हाइस फोल्डर > संंदेश संलग्नकांमध्ये सापडू शकतात ]</string>
+    <string name="ios_message_attachment_placeholder">[संलग्नक Google Photos > डिव्हाइस फोल्डर > संदेश संलग्नकेे मध्ये जतन केले]</string>
+    <string name="ios_message_attachments_placeholder">[संलग्नकेे Google Photos > डिव्हाइस फोल्डर > संदेश संलग्नकेे मध्ये जतन केली]</string>
+    <string name="ios_migration_default_calendar_title">कॅलेंडर</string>
+    <string name="ios_migration_other_contact_relation">अन्य</string>
+    <string name="ios_photos_dialog_message">"iCloud® मध्ये संचयित केलेले फोटो कॉपी केले जाऊ शकत नाहीत.
+
+हे फोटो आपल्या ^1 मध्ये आणण्‍यासाठी, Google Photos अॅप आपल्या iPhone® डिव्हाइस वर स्थापित करा आणि बॅक अप आणि संकालन चालू करा. आणखी सूचनांसाठी "<b>g.co/datatransferhelp</b> ला भेट द्या.</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">खाते जोडा</string>
+    <string name="lockscreen_smartdevice_action_next">पुढील</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">आपला फोन सेटअप करणे सुरु ठेवण्यासाठी अनलॉक करा</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">सुरक्षा कारणांसाठी, सेटअप सुरु ठेवण्याकरिता आपल्याला आपल्या स्क्रीन लॉकची पुष्टी करावी लागेल</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">आपल्या स्क्रीन लॉकची पुष्टी करा</string>
+    <string name="manage_data_label">Google खाते</string>
+    <string name="master_clear_title">फॅक्‍टरी डेटा रीसेट</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">नेटवर्क शिफारसी</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">वाय-फाय संदेश</string>
+    <string name="notification_channel_network_available">नेटवर्क उपलब्ध</string>
+    <string name="notification_channel_wakeup_name">वाय-फाय चालू केले</string>
+    <string name="notification_content_text_set_backup_account">बॅकअप खाते सेट करण्याची आवश्यकता आहे</string>
+    <string name="notification_content_title_set_backup_account">बॅकअप घ्या</string>
+    <string name="notification_ticker">प्रवेशाची विनंती केली</string>
+    <string name="notification_ticker_set_backup_account">बॅकअप खाते आवश्यक आहे</string>
+    <string name="open_in_web_button">वेबमध्ये उघडा</string>
+    <string name="open_source_activity_prompt_heading">अ‍ॅप उघडा</string>
+    <string name="open_source_activity_prompt_text">"प्रमाणीकरण प्रक्रिया पूर्ण करण्यासाठी आपल्या फोनवर SourceResponseActivity उघडा. "</string>
+    <string name="opt_in_account_content_description">खाते निवडा. सध्या निवडलेले: %1$s</string>
+    <string name="opt_in_account_null_state">खाते तयार करा</string>
+    <string name="opt_in_agreement">सुरु ठेवून, आपण <a href="https://play.google.com/about/play-terms.html">प्‍ले सेवा अटी</a> स्‍वीकार करता. <a href="https://support.google.com/googleplay/?p=instant_apps">अधिक जाणून घ्‍या</a></string>
+    <string name="opt_in_confirm">होय, मला मान्य आहे</string>
+    <string name="opt_in_description">"आपण दुव्यावर टॅप करता तेव्हा, Google Play इन्सटंट अॅप अस्तित्वात आहे का हे तपासते आणि ते स्थापनेशिवाय चालवते. इन्सटंट अ‍ॅप्स आपल्या डिव्हाइसवर तात्पुरते ठेवले आहेत.
+
+आपण इन्सटंट अ‍ॅप्स वापरताना ते परवानग्या विचारतात. अॅप-अंतर्गत खरेद्यांसह अ‍ॅप तपशील Google Play स्टोअर मध्ये सापडू शकतात. यासह साइन इन केलेल्या डिव्हाइसशी अ‍ॅप डेटा आणि सेटिंग्ज संकालित केले आहेत:"</string>
+    <string name="opt_in_description_m_plus">"आपण दुव्यावर टॅप करता तेव्हा, Google Play इन्सटंट अॅप अस्तित्वात आहे का हे तपासते आणि ते स्थापनेशिवाय चालवते. इन्सटंट अ‍ॅप्स आपल्या डिव्हाइसवर तात्पुरते ठेवले आहेत.
+
+अॅप-अंतर्गत खरेद्यांसह अ‍ॅप तपशील Google Play स्टोअर मध्ये सापडू शकतात. यासह साइन इन केलेल्या डिव्हाइसशी अ‍ॅप डेटा आणि सेटिंग्ज संकालित केले आहेत:"</string>
+    <string name="opt_in_subtitle">स्थापनेशिवाय अॅप्स वापरा</string>
+    <string name="opt_in_title">इन्सटंट अॅप्स</string>
+    <string name="permgrouplab_calendar">कॅलेंडर</string>
+    <string name="permgrouplab_camera">कॅमेरा</string>
+    <string name="permgrouplab_contacts">संपर्क</string>
+    <string name="permgrouplab_location">स्थान</string>
+    <string name="permgrouplab_microphone">मायक्रोफोन</string>
+    <string name="permgrouplab_phone">फोन</string>
+    <string name="permgrouplab_sensors">शरीर सेन्सर</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">संचय</string>
+    <string name="permissions_not_granted_text">परवानग्यांना मंजूरी देण्यासाठी, पुन्हा लॉग इन करा.</string>
+    <string name="permissions_not_granted_title">परवानगीला मंजूरी दिली नाही.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">कोणतेही खाते सध्या बॅकअप घेतलेले फोटो संचयित करत नाही</string>
+    <string name="photos_backup_title">फोटोंंचा बॅकअप</string>
+    <string name="photos_filtering_option_all">सर्व</string>
+    <string name="photos_filtering_option_none">काहीही नाही</string>
+    <string name="plus_manage_app_only_you_label">केवळ आपण</string>
+    <string name="plus_network_unreliable">सर्व्हरवर विश्वसनीय कनेक्शन स्थापन करू शकत नाही.</string>
+    <string name="plus_oob_interstitial_loading_text">यास काही मिनिटे लागू शकतात.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">कॉपी केलेले संपर्क आपल्या Google खात्यात जतन केले जातील.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">कॉपी केलेले संपर्क आणि कॅलेंडर आपल्या Google खात्यात जतन केले जातील.</string>
+    <string name="restore_choice_data_disclaimer_v2">आपला काही डेटा कदाचित आपल्या ^1 वर कॉपी केला जाऊ शकत नाही. <annotation id="restore_choice_data_disclaimer_learn_more">अधिक जाणून घ्या</annotation></string>
+    <string name="restore_choice_deselect_some_content">सुरू ठेवण्यासाठी काही सामग्रीची निवड रद्द करा</string>
+    <string name="restore_choice_learn_more_android">"आपल्या जुन्या फोन मधील काही डेटा स्वयंचलितपणे कॉपी केला जाऊ शकत नाही: 
+
+ ● डाउनलोड (जसे की PDF फायली) 
+
+ ● लपविलेल्या फोल्डर मध्ये संचयित केलेले फोटो, व्हिडिओ आणि संगीत 
+
+ ● मजकूर संदेशाद्वारे प्राप्त झालेले फोटो, व्हिडिओ आणि संगीत 
+
+ Google Play स्टोअर मधील नसलेले अॅप्स ● 
+
+ ● अॅप डेटा (अॅप Android बॅक अप वापरत नसल्यास) 
+
+ ● काही डिव्हाइस सेटिंग्ज
+
+ ● Google खात्यांव्यतिरिक्त खाती (आणि संबंधित कोणताही डेटा) 
+
+ ● Google व्यतिरिक्त अन्य सेवांंवर संकालित केलेले संपर्क आणि कॅलेंडर 
+
+ ● रिंगटोन 
+
+ यापैकी काही डेटा कॉपी करण्‍यासाठी अधिक तपशील आणि मदतीकरिता, g.co/datatransferhelp ला भेट द्या."</string>
+    <string name="restore_choice_learn_more_ios">"आपल्या जुन्या फोनमधील काही डेटा स्वयंचलितपणे कॉपी केला जाऊ शकत नाही:
+
+ ● अॅप्स आणि अॅप डेटा
+
+ ● आपल्या फोनवर मूळ संचयित केले जाऊ शकत नाही तेथील फोटो (उदाहरणार्थ, ऑप्टिमाइझ संचय सेटिंग चालू असल्यास, मूळ फोटो iCloud® मध्ये संचयित केले जातात)
+
+ ● फायली आणि दस्तऐवज iCloud® मध्ये संचयित केले जातात
+
+ ● डिव्हाइस सेटिंग्ज (जसे की वाय-फाय संकेतशब्द आणि वॉलपेपर)
+
+ ● डिजिटल अधिकार व्यवस्थापन (DRM) संरक्षणासह संरक्षित केलेले संगीत (उदाहरणार्थ, 2009 एप्रिल पूर्वी खरेदी केलेले iTunes(R) संगीत किंवा संगीत प्रवाह अॅपमध्ये ऑफलाइन ऐकण्याकरिता डाउनलोड केलेले संगीत)
+
+ ● Google खात्यांव्यतिरिक्त खाती (आणि संबंधित कोणताही डेटा)
+
+ ● Google किंवा iCloud® सेवांव्यतिरिक्त अन्य सेवांंवर संकालित केलेले संपर्क आणि कॅलेंडर
+
+ ● Safari® मधील बुकमार्क
+
+ iMessage® संलग्नके Google Photos > डिव्हाइस फोल्डर > संदेश संलग्नकांमध्ये उपलब्ध असतील.
+
+ यापैकी काही डेटा कॉपी करण्‍यासाठी अधिक तपशील आणि मदतीकरिता g.co/datatransferhelp ला भेट द्या."</string>
+    <string name="restore_choice_not_enough_space">पुरेसे स्थान नाही</string>
+    <string name="restore_choice_total_text">हस्तांतरणासाठी उपलब्ध स्थान आणि अंदाजे वेळ %1$s / %2$s</string>
+    <string name="restore_error_message">पुनर्संचयात काहीतरी चूक झाली. क्षमस्व.</string>
+    <string name="restore_instant_apps_notif_text">या डिव्‍हाइसवरून आवश्‍यक %1$s काढण्यात आले होते</string>
+    <string name="restore_instant_apps_notif_title">इन्सटंट अॅप्स पुनर्संचयित करा</string>
+    <string name="restore_item_appdata">अॅप डेटा</string>
+    <string name="restore_item_calendar">कॅलेंडर</string>
+    <string name="restore_item_calendar_ical_description">iOS® कॅलेंडर, Google कॅलेंडर</string>
+    <string name="restore_item_calendar_ical_off_description">Google कॅलेंडर अद्याप संकालित केले जाईल</string>
+    <string name="restore_item_calendar_sync_description">Google कॅलेंडर संकालित केले जाईल</string>
+    <string name="restore_item_call_logs">कॉल इतिहास</string>
+    <string name="restore_item_contacts">संपर्क</string>
+    <string name="restore_item_device_settings_description">वाय-फाय संकेतशब्द आणि बरेच काही</string>
+    <string name="restore_item_downloads">डाउनलोड</string>
+    <string name="restore_item_email">ईमेल</string>
+    <string name="restore_item_email_description">Gmail संकालित केले जाईल</string>
+    <string name="restore_item_message_attachments">संदेश संलग्नके</string>
+    <string name="restore_item_messages">संदेश</string>
+    <string name="restore_item_music">संगीत</string>
+    <string name="restore_item_photos">फोटो आणि व्हिडिओ</string>
+    <string name="restore_item_settings">डिव्हाइस सेटिंग्ज</string>
+    <string name="restore_item_sms">SMS संदेश</string>
+    <string name="restore_item_will_be_synced_text">हे आपल्या फोनमध्ये संकालित करेल</string>
+    <string name="restore_progress_title">पुनर्संचयित करत आहे…</string>
+    <string name="restore_supervisor_description">इन्सटंट अॅप्समध्‍ये दुवे उघडण्‍यासाठी, %1$s पुनर्संचयित करा</string>
+    <string name="restore_supervisor_success">इन्सटंट अॅप्स यशस्वीरित्या पुनर्संचयित झाले</string>
+    <string name="restore_supervisor_title">इन्सटंट अॅप्स पुनर्संचयित करायचे?</string>
+    <string name="setup_failure_description">इन्सटंट अ‍ॅप्स सेट अप करू शकत नाही. <a href="https://support.google.com/googleplay/?p=instant_apps">अधिक जाणून घ्या</a></string>
+    <string name="setup_failure_title">सेट अप करू शकत नाही</string>
+    <string name="sharedUserLabel">Google सेवा</string>
+    <string name="sid_lsid_grant_detail">संकेतशब्दाप्रमाणे, सत्र ओळखी (SID) आणि स्थानिक सत्र ओळखी (LSID) कुकीजना ब्राउझरवरील विनंत्यांच्या मालिकेसह आपल्या ओळखीस संबद्ध करतात. ते आपल्या सर्व खाते डेटावर पूर्ण प्रवेशास अनुमती देतात. या कुकीजसाठी फक्त ब्राउझरकडे कायदेशीर वापर असतो.</string>
+    <string name="sid_lsid_grant_label">आपल्या सर्व Google खाते डेटावर प्रवेश मिळवण्यासाठी SID आणि LSID कुकीज वापरा.</string>
+    <string name="small_time_duration">1 मिनिटापेक्षा कमी</string>
+    <string name="smartdevice_action_copy">कॉपी करा</string>
+    <string name="smartdevice_action_next">पुढील</string>
+    <string name="smartdevice_action_open_app">अ‍ॅप उघडा</string>
+    <string name="smartdevice_action_skip">वगळा</string>
+    <string name="smartdevice_action_try_another_way">दुसर्‍या पद्धतीने वापरून पहा</string>
+    <string name="smartdevice_action_turn_on_location">स्थान चालू करा</string>
+    <string name="smartdevice_alert_disconnected_message">"आपले डिव्हाइस डिस्कनेक्ट झाले.
+सेटअप सुरू ठेवण्यासाठी, ते कनेक्ट करा आणि येथून प्रारंभ करा."</string>
+    <string name="smartdevice_alert_disconnected_title">डिव्हाइस डिस्कनेक्ट झाले</string>
+    <string name="smartdevice_alert_dm_backup_account_message">दुर्दैवाने, आपले बॅक अप खाते आपल्या डिव्हाइस प्रशासकाने व्यवस्थापित केले असल्याने आपण या वैशिष्‍ट्याचा वापर करू शकत नाही.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">वैशिष्ट्य अनुपलब्ध आहे</string>
+    <string name="smartdevice_alert_exit_setup_message">आपल्याला खात्री आहे की आपण आपल्या इतर डिव्हाइस सेटअपमधून बाहेर पडू इच्छिता?</string>
+    <string name="smartdevice_alert_exit_setup_title">डिव्हाइस सेटअपमधून बाहेर पडायचे?</string>
+    <string name="smartdevice_alert_generic_error_title">क्षमस्व, काहीतरी चूक झाली</string>
+    <string name="smartdevice_alert_generic_error_toast_text">क्षमस्व, काहीतरी चूक झाली</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">"आपले डिव्हाइस सेट करण्यासाठी आपल्याला कमीतकमी एका Google  खात्याची आवश्यकता आहे."</string>
+    <string name="smartdevice_alert_no_accounts_text">"आपले %s सेट करण्यासाठी आपल्याला कमीतकमी एका Google  खात्याची आवश्यकता आहे."</string>
+    <string name="smartdevice_alert_no_accounts_title">कॉपी करण्यासाठी कोणतीही खाती नाहीत</string>
+    <string name="smartdevice_alert_quit_button">बाहेर पडा</string>
+    <string name="smartdevice_alert_restart_setup_button">सेटअप रीस्टार्ट करा</string>
+    <string name="smartdevice_alert_setup_incomplete">सेटअप पूर्ण नव्हता</string>
+    <string name="smartdevice_alert_skip_button">वगळा</string>
+    <string name="smartdevice_alert_start_over_button">येथून प्रारंभ करा</string>
+    <string name="smartdevice_alert_work_profile_message">Work खाती अद्याप कॉपी केली जाऊ शकत नाही. आपली इतर Google खाती आणि डेटा कॉपी केल्यानंतर, आपले Work खाते जोडण्यासाठी आपल्या नवीन डिव्हाइसवर सेटिंग्जवर जा.</string>
+    <string name="smartdevice_alert_work_profile_title">Work खाते कॉपी करू शकत नाही</string>
+    <string name="smartdevice_application_label">डिव्हाइस सेटअप</string>
+    <string name="smartdevice_choose_device">आपले डिव्हाइस निवडा</string>
+    <string name="smartdevice_companion_app_ready">%s अ‍ॅप आधीपासून या डिव्‍हाइसवर स्थापित केला आहे.</string>
+    <string name="smartdevice_connect_to_wifi">आपले डिव्हाइस कनेक्ट करा</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">आपल्या डिव्हाइसशी कनेक्ट करीत आहे…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">तुमची Google खाती, इतर खाती, अॅप्स आणि डेटा कॉपी केला जाईल</string>
+    <string name="smartdevice_d2d_copy_account_text">आपली Google खाती, अॅप्स आणि डेटा आपल्या इतर डिव्हाइसमध्ये कॉपी करायचा?</string>
+    <string name="smartdevice_d2d_copy_account_title">आपल्या अन्य डिव्हाइसवर कॉपी करायचे?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">ओळखले नाही</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">त्याऐवजी स्क्रीन लॉक वापरून पहा</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">सुरक्षा कारणास्तव, आपल्या फिंगरप्रिंटची पुष्टी करा. आपली Google खाती, अॅप्स आणि डेटा आपल्या %s मध्ये कॉपी केला जाईल.</string>
+    <string name="smartdevice_d2d_lockscreen_description">आपला डिव्हाइस सेट करणे सुरू ठेवण्यासाठी अनलॉक करा</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">सुरक्षिततेसाठी, सेटअप सुरू ठेवण्यासाठी आपल्या स्क्रीन लॉकची पुष्टी करा.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">सुरू ठेवण्यासाठी पुष्टी करा</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">इतर डिव्हाइस सेट करू शकत नाही कारण आपल्या डिव्हाइसवर Bluetooth उपलब्ध नाही.</string>
+    <string name="smartdevice_d2d_source_disabled_text">सुरक्षिततेसाठी, हे वैशिष्ट्य अक्षम केले गेले आहे. आपल्या इतर डिव्हाइसवर, वगळाला स्पर्श करा आणि सेट‍अप सुरू ठेवा.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">नवीन डिव्हाइस सेट करा</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">डिव्हाइस सेटअप</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 सेटअप</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">सेट‍अप रीस्टार्ट करा आणि आपण आपल्या Google खाती, अॅप्स आणि डेटा योग्य डिव्हाइसमध्ये कॉपी केले असल्याचे सुनिश्चित करण्यासाठी आपला ^1 डिव्हाइस निवडा.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">कोड दिसत नाही?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">कोड दिसत नाही?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">आपण योग्य निवडले असल्याची पुष्टी करण्यासाठी आपल्या इतर डिव्हाइसवर हा कोड पहा</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">कोड सत्यापित करा</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">प्रतिबंधित वापरकर्ता प्रोफाईलवरून एक नवीन डिव्हाइस सेट करू शकत नाही.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">आपल्या %s वरील सेटअप समाप्त करा</string>
+    <string name="smartdevice_d2d_source_setup_success">जवळजवळ पूर्ण झाले!</string>
+    <string name="smartdevice_d2d_target_choice_description">आपण दुसरे Android डिव्हाइस वापरत असल्यास, आपण या %s डिव्हाइसमध्ये आपले वर्तमान सेटअप द्रुतपणे कॉपी करू शकता.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">आपले पूर्वीचे डिव्हाइस Android असल्यास त्यामधून सर्वोत्कृष्ट परत मिळवा</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">नवीन म्हणून सेट अप करा</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">दुसऱ्या Android डिव्हाइस वरून कॉपी करा</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">नाही धन्यवाद</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">ठीक, हे डिव्हाइस सेट करण्यासाठी पुढील चरणांचे अनुसरण करा</string>
+    <string name="smartdevice_d2d_target_choice_title">दुसरे डिव्हाइस मिळाले?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">आपली Google खाती, अॅप्स आणि आपल्या इतर डिव्हाइसवरील डेटा कॉपी करा</string>
+    <string name="smartdevice_d2d_target_continue_description">आपल्या इतर डिव्हाइसवर सेटअप सुरू ठेवा.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">खात्यांची कॉपी करीत आहे…</string>
+    <string name="smartdevice_d2d_target_description">"आपल्या अन्य डिव्हाइसवर परत या:&lt;br/>&lt;br/> 1. Say &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> म्हणा किंवा \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" टाइप करा आणि  पुष्टी करण्यासाठी टॅप करा&lt;br/>&lt;br/> 2. सूचीवरील &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> ला स्पर्श करा आणि स्क्रीन वरील सूचनांचे अनुसरण करा"</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">त्याऐवजी हे वापरून पहा</string>
+    <string name="smartdevice_d2d_target_google_settings_description">आपल्या अन्य डिव्हाइसवर:&lt;br/>&lt;br/> 1. &lt;b>Google सेटिंग्ज&lt;/b> अॅप उघडा&lt;br/>&lt;br/> 2. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> निवडा 3. सूचीवरील &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> ला स्पर्श करा आणि स्क्रीन-वरील सूचनांचे अनुसरण करा</string>
+    <string name="smartdevice_d2d_target_google_settings_link">ही चरणे पूर्ण करू शकत नाही</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">सेटिंग्ज वापरू या</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">आपल्या अन्य डिव्हाइसवर:&lt;br/>&lt;br/> 1. सर्व अॅप्स चिन्हांवर टॅप करा, नंतर &lt;b>सेटिंग्ज अॅप&lt;/b> उघडा &lt;br/>&lt;br/> 2. &lt;b>Google&lt;/b> वर टॅप करा &lt;br/>&lt;br/> 3. &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> निवडा 4. सूची वरील &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> ला स्पर्श करा आणि स्क्रीन-वरील सूचनांचे अनुसरण करा</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">दुसऱ्या Android डिव्हाइस वरून कॉपी करा</string>
+    <string name="smartdevice_d2d_target_help_needed_link">समस्या आहे?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">ते शोधू शकत नाही?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">आपल्या अन्य डिव्हाइसवर, Google अॅप उघडा</string>
+    <string name="smartdevice_d2d_target_instruction_description">Google अॅप उघडा</string>
+    <string name="smartdevice_d2d_target_instruction_title">आपले इतर डिव्हाइस चालू करा</string>
+    <string name="smartdevice_d2d_target_nfc_description">"कॉपी करण्यासाठी: 
+
+1. आपले इतर डिव्हाइस चालू असल्याचे आणि अनलॉक केले असल्याचे सुनिश्चित करा
+
+2. आपल्याला एक टोन ऐकू येईपर्यंत दोन्ही डिव्‍हाइसेस पाठीमागून एकमेकासह लावून ठेवा, नंतर बाजूला ठेवा."</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">आपल्या इतर डिव्हाइसवरून आपली Google खाती, अ‍ॅप्स आणि डेटा कॉपी करण्यासाठी टॅप करा आणि जा NFC वापरते. सेटिंग्जवर जाऊन डिव्हाइसचे NFC चालू असल्याचे सुनिश्चित करा.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">समस्या आहे?</string>
+    <string name="smartdevice_d2d_target_nfc_title">टॅप करून ट्रान्सफर करा</string>
+    <string name="smartdevice_d2d_target_other_device_description">"Google अॅप सर्व Android डिव्हाइसेसवर आधीपासून स्थापित केलेले येते. आपल्या मुख्य स्क्रीनवरील ''सर्व अॅप्स'' बटणास स्पर्श करा आणि वरील दर्शविलेले चिन्ह शोधा."</string>
+    <string name="smartdevice_d2d_target_pin_code_description">हा कोड आपल्‍या इतर डिव्‍हाइसवर असलेल्या कोडशी जुळणे आवश्यक आहे:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">वगळू नका</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">या डिव्‍हाइसवर या खात्याची किंवा बॅकअप घेतलेल्या अ‍ॅप्स आणि डेटाची कॉपी सेटअप करणार नाही.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">कशाही प्रकारे वगळा</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">हे खाते वगळायचे?</string>
+    <string name="smartdevice_d2d_target_title">Google अॅपमध्ये</string>
+    <string name="smartdevice_default_device_name">डिव्हाइस</string>
+    <string name="smartdevice_install_app">अॅप स्थापित करा</string>
+    <string name="smartdevice_install_app_reason" formatted="false">या डिव्हाइसवरून आपले नवीन %s नियंत्रित आणि व्यवस्थापित करण्यासाठी %s अॅप मिळवा</string>
+    <string name="smartdevice_install_on_this_device">इन्‍स्‍टॉल करा</string>
+    <string name="smartdevice_search_again">पुन्हा शोधा</string>
+    <string name="smartdevice_searching_for_devices">डिव्हाइसेस शोधत आहे</string>
+    <string name="smartdevice_setup_enter_code">आपल्या डिव्हाइसवर कोड प्रविष्ट करा. तो एका स्टिकरवर दिसत असावा.</string>
+    <string name="smartdevice_setup_enter_code_hint">आपला कोड प्रविष्ट करा</string>
+    <string name="smartdevice_setup_enter_pin_4">आपल्या अन्य डिव्हाइसवर सध्या दर्शविलेला 4-अंकी कोड प्रविष्ट करा</string>
+    <string name="smartdevice_setup_info_installing_app">अॅप स्थापित करीत आहे…</string>
+    <string name="smartdevice_setup_intro_text">आपले इ‍तर डिव्हाइस सेट करण्यासाठी आपल्या फोनचा Bluetooth आणि आपला Wi-Fi डेटा वापरला जाईल.</string>
+    <string name="smartdevice_setup_intro_text_nfc">आपले इतर डिव्हाइस सेट करण्यासाठी, आपल्या फोनचे Bluetooth वापरले जाईल.</string>
+    <string name="smartdevice_setup_intro_title">प्रारंभ करणे</string>
+    <string name="smartdevice_setup_password_hint">WiFi संकेतशब्द प्रविष्ट करा</string>
+    <string name="smartdevice_setup_show_password">संकेतशब्द दर्शवा</string>
+    <string name="smartdevice_setup_title_verify_code">कोड सत्यापित करा</string>
+    <string name="smartdevice_wifi_cannot_connect_description">हे डिव्‍हाइस सेट करण्‍यासाठी केवळ खुले नेटवर्क आणि WPA/WPA2 नेटवर्क वापरले जाऊ शकतात</string>
+    <string name="smartdevice_wifi_cannot_connect_title">WiFi नेटवर्क वापरू शकत नाही</string>
+    <string name="smartdevice_wifi_skip_dialog_text">वाय-फाय नेटवर्क शिवाय, आपले डिव्हाइस योग्यरित्या कार्य करू शकत नाही. सेटअप सुरू ठेवण्यासाठी त्यास एका वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">वाय-फाय नेटवर्क निवडा</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"वाय-फाय बटण शोधण्‍यासाठी, स्थान चालू करा.
+
+आपण सेटिंग्जमध्ये नंतर हे कधीही बदलू शकता."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">वाय-फाय नेटवर्क शोधू शकत नाही</string>
+    <string name="source_connected_description">तयार करीत आहे…</string>
+    <string name="source_connected_title">आपल्या %1$s शी कनेक्ट केले</string>
+    <string name="source_copying_description">आपण निवडता तो डेटा आपल्या नवीन फोनमध्ये कॉपी केला जात आहे</string>
+    <string name="source_copying_title">कॉपी करीत आहे...</string>
+    <string name="source_default_target_device_name">नवीन डिव्हाइस</string>
+    <string name="source_notification_device_disconnected">आपली केबल पुन्हा कनेक्ट करा</string>
+    <string name="source_notification_text">फोन वरून फोनवर हस्तातंरित करणे प्रगतीपथावर आहे</string>
+    <string name="source_notification_title">डेटा हस्तांतरण</string>
+    <string name="source_success_description">आपल्या %1$s वर सेटअप समाप्त करा.</string>
+    <string name="source_success_screen_title">सर्व पूर्ण झाले!</string>
+    <string name="source_unplugged_description">आपल्या %1$s शी पुन्हा कनेक्ट करा</string>
+    <string name="source_unplugged_title">केबल डिस्कनेक्ट केली</string>
+    <string name="source_waiting_title">आपल्या %1$s वर सेटअप सुरु ठेवा</string>
+    <string name="stop_copying_dialog_continue_button">डिसमिस करा</string>
+    <string name="stop_copying_dialog_message_before_transfer">आपला डेटा आपल्या नवीन फोनवर कॉपी केला गेला नाही</string>
+    <string name="stop_copying_dialog_message_during_transfer">आपला काही डेटा आपल्या नवीन फोनवर कॉपी केला गेला नाही</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">कॉपी करू नका</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">थांबा</string>
+    <string name="stop_copying_dialog_title_before_transfer">कॉपी करायचे नाही?</string>
+    <string name="stop_copying_dialog_title_during_transfer">कॉपी करणे थांबवायचे?</string>
+    <string name="storage_management_wear_descriptive_text">घालण्यायोग्य मध्ये डेटाची प्रतिकृती तयार करण्यासाठी Apps आपले डिव्हाइस संचयन वापरते.</string>
+    <string name="storage_management_wear_manage_size_label">घालण्यायोग्य संचयन व्यवस्थापित करा</string>
+    <string name="storage_management_wear_size_label">घालण्यायोग्य संचयन</string>
+    <string name="storage_managment_all_storage_descriptive_text">शोध इंजिनसह आणि अन्य डेटासह, Google Play सेवांद्वारे वापरलेला एकूण डेटा.</string>
+    <string name="storage_managment_clear_all_data">सर्व डेटा साफ करा</string>
+    <string name="storage_managment_computing_size">गणना करत आहे…</string>
+    <string name="storage_managment_icing_size_label">शोध डेटा</string>
+    <string name="storage_managment_manage_icing_button">शोध डेटा व्यवस्थापित करा</string>
+    <string name="storage_managment_search_index_descriptive_text">आम्ही वापरण्यासाठी आपल्या अॅप्सला एक शोध इंजिन प्रदान करून आपल्या फोनवरील शोधाची गती वाढवतो.</string>
+    <string name="storage_managment_title">Google Play सेवा संचयन</string>
+    <string name="storage_managment_total_size_label">एकूण संचय</string>
+    <string name="supervisor_downloading_description">%1$s डाउनलोड होत आहे</string>
+    <string name="supervisor_downloading_title">आम्ही आपले डिव्हाइस सेट करताना फक्त क्षणभर प्रतीक्षा करा</string>
+    <string name="supervisor_installing_description">%1$s स्थापित होत आहे</string>
+    <string name="supervisor_title">इन्सटंट अॅप्स साठी Google Play सेवा</string>
+    <string name="suw_back_button_label">परत</string>
+    <string name="suw_more_button_label">अधिक</string>
+    <string name="suw_next_button_label">पुढील</string>
+    <string name="system_update_ab_update_downloaded_notification_message">अधिक जाणून घेण्यासाठी टॅप करा</string>
+    <string name="system_update_activity_battery_low_text">अद्यतन स्थापित करण्‍यासाठी बॅटरी खूप कमी आहे</string>
+    <string name="system_update_activity_name">सिस्टम अद्यतने</string>
+    <string name="system_update_activity_roaming_text">रोमिंग असताना सिस्टम अद्यतने डाउनलोड केली जाऊ शकत नाहीत</string>
+    <string name="system_update_activity_roaming_text_glif">रोमिंग असताना डाउनलोड करू शकत नाही</string>
+    <string name="system_update_android_version_text">Android आवृत्ती: ^1</string>
+    <string name="system_update_check_now_button_text">अद्यतनासाठी तपासा</string>
+    <string name="system_update_checking_status_text">तपासत आहे</string>
+    <string name="system_update_complete_label">सिस्टम अद्यतन</string>
+    <string name="system_update_countdown_cancel_button">स्थापना रद्द करा</string>
+    <string name="system_update_countdown_complete">आता रीबूट करीत आहे…</string>
+    <string name="system_update_download_and_install_button_text">डाउनलोड आणि स्थापित करा</string>
+    <string name="system_update_download_button_text">डाउनलोड करा</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">डाउनलोड करण्यासाठी पुरेेसे स्थान नाही</string>
+    <string name="system_update_download_failed_no_space_status_text">डाउनलोड करण्यासाठी अपुरे स्थान उपलब्ध</string>
+    <string name="system_update_download_failed_status_text">डाउनलोड करू शकलो नाही</string>
+    <string name="system_update_download_manage_storage_button_text">संचयन व्यवस्थापित करा</string>
+    <string name="system_update_download_paused_no_wifi_status_text">वाय-फाय ची प्रतीक्षा करत आहे</string>
+    <string name="system_update_download_paused_title_text">डाउनलोडला विराम दिला</string>
+    <string name="system_update_download_retry_button_text">डाउनलोड करण्याचा पुन्हा प्रयत्न करा</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">अद्यतन ^1 आणि ^2 दरम्यान स्वयंचलितपणे डाउनलोड करणे प्रारंभ करेल.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">आपण कधीही वाय-फायवरून हे अद्यतन डाउनलोड करू शकता. अन्यथा, ते ^1 आणि ^2 दरम्यान स्वयंचलितपणे डाउनलोड करणे प्रारंभ करेल.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">हे अद्यतन डाउनलोड करण्यासाठी, प्रथम आपल्या अन्य सिम कार्डवर स्विच करा.</string>
+    <string name="system_update_download_waiting_status_text">डाउनलोड करण्याची प्रतीक्षा करत आहे</string>
+    <string name="system_update_downloading_status_text">डाउनलोड करत आहे</string>
+    <string name="system_update_downloading_title_text">सिस्टीम अद्यतन डाउनलोड करीत आहे…</string>
+    <string name="system_update_downloading_wifi_status2_text">केवळ ^ 1द्वारे ^2 पर्यंत</string>
+    <string name="system_update_file_browser_ok_button">निवडा</string>
+    <string name="system_update_file_browser_title">फाईल अद्यतनित करा निवडा</string>
+    <string name="system_update_free_up_space_button_text">स्थान मोकळे करा</string>
+    <string name="system_update_from_sd_card_button_and_title">SD कार्डवरून अद्यतनित करा</string>
+    <string name="system_update_from_sd_card_unknown_status">तपासत आहे...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">सत्यापित करणे शक्य झाले नाही</string>
+    <string name="system_update_from_sd_card_verified_description">अद्यतन सत्यापित केले आहे आणि स्थापित करण्यासाठी तयार आहे.</string>
+    <string name="system_update_from_sd_card_verifying_status">सत्यापित करीत आहे...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">मीटर न केलेले वायफाय नेटवर्क आवश्‍यक आहे</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">वाय-फायची शिफारस केली</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"हे अद्यतन केवळ ^1 द्वारे ^2 पर्यंत डाउनलोड केले जाऊ शकते.
+
+डाउनलोड पुढे सुरू ठेवण्यासाठी ^3 शी कनेक्ट करा."</string>
+    <string name="system_update_glif_wifi_needed_title">वायफाय नेटवर्क आवश्यक आहे</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">संभाव्य डेटा शुल्क टाळण्यासाठी, मीटर न केलेल्या वाय-फाय नेटवर्कशी कनेक्ट करा.</string>
+    <string name="system_update_install_button_text">रीस्टार्ट करा आणि स्थापित करा</string>
+    <string name="system_update_install_failed_button_qualifier_text">स्थापना समस्या</string>
+    <string name="system_update_install_failed_title_text">अद्यतनित करणे शक्य झाले नाही</string>
+    <string name="system_update_install_steps_text">चरण 2 पैकी ^1</string>
+    <string name="system_update_installing_title_text">सिस्टीम अद्यतन स्थापित करीत आहे…</string>
+    <string name="system_update_last_checkin">^1 अद्यतनासाठी अंतिम तपासले.</string>
+    <string name="system_update_last_checkin_glif">^1 अद्यतनासाठी अखेरचे तपासले</string>
+    <string name="system_update_managed_by_policy">या डिव्‍हाइसचे सिस्‍टीम सॉफ्‍टवेअर अद्यतन आपल्‍या संस्थेद्वारे नियंत्रित केले जाते.</string>
+    <string name="system_update_no_update_content_text">आपली सिस्टीम अद्ययावत आहे.</string>
+    <string name="system_update_no_update_content_text_glif">आपली सिस्टीम अद्ययावत आहे</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">सिस्टीम अद्यतन डाउनलोड करणे शक्य नाही</string>
+    <string name="system_update_not_owner_text">सिस्टीम सॉफ्टवेअर अद्यतन उपलब्ध आहे, परंतु फक्त मालकच हे स्थापित करू शकतो.</string>
+    <string name="system_update_notification_header_name">Android सिस्टम अद्यतन</string>
+    <string name="system_update_pause_button_text">डाउनलोडला विराम द्या</string>
+    <string name="system_update_processing_status_text">प्रक्रिया करत आहे</string>
+    <string name="system_update_requires_restart_status_text">रीस्टार्टची आवश्यकता आहे</string>
+    <string name="system_update_restart_to_install_button_text">स्थापित करण्‍यासाठी आता रीस्टार्ट करा</string>
+    <string name="system_update_restart_to_update_button_text">अद्यतनित करण्यासाठी आता रीस्टार्ट करा</string>
+    <string name="system_update_resume_button_text">पुनः सुरु करा</string>
+    <string name="system_update_scheduled_status_text">अनुसूची केलेले</string>
+    <string name="system_update_security_patch_level_text">सुरक्षा पॅच दर्जा: ^1</string>
+    <string name="system_update_security_update_available_title_text">सुरक्षितता अद्यतन उपलब्ध</string>
+    <string name="system_update_security_update_downloading_title_text">सुरक्षा अद्यतन डाउनलोड करीत आहे....</string>
+    <string name="system_update_security_update_installing_title_text">सुरक्षा अद्यतन स्थापित करत आहे...</string>
+    <string name="system_update_size_label">आकारमान अद्यतनित करा:</string>
+    <string name="system_update_suw_download_and_install_text">"हे अद्यतन डाउनलोड आणि स्थापित करण्यासाठी काही मिनिटे लागू शकतात.
+
+ त्यानंतर, आपले डिव्हाइस स्वयंचलितपणे रीस्टार्ट होईल."</string>
+    <string name="system_update_suw_download_text">"हे अद्यतन डाउनलोड करण्यासाठी काही मिनिटे लागू शकतात.
+
+त्यानंतर, आपले डिव्हाइस स्वयंचलितपणे रीस्टार्ट होईल."</string>
+    <string name="system_update_suw_download_title">अद्यतन डाउनलोड करीत आहे…</string>
+    <string name="system_update_suw_restart_text">डिव्हाइस रीस्टार्ट होईल त्यामुळे आपले सिस्टीम अद्यतन स्थापित केले जाऊ शकते.</string>
+    <string name="system_update_suw_restart_title">रीस्टार्ट सुरु होत आहे</string>
+    <string name="system_update_suw_wifi_needed">डाउनलोड पुढे सुरू ठेवण्यासाठी, ^1 निवडा.</string>
+    <string name="system_update_update_available_download_message_wearable">डाउनलोड करण्यासाठी डावीकडे स्वाइप करा.</string>
+    <string name="system_update_update_available_notification_message">अधिक जाणून घेण्यासाठी आणि डाउनलोड करण्‍यासाठी टॅप करा</string>
+    <string name="system_update_update_available_notification_title">सिस्टीम अद्यतन उपलब्ध आहे</string>
+    <string name="system_update_update_available_tap_to_download">डाउनलोड करण्यासाठी टॅप करा</string>
+    <string name="system_update_update_available_title_text">सिस्टीम अद्यतन उपलब्ध आहे</string>
+    <string name="system_update_update_download_auto_paused_notification_title">डाउनलोडला विराम दिला</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">पर्याप्त स्थान उपलब्ध नाही</string>
+    <string name="system_update_update_downloaded_charge_wearable">कृपया आपली बॅटरी कमीतकमी %d%% चार्ज करा.</string>
+    <string name="system_update_update_downloaded_install_message_wearable">स्थापित करण्यासाठी डावीकडे स्वाइप करा.</string>
+    <string name="system_update_update_downloaded_notification_message">अधिक जाणून घेण्यासाठी आणि स्थापित करण्यासाठी टॅप करा</string>
+    <string name="system_update_update_downloaded_notification_title">सिस्टीम अद्यतन डाउनलोड झाले</string>
+    <string name="system_update_update_downloaded_tap_to_install">स्थापित करण्यासाठी टॅप करा</string>
+    <string name="system_update_verification_failed_text">सत्यापन अयशस्वी</string>
+    <string name="system_update_verified_status_text">डाउनलोड आणि सत्यापित केलेले</string>
+    <string name="system_update_verify_failed_button_qualifier_text">सत्‍यापन समस्‍या</string>
+    <string name="system_update_verifying_status_text">सत्यापित करीत आहे</string>
+    <string name="system_update_wearable_countdown_message">%dमध्ये रीस्टार्ट होत आहे...</string>
+    <string name="target_default_source_device_model">जुने डिव्हाइस</string>
+    <string name="target_device_not_supported_cant_continue_description">डेटा कॉपी करण्‍यासाठी आपल्याला दुसरी पद्धत निवडावी लागेल</string>
+    <string name="target_device_not_supported_cant_continue_title">अन्य फोन समर्थित नाही</string>
+    <string name="target_device_not_supported_try_restarting_description">"केबल डिस्कनेक्ट करा आणि आपला जुना फोन रीस्टार्ट करा, त्यानंतर केबल पुन्हा कनेन्ट करा आणि आपल्या Pixel वरील सूचनांचे अनुसरण करा.
+
+आपल्याला ही त्रुटी दिसत असल्यास, आपल्याला दुसर्‍या पद्धतीने कॉपी करावे लागेल."</string>
+    <string name="target_device_not_supported_try_restarting_title">कदाचित फोनला समर्थन नसेल</string>
+    <string name="target_smart_device_timeout_add_account">खाते जोडा</string>
+    <string name="target_smart_device_timeout_description">आपण इच्छित असल्यास, आपण आपले खाते व्यक्तिचलितरित्या जोडून पाहू शकता</string>
+    <string name="target_smart_device_timeout_dismiss">डिसमिस करा</string>
+    <string name="target_smart_device_timeout_title">समस्या आहे?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">फोन कनेक्ट केलेले आहेत</string>
+    <string name="toast_reconnect_cable">आपली केबल पुन्हा कनेक्ट करा</string>
+    <string name="transfer_finished_fragment_title">अखेरच्या सुधारणा जोडत आहे...</string>
+    <string name="transfer_summary_copied">डेटा कॉपी केला</string>
+    <string name="transfer_summary_fragment_description">आपण केबल डिस्कनेक्ट करू शकता.</string>
+    <string name="transfer_summary_fragment_finish">समाप्‍त</string>
+    <string name="transfer_summary_fragment_title">आपला फोन जवळजवळ तयार आहे</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">आपले काही फोटो कॉपी केले गेले नाहीत. <annotation id="transfer_summary_learn_more">अधिक जाणून घ्या</annotation></string>
+    <string name="transfer_summary_not_copied">डेटा कॉपी केला नाही</string>
+    <string name="transfer_summary_partial">%1$s / %2$s कॉपी केला</string>
+    <string name="transfer_summary_will_sync">सेटअप नंतर डेटा संकालित केला जाईल</string>
+    <string name="transferring_fragment_calculating_remaining_time">उर्वरित वेळेची गणना करीत आहे...</string>
+    <string name="transferring_fragment_header">कॉपी करीत आहे...</string>
+    <string name="transferring_fragment_remaining_time">%1$s बाकी</string>
+    <string name="trust_instructions_description">सुरू ठेवण्यासाठी, आपले iPhone® डिव्हाइस तपासा आणि कनेक्शन मंजूर करा</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari आणि iTunes हे Apple Inc चे ट्रेडमार्क आहेत, जे अमेरिका आणि इतर देशांमध्ये नोंदणीकृत आहेत.</string>
+    <string name="unmetered_wifi_string">मीटर न केलेले वायफाय नेटवर्क</string>
+    <string name="url_load_unsuccessful_message">आपले Android डिव्हाइस मोबाइल डेटा सेवेशी कनेक्ट केलेले नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरमधील %s वर जा.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">आपला Android डिव्हाइस वाय-फाय नेटवर्कवर कनेक्ट केलेला नाही. आता ही माहिती पाहण्यासाठी, वेब ब्राउझरसह %s ला भेट द्या.</string>
+    <string name="use_nearby_device_heading">जवळपासचे डिव्हाइस वापरायचे?</string>
+    <string name="use_nearby_device_text">क्रेडेन्शियलना मंजूरी देण्यासाठी आपण जवळपासचे डिव्हाइस वापरू इच्छिता?</string>
+    <string name="waiting_for_account_info_text">खाते माहितीसाठी प्रतीक्षा करीत आहे...</string>
+    <string name="wifi_available_action_all_networks">सर्व नेटवर्क</string>
+    <string name="wifi_available_action_connect">कनेक्ट करा</string>
+    <string name="wifi_available_content_failed">सर्व नेटवर्क पाहण्यासाठी टॅप करा</string>
+    <string name="wifi_available_title">खुल्या वाय-फाय नेटवर्कशी कनेक्ट करा</string>
+    <string name="wifi_available_title_connected">वाय-फाय नेटवर्कशी कनेक्ट केले</string>
+    <string name="wifi_available_title_connecting">खुल्या वाय-फाय नेटवर्कशी कनेक्ट करत आहे</string>
+    <string name="wifi_available_title_failed">वाय-फाय नेटवर्कशी कनेक्ट करता आले नाही</string>
+    <string name="wifi_string">वायफाय नेटवर्क</string>
+    <string name="wifi_wakeup_enabled_notification_context">आपण या जतन केलेल्या नेटवर्कच्या जवळ आहात: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">वाय-फाय स्वयंचलितपणे चालू झाले</string>
+</resources>

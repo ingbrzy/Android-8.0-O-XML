@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ces_details_header_message">
+        <item quantity="other">%s destinatários</item>
+        <item quantity="one">%s recipients</item>
+    </plurals>
+    <plurals name="ces_dialog_message">
+        <item quantity="other">^1 destinatários utilizam serviços que não suportam encriptação. Sem encriptação, as outras pessoas podem ver a sua mensagem durante a entrega. ^2</item>
+        <item quantity="one">"^1 recipients use services that don't support encryption. Without encryption, others could see your message during delivery. ^2"</item>
+    </plurals>
+    <plurals name="confirm_archive_conversation">
+        <item quantity="other">Arquivar estas %1$d conversas?</item>
+        <item quantity="one">Archive these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Eliminar estas %1$d conversas?</item>
+        <item quantity="one">Delete these %1$d conversations?</item>
+    </plurals>
+    <plurals name="confirm_discard_drafts_conversation">
+        <item quantity="other">Rejeitar rascunhos destas %1$d conversas?</item>
+        <item quantity="one">Discard drafts from these %1$d conversations?</item>
+    </plurals>
+    <plurals name="conversation_archived">
+        <item quantity="other">&lt;b>%1$d&lt;/b> arquivadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> archived</item>
+    </plurals>
+    <plurals name="conversation_deleted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> eliminadas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> deleted</item>
+    </plurals>
+    <plurals name="conversation_folder_changed">
+        <item quantity="other">Marcadores alterados.</item>
+        <item quantity="one">Changed labels.</item>
+    </plurals>
+    <plurals name="conversation_muted">
+        <item quantity="other">&lt;b>%1$d&lt;/b> ignoradas</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> muted</item>
+    </plurals>
+    <plurals name="conversation_not_important">
+        <item quantity="other">&lt;b>%1$d&lt;/b> marcadas como não importantes</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> marked not important</item>
+    </plurals>
+    <plurals name="conversation_not_spam">
+        <item quantity="other">&lt;b>%1$d&lt;/b> denunciadas como não sendo spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> reported as not spam</item>
+    </plurals>
+    <plurals name="conversation_spammed">
+        <item quantity="other">&lt;b>%1$d&lt;/b> denunciadas como spam</item>
+        <item quantity="one">&lt;b>%1$d&lt;/b> reported as spam</item>
+    </plurals>
+    <plurals name="conversation_spammed_and_unsubscribed">
+        <item quantity="other">%1$d denunc. como spam e c/ subscr. anulada</item>
+        <item quantity="one">%1$d reported as spam and unsubscribed</item>
+    </plurals>
+    <plurals name="conversation_unstarred">
+        <item quantity="other">A remover a estrela de %1$d conversas</item>
+        <item quantity="one">Unstarring %1$d conversations</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">Every %d days</item>
+    </plurals>
+    <plurals name="daily_lower">
+        <item quantity="other">a cada %d dias</item>
+        <item quantity="one">every %d days</item>
+    </plurals>
+    <plurals name="dialog_report_spam_unsubscribe_text">
+        <item quantity="other">Estas mensagens irão ser marcadas como spam. Também pretende deixar de receber mensagens semelhantes dos seguintes &lt;b>%2$d remetentes&lt;/b>?%1$s</item>
+        <item quantity="one">These messages will be marked as spam. Would you also like to stop receiving similar messages from these &lt;b>%2$d senders&lt;/b>?%1$s</item>
+    </plurals>
+    <plurals name="draft">
+        <item quantity="other">Rascunhos</item>
+        <item quantity="one">Drafts</item>
+    </plurals>
+    <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d conversas serão eliminadas definitivamente.</item>
+        <item quantity="one">%1$d conversations will be permanently deleted.</item>
+    </plurals>
+    <plurals name="endByCount">
+        <item quantity="other">; durante %d vezes</item>
+        <item quantity="one">; for %d times</item>
+    </plurals>
+    <plurals name="files_not_shared_dialog_body">
+        <item quantity="other">Os seus destinatários poderão não ter acesso aos ficheiros que inseriu a partir do Drive. Poderá ter de partilhar os ficheiros a partir do Google Drive.</item>
+        <item quantity="one">Your recipients may not have access to the files you inserted from Drive. You may need to share the files from within Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_does_not_fix_everything_warning">
+        <item quantity="other">Nota: alguns destinatários poderão ainda não ter acesso a estes ficheiros. Poderá ter de partilhar estes ficheiros a partir do Google Drive.</item>
+        <item quantity="one">Note: Some recipients may still not have access to these files. You may need to share these files from within Google Drive.</item>
+    </plurals>
+    <plurals name="fix_permissions_outside_domain_warning">
+        <item quantity="other">"Está a partilhar com os seguintes destinatários:&lt;br>&lt;b>%1$s
+&lt;/b>.&lt;br>Estes destinatários não se encontram na entidade do Google Apps à qual estes ficheiros pertencem."</item>
+        <item quantity="one">"You're sharing with recipients:&lt;br>&lt;b>%1$s
+&lt;/b>&lt;br>who are not in the Google Apps organization that these files belong to."</item>
+    </plurals>
+    <plurals name="fz_dialog_message_none">
+        <item quantity="other">^1 destinatários utilizam serviços que não suportam encriptação. Sem encriptação, a sua mensagem pode ser lida durante a entrega. ^2</item>
+        <item quantity="one">"^1 recipients use services that don't support encryption. Without encryption, your message could be read during delivery. ^2"</item>
+    </plurals>
+    <plurals name="monthly_interval">
+        <item quantity="other">A cada %1$d meses</item>
+        <item quantity="one">Every %1$d months</item>
+    </plurals>
+    <plurals name="monthly_interval_lower">
+        <item quantity="other">a cada %1$d meses</item>
+        <item quantity="one">every %1$d months</item>
+    </plurals>
+    <plurals name="new_incoming_messages">
+        <item quantity="other">%1$d mensagens novas</item>
+        <item quantity="one">%1$d new messages</item>
+    </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d mensagens novas</item>
+        <item quantity="one">%1$d new messages</item>
+    </plurals>
+    <plurals name="num_attachments">
+        <item quantity="other">%1$d anexos</item>
+        <item quantity="one">%1$d attachments</item>
+    </plurals>
+    <plurals name="num_messages">
+        <item quantity="other">%1$d mensagens</item>
+        <item quantity="one">%1$d messages</item>
+    </plurals>
+    <plurals name="pntg_find_a_time_all_calendars_not_shared">
+        <item quantity="other">Os calendários não são partilhados</item>
+        <item quantity="one">Calendars are not shared</item>
+    </plurals>
+    <plurals name="recurrence_end_count">
+        <item quantity="other">Para %d eventos</item>
+        <item quantity="one">For %d events</item>
+    </plurals>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">A cada %d dias</item>
+        <item quantity="one">Every %d days</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">A cada %d meses</item>
+        <item quantity="one">Every %d months</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">A cada %d semanas</item>
+        <item quantity="one">Every %d weeks</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">A cada %d anos</item>
+        <item quantity="one">Every %d years</item>
+    </plurals>
+    <plurals name="search_results_announcement">
+        <item quantity="other">Carregou %d resultados da pesquisa</item>
+        <item quantity="one">Loaded %d search results</item>
+    </plurals>
+    <plurals name="show_messages_read">
+        <item quantity="other">%1$d mensagens mais antigas expandidas</item>
+        <item quantity="one">Expand %1$d older messages</item>
+    </plurals>
+    <plurals name="super_collapsed_block_accessibility_announcement">
+        <item quantity="other">%1$d mensagens mais antigas expandidas</item>
+        <item quantity="one">Expanded %1$d older messages</item>
+    </plurals>
+    <plurals name="sync_duration">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d days</item>
+    </plurals>
+    <plurals name="sync_messages_partial_description">
+        <item quantity="other">Os últimos %1$d dias de mensagens serão transferidos quando tiver ligação à Internet</item>
+        <item quantity="one">Last %1$d days of messages will download when connected</item>
+    </plurals>
+    <plurals name="sync_recent">
+        <item quantity="other">Últimos %1$d dias</item>
+        <item quantity="one">Last %1$d days</item>
+    </plurals>
+    <plurals name="t4_list_section_description">
+        <item quantity="other">Data de conclusão - %1$s - %2$d tarefas</item>
+        <item quantity="one">Due date - %1$s - %2$d tasks</item>
+    </plurals>
+    <plurals name="title_day_dialog_content">
+        <item quantity="other">Dias</item>
+        <item quantity="one">Days</item>
+    </plurals>
+    <plurals name="weekly">
+        <item quantity="other">A cada %1$d semanas, no(a) %2$s</item>
+        <item quantity="one">Every %1$d weeks on %2$s</item>
+    </plurals>
+    <plurals name="weekly_lower">
+        <item quantity="other">a cada %1$d semanas no(a) %2$s</item>
+        <item quantity="one">every %1$d weeks on %2$s</item>
+    </plurals>
+    <plurals name="welcome_tour_other_addresses_list_label">
+        <item quantity="other">Os seus endereços de email atuais:</item>
+        <item quantity="one">Your current email addresses:</item>
+    </plurals>
+    <plurals name="yearly_interval_lower">
+        <item quantity="other">a cada %1$d anos</item>
+        <item quantity="one">every %1$d years</item>
+    </plurals>
+    <plurals name="yearly_interval_plain">
+        <item quantity="other">A cada %1$d anos</item>
+        <item quantity="one">Every %1$d years</item>
+    </plurals>
+</resources>

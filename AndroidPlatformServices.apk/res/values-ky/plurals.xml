@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_picker_all_apps">
+        <item quantity="other">%1$d колдонмонун баары</item>
+        <item quantity="one">1 колдонмо</item>
+    </plurals>
+    <plurals name="app_picker_some_apps">
+        <item quantity="other">%1$d колдонмо тандалды</item>
+        <item quantity="one">1 колдонмо тандалды</item>
+    </plurals>
+    <plurals name="app_picker_some_apps_already_installed">
+        <item quantity="other">%1$d колдонмо буга чейин орнотулган</item>
+        <item quantity="one">1 колдонмо буга чейин орнотулган</item>
+    </plurals>
+    <plurals name="auth_authzen_pull_number_of_google_accounts">
+        <item quantity="other">%d Google Каттоо эсеби</item>
+        <item quantity="one">%d Google Каттоо эсеби</item>
+    </plurals>
+    <plurals name="auth_d2d_source_notification_text">
+        <item quantity="other">Бул түзмөк аркылуу Google каттоо эсептериңиз жана алардын дайындары ^1 түзмөгүнө орнотулган</item>
+        <item quantity="one">Бул түзмөк аркылуу Google каттоо эсебиңиз жана анын дайындары ^1 түзмөгүнө орнотулган</item>
+    </plurals>
+    <plurals name="cloud_restore_app_picker_description">
+        <item quantity="other">%1$d колдонмонун камдык көчүрмөсү сакталган. Бир нечесин тандаңыз же баарын өткөрүп алыңыз.</item>
+        <item quantity="one">%1$d колдонмонун камдык көчүрмөсү сакталган.</item>
+    </plurals>
+    <plurals name="contacts_number_device">
+        <item quantity="other">түзмөктө %1$d байланыш</item>
+        <item quantity="one">түзмөктө 1 байланыш</item>
+    </plurals>
+    <plurals name="contacts_number_device_and_sim">
+        <item quantity="other">SIM-картадагы байланыштар – %1$d, түзмөктөгү байланыштар – %2$d</item>
+        <item quantity="one">SIM-картадагы байланыштар – %1$d, түзмөктөгү байланыштар – %2$d</item>
+    </plurals>
+    <plurals name="contacts_number_icloud">
+        <item quantity="other">%1$d iCloud® байланышы</item>
+        <item quantity="one">1 iCloud® байланышы</item>
+    </plurals>
+    <plurals name="contacts_number_sim">
+        <item quantity="other">%1$d SIM картадагы байланыш</item>
+        <item quantity="one">1 SIM картадагы байланыш</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description">
+        <item quantity="other">%1$d колдонмо таптык. Бир нечесин тандаңыз же баарын өткөрүп алыңыз.</item>
+        <item quantity="one">%1$d колдонмо таптык. Аларды өткөрүп аласызбы?</item>
+    </plurals>
+    <plurals name="d2d_app_picker_description_ios_v2">
+        <item quantity="other">iOS® колдонмоңузга дал келген %1$d колдонмо табылды. Ар бир колдонмону орнотуу менен алар сураган уруксаттарга макулдугуңузду бересиз. &lt;annotation id="apps_permissions_learn_more">Кеңири маалымат&lt;/annotation></item>
+        <item quantity="one">iOS® колдонмолоруңуздун бирине дал келген колдонмо табылды. Бул колдонмону орнотуу менен ал сураган уруксаттарга макулдугуңузду бересиз. &lt;annotation id="apps_permissions_learn_more">Кеңири маалымат&lt;/annotation></item>
+    </plurals>
+    <plurals name="drive_backup_content_photos_items_left">
+        <item quantity="other">%1$d нерсе калды...</item>
+        <item quantity="one">%1$d нерсе калды...</item>
+    </plurals>
+    <plurals name="ios_migration_calendar_attendee_warning">
+        <item quantity="other">Көңүл буруңуз! Төмөнкү катышуучулар бул иш-чарага мындан ары кошулбайт:</item>
+        <item quantity="one">Көңүл буруңуз! Төмөнкү катышуучу бул иш-чарага мындан ары кошулбайт:</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_setting_up_accounts_and_data_text">
+        <item quantity="other">Google Каттоо эсептер жана дайындар көчүрүлүүдө…</item>
+        <item quantity="one">Google Каттоо эсебиңиз жана дайындар көчүрүлүүдө…</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_generic_text">
+        <item quantity="other">Бул түзмөк аркылуу Google каттоо эсебиңиз менен андагы дайындар башка түзмөктө жөндөлгөн.</item>
+        <item quantity="one">Бул түзмөк аркылуу Google каттоо эсебиңиз менен андагы дайындар башка түзмөктө жөндөлгөн</item>
+    </plurals>
+    <plurals name="smartdevice_d2d_source_notification_text">
+        <item quantity="other">Google Каттоо эсебиңиз жана дайындар ушул түзмөк аркылуу ^1 түзмөгүнө орнотулган</item>
+        <item quantity="one">Google Каттоо эсебиңиз жана дайындар ушул түзмөк аркылуу ^1 түзмөгүнө орнотулган</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d секунддан кийин орнотуу үчүн өчүрүлүп-күйгүзүлүүдө…</item>
+        <item quantity="one">1 секунддан кийин орнотуу үчүн өчүрүлүп-күйгүзүлүүдө…</item>
+    </plurals>
+</resources>

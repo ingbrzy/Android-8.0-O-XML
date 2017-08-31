@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_capital_off">ИСКЉУЧИ</string>
+    <string name="abc_capital_on">УКЉУЧИ</string>
+    <string name="abc_search_hint">Претражите...</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дели са апликацијом %s</string>
+    <string name="abc_toolbar_collapse_description">Скупи</string>
+    <string name="account_blocked_title">Налог је блокиран</string>
+    <string name="account_level_title">Потребна је радња на налогу</string>
+    <string name="account_removed_notification_text">%1$s је уклоњен јер управљање уређајем није завршено</string>
+    <string name="account_removed_notification_title">Налог је уклоњен</string>
+    <string name="android_privacy_policy_title">Додатна политика приватности</string>
+    <string name="app_has_in_app_purchases">Куповине у апликацији</string>
+    <string name="app_has_permissions">Дозволе: %s</string>
+    <string name="app_has_runtime_permissions">Апликација ће затражити дозволе</string>
+    <string name="app_level_title">Захтев за пријављивање</string>
+    <string name="app_level_title_secondary">Захтев за пријав. аплик. %s</string>
+    <string name="app_picker_app_already_installed_toast">Ова апликација је већ инсталирана</string>
+    <string name="app_picker_loading">Траже се доступне апликације…</string>
+    <string name="app_picker_loading_toast">Доступне апликације ће се ускоро учитати</string>
+    <string name="app_picker_no_apps">Нема изабраних апликација</string>
+    <string name="app_picker_no_apps_found">Није пронађена ниједна апликација</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Куповине у апликацији се неће пренети на ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Неке куповине у апликацији се можда неће пренети на ^1.</string>
+    <string name="apps_permissions_described_v2">"Само популарне, бесплатне iOS® апликације могу да се подударају са Android апликацијама. Већина куповина у апликацијама неће моћи да се пренесе. Када се подешавање заврши, можете да пронађете још апликација у Play продавници.
+
+Неким апликацијама унапред треба да дате дозволу за приступање одређеним опцијама или информацијама на уређају. Дозволе се подељене у групе дозвола. Ако изаберете да инсталирате те апликације, прихватате дозволе које су део група. Опис свих група дозвола се налази у наставку.
+
+Неке апликације неће тражити да унапред прихватите захтеве за дозволе. Када користите неку од тих апликација, можете да омогућите или одбијете појединачне захтеве за дозволе пре него што апликација почне да користи тај тип података.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Ако инсталирате апликацију, прихватате њене дозволе. <annotation id="apps_permissions_learn_more">Сазнајте више</annotation></string>
+    <string name="audience_selection_done">Готово</string>
+    <string name="auth_account_already_has_gmail">Налог већ има Gmail.</string>
+    <string name="auth_account_content_provider_label">Подаци о Google налогу</string>
+    <string name="auth_account_removed_default_description">Управљање уређајем није завршено. Почните из почетка и пријавите се поново.</string>
+    <string name="auth_account_removed_default_title">Подешавање је отказано</string>
+    <string name="auth_account_removed_dm_bad_result_description">Није могуће завршити управљање уређајем. Почните из почетка и пријавите се поново.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Ваш домен захтева управљање мобилним уређајем, али то није подржано на овом уређају. Покушајте са другим налогом.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Управљање уређајем није подржано</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Управљање уређајем није исправно инсталирано. Почните из почетка и пријавите се поново.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Проблем при инсталирању</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Управљање уређајем није завршено. Почните из почетка и пријавите се поново.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Подешавање отказано</string>
+    <string name="auth_account_settings_title">Подешавања налога</string>
+    <string name="auth_account_setup_title">Google налог</string>
+    <string name="auth_account_state_sync_title">Синхронизација статуса налога</string>
+    <string name="auth_allow_button_label">Дозволи</string>
+    <string name="auth_allow_external_site_access">Има непрекидни приступ подацима на %s</string>
+    <string name="auth_app_permission_ok_footnote">Ако наставите, дозволићете овој апликацији и Google-у да користе ваше податке у складу са одговарајућим условима коришћења услуге и политикама приватности.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Дозволи пријављивање</string>
+    <string name="auth_authzen_allow_reset_button_text">Омогући ресет. лозинке</string>
+    <string name="auth_authzen_google_logo_label">Google логотип</string>
+    <string name="auth_authzen_login_challenge_approved_text">Пријављивање је одобрено</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Пријављивање је отказано</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Дозволи пријављивање</string>
+    <string name="auth_authzen_login_challenge_desc_text">Пријављујете се из земље %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google је зауставио покушај пријављивања.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Нетачан број</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Додирните број приказан на другом екрану. На тај начин ћете се пријавити на рачунару.</string>
+    <string name="auth_authzen_login_challenge_title_text">Покушавате да се пријавите?</string>
+    <string name="auth_authzen_profile_picture_label">Слика профила</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Изаберите налог са којим покушавате да се пријавите:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Покушавате да се пријавите?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Није пронађено ниједно обавештење о пријављивању.</string>
+    <string name="auth_authzen_pull_offline_error">Интерна грешка</string>
+    <string name="auth_authzen_pull_offline_instructions_text">На рачунару кликните на „Имате ли кôд?“, па унесите:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Да ли сте управо покушали да се пријавите на Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Ресетовање лозинке је одобрено</string>
+    <string name="auth_authzen_recovery_canceled_text">Ресетовање лозинке је отказано</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Желите ли да дозволите ресетовање лозинке са локације %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Потребно је да потврдите</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google је зауставио покушај ресетовања лозинке.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Нетачан број</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Додирните број приказан на другом екрану. На тај начин ћете ресетовати лозинку.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Омогућите ресетовање лозинке</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Неко је захтевао ресетовање лозинке за ваш Google налог. Google је зауставио покушај ресетовања лозинке.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Ресетовање лозинке је спречено</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Да ли сте захтевали ресетовање лозинке са локације %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Да ли сте покушали да ресетујете лозинку?</string>
+    <string name="auth_authzen_secure_account_button_text">Заштитите налог</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Траже се обавештења о пријављивању...</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_cant_add_work_account_message">Овим типом налога управља организација.</string>
+    <string name="auth_captcha_instructions">Унесите текст који видите овде:</string>
+    <string name="auth_captcha_title">Треба да унесете знакове са CAPTCHA слике</string>
+    <string name="auth_common_next_button">Даље</string>
+    <string name="auth_common_skip">Прескочи</string>
+    <string name="auth_common_switch_accounts">Промени налог</string>
+    <string name="auth_communicating_message">Уређај контактира Google да би сачувао информације на налог. То може да потраје до 5 минута.</string>
+    <string name="auth_confirm_creds_sync_title">Стање акредитива</string>
+    <string name="auth_d2d_source_alert_title">Додирни и иди</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Закључај и верификуј</string>
+    <string name="auth_d2d_source_copy_notice">Желите ли да копирате налоге и податке на други уређај?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Када обавите верификацију, Bluetooth ће бити укључен, па ће уређаји моћи да комуницирају.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Када обавите верификацију, уређаји ће се повезати преко Bluetooth-а.</string>
+    <string name="auth_d2d_source_lock_notice">Да бисте наставили, екран ће бити закључан и мораћете да га откључате ради верификације.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Не можете да користите функцију Додирни и иди јер нема налога на овом уређају.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Не можете да користите функцију Додирни и иди јер Bluetooth није доступан на уређају.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Bluetooth ће бити укључен, па ће уређаји моћи да комуницирају.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Ово користи Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Додирни и иди је готово</string>
+    <string name="auth_d2d_source_restricted_user_toast">Није могуће користити функцију Додирните и вратите на ограниченом корисничком профилу.</string>
+    <string name="auth_d2d_source_title">Враћање налога</string>
+    <string name="auth_d2d_source_unknown_device_name">Непознат уређај</string>
+    <string name="auth_d2d_target_sorry_alert">Жао нам је, нешто је кренуло наопако</string>
+    <string name="auth_d2d_target_tap_progress_message">Да бисте наставили, додирните Потврди на другом уређају</string>
+    <string name="auth_d2d_target_title">Додирни и иди</string>
+    <string name="auth_d2d_target_unlock_progress_message">Проверите други уређај</string>
+    <string name="auth_d2d_target_wait_progress_message">Преузимају се налози и подаци...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Одбиј</string>
+    <string name="auth_device_management_download_app_icon">Икона апликације %s</string>
+    <string name="auth_device_management_download_description">Овај налог захтева управљање мобилним уређајем. Инсталирајте апликацију ^1 да бисте применили безбедносне смернице потребне за налог.</string>
+    <string name="auth_device_management_download_description_kids">Да бисте додали налог на овај уређај, прво инсталирајте апликацију <b>^1</b>". 
+
+^1 вам помаже да подесите овај уређај за дете."</string>
+    <string name="auth_device_management_download_failed_message">Можете да наставите подешавање без ове апликације</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Управљање уређајима није инсталирано. Уклонићемо овај налог. Пробајте поново касније.</string>
+    <string name="auth_device_management_download_failed_title">Неуспело преузимање апликације</string>
+    <string name="auth_device_management_download_not_updated_message">Можете да наставите подешавање са тренутном верзијом</string>
+    <string name="auth_device_management_download_paused">Паузирано</string>
+    <string name="auth_device_management_download_progress">Преузима се...</string>
+    <string name="auth_device_management_download_skip_message">Овај налог захтева управљање уређајем. Желите ли да наставите без њега?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Да бисте додали овај налог, треба да подесите управљање уређајем. Желите ли да почнете из почетка са неким другим налогом?</string>
+    <string name="auth_device_management_go_back">Назад</string>
+    <string name="auth_device_management_screenlock_description">Да бисте приступили налогу за Work на овом уређају, мораћете да подесите закључавање екрана. Ово су смернице ваше организације у вези са мобилним уређајима.</string>
+    <string name="auth_device_management_screenlock_skip_message">"Овај налог захтева безбедносну меру закључавања  екрана. Желите ли да почнете из почетка са неким другим налогом?"</string>
+    <string name="auth_device_management_start_description">Овај налог захтева управљање мобилним уређајем. Када додирнете Даље, апликација ^1 ће вам помоћи да примените безбедносне смернице потребне за налог.</string>
+    <string name="auth_device_management_start_description_kids">Да бисте додали налог на овај уређај, користите апликацију <b>^1</b>". 
+
+^1 вам помаже да подесите овај уређај за дете."</string>
+    <string name="auth_device_management_title">Управљање уређајима</string>
+    <string name="auth_device_management_update_description">Овај налог захтева управљање мобилним уређајем. Да бисте поступали у складу са безбедносним смерницама повезаним са налогом, морате да инсталирате новију верзију апликације ^1.</string>
+    <string name="auth_device_management_update_description_kids">Да бисте додали налог на овај уређај, прво инсталирајте најновију верзију апликације <b>^1</b>". 
+
+^1 вам помаже да подесите овај уређај за дете."</string>
+    <string name="auth_dismiss_button_label">Одбаци</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не користи Gmail.</string>
+    <string name="auth_error_account_disabled">"Овај налог је онемогућен. 
+
+(За више информација посетите http://google.com/accounts у веб-прегледачу.)"</string>
+    <string name="auth_error_account_not_verified">"Овај налог није верификован. Проверите е-пошту и пратите наведену везу да бисте верификовали овај налог.
+
+(Да бисте повратили информације о налогу, посетите http://www.google.com/accounts/recovery на рачунару.)"</string>
+    <string name="auth_error_bad_password">Лозинка је преслаба или садржи неважеће знакове. Пробајте поново.</string>
+    <string name="auth_error_bad_username">Корисничко име је неважеће.</string>
+    <string name="auth_error_generic_server_error">"Дошло је до проблема при комуникацији са Google серверима. 
+
+Пробајте поново касније."</string>
+    <string name="auth_error_invalid_second_factor">Користите посебну лозинку за апликацију уместо уобичајене лозинке за налог.</string>
+    <string name="auth_error_login_failed">"Корисничко име и лозинка се не подударају. Пробајте поново.
+
+Да бисте повратили информације о налогу, посетите google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Да бисте приступали налогу, морате да се пријавите на вебу. Додирните Даље да бисте започели Пријављивање преко прегледача.</string>
+    <string name="auth_error_no_network">"Немате мрежну везу. 
+
+То би могао да буде привремени проблем. Пробајте поново или се повежите са другом Wi-Fi мрежом."</string>
+    <string name="auth_error_not_logged_in">Корисник није пријављен.</string>
+    <string name="auth_error_username_unavailable">Корисничко име није доступно.</string>
+    <string name="auth_existing_account_error_text">На овом Android уређају већ постоји налог ^1.</string>
+    <string name="auth_existing_account_error_title">Налог већ постоји</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Пријављивање на уређај није успело због недавне промене лозинке. Покушајте да се пријавите поново када прође 24 сата од промене лозинке.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Функције за заштиту уређаја више неће функционисати.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Ако уклоните последњи Google налог на уређају са личног профила, онемогућићете функције за заштиту уређаја од крађе. Можете да додате још један налог на уређај да бисте их касније поново омогућили.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Да ли сте сигурни?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Желите ли да пребаците налог на профил за Work?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Пријављивање на уређај није успело због непознате грешке. Покушајте са неким другим налогом или покушајте да се пријавите поново после 24 сата.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Пријавите се помоћу неког од власничких налога за овај уређај</string>
+    <string name="auth_field_cant_be_blank">Поље не сме да буде празно.</string>
+    <string name="auth_frp_add_account_no">Не</string>
+    <string name="auth_frp_add_account_prompt">Желите ли да сада додате ^1 на уређај? Ако имате још један налог, можете касније да га додате.</string>
+    <string name="auth_frp_add_account_yes">Да</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Нисмо успели да приступимо овом налогу. Уверите се да је уређај усклађен са смерницама за безбедност ваше организације. Ако вам се ова грешка и даље приказује, контактирајте администратора организације.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Грешка са налогом</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Домен захтева управљање мобилним уређајем. Инсталирајте апликацију „Смернице за Google Apps уређаје“ да бисте применили безбедносне смернице потребне за налог  "<b>^1</b> .</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Преузми</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" може да садржи само слова,
+бројеве и тачке."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не садржи никаква слова.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> садржи мање од 6 или више од 30 знакова.</string>
+    <string name="auth_gls_is_not_available">Корисничко име <b>^1</b> није доступно.</string>
+    <string name="auth_gls_name_checking_info_title">Проверавају се информације…</string>
+    <string name="auth_gls_sync_item_title">Синхронизуј %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Налог  "<b>^1</b> мора да се дода на уређај или пословни профил којим управља организација. Пратите упутства администратора за ИТ да бисте довршили ово.</string>
+    <string name="auth_google_title_logo">Google логотип</string>
+    <string name="auth_invalid_login_character">Неважећи знак. Дозвољени су само 0–9, a–z, A–Z и тачке.</string>
+    <string name="auth_invalid_password_character">Лозинка садржи неважећи знак.</string>
+    <string name="auth_invalid_username">Текст који сте откуцали није важеће корисничко име.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Ако наставите, слажете се да овај уређај може и да аутоматски преузима и инсталира ажурирања и апликације од Google-а, мобилног оператера и произвођача овог уређаја, уз могуће коришћење података за мобилне уређаје. Неке од ових апликација могу да нуде куповине у апликацији. Увек можете да уклоните ове апликације.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Ослободите простор када је меморијски простор уређаја скоро пун</b> уклањањем дела података са уређаја, попут резервних копија слика и видео снимака.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Аутоматски правите резервне копије података на уређају</b> (као што су Wi-Fi лозинке и историја позива) и података апликација (као што су подешавања и датотеке које се чувају у апликацијама) на дететовом Google диску.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Када укључите аутоматско прављење резервних копија, подаци уређаја и апликација се повремено чувају у приватном директоријуму на дететовом Google диску. Подаци апликација могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући потенцијално осетљиве податке као што су контакти, поруке и слике.
+
+Резервне копије података не улазе у квоту дететовог меморијског простора Диска. За велике датотеке или датотеке које су одлуком програмера изузете из услуге се не праве резервне копије."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Аутоматски правите резервне копије података на уређају</b> (попут Wi-Fi лозинки, SMS-ова и историје позива), подешавања и података апликација (попут подешавања и датотека које се чувају у апликацијама) на дететовом Google диску.</string>
+    <string name="auth_kids_setup_wizard_services_description">Као родитељ, увек можете да укључите или искључите ове услуге за налог детета. Подаци ће се користити у складу са Google <annotation link="google_privacy">смерницама</annotation>".
+
+Ако желите да сазнате више, можете да додирнете сваку услугу."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Користите Google услугу локације да би апликације</b> одредиле локацију детета. Анонимни подаци о локацији ће се слати Google-у када је овај уређај укључен.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Google-ова услуга локације користи изворе попут Wi‑Fi-ја и мобилних мрежа да би брже и прецизније утврдила приближну локацију овог уређаја. Ова услуга је активна када је подешавање Локација на овом уређају укључено и у режиму који користи Wi‑Fi или мобилне мреже за утврђивање приближне локације, попут режима Велика прецизност или Уштеда батерије (Уштеда енергије).
+
+Можете да искључите ову услугу:
+
+"<li>ако искључите главно подешавање Локација на овом уређају.</li>"
+
+"<li>ако оставите главно подешавање Локација укључено и изаберете режим који користи само GPS, који се понекад назива Само уређај.</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Помозите нам да побољшамо Android доживљај</b> тако што ћете аутоматски слати Google-у податке о дијагностици и коришћењу уређаја и апликација. Те информације се неће користити за идентификацију детета и помоћи ће побољшање трајања батерије, стабилност апликација, везе са мрежом и још много тога.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Ово су опште информације о овом уређају и начину на који се користи (попут нивоа напуњености батерије, коришћења апликација и интернет везе). Подаци ће се користити за побољшање Google-ових производа и услуга за све кориснике. Неке обједињене информације ће помоћи и партнерима, као што су Android програмери, да побољшају своје апликације и производе.
+
+Искључивање ове функције неће утицати на могућност уређаја да шаље информације потребне за неопходне услуге, попут ажурирања система и безбедносних функција."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Ово су опште информације о овом уређају и начину на који га користите (попут нивоа напуњености батерије, коришћења апликација и везе са мрежом). Подаци ће се користити за побољшање Google производа и услуга за све кориснике. Неке обједињене информације ће помоћи и партнерима, као што су Android програмери, да побољшају своје апликације и производе.
+
+Ако искључите ову функцију, то неће утицати на могућност уређаја да шаље информације потребне за неопходне услуге, попут ажурирања система и безбедносних функција.
+
+Ову функцију можете да контролишете у одељку Подешавања > Google. Изаберите „Коришћење и дијагностика“ у менију."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Унели сте погрешну лозинку или је налог промењен. Поново унесите лозинку. Ако сте заборавили лозинку и желите да опоравите налог, кликните <annotation id="help_url">овде</annotation>.</string>
+    <string name="auth_login_activity_task_title">Пријављујете се…</string>
+    <string name="auth_login_activity_title">Пријављивање</string>
+    <string name="auth_login_task_title">Пријављивање</string>
+    <string name="auth_login_title">Унесите имејл и лозинку</string>
+    <string name="auth_minutemaid_ssl_error">"Дошло је до проблема при повезивању са хостом  %s."</string>
+    <string name="auth_network_unreliable_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Ако се ово настави, позовите Корисничку подршку.</string>
+    <string name="auth_next_button_label">Даље</string>
+    <string name="auth_no_network">Немате мрежну везу.</string>
+    <string name="auth_no_network_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Пробајте поново када се повежете са мобилном мрежом или се повежите са Wi-Fi мрежом.</string>
+    <string name="auth_no_network_help_wifi_only">Ово може да буде привремени проблем. Пробајте поново или се повежите са другом Wi-Fi мрежом.</string>
+    <string name="auth_otp_error">Дошло је до проблема при генерисању безбедносног кода.</string>
+    <string name="auth_otp_explained_paragraph">Ако сте заборавили лозинку или је дошло до промене у вези са пријављивањем, Google ће затражити безбедносни кôд да би заштитио налог. Искористите га одмах или се вратите по нови.</string>
+    <string name="auth_otp_header_message">Када се овај кôд користи за пријављивање</string>
+    <string name="auth_otp_help">Помоћ и повратне информације</string>
+    <string name="auth_otp_no_accounts_available_message">Нема конфигурисаних налога на овом уређају.</string>
+    <string name="auth_otp_progress_dialog_message">Генерише се безбедносни кôд.</string>
+    <string name="auth_password">Лозинка</string>
+    <string name="auth_plus_audience_selection_description_acl">ДЕЛИTE СА</string>
+    <string name="auth_plus_failure_new_account_text">Google налог је отворен, али захтев за прављење Google+ профила није прихваћен. Пробајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_plus_failure_text">Нисмо успели да обрадимо захтев за придруживање Google+. Пробајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_plus_failure_title">Направите Google+ профил касније</string>
+    <string name="auth_plus_info_fragment_app_name">%s жели да:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s са уређаја %s жели:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Проширени кругови</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Изабрани кругови</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Само ви</string>
+    <string name="auth_plus_scope_fragment_public_label">Сви на вебу</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Kругови</string>
+    <string name="auth_relogin_activity_title">Поново унесите лозинку</string>
+    <string name="auth_remove_account_start_over">Почни из почетка</string>
+    <string name="auth_scope_more_details">Више информација</string>
+    <string name="auth_server_error">Дошло је до проблема при комуникацији са Google серверима.</string>
+    <string name="auth_server_error_help">Пробајте поново касније.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Налог је додат</string>
+    <string name="auth_setup_wizard_account_added_description">Налог је додат. Наставите и изаберите опције Google услуга</string>
+    <string name="auth_setup_wizard_back_button_label">Назад</string>
+    <string name="auth_setup_wizard_next_button_label">Даље</string>
+    <string name="auth_setup_wizard_services_activity_title">Google услуге</string>
+    <string name="auth_setup_wizard_services_agreement">Ако наставите, слажете се да овај уређај може и да аутоматски преузима и инсталира ажурирања и апликације од Google-а, мобилног оператера и произвођача уређаја, уз могуће коришћење података за мобилне уређаје. Неке од ових апликација могу да нуде куповине у апликацији. Увек можете да уклоните ове апликације.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Да бисте уклонили апликације, идите у одељак Подешавања > Апликације или Менаџер апликација. Додирните апликацију коју желите да деинсталирате (можда ћете морати да превучете надесно или налево да бисте пронашли апликацију). Онда додирните Деинсталирај или Онемогући.</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Такође сте сагласни и дајете унапред учитаним Google апликацијама дозволу да приступају информацијама и функцијама на уређају. Погледајте <annotation link="app_permissions">ову страницу</annotation> за више информација о коришћењу тих дозвола.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Инсталирање ажурирања и апликација</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Када је меморијски простор телефона скоро пун, ослободите простор уклањањем дела података, попут резервних копија слика и видео снимака.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Када сте повезани, можете и даље да приступате овим подацима. Можете да контролишете ову функцију и шта се уклања ако одете у одељак Подешавања > Меморијски простор > Паметна меморија.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Ослободи простор</string>
+    <string name="auth_setup_wizard_services_backup">Лако враћајте садржај или мењајте телефоне у било ком тренутку. Резервне копије обухватају апликације, податке апликација и подешавања уређаја (укључујући лозинке за Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Подаци апликација могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући потенцијално осетљиве податке, попут контаката, порука и слика.
+
+Резервне копије података не улазе у квоту Drive storage-а.
+
+Можете да искључите ову услугу у Подешавањима."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Подаци апликација могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући потенцијално осетљиве податке као што су контакти, SMS-ови и слике.
+
+Слике и видео снимци са овог уређаја се синхронизују са Google сликама да бисте могли да претражујете, мењате, бришете и делите са било ког уређаја. Слике и видео снимци се подразумевано отпремају у пуној резолуцији.
+
+Резервне копије података не улазе у квоту Drive storage-а.
+
+Ову услугу можете да искључите у подешавањима."</string>
+    <string name="auth_setup_wizard_services_backup_title">Резервне копије на Google диску</string>
+    <string name="auth_setup_wizard_services_backup_v23">Лако враћајте садржај или мењајте телефоне у било ком тренутку. Резервне копије обухватају апликације, податке апликација, историју позива, контакте и подешавања уређаја (укључујући лозинке и дозволе за Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Лако враћајте садржај или мењајте телефоне у било ком тренутку. Резервне копије обухватају апликације, податке апликација, историју позива, контакте, подешавања уређаја (укључујући лозинке и дозволе за Wi‑Fi) и SMS-ове.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Лако враћајте садржај или мењајте телефоне у било ком тренутку. Резервне копије обухватају апликације, податке апликација, историју позива, контакте, подешавања уређаја (укључујући лозинке и дозволе за Wi‑Fi), слике, видео снимке и SMS-ове. Слике и видео снимци се синхронизују са Google налогом и могу да се користе у више различитих услуга.</string>
+    <string name="auth_setup_wizard_services_description">Додирните да бисте сазнали више о свакој услузи, на пример, како да је укључите или искључите касније. Подаци ће се користити у складу са Google-овом <annotation link="google_privacy">политиком приватности</annotation>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Детаље о апликацијама, укључујући куповине у апликацијама, можете да пронађете у Play продавници. Подаци и подешавања апликација се синхронизују са уређајима на које сте пријављени помоћу Google налога. 
+
+Коришћење инстант апликација је регулисано "<a href="https://play.google.com/about/play-terms.html">условима коришћења услуге Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Сазнајте више</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Када додирнете линк, Google Play проверава да ли постоји нека инстант апликација и покреће је без инсталирања. Инстант апликације се привремено чувају на уређају.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Користите апликације без инсталацијe</string>
+    <string name="auth_setup_wizard_services_location_sharing">Користите Google-ову услугу локације да би апликације лакше одредиле локацију. Анонимни подаци о локацији ће се слати Google-у када је уређај укључен.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Google-ова услуга локације користи изворе попут Wi‑Fi-ја и мобилних мрежа да би брже и прецизније утврдила приближну локацију уређаја. Ова услуга је активна када је подешавање Локација на уређају укључено и у режиму који користи Wi‑Fi или мобилне мреже за утврђивање приближне локације, попут режима Велика прецизност или Уштеда батерије (Уштеда енергије).
+
+Можете да искључите ову услугу:
+
+"<li>ако искључите главно подешавање Локација на уређају.</li>"
+
+"<li>ако оставите главно подешавање Локација укључено и изаберете режим који користи само GPS, који се понекад назива Само уређај.</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Помозите апликацијама да нађу локацију</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Дозволите апликацијама и услугама да траже Wi‑Fi мреже, чак и када је Wi‑Fi искључен.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Можете да искључите ово у подешавањима локације.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Побољшајте прецизност локације</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Дозволите апликацијама и услугама да траже Wi‑Fi мреже и Bluetooth уређаје, чак и када су та подешавања искључена.</string>
+    <string name="auth_setup_wizard_services_play">Обавештавај ме о вестима и понудама са Google Play-а.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Резервне копије и меморијски простор</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Одржавање уређаја</string>
+    <string name="auth_setup_wizard_services_section_location">Локација</string>
+    <string name="auth_setup_wizard_services_tos">Ако наставите, прихватате и <annotation link="tos">Google услове коришћења услуге</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Када користите овај уређај, поштујемо нашу <annotation link="google_privacy">политику приватности</annotation>, а важе и <annotation link="tos">додатни услови</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Помозите нам да побољшамо Android доживљај тако што ћете аутоматски слати Google-у дијагностичке податке и податке о коришћењу уређаја и апликација. На тај начин ћете продужити век трајања батерије, побољшати стабилност апликација, побољшати интернет везу и друго. Ако сте укључили додатне Активности на вебу и у апликацијама, ове информације ће бити чуване на налогу да бисте могли да управљате њима у одељку Моје активности.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Ово су опште информације о уређају и начину на који га користите (попут нивоа напуњености батерије, коришћења апликација и интернет везе). Подаци ће се користити за побољшање Google-ових производа и услуга за све кориснике. Неке обједињене информације ће помоћи и партнерима, као што су Android програмери, да побољшају своје апликације и производе.
+
+Искључивање ове функције неће утицати на могућност уређаја да шаље информације потребне за неопходне услуге, попут ажурирања система и безбедносних функција."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Можете да ажурирате подешавања одељка Моје активности на myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Можете да контролишете ову функцију у Google подешавањима. Изаберите Коришћење и дијагностика у менију.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Можете да контролишете ову функцију у Подешавањима > Google. Изаберите Коришћење и дијагностика у менију.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Шаљи системске податке</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Дозволите Google анимираним позадинама да се ускладе са вашом локацијом тако што ће приступати Google-овој услузи локације.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Приступ Google-овој услузи локације за анимиране позадине можете да укључите или искључите ако одете у Подешавања > Апликације и обавештења > Информације о апликацији. У преклопном менију додирните Прикажи систем > Анимиране позадине са подацима или Анимиране Earth позадине > Дозволе.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Дозволи позадинама да користе локацију</string>
+    <string name="auth_setup_wizard_title">Чаробњак за подешавање</string>
+    <string name="auth_show_error_activity_title">Пријављивање није могуће</string>
+    <string name="auth_show_error_title">Грешка</string>
+    <string name="auth_sign_in_agreement">Пријављивањем прихватате <annotation id="google_privacy">Google</annotation> и <annotation id="android_privacy">додатну</annotation> политику приватности.</string>
+    <string name="auth_sign_in_browser">Пријави ме преко прегледача</string>
+    <string name="auth_sign_in_button_label">Пријави ме</string>
+    <string name="auth_sign_in_with_google_account_short">Пријавите се помоћу Google налога:</string>
+    <string name="auth_skip_button_label">Прескочи</string>
+    <string name="auth_submission_error_text">Дошло је до грешке. Пробајте поново.</string>
+    <string name="auth_submission_title">Жао нам је…</string>
+    <string name="auth_try_again_button_label">Пробај поново</string>
+    <string name="auth_ui_activity_authenticating">Потврда аутентичности...</string>
+    <string name="auth_ui_activity_title">Пријављивање на Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Пријављивање</string>
+    <string name="auth_ui_add_account_title">Подешавање налога</string>
+    <string name="auth_uncertified_notification_content">Произвођач није сертификовао овај уређај</string>
+    <string name="auth_uncertified_notification_description">"Произвођач овог уређаја користи Google апликације, али није сертификовао овај уређај помоћу Google-а. 
+
+Несертификовани уређаји су небезбедни и не добијају ажурирања система и апликација. Апликације и функције, попут прављења резервних копија датотека или слика, неће исправно радити. 
+
+Контактирајте произвођача уређаја да бисте решили овај проблем. 
+
+Можете да посетите %s за више информација о сертификованим Google-овим партнерима."</string>
+    <string name="auth_uncertified_notification_learn_more">Сазнајте више</string>
+    <string name="auth_uncertified_notification_title">Упозорење: Несертификовани уређај</string>
+    <string name="auth_username">Имејл адреса</string>
+    <string name="auth_work_authenticator_label">Управљани налог</string>
+    <string name="authorization_dialog">Дијалог за овлашћење</string>
+    <string name="auto_restore_summary">Када поново инсталирате апликацију, вратите резервне копије подешавања и података</string>
+    <string name="auto_restore_title">Аутоматско враћање</string>
+    <string name="autofill_dataset_password">Употреби лозинку за: <b>^1</b></string>
+    <string name="autofill_datatype_address">Адресе</string>
+    <string name="autofill_datatype_password">Сачуване лозинке</string>
+    <string name="autofill_datatype_payment">Кредитне картице</string>
+    <string name="autofill_datatype_profile">Лични подаци</string>
+    <string name="autofill_label">Аутоматско попуњавање уз Google</string>
+    <string name="autofill_optin_line1"><b>Додирните да би Google попунио ово уместо вас</b></string>
+    <string name="autofill_optin_line2">информацијама које су већ сачуване у Chrome аутоматском попуњавању</string>
+    <string name="autofill_setup_points">"• Google користи садржај на екрану да би утврдио шта може аутоматски да се попуни. 
+• Можете да видите информације за аутоматско попуњавање и да управљате њима у Подешавањима."</string>
+    <string name="autofill_setup_summary">Једним додиром уносите лозинке, адресе, бројеве кредитних картица и друге информације сачуване на налогу.</string>
+    <string name="autofill_setup_summary_single_account">Једним додиром уносите лозинке, адресе, бројеве кредитних картица и друге информације сачуване на налогу (<b>^1</b>).</string>
+    <string name="backup_configure_account_default_summary">Тренутно се ни на једном налогу не чувају резервне копије података</string>
+    <string name="backup_configure_account_title">Резервна копија налога</string>
+    <string name="backup_data_summary">Направите резервне копије података апликација, Wi-Fi лозинки и других подешавања на Google диску</string>
+    <string name="backup_data_summary_full">"Аутоматски направите резервне копије података уређаја (попут Wi-Fi лозинки и историје позива) и података апликација (попут подешавања и датотека сачуваних у апликацијама) даљински.
+
+Када укључите аутоматско прављење резервних копија, подаци уређаја и апликација се повремено чувају даљински. Подаци апликација могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући потенцијално осетљиве податке као што су контакти, поруке и слике."</string>
+    <string name="backup_data_title">Резервне копије на Google диску</string>
+    <string name="backup_erase_dialog_message">Желите ли да зауставите прављење резервних копија Wi-Fi лозинки, обележивача, других подешавања и података апликација и избришете све копије на Google диску?</string>
+    <string name="backup_erase_dialog_message_full">Желите ли да зауставите прављење резервних копија података уређаја (попут Wi-Fi лозинки и историје позива) и података апликација (попут подешавања и датотека сачуваних у апликацијама) и избришете све копије на Google диску?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Дошло је до грешке при отварању подешавања слика</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Када укључите аутоматско прављење резервних копија:
+
+ ● Подешавања уређаја и подаци апликација се повремено чувају у приватном директоријуму на Google диску. Подаци апликације могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући потенцијално осетљиве податке као што су контакти, поруке и слике.
+
+ За велике датотеке или датотеке које су програмери одлучили да изузму из услуге неће бити прављене резервне копије.
+
+ ● Слике и видео снимци са овог уређаја се синхронизују са фототеком Google слика да бисте могли да их претражујете, мењате, бришете и делите са било ког уређаја.
+
+ Подразумевано се отпремају слике и видео снимци у пуној резолуцији. Они не улазе у квоту Drive storage-а.
+
+ ● Контакти и повезани подаци са овог уређаја се синхронизују са Google контактима. Можете да користите апликацију Google контакти да бисте претраживали, мењали, брисали и делили контакте са било ког уређаја.
+
+ ● Уноси у Календару и повезани подаци са овог уређаја се синхронизују са Google календаром. Можете да користите апликацију Google календар да бисте претраживали, мењали, брисали и делили уносе у Календару са било ког уређаја.
+
+ Резервне копије података не улазе у квоту Drive storage-а."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Када укључите аутоматско прављење резервних копија:
+
+ ● Подешавања уређаја и подаци из апликација се периодично чувају у приватном директоријуму на Google диску. Подаци из апликација могу да буду било који подаци које је апликација сачувала (на основу подешавања програмера), укључујући и потенцијално осетљиве податке као што су контакти, поруке и слике.
+
+ Не праве се резервне копије великих датотека или датотека које су програмери одабрали да изузму из услуге.
+
+ ● Контакти и повезани подаци са овог уређаја се синхронизују са Google контактима. Апликацију Google контакти можете да користите да бисте претраживали, мењали, брисали и делили контакте са било ког уређаја.
+
+ ● Ставке календара и повезани подаци са овог уређаја се синхронизују са Google календаром. Апликацију Google календар можете да користите да бисте претраживали, мењали, брисали и делили контакте са било ког уређаја.
+
+ Резервне копије података не улазе у квоту складишног простора на Диску."</string>
+    <string name="backup_opt_in_backup_description_extra">Календар, контакти, слике и видео снимци су синхронизовани са Google налогом и могу да се користе у свим услугама.</string>
+    <string name="backup_opt_in_backup_description_v2">Помоћу аутоматских резервних копија можете лако да вратите податке на телефон или замените телефоне у било ком тренутку. <annotation id="backup_opt_in_learn_more">Сазнајте више</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Овим ћете искључити резервне копије за:
+
+Апликације и податке апликација
+Историју позива
+Подешавања уређаја
+Слике и видео снимке
+SMS
+
+Календар и контакти ће се и даље синхронизовати са Google налогом. Да бисте променили подешавања синхронизовања када се подешавање доврши, идите у "<annotation id="backup_opt_in_settings_instructions">Подешавања > Налози > Google</annotation>.</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Желите ли да искључите резервне копије?</string>
+    <string name="backup_opt_in_backup_list">"Апликације и подаци апликација
+Календар
+Историја позива
+Контакти
+Подешавања уређаја (укључујући лозинке за Wi-Fi)
+Слике и видео снимци
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Резервна копија обухвата следеће:</string>
+    <string name="backup_opt_in_backup_title">Резервне копије на Google диску</string>
+    <string name="backup_opt_in_disable_backup">Искључи резервне копије</string>
+    <string name="backup_photos_update">Ажурирајте Google слике</string>
+    <string name="backup_settings_activity_backup_title">Резервна копија</string>
+    <string name="backup_settings_activity_title">Резервне копије и ресетовање</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">Не копирај</string>
+    <string name="chrome_privacy_title">Chrome обавештење о приватности</string>
+    <string name="chrome_tos_title">Chrome услови коришћења услуге</string>
+    <string name="chromesync_custom_passphrase_explanation">Постојеће лозинке за налог %1$s су шифроване помоћу приступне фразе. Ако сте заборавили приступну фразу, зауставите и ресетујте синхронизацију преко домена &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Приступна фраза за Chrome синхронизацију</string>
+    <string name="chromesync_enter_passphrase_hint">Унесите приступну фразу</string>
+    <string name="chromesync_entered_wrong_passphrase">Погрешна приступна фраза</string>
+    <string name="chromesync_no_browser_found">Није пронађен ниједан прегледач који може да отвори овај линк</string>
+    <string name="close_button_label">Затвори</string>
+    <string name="cloud_restore_app_picker_button">Врати</string>
+    <string name="cloud_restore_app_picker_description_no_apps">Резервна копија не садржи ниједну апликацију</string>
+    <string name="cloud_restore_app_picker_title">Изаберите апликације које ћете вратити</string>
+    <string name="common_accept">Прихвати</string>
+    <string name="common_account_chip_add_account_button_label">Користи неки други налог</string>
+    <string name="common_add_account_button_label">Додајте налог</string>
+    <string name="common_add_account_label">Додајте налог</string>
+    <string name="common_ads_settings_title">Огласи</string>
+    <string name="common_agree">Прихватам</string>
+    <string name="common_app_name">Google Play услуге</string>
+    <string name="common_asm_preferences_settings_title">Подешавања налога</string>
+    <string name="common_asm_privacy_settings_title">Лични подаци и приватност</string>
+    <string name="common_asm_security_settings_title">Пријављив. и безбедност</string>
+    <string name="common_audience_edit_button_label">Измени</string>
+    <string name="common_cancel">Откажи</string>
+    <string name="common_cannot_start_hangouts_security_exception">Није могуће покренути Hangouts (грешка у вези са дозволом).</string>
+    <string name="common_car_permission_desc">Приступ услузи за аутомобиле.</string>
+    <string name="common_car_permission_label">Услуга за аутомобиле</string>
+    <string name="common_chips_label_empty_circles">Нема кругова</string>
+    <string name="common_chips_label_extended_circles">Проширени кругови</string>
+    <string name="common_chips_label_only_you">Само ви</string>
+    <string name="common_chips_label_public">Јавно</string>
+    <string name="common_chips_label_your_circles">Кругови</string>
+    <string name="common_choose_account">Изаберите налог</string>
+    <string name="common_choose_account_for_app_label">Изаберите налог за апликацију %1$s</string>
+    <string name="common_choose_account_label">Изаберите налог</string>
+    <string name="common_clear_app_data_menu_item">Обриши податке апликације</string>
+    <string name="common_connected">Повезано</string>
+    <string name="common_connected_apps_settings_title">Повезане апликације</string>
+    <string name="common_connecting">Повезује се...</string>
+    <string name="common_continue">Настави</string>
+    <string name="common_disagree">Не прихватам</string>
+    <string name="common_disconnect">Прекини везу</string>
+    <string name="common_done">Готово</string>
+    <string name="common_fitness_settings_title">Google фитнес</string>
+    <string name="common_from">Од:</string>
+    <string name="common_games_settings_title">Play игре</string>
+    <string name="common_get_started">Започните</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Омогући</string>
+    <string name="common_google_play_services_enable_text">%1$s неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_title">Омогућите Google Play услуге</string>
+    <string name="common_google_play_services_error_dialog_title">Грешка</string>
+    <string name="common_google_play_services_install_button">Инсталирај</string>
+    <string name="common_google_play_services_install_text">%1$s не може да се покрене без Google Play услуга, које нису инсталиране на уређају.</string>
+    <string name="common_google_play_services_install_title">Преузмите Google Play услуге</string>
+    <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+    <string name="common_google_play_services_unknown_issue">%1$s има проблема са Google Play услугама. Пробајте поново.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не може да се покрене без Google Play услуга, које уређај не подржава.</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">%1$s не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="common_google_play_services_update_title">Ажурирајте Google Play услуге</string>
+    <string name="common_google_play_services_updating_text">%1$s не може да се покрене без Google Play услуга, које се тренутно ажурирају.</string>
+    <string name="common_google_play_services_updating_title">Google Play услуге се ажурирају</string>
+    <string name="common_google_play_services_wear_update_text">Потребна је нова верзија Google Play услуга. Ускоро ће се ажурирати.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play услуге су инсталиране са погрешном архитектуром.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play услуге су инсталиране са архитектуром (%1$s) која се разликује од архитектуре уређаја (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Погрешна архитектура</string>
+    <string name="common_google_settings">Google подешавања</string>
+    <string name="common_google_settings_account">Налог</string>
+    <string name="common_google_settings_credentials_title">Smart Lock за лозинке</string>
+    <string name="common_google_settings_developer">Програмер</string>
+    <string name="common_google_settings_services">Услуге</string>
+    <string name="common_got_it">Важи</string>
+    <string name="common_install">Инсталирај</string>
+    <string name="common_learn_more">Сазнајте више</string>
+    <string name="common_list_apps_menu_help">Помоћ</string>
+    <string name="common_list_apps_menu_help_and_feedback">Помоћ и повратне информ.</string>
+    <string name="common_loading">Учитава се…</string>
+    <string name="common_location_settings_title">Локација</string>
+    <string name="common_magictether_settings_title">Тренутно привезивање</string>
+    <string name="common_maps_settings_title">Мапе и Latitude</string>
+    <string name="common_mdm_feature_name">Менаџер Android уређаја</string>
+    <string name="common_missing_url_viewer">Недостаје приказивач за приказивање спољашњег URL-а.</string>
+    <string name="common_more_options">Више опција</string>
+    <string name="common_networking_settings_title">Умрежавање</string>
+    <string name="common_no_browser_for_restricted_url">Ограничени приступ. Није пронађен никакав прегледач.</string>
+    <string name="common_no_devices_found">Није пронађен ниједан уређај</string>
+    <string name="common_no_network">Није доступно зато што је уређај офлајн</string>
+    <string name="common_no_thanks">Не, хвала</string>
+    <string name="common_not_now">Не сада</string>
+    <string name="common_off">Искључено</string>
+    <string name="common_ok">Потврди</string>
+    <string name="common_on">Укључено</string>
+    <string name="common_open_on_phone">Отвори на телефону</string>
+    <string name="common_open_source_licenses">Лиценце отвореног кода</string>
+    <string name="common_people_settings_title">Контакти</string>
+    <string name="common_permissions_enable_in_settings">Омогући у Подешавањима</string>
+    <string name="common_permissions_missing_end">Да бисте наставили, отворите Подешавања, па Дозволе и омогућите све наведене ставке.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Да бисте омогућили ово, идите на
+Подешавања >
+Дозволе >
+Google Play услуге"</string>
+    <string name="common_permissions_missing_start">Ова апликација неће исправно функционисати ако не одобрите захтев Google Play услуга да приступају следећим ставкама:</string>
+    <string name="common_permissions_open_settings">Отвори Подешавања</string>
+    <string name="common_phone">Телефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Политика приватности</string>
+    <string name="common_restore">Врати</string>
+    <string name="common_restricted_no_accounts">Нема налога за избор</string>
+    <string name="common_retry">Пробај поново</string>
+    <string name="common_search_settings_title">Претрага</string>
+    <string name="common_security_ootp_setting_title">Безбедносни кôд</string>
+    <string name="common_security_settings_title">Безбедност</string>
+    <string name="common_send">Пошаљи</string>
+    <string name="common_sending">Шаље се…</string>
+    <string name="common_set_up_nearby_device_settings_title">Подеси уређај у околини</string>
+    <string name="common_settings">Подешавања</string>
+    <string name="common_signin_button_text">Пријави ме</string>
+    <string name="common_signin_button_text_long">Пријави ме на Google</string>
+    <string name="common_something_went_wrong">Нешто није у реду</string>
+    <string name="common_system_info">Информације о систему</string>
+    <string name="common_take_photo_label">Сними слику</string>
+    <string name="common_terms_of_service">Услови коришћења услуге</string>
+    <string name="common_try_again">Пробај поново</string>
+    <string name="common_turn_on_bluetooth">Укључи Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Избриши</string>
+    <string name="common_ui_confirm_deleting_checkbox">Разумем и желим да избришем</string>
+    <string name="common_unknown">Непознато</string>
+    <string name="common_update">Ажурирај</string>
+    <string name="common_url_load_unsuccessful_message">Android уређај није повезан са услугом за размену података. Да бисте одмах прегледали ове информације, посетите %s у веб-прегледачу.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android уређај није повезан са Wi-Fi мрежом. Да бисте одмах прегледали ове информације, посетите %s у веб-прегледачу.</string>
+    <string name="common_url_login_notice">Пријавите се се као %1$s</string>
+    <string name="common_usage_and_diagnostics">Коришћење и дијагностика</string>
+    <string name="common_yesterday">Јуче</string>
+    <string name="confirm_copy_button_text">Копирај</string>
+    <string name="contacts_number_device_and_icloud">iCloud® (%1$d), уређај (%2$d)</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google контакти, iCloud® (%1$d), уређај (%2$d)</string>
+    <string name="contacts_number_device_and_sim_with_google">Google контакти, SIM (%1$d), уређај (%2$d)</string>
+    <string name="contacts_number_device_with_google">Google контакти, уређај (%1$d)</string>
+    <string name="contacts_number_icloud_with_google">Google контакти, iCloud® (%1$d)</string>
+    <string name="contacts_number_sim_with_google">Google контакти, SIM (%1$d)</string>
+    <string name="continue_to_login_heading">Пријавите се.</string>
+    <string name="continue_to_login_text">Акредитиви су одобрени. Пријавите се на првом уређају.</string>
+    <string name="copy_confirmation_description">Копираћете податке, нпр. Google налог и апликације, на нови телефон</string>
+    <string name="copy_confirmation_title">Желите ли да копирате на нови телефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Нисмо успели да пронађемо ниједну апликацију</string>
+    <string name="d2d_app_picker_title">Апликације</string>
+    <string name="d2d_migration_canceled_on_source">Копирање је отказано</string>
+    <string name="data_copied_fragment_description">Подаци су копирани на нови телефон. Можете да искључите кабл.</string>
+    <string name="data_copied_fragment_description_cancel">Изабрали сте да зауставите копирање, па су само неки подаци копирани на нови телефон.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Изабрали сте да зауставите копирање, па ништа није копирано на нови телефон.</string>
+    <string name="data_copied_fragment_description_error">Дошло је до проблема, па нисмо успели да копирамо све.</string>
+    <string name="data_copied_fragment_description_error_no_data">Дошло је до проблема, па нисмо успели да копирамо податке.</string>
+    <string name="data_copied_fragment_no_data_title">Копирање није успело</string>
+    <string name="data_copied_fragment_some_data_title">Неки подаци су копирани</string>
+    <string name="data_copied_fragment_title">Подаци су копирани</string>
+    <string name="device_backup_title">Резервна копија уређаја</string>
+    <string name="device_not_supported_fragment_new_device">Повезани сте са новим телефоном. Да бисте наставили, повежите се поново са претходним телефоном.</string>
+    <string name="device_not_supported_fragment_new_device_title">Повежите се поново са претходним телефоном</string>
+    <string name="device_not_supported_fragment_no_data_cable">Овај кабл не може да преноси податке. Повежите се помоћу неког другог кабла и покушајте поново.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Покушајте са неким другим каблом</string>
+    <string name="device_not_supported_fragment_retry_description">Проверите да ли је стари телефон откључан па искључите и поново прикључите кабл</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Нешто је пошло наопако</string>
+    <string name="device_not_supported_ios_supervised_description">Пошто је iPhone® уређај под надзором, мораћете да одаберете неки други начин за копирање података</string>
+    <string name="device_picker_description">Резервне копије се чувају на Google диску</string>
+    <string name="device_picker_empty">Нема резервних копија повезаних са %1$s.</string>
+    <string name="device_picker_empty_title">Нисмо пронашли резервне копије</string>
+    <string name="device_picker_item">Резервна копија са уређаја %1$s</string>
+    <string name="device_picker_last_used">Последње коришћење: ^1</string>
+    <string name="device_picker_skip">Не враћај</string>
+    <string name="device_picker_title">Изаберите резервну копију коју ћете вратити</string>
+    <string name="disabled_by_admin_summary_text">Контролише администратор</string>
+    <string name="download_msg_error_invalid">Преузимање није исправно конфигурисано.</string>
+    <string name="download_msg_in_progress">Преузимање је у току.</string>
+    <string name="download_msg_not_allowed_space">Нема довољно простора за преузимање.</string>
+    <string name="download_msg_pending">Преузимање је на чекању.</string>
+    <string name="download_notification_description">%1$s захтева ово.</string>
+    <string name="download_notification_title">Преузима се још података</string>
+    <string name="drive_backup_account">Резервни налог</string>
+    <string name="drive_backup_apps_in_backup">Резервне копије података апликација</string>
+    <string name="drive_backup_apps_last_backup">Последње прављење резервне копије</string>
+    <string name="drive_backup_apps_loading">Учитавамо…</string>
+    <string name="drive_backup_apps_screen_title">Подаци апликација</string>
+    <string name="drive_backup_content_apps_title">Подаци апликација</string>
+    <string name="drive_backup_content_calendar_dialog_message">Догађаји направљени у Google календару ће се синхронизовати на свим уређајима који су пријављени на ваш Google налог.</string>
+    <string name="drive_backup_content_calendar_title">Google календар</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Резервна копија обухвата датум и примаоца упућених и примљених позива.</string>
+    <string name="drive_backup_content_callhistory_title">Историја позива</string>
+    <string name="drive_backup_content_contacts_dialog_message">Контакти направљени у Google контактима ће се синхронизовати на свим уређајима који су пријављени на ваш Google налог.</string>
+    <string name="drive_backup_content_contacts_title">Google контакти</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Резервна копија обухвата конфигурацију уређаја, попут позадине, Wi-Fi лозинки и подразумеваних апликација.</string>
+    <string name="drive_backup_content_devicesettings_title">Подешавања уређаја</string>
+    <string name="drive_backup_content_header">Садржај</string>
+    <string name="drive_backup_content_photos_dialog_message">Примарни налог за враћање резервних копија је промењен. Можете да промените и налог за резервне копије Google слика на %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">ОДБАЦИ</string>
+    <string name="drive_backup_content_photos_dialog_title">Желите ли да промените и налог за слике и видео?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ПРОМЕНИ</string>
+    <string name="drive_backup_content_photos_title">Слике и видео снимци</string>
+    <string name="drive_backup_content_sms_dialog_message">Резервна копија обухвата послате и примљене поруке. То не подразумева MMS медијски садржај.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Важи</string>
+    <string name="drive_backup_content_status_error">Грешка при преузимању датума последње синхронизације</string>
+    <string name="drive_backup_content_status_lastsaved">Последње прављење резервне копије: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Последња синхронизација: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Чека се прављење резервне копије</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Подешавања синхронизације</string>
+    <string name="drive_backup_content_status_sync_off">Синхронизација је искључена</string>
+    <string name="drive_backup_content_status_updating">Проверавамо статус...</string>
+    <string name="drive_backup_disabled_backuplist">"Резервна копија обухвата следеће:
+\u0009– Апликације и подаци апликација
+\u0009– Историја позива
+\u0009– Подешавања уређаја (укључујући лозинке за Wi-Fi)
+\u0009– Google календар
+\u0009– Google контакти
+\u0009– Слике и видео снимци
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Резервна копија обухвата:
+\u0009– Апликације и податке из апликација
+\u0009– Историју позива
+\u0009– Подешавања уређаја (укључујући и лозинке за Wi-Fi)
+\u0009– Google календар
+\u0009– Google контакте
+\u0009– SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">Администратор је онемогућио</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google календар, Google контакти, слике и видео снимци се синхронизују са Google налогом и могу да се користе у свим услугама.
+
+Синхронизација може да се омогући чак и када је прављење резервне копије искључено. Да бисте променили подешавања синхронизације, идите на Подешавања > Налози > Google."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google календар и Google контакти се синхронизују са Google налогом и могу да се користе у свим услугама.
+
+Синхронизација може да се омогући чак и ако је прављење резервних копија искључено. Подешавања синхронизације можете да промените у оквиру Подешавања > Налози > Google."</string>
+    <string name="drive_backup_disabled_introduction">Аутоматско прављење резервних копија омогућава вам да лако вратите податке или замените телефон у било ком тренутку.</string>
+    <string name="drive_backup_settings_title">Резервне копије</string>
+    <string name="drive_backup_state">Резервне копије на Google диску</string>
+    <string name="drive_backup_state_dialog_message">"Подаци резервне копије за овај уређај који су сачувани на Google диску ће се трајно избрисати.
+
+Слике и видео снимци за које је већ направљена резервна копија ће бити доступни на Google диску.
+
+Google календар и Google контакти ће наставити да се синхронизују са Google налогом. Да бисте променили подешавања синхронизације, идите на Подешавања > Налози > Google."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Резервна копија података са овог уређаја на Google диску ће се трајно избрисати.
+
+Google календар и Google контакти ће се и даље синхронизовати са Google налогом. Подешавања синхронизације можете да промените у оквиру Подешавања > Налози > Google."</string>
+    <string name="drive_backup_state_dialog_okaction">Искључите и избришите</string>
+    <string name="drive_backup_state_dialog_title">Желите ли да искључите и избришете резервну копију?</string>
+    <string name="durationDayHour">%1$d дан %2$d сат</string>
+    <string name="durationDayHours">%1$d дан %2$d ч</string>
+    <string name="durationDays">%1$d дана</string>
+    <string name="durationHourMinute">%1$d сат %2$d минут</string>
+    <string name="durationHourMinutes">%1$d сат %2$d минута</string>
+    <string name="durationHours">%1$d ч</string>
+    <string name="durationMinute">%1$d минут</string>
+    <string name="durationMinuteSecond">%1$d минут %2$d сек</string>
+    <string name="durationMinuteSeconds">%1$d минут %2$d сек</string>
+    <string name="durationMinutes">%1$d минута</string>
+    <string name="durationSecond">%1$d сек</string>
+    <string name="durationSeconds">%1$d сек</string>
+    <string name="encryption_warning_fragment_description">"Шифровање резервних копија је укључено за iPhone® уређај. Ако ви то нисте укључили, можда га је укључио ИТ администратор.
+
+Могу да се копирају само слике, музика и видео снимци.Више информације потражите на "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шифровање резервних копија</string>
+    <string name="fido_begin_button">ЗАПОЧНИ</string>
+    <string name="fido_ble_device_icon_content_description">Откривен је Bluetooth уређај</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Притисните дугме на кључу и задржите најмање 5 секунди да бисте се уверили да је у режиму упаривања</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">Потврди</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Дошло је до грешке</string>
+    <string name="fido_ble_dont_see_your_key_hint">Не видите кључ?</string>
+    <string name="fido_ble_enable_body">Безбедносни кључ функционише када је Bluetooth уређаја укључен</string>
+    <string name="fido_ble_enable_title">Укључи Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">УКЉУЧИ</string>
+    <string name="fido_ble_instructions_body">Да бисте користили већину кључева, само додирните дугме</string>
+    <string name="fido_ble_instructions_title">Желите ли да дозволите коришћење безбедносног кључа?</string>
+    <string name="fido_ble_locate_pin_body">PIN се обично састоји од 4 или 6 цифара и налази се на полеђини кључа. Наставите када будете спремни да унесете PIN.</string>
+    <string name="fido_ble_locate_pin_continue_button">НАСТАВИ</string>
+    <string name="fido_ble_locate_pin_title">Пронађите PIN за упаривање са Bluetooth-ом за кључ %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Упарује се безбедносни кључ…</string>
+    <string name="fido_ble_pair_instructions_body">Упарите кључ са овим уређајем да бисте могли да га користите са налогом</string>
+    <string name="fido_ble_pair_instructions_title">Да ли сте спремни да упарите безбедносни кључ?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Вратите кључ у режим упаривања</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">ПРОБАЈ ПОНОВО</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Нешто није у реду</string>
+    <string name="fido_ble_pairing_mode_body">Притисните дугме на безбедносном кључу и задржите најмање 5 секунди</string>
+    <string name="fido_ble_pairing_mode_title">Активирајте режим упаривања</string>
+    <string name="fido_ble_select_device_body">Са листе у наставку изаберите безбедносни кључ који желите да упарите са уређајем. Назив је одштампан на полеђини кључа.</string>
+    <string name="fido_ble_select_device_title">Изаберите безбедносни кључ</string>
+    <string name="fido_cancel_button">Откажи</string>
+    <string name="fido_nfc_enable_body">Безбедносни кључ функционише само када је NFC уређаја укључен</string>
+    <string name="fido_nfc_enable_title">Укључи NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">УКЉУЧИ</string>
+    <string name="fido_nfc_instructions_body">Задржите исправљени кључ уз полеђину уређаја док не престане да вибрира</string>
+    <string name="fido_nfc_instructions_title">Желите ли да дозволите коришћење безбедносног кључа?</string>
+    <string name="fido_pair_another_security_key">Упари други безбедносни кључ</string>
+    <string name="fido_processing">Безбедносни кључ се верификује…</string>
+    <string name="fido_transport_selection_bluetooth">Користи безбедносни кључ преко Bluetooth-а</string>
+    <string name="fido_transport_selection_body">Безбедносни кључеви функционишу са Bluetooth-ом и NFC-ом. Одаберите како желите да користите кључ.</string>
+    <string name="fido_transport_selection_nfc">Користи безбедносни кључ преко NFC-а</string>
+    <string name="fido_transport_selection_title">Одаберите како ћете користити безбедносни кључ</string>
+    <string name="fido_use_ble_instead">Користи безбедносни кључ са Bluetooth-ом</string>
+    <string name="fido_use_nfc_instead">Користи безбедносни кључ са NFC-ом</string>
+    <string name="fido_welcome_body">Коришћење безбедносног кључа са %1$s-ом помаже у заштити приватних података.</string>
+    <string name="fido_welcome_title">Користите безбедносни кључ са %1$s-ом</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Не могу да пронађем адаптер</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Пронађите Quick Switch Adapter који сте добили уз ^1.
+
+Укључите кабл у адаптер."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Повежите адаптер и кабл</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Откључајте стари телефон, па прикључите адаптер у овај телефон.</string>
+    <string name="fragment_usb_connect_both_phones_title">Повежите оба телефона</string>
+    <string name="fragment_usb_dialog_cancel_description">Добићете највише садржаја ако користите кабл. Ако каблови из кутије не одговарају, испробајте кабл за пренос података или пуњење који одговара старом телефону.</string>
+    <string name="fragment_usb_dialog_cancel_title">Желите ли да копирате податке на други начин?</string>
+    <string name="fragment_usb_dont_have_cable">Немам кабл</string>
+    <string name="fragment_usb_dont_have_old_phone">Немам стари телефон</string>
+    <string name="fragment_usb_find_cable_description">Употребите кабл који одговара старом телефону, на пример, кабл за пренос података или пуњење.</string>
+    <string name="fragment_usb_find_cable_title">Пронађите одговарајући кабл</string>
+    <string name="fragment_usb_initial_description">Пренесите податке са старог телефона на овај ^1.</string>
+    <string name="fragment_usb_initial_title">Хајде да копирамо податке</string>
+    <string name="fragment_usb_legacy_description">"Ово је најбржи начин да пренесете највише података.
+
+Потражите адаптер у кутији и укључите га у нови телефон. Повежите телефоне помоћу кабла, па откључајте стари телефон."</string>
+    <string name="fragment_usb_other_ways">Копирај без кабла</string>
+    <string name="fragment_usb_plug_cable">Укључите кабл у стари телефон</string>
+    <string name="fragment_waiting_title">Само тренутак…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">Дозволе за апликације</string>
+    <string name="google_contacts_static_text">Google контакти ће се синхронизовати</string>
+    <string name="google_contacts_static_text_off">Google контакти ће се и даље синхронизовати</string>
+    <string name="google_legal_title">Google правне информације</string>
+    <string name="google_play_tos_title">Услови коришћења услуге Google Play</string>
+    <string name="google_plus_privacy_policy_title">Google Plus политика приватности</string>
+    <string name="google_privacy_policy_title">Google политика приватности</string>
+    <string name="google_terms_of_service_title">Google услови коришћења услуге</string>
+    <string name="header_set_backup_account">Налог за рез. копије</string>
+    <string name="i_message_dialog_message">"Да бисте и даље примали SMS-ове од корисника iPhone® уређаја, треба да искључите iMessage®.
+
+Потражите упутства на "<b>g.co/iMessageHelp</b>.</string>
+    <string name="instant_apps_settings_title">Инстант апликације</string>
+    <string name="instructions_fragment_title">Наставите на другом телефону</string>
+    <string name="ios_connected_fragment_description">"На следећем екрану можете да се пријавите на Google налог или да направите нови.
+
+Ако не додате Google налог, догађаји из апликације iOS Calendar® се неће пребацити."</string>
+    <string name="ios_message_attachment_explanation">[Прилози порука се налазе у: Google слике > Директоријуми уређаја > Прилози порука]</string>
+    <string name="ios_message_attachment_failed_explanation">[Неки прилози не могу да се ископирају. Прилози који су пренети налазе се у: Google слике > Директоријуми уређаја > Прилози порука]</string>
+    <string name="ios_message_attachment_placeholder">[Прилог је сачуван у: Google слике > Директоријуми уређаја > Прилози порука]</string>
+    <string name="ios_message_attachments_placeholder">[Прилози су сачувани у: Google слике > Директоријуми уређаја > Прилози порука]</string>
+    <string name="ios_migration_default_calendar_title">Календар</string>
+    <string name="ios_migration_other_contact_relation">Другo</string>
+    <string name="ios_photos_dialog_message">"Слике које се чувају у услузи iCloud® не могу да се копирају.
+
+Да бисте те слике преместили на ^1, инсталирајте апликацију Google слике на iPhone® уређају и укључите подешавање Прављење резервних копија и синхронизација. Посетите "<b>g.co/datatransferhelp</b> да бисте добили додатна упутства.</string>
+    <string name="kilobyteShort">kB</string>
+    <string name="list_item_add_account">Додај налог</string>
+    <string name="lockscreen_smartdevice_action_next">Даље</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Откључајте да бисте наставили са подешавањем телефона</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">Из безбедносних разлога треба да потврдите закључавање екрана да бисте наставили са подешавањем</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Потврдите закључавање екрана</string>
+    <string name="manage_data_label">Google налог</string>
+    <string name="master_clear_title">Ресетовање на фабричка подешавања</string>
+    <string name="megabyteShort">МВ</string>
+    <string name="netrec_module_display_name">Препоруке за мрежу</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Поруке о Wi‑Fi мрежи</string>
+    <string name="notification_channel_network_available">Мрежа је доступна</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi је укључен</string>
+    <string name="notification_content_text_set_backup_account">Потребно је да подесите резервни налог</string>
+    <string name="notification_content_title_set_backup_account">Резервне копије</string>
+    <string name="notification_ticker">Приступ је захтеван</string>
+    <string name="notification_ticker_set_backup_account">Потребан је резервни налог</string>
+    <string name="open_in_web_button">Отвори на вебу</string>
+    <string name="open_source_activity_prompt_heading">Отворите апликацију</string>
+    <string name="open_source_activity_prompt_text">"Отворите SourceResponseActivity на телефону да бисте довршили процес потврде аутентичности. "</string>
+    <string name="opt_in_account_content_description">Изаберите налог. Тренутно изабрани налог: %1$s</string>
+    <string name="opt_in_account_null_state">Отворите налог</string>
+    <string name="opt_in_agreement">Ако наставите, прихватате <a href="https://play.google.com/about/play-terms.html">Услове коришћења услуге Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Сазнајте више</a></string>
+    <string name="opt_in_confirm">Да, омогући</string>
+    <string name="opt_in_description">"Када додирнете линк, Google Play проверава да ли постоји инстант апликација и покреће је без инсталације. Инстант апликације се привремено чувају на уређају.
+
+Инстант апликације траже дозволе док их користите. Детаље апликација, укључујући куповине у апликацијама, можете да пронађете у Google Play продавници. Подаци и подешавања апликација се синхронизују са уређајима на којима сте пријављени помоћу:"</string>
+    <string name="opt_in_description_m_plus">"Када додирнете линк, Google Play проверава да ли постоји инстант апликација и покреће је без инсталације. Инстант апликације се привремено чувају на уређају.
+
+Детаље апликација, укључујући куповине у апликацијама, можете да пронађете у Google Play продавници. Подаци и подешавања апликација се синхронизују са уређајима на којима сте пријављени помоћу:"</string>
+    <string name="opt_in_subtitle">Користите апликације без инсталацијe</string>
+    <string name="opt_in_title">Инстант апликације</string>
+    <string name="permgrouplab_calendar">Календар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Контакти</string>
+    <string name="permgrouplab_location">Локација</string>
+    <string name="permgrouplab_microphone">Микрофон</string>
+    <string name="permgrouplab_phone">Телефон</string>
+    <string name="permgrouplab_sensors">Сензори за тело</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Меморијски простор</string>
+    <string name="permissions_not_granted_text">Да бисте одобрили дозволе, пријавите се поново.</string>
+    <string name="permissions_not_granted_title">Дозволе нису одобрене.</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">Тренутно се ни на једном налогу не чувају резервне копије слика</string>
+    <string name="photos_backup_title">Резервна копија слика</string>
+    <string name="photos_filtering_option_all">Све</string>
+    <string name="photos_filtering_option_none">Ништа</string>
+    <string name="plus_manage_app_only_you_label">Само ви</string>
+    <string name="plus_network_unreliable">Није могуће успоставити поуздану везу са сервером.</string>
+    <string name="plus_oob_interstitial_loading_text">Ово може да потраје неколико минута.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Копирани контакти ће бити сачувани на Google налогу.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Копирани контакти и календари ће бити сачувани на Google налогу.</string>
+    <string name="restore_choice_data_disclaimer_v2">Неки подаци нису копирани на ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Сазнајте више</annotation></string>
+    <string name="restore_choice_deselect_some_content">Опозовите избор неких ставки да бисте наставили</string>
+    <string name="restore_choice_learn_more_android">"Неки подаци са старог телефона не могу да се копирају аутоматски:
+
+ ● Преузете датотеке (попут PDF датотека)
+
+ ● Слике, видео снимци и музика сачувани у сакривеним директоријумима
+
+ ● Слике, видео снимци и музика примљени преко SMS-а
+
+ ● Апликације које нису из Google Play продавнице
+
+ ● Подаци апликација (ако апликација не користи Android резервне копије)
+
+ ● Одређена подешавања уређаја
+
+ ● Налози који нису Google налози (и сви повезани подаци)
+
+ ● Контакти и календари који су синхронизовани са другим услугама, а не са Google-ом
+
+ ● Мелодије звона
+
+ Више детаља и помоћ при копирању неких од ових података потражите на g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Неки подаци са старог телефона не могу да се копирају аутоматски:
+
+ ● апликације и подаци апликација;
+
+ ● слике чији оригинал није сачуван на телефону (на пример, ако је укључено подешавање Optimize Storage (Оптимизуј меморију), оригиналне слике се чувају у услузи iCloud®);
+
+ ● датотеке и документи сачувани у услузи iCloud®;
+
+ ● подешавања уређаја (попут лозинки за Wi-Fi и позадина);
+
+ ● музика заштићена помоћу Управљања дигиталним правима (DRM) (на пример, iTunes® музика купљена пре априла 2009. или музика преузета за офлајн слушање у апликацији за стримовање музике);
+
+ ● налози који нису Google налози (и сви повезани подаци);
+
+ ● контакти и календари који су синхронизовани са другим услугама, а не са Google-ом или са услугом iCloud®
+
+ ● обележивачи из прегледача Safari®.
+
+ Прилози iMessage® порука ће бити доступни у Google сликама > Директоријуми уређаја > Прилози порука.
+
+ Више детаља и помоћ при копирању неких од ових података потражите на g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Нема довољно простора</string>
+    <string name="restore_choice_total_text">од доступних %1$s/пренос од %2$s</string>
+    <string name="restore_error_message">Нешто није у реду са враћањем. Жао нам је.</string>
+    <string name="restore_instant_apps_notif_text">Обавезна апликација %1$s је уклоњена са овог уређаја</string>
+    <string name="restore_instant_apps_notif_title">Вратите Инстант апликације</string>
+    <string name="restore_item_appdata">Подаци апликација</string>
+    <string name="restore_item_calendar">Календар</string>
+    <string name="restore_item_calendar_ical_description">iOS® Calendar, Google календар</string>
+    <string name="restore_item_calendar_ical_off_description">Google календар ће се и даље синхронизовати</string>
+    <string name="restore_item_calendar_sync_description">Google календар ће се синхронизовати</string>
+    <string name="restore_item_call_logs">Историја позива</string>
+    <string name="restore_item_contacts">Контакти</string>
+    <string name="restore_item_device_settings_description">Лозинке за Wi-Fi и друго</string>
+    <string name="restore_item_downloads">Преузимања</string>
+    <string name="restore_item_email">Имејл</string>
+    <string name="restore_item_email_description">Gmail ће се синхронизовати</string>
+    <string name="restore_item_message_attachments">Прилози порука</string>
+    <string name="restore_item_messages">Поруке</string>
+    <string name="restore_item_music">Музика</string>
+    <string name="restore_item_photos">Слике и видео снимци</string>
+    <string name="restore_item_settings">Подешавања уређаја</string>
+    <string name="restore_item_sms">SMS поруке</string>
+    <string name="restore_item_will_be_synced_text">Ово ће се синхронизовати са телефоном</string>
+    <string name="restore_progress_title">Враћа се…</string>
+    <string name="restore_supervisor_description">Да бисте отварали линкове у инстант апликацијама, вратите %1$s</string>
+    <string name="restore_supervisor_success">Инстант апликације су враћене</string>
+    <string name="restore_supervisor_title">Желите ли да вратите Инстант апликације?</string>
+    <string name="search_menu_title">Претражи</string>
+    <string name="setup_failure_description">Не можемо да подесимо Инстант апликације. <a href="https://support.google.com/googleplay/?p=instant_apps">Сазнајте више</a></string>
+    <string name="setup_failure_title">Подешавање није успело</string>
+    <string name="sharedUserLabel">Google услуге</string>
+    <string name="sid_lsid_grant_detail">Баш као и лозинка, колачићи за Идентификацију сесије (SID) и Идентификацију локалне сесије (LSID) повезују идентитет са низом захтева прегледача. Они омогућавају потпун приступ свим подацима налога. Само прегледачи могу оправдано да користе ове колачиће.</string>
+    <string name="sid_lsid_grant_label">Користите SID и LSID колачиће да бисте добили приступ свим подацима Google налога.</string>
+    <string name="small_time_duration">Mање од 1 минута</string>
+    <string name="smartdevice_action_copy">Копирај</string>
+    <string name="smartdevice_action_next">Даље</string>
+    <string name="smartdevice_action_open_app">Отвори апликацију</string>
+    <string name="smartdevice_action_skip">Прескочи</string>
+    <string name="smartdevice_action_try_another_way">Покушај на други начин</string>
+    <string name="smartdevice_action_turn_on_location">Укључи локацију</string>
+    <string name="smartdevice_alert_disconnected_message">"Прекинута је веза са уређајем.
+Да бисте наставили са подешавањем, успоставите везу и почните поново."</string>
+    <string name="smartdevice_alert_disconnected_title">Прекинута је веза са уређајем</string>
+    <string name="smartdevice_alert_dm_backup_account_message">Нажалост, не можете да користите ову функцију јер резервним налогом управља администратор уређаја.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Функција је недоступна</string>
+    <string name="smartdevice_alert_exit_setup_message">Да ли стварно желите да затворите подешавање другог уређаја?</string>
+    <string name="smartdevice_alert_exit_setup_title">Желите да затворите подешавање уређаја?</string>
+    <string name="smartdevice_alert_generic_error_title">Жао нам је, нешто је пошло наопако</string>
+    <string name="smartdevice_alert_generic_error_toast_text">Жао нам је, нешто је пошло наопако</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Да бисте подесили уређај, треба вам бар један Google налог.</string>
+    <string name="smartdevice_alert_no_accounts_text">Да бисте подесили %s, треба вам бар један Google налог.</string>
+    <string name="smartdevice_alert_no_accounts_title">Немате ниједан налог за копирање</string>
+    <string name="smartdevice_alert_quit_button">Затвори</string>
+    <string name="smartdevice_alert_restart_setup_button">Рестартуј подешавање</string>
+    <string name="smartdevice_alert_setup_incomplete">Подешавање није завршено</string>
+    <string name="smartdevice_alert_skip_button">Прескочи</string>
+    <string name="smartdevice_alert_start_over_button">Почни поново</string>
+    <string name="smartdevice_alert_work_profile_message">Налози за Work још увек не могу да се копирају. Када копирате друге Google налоге и податке, идите на Подешавања на новом уређају да бисте додали налог за Work.</string>
+    <string name="smartdevice_alert_work_profile_title">Није могуће копирати налог за Work</string>
+    <string name="smartdevice_application_label">Подешавање уређаја</string>
+    <string name="smartdevice_choose_device">Изаберите уређај</string>
+    <string name="smartdevice_companion_app_ready">Апликација %s је већ инсталирана на овом уређају.</string>
+    <string name="smartdevice_connect_to_wifi">Повежите уређај</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Успоставља се веза са уређајем...</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Google налози, као и други налози, апликације и подаци ће бити копирани</string>
+    <string name="smartdevice_d2d_copy_account_text">Желите ли да копирате Google налоге, апликације и податке на други уређај?</string>
+    <string name="smartdevice_d2d_copy_account_title">Копирати на други уређај?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Није препознат</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Или покушајте са закључавањем екрана</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">Из безбедносних разлога, потврдите отисак прста. Google налози, апликације и подаци ће бити копирани на %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Откључајте да бисте наставили да подешавате уређај</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">Из безбедносних разлога потврдите закључавање екрана да бисте наставили са подешавањем.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Потврдите за наставак</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Подешавање другог уређаја није успело јер на овом уређају није доступан Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">Ова функција је онемогућена из безбедносних разлога. На другом уређају додирните Прескочи и наставите са подешавањем.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Подесите нови уређај</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Подешавање уређаја</string>
+    <string name="smartdevice_d2d_source_notification_title">Подешавање за ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Рестартујте подешавање и изаберите ^1 да бисте сигурно копирали Google налоге, апликације и податке на прави уређај.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Не видите кôд?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Не видите кôд?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Потражите овај кôд на другом уређају да бисте потврдили да сте изабрали прави</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Верификујте кôд</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Не можете да подесите нови уређај са ограниченог корисничког профила.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Завршите подешавање на %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Још само мало!</string>
+    <string name="smartdevice_d2d_target_choice_description">Ако користите други Android уређај, можете да брзо копирате актуелно подешавање на овај уређај %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Вратите већину ствари са старог уређаја ако је у питању Android уређај</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Подеси као нов</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Копирајте са другог Android уређаја</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Не, хвала</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">Важи, пређи на следеће кораке за подешавање овог уређаја</string>
+    <string name="smartdevice_d2d_target_choice_title">Имате други уређај?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Копирај Google налоге, апликације и податке с другог уређаја</string>
+    <string name="smartdevice_d2d_target_continue_description">Наставите са подешавањем на другом уређају.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Копирају се налози…</string>
+    <string name="smartdevice_d2d_target_description">Када се вратите на други уређај:&lt;br/>&lt;br/> 1. Реците &lt;b>„&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>“&lt;/b> (Ок Google, подеси ми уређај) или унесите „&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>“ (Подеси ми уређај) и додирните да бисте потврдили&lt;br/>&lt;br/> 2. Додирните &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> на листи и пратите упутства на екрану</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Покушајте на овај начин</string>
+    <string name="smartdevice_d2d_target_google_settings_description">На другом уређају:&lt;br/>&lt;br/> 1. Отворите апликацију &lt;b>Google подешавања&lt;/b>&lt;br/>&lt;br/> 2. Изаберите &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Додирните &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> на листи и пратите упутства на екрану</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Није могуће завршити кораке</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Хајде да користимо Подешавања</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">На другом уређају:&lt;br/>&lt;br/> 1. Додирните икону Све апликације, затим отворите &lt;b>апликацију Подешавања&lt;/b> &lt;br/>&lt;br/> 2. Додирните &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Изаберите &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Додирните &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> на листи и следите упутства на екрану.</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Копирајте са другог Android уређаја</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Имате проблема?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Не можете да га пронађете?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">На другом уређају, отворите Google апликацију</string>
+    <string name="smartdevice_d2d_target_instruction_description">Отворите апликацију Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">На другом уређају</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Да бисте копирали: 
+
+1. Проверите да ли је други уређај укључен и откључан 
+
+2. Полеђину једног уређаја држите уз полеђину другог уређаја док не чујете звук, па их одложите"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Додирни и иди користи NFC за копирање Google налога, апликација и података са другог уређаја. Проверите да ли је NFC укључен на уређају у Подешавањима.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Имате проблема?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Додирни и иди</string>
+    <string name="smartdevice_d2d_target_other_device_description">Апликација Google је унапред инсталирана на свим Android уређајима. На почетном екрану додирните дугме „Све апликације“ и потражите икону приказану изнад.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Овај кôд треба да одговара оном на другом уређају:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Не прескачи</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">При подешавању се на уређај неће копирати овај налог ни апликације и подаци који имају резервне копије.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Ипак прескочи</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Желите да прескочите овај налог?</string>
+    <string name="smartdevice_d2d_target_title">У апликацији Google</string>
+    <string name="smartdevice_default_device_name">уређај</string>
+    <string name="smartdevice_install_app">Инсталирајте апликацију</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Преузмите апликацију %s да бисте са овог уређаја контролисали %s и управљали њим</string>
+    <string name="smartdevice_install_on_this_device">Инсталирај</string>
+    <string name="smartdevice_search_again">Тражи поново</string>
+    <string name="smartdevice_searching_for_devices">Тражимо уређаје</string>
+    <string name="smartdevice_setup_enter_code">Унесите кôд на уређају. Требало би да је на налепници.</string>
+    <string name="smartdevice_setup_enter_code_hint">Унесите кôд</string>
+    <string name="smartdevice_setup_enter_pin_4">Унесите 4-цифрени кôд који се тренутно приказује на уређају</string>
+    <string name="smartdevice_setup_info_installing_app">Инсталира се апликација…</string>
+    <string name="smartdevice_setup_intro_text">За подешавање другог уређаја ћемо користити Bluetooth телефона и Wi-Fi податке.</string>
+    <string name="smartdevice_setup_intro_text_nfc">За подешавање другог уређаја ћемо користити Bluetooth телефона.</string>
+    <string name="smartdevice_setup_intro_title">Започните</string>
+    <string name="smartdevice_setup_password_hint">Унесите лозинку за Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Прикажи лозинку</string>
+    <string name="smartdevice_setup_title_verify_code">Верификујте кôд</string>
+    <string name="smartdevice_wifi_cannot_connect_description">За подешавање овог уређаја можете да користите само отворене мреже и WPA/WPA2 мреже</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Не можете да користите Wi-Fi мрежу</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Уређај не може да ради исправно без Wi-Fi-ја. Повежите се на Wi-Fi мрежу да бисте наставили са подешавањем.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Изаберите Wi-Fi мрежу</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Да бисте тражили Wi-Fi мреже, укључите локацију.
+
+Ово увек можете да промените касније у подешавањима."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Не можете да тражите Wi-Fi мреже</string>
+    <string name="source_connected_description">Припрема се...</string>
+    <string name="source_connected_title">Повезано је са уређајем %1$s</string>
+    <string name="source_copying_description">Изабрани подаци се копирају на нови телефон</string>
+    <string name="source_copying_title">Копирање…</string>
+    <string name="source_default_target_device_name">нови уређај</string>
+    <string name="source_notification_device_disconnected">Поново прикључите кабл</string>
+    <string name="source_notification_text">У току је пренос података са једног телефона на други</string>
+    <string name="source_notification_title">Пренос података</string>
+    <string name="source_success_description">Завршите подешавање на уређају %1$s.</string>
+    <string name="source_success_screen_title">Готово!</string>
+    <string name="source_unplugged_description">Поново га прикључите у %1$s</string>
+    <string name="source_unplugged_title">Кабл је искључен</string>
+    <string name="source_waiting_title">Наставите са подешавањем на уређају %1$s</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="stop_copying_dialog_continue_button">Одбаци</string>
+    <string name="stop_copying_dialog_message_before_transfer">Подаци нису копирани на нови телефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Неки од података се нису копирали на нови телефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не копирај</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Заустави</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не желите да копирате?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Желите ли да зауставите копирање?</string>
+    <string name="storage_management_wear_descriptive_text">Апликације користе меморијски простор на уређају да би копирале податке на Wear уређај.</string>
+    <string name="storage_management_wear_manage_size_label">Управљај меморијом Wear уређаја</string>
+    <string name="storage_management_wear_size_label">Меморија Wear уређаја</string>
+    <string name="storage_managment_all_storage_descriptive_text">Укупна количина података које користе Google Play услуге, укључујући претраживач и друге податке.</string>
+    <string name="storage_managment_clear_all_data">Обриши све податке</string>
+    <string name="storage_managment_computing_size">Израчунавање...</string>
+    <string name="storage_managment_icing_size_label">Подаци Претраге</string>
+    <string name="storage_managment_manage_icing_button">Управљај подацима претраге</string>
+    <string name="storage_managment_search_index_descriptive_text">Убрзавамо претрагу на уређају тако што пружамо претраживач који апликације могу да користе.</string>
+    <string name="storage_managment_title">Меморијски простор за Google Play услуге</string>
+    <string name="storage_managment_total_size_label">Укупни меморијски простор</string>
+    <string name="supervisor_downloading_description">Преузима се %1$s</string>
+    <string name="supervisor_downloading_title">Сачекајте тренутак док подесимо уређај</string>
+    <string name="supervisor_installing_description">Инсталира се %1$s</string>
+    <string name="supervisor_title">Google Play услуге за инстант апликације</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Још</string>
+    <string name="suw_next_button_label">Даље</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Додирните да бисте сазнали више</string>
+    <string name="system_update_activity_battery_low_text">Ниво напуњености батерије је сувише низак за инсталацију ажурирања</string>
+    <string name="system_update_activity_name">Ажурирања система</string>
+    <string name="system_update_activity_roaming_text">Није могуће преузети ажурирања система у ромингу.</string>
+    <string name="system_update_activity_roaming_text_glif">Преузимање није могуће током роминга</string>
+    <string name="system_update_android_version_text">Верзија Android-а: ^1</string>
+    <string name="system_update_check_now_button_text">Потражи ажурирање</string>
+    <string name="system_update_checking_status_text">Проверавамо</string>
+    <string name="system_update_complete_label">Ажурирање система</string>
+    <string name="system_update_countdown_cancel_button">Откажи инсталацију</string>
+    <string name="system_update_countdown_complete">Поново се покреће...</string>
+    <string name="system_update_download_and_install_button_text">Преузми и инсталирај</string>
+    <string name="system_update_download_button_text">Преузми</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Нема довољно простора за преузимање</string>
+    <string name="system_update_download_failed_no_space_status_text">Нема довољно слободног простора за преузимање</string>
+    <string name="system_update_download_failed_status_text">Преузимање није успело</string>
+    <string name="system_update_download_manage_storage_button_text">Управљај складишним простором</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Чека се Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Преузимање је паузирано</string>
+    <string name="system_update_download_retry_button_text">Поново покушај преузимање</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Ажурирање ће аутоматски почети да се преузима између ^1 и ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Ово ажурирање можете да преузмете преко Wi-Fi-ја у било ком тренутку. У супротном, ажурирање ће аутоматски почети да се преузима између ^1 и ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Да бисте преузели ово ажурирање, прво пређите на другу SIM картицу.</string>
+    <string name="system_update_download_waiting_status_text">Чека се преузимање</string>
+    <string name="system_update_downloading_status_text">Преузима се</string>
+    <string name="system_update_downloading_title_text">Преузимање ажурирања система…</string>
+    <string name="system_update_downloading_wifi_status2_text">Само преко ^1 до ^2</string>
+    <string name="system_update_file_browser_ok_button">Изабери</string>
+    <string name="system_update_file_browser_title">Изаберите датотеку за ажурирање</string>
+    <string name="system_update_free_up_space_button_text">Ослободи простор</string>
+    <string name="system_update_from_sd_card_button_and_title">Ажурирај са SD картице</string>
+    <string name="system_update_from_sd_card_unknown_status">Проверава се...</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Верификација није успела</string>
+    <string name="system_update_from_sd_card_verified_description">Ажурирање је верификовано и спремно је за инсталирање.</string>
+    <string name="system_update_from_sd_card_verifying_status">Верификује се...</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Потребна је Wi-Fi мрежа без ограничења</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Препоручује се Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Ово ажурирање може да се преузме само преко ^1 до ^2.
+
+Да бисте наставили са преузимањем, повежите се са ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Потребна је Wi-Fi мрежа</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Повежите се са Wi-Fi мрежом без ограничења да бисте избегли могуће трошкове преноса података.</string>
+    <string name="system_update_install_button_text">Поново покрени и инсталирај</string>
+    <string name="system_update_install_failed_button_qualifier_text">Проблем са инсталацијом</string>
+    <string name="system_update_install_failed_title_text">Ажурирање није успело</string>
+    <string name="system_update_install_steps_text">^1. корак од 2</string>
+    <string name="system_update_installing_title_text">Инсталирање ажурирања система…</string>
+    <string name="system_update_last_checkin">Последњи пут је проверено да ли има ажурирања ^1.</string>
+    <string name="system_update_last_checkin_glif">Последња провера да ли има ажурирања ^1</string>
+    <string name="system_update_managed_by_policy">Ажурирање системског софтвера на овом уређају контролише организација.</string>
+    <string name="system_update_no_update_content_text">Систем је ажуриран.</string>
+    <string name="system_update_no_update_content_text_glif">Систем је ажуриран</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Преузимање ажурирања система није успело</string>
+    <string name="system_update_not_owner_text">Ажурирање системског софтвера је доступно, али само власник може да га инсталира.</string>
+    <string name="system_update_notification_header_name">Android ажурирање система</string>
+    <string name="system_update_pause_button_text">Паузирај преузимање</string>
+    <string name="system_update_processing_status_text">Обрађује се</string>
+    <string name="system_update_requires_restart_status_text">Захтева поновно покретање</string>
+    <string name="system_update_restart_to_install_button_text">Одмах поново покрени уређај ради инсталирања ажурирања</string>
+    <string name="system_update_restart_to_update_button_text">Одмах поново покрени уређај ради ажурирања</string>
+    <string name="system_update_resume_button_text">Настави</string>
+    <string name="system_update_scheduled_status_text">Заказано</string>
+    <string name="system_update_security_patch_level_text">Ниво безбедносне закрпе: ^1</string>
+    <string name="system_update_security_update_available_title_text">Доступно је безбедносно ажурирање</string>
+    <string name="system_update_security_update_downloading_title_text">Преузимамо безбедносно ажурирање...</string>
+    <string name="system_update_security_update_installing_title_text">Инсталирамо безбедносно ажурирање...</string>
+    <string name="system_update_size_label">Величина ажурирања:</string>
+    <string name="system_update_suw_download_and_install_text">"Преузимање и инсталирање овог ажурирања могу да потрају неколико минута.
+
+Након тога, уређај ће се аутоматски поново покренути."</string>
+    <string name="system_update_suw_download_text">"Преузимање овог ажурирања може да потраје неколико минута.
+
+Након тога, уређај ће се аутоматски поново покренути."</string>
+    <string name="system_update_suw_download_title">Преузимамо ажурирање…</string>
+    <string name="system_update_suw_restart_text">Уређај ће се поново покренути да би се инсталирало ажурирање система.</string>
+    <string name="system_update_suw_restart_title">Ускоро се поново покреће</string>
+    <string name="system_update_suw_wifi_needed">Да бисте наставили са преузимањем, изаберите ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Превуците улево да бисте преузели.</string>
+    <string name="system_update_update_available_notification_message">Додирните да бисте сазнали више и преузели</string>
+    <string name="system_update_update_available_notification_title">Доступно је ажурирање система</string>
+    <string name="system_update_update_available_tap_to_download">Додирните да бисте преузели</string>
+    <string name="system_update_update_available_title_text">Доступно је ажурирање система</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Преузимање је паузирано</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Није доступно довољно простора</string>
+    <string name="system_update_update_downloaded_charge_wearable">Пуните батерију док не буде бар %d%% пуна</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Превуците улево да бисте инсталирали.</string>
+    <string name="system_update_update_downloaded_notification_message">Додирните да бисте сазнали више и инсталирали</string>
+    <string name="system_update_update_downloaded_notification_title">Преузето је ажурирање система</string>
+    <string name="system_update_update_downloaded_tap_to_install">Додирните да бисте инсталирали</string>
+    <string name="system_update_verification_failed_text">Верификација није успела.</string>
+    <string name="system_update_verified_status_text">Преузето и верификовано</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Проблем при верификацији</string>
+    <string name="system_update_verifying_status_text">Проверава се</string>
+    <string name="system_update_wearable_countdown_message">Поново се покреће за %d...</string>
+    <string name="target_default_source_device_model">стари уређај</string>
+    <string name="target_device_not_supported_cant_continue_description">Мораћете да изаберете други начин за копирање података</string>
+    <string name="target_device_not_supported_cant_continue_title">Други телефон није подржан</string>
+    <string name="target_device_not_supported_try_restarting_description">"Искључите кабл и поново покрените стари телефон, па поново повежите кабл и пратите упутства на Pixel-у.
+
+Ако ова грешка настави да вам се приказује, пробајте да копирате на други начин."</string>
+    <string name="target_device_not_supported_try_restarting_title">Телефон можда није подржан</string>
+    <string name="target_smart_device_timeout_add_account">ДОДАЈ НАЛОГ</string>
+    <string name="target_smart_device_timeout_description">Ако желите, можете да покушате да додате налог ручно</string>
+    <string name="target_smart_device_timeout_dismiss">ОДБАЦИ</string>
+    <string name="target_smart_device_timeout_title">Имате проблема?</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">Телефони су повезани</string>
+    <string name="toast_reconnect_cable">Поново прикључите кабл</string>
+    <string name="transfer_finished_fragment_title">Додају се завршна подешавања…</string>
+    <string name="transfer_summary_copied">Подаци су копирани</string>
+    <string name="transfer_summary_fragment_description">Можете да извучете кабл.</string>
+    <string name="transfer_summary_fragment_finish">ЗАВРШИ</string>
+    <string name="transfer_summary_fragment_title">Телефон је скоро спреман</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Неке слике нису копиране. <annotation id="transfer_summary_learn_more">Сазнајте више</annotation></string>
+    <string name="transfer_summary_not_copied">Подаци нису копирани</string>
+    <string name="transfer_summary_partial">Копираних: %1$s/%2$s</string>
+    <string name="transfer_summary_will_sync">Подаци ће се синхронизовати после подешавања</string>
+    <string name="transferring_fragment_calculating_remaining_time">Израчунавамо преостало време…</string>
+    <string name="transferring_fragment_header">Копирање…</string>
+    <string name="transferring_fragment_remaining_time">Преостало је %1$s</string>
+    <string name="trust_instructions_description">Да бисте наставили, проверите iPhone® уређај и одобрите везу</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone, iPad, iOS, iMessage, iCloud, Safari и iTunes су жигови компаније Apple Inc. регистровани у САД и другим земљама.</string>
+    <string name="unmetered_wifi_string">Wi-Fi мрежа без ограничења</string>
+    <string name="url_load_unsuccessful_message">Android уређај није повезан са услугом за мобилни пренос података. Да бисте видели те информације одмах, идите на %s у веб-прегледачу.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android уређај није повезан са Wi-Fi мрежом. Да бисте одмах прегледали ове информације, посетите %s у веб-прегледачу.</string>
+    <string name="use_nearby_device_heading">Желите ли да користите оближњи уређај?</string>
+    <string name="use_nearby_device_text">Желите ли да користите оближњи уређај за одобравање акредитива?</string>
+    <string name="waiting_for_account_info_text">Чекамо информације о налогу…</string>
+    <string name="wifi_available_action_all_networks">Све мреже</string>
+    <string name="wifi_available_action_connect">Повежи</string>
+    <string name="wifi_available_content_failed">Додирните да бисте видели све мреже</string>
+    <string name="wifi_available_title">Повежите се са отвореном Wi‑Fi мрежом</string>
+    <string name="wifi_available_title_connected">Повезали сте се са Wi‑Fi мрежом</string>
+    <string name="wifi_available_title_connecting">Повезујете се са отвореном Wi‑Fi мрежом</string>
+    <string name="wifi_available_title_failed">Повезивање са Wi‑Fi мрежом није успело</string>
+    <string name="wifi_string">Wi-Fi мрежа</string>
+    <string name="wifi_wakeup_enabled_notification_context">У близини сте сачуване мреже: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi‑Fi је аутоматски укључен</string>
+</resources>

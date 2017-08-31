@@ -1,0 +1,1212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_home_description_format">%1$s：%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s - %2$s：%3$s</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">通过%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="account_blocked_title">帐号已被屏蔽</string>
+    <string name="account_level_title">需要执行帐号操作</string>
+    <string name="account_removed_notification_text">由于未完成设备管理操作，%1$s已被移除</string>
+    <string name="account_removed_notification_title">帐号已被移除</string>
+    <string name="android_privacy_policy_title">其他隐私权政策</string>
+    <string name="app_has_in_app_purchases">应用内购买</string>
+    <string name="app_has_permissions">权限：%s</string>
+    <string name="app_has_runtime_permissions">应用将请求获得相应权限</string>
+    <string name="app_level_title">登录请求</string>
+    <string name="app_level_title_secondary">登录请求：%s</string>
+    <string name="app_picker_app_already_installed_toast">已安装此应用</string>
+    <string name="app_picker_loading">正在查找可安装的应用…</string>
+    <string name="app_picker_loading_toast">系统将随即加载可安装的应用</string>
+    <string name="app_picker_no_apps">未选择任何应用</string>
+    <string name="app_picker_no_apps_found">未找到任何应用</string>
+    <string name="apps_in_app_purchases_disclaimer_all">应用内购商品将不会转移到您的 ^1。</string>
+    <string name="apps_in_app_purchases_disclaimer_some">部分应用内购商品可能不会转移到您的 ^1。</string>
+    <string name="apps_permissions_described_v2">"只有热门的免费 iOS® 应用才有相对应的 Android 应用。大多数应用内购商品无法转移。设置完毕后，您可以去 Play 商店寻找更多应用。
+
+您可能需要预先允许某些应用访问您设备上的特定功能或信息。权限会以权限组的形式分门别类。选择安装这些应用，即表示您同意将每组所含权限授予应用。要了解各个权限组，请参阅下方提供的说明。
+
+部分应用可能不会要求您预先授予特定权限。使用这类应用中的某个应用时，您可以在应用使用此类数据前允许或拒绝授予各项权限。
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">安装每个应用，即表示您同意向其授予相关权限。<annotation id="apps_permissions_learn_more">了解详情</annotation></string>
+    <string name="audience_selection_done">完成</string>
+    <string name="auth_account_already_has_gmail">该帐号已经有关联的 Gmail 帐号。</string>
+    <string name="auth_account_content_provider_label">Google 帐号数据</string>
+    <string name="auth_account_removed_default_description">您未完成设备管理设置。请重新开始并登录。</string>
+    <string name="auth_account_removed_default_title">已取消设置</string>
+    <string name="auth_account_removed_dm_bad_result_description">无法完成设备管理设置。请重新开始并登录。</string>
+    <string name="auth_account_removed_dm_not_supported_description">您的网域需要使用移动设备管理功能，但此设备不支持这项功能。请尝试使用其他帐号。</string>
+    <string name="auth_account_removed_dm_not_supported_title">不支持设备管理</string>
+    <string name="auth_account_removed_dm_setup_failed_description">未正确安装设备管理应用。请重新开始并登录。</string>
+    <string name="auth_account_removed_dm_setup_failed_title">无法安装</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">您未完成设备管理设置。请重新开始并登录。</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">已取消设置</string>
+    <string name="auth_account_settings_title">帐号设置</string>
+    <string name="auth_account_setup_title">Google 帐号</string>
+    <string name="auth_account_state_sync_title">帐号状态同步</string>
+    <string name="auth_allow_button_label">允许</string>
+    <string name="auth_allow_external_site_access">可持续查看您在 %s 的数据</string>
+    <string name="auth_app_permission_ok_footnote">继续即表示您允许此应用和 Google 根据各自的服务条款和隐私权政策使用您的信息。</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">允许登录</string>
+    <string name="auth_authzen_allow_reset_button_text">允许重设密码</string>
+    <string name="auth_authzen_google_logo_label">Google徽标</string>
+    <string name="auth_authzen_login_challenge_approved_text">登录已获批准</string>
+    <string name="auth_authzen_login_challenge_canceled_text">登录已取消</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">允许登录</string>
+    <string name="auth_authzen_login_challenge_desc_text">正在%s登录吗？</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google阻止了此次登录尝试。</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">数字有误</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">触摸另一屏幕上显示的数字，即可在自己的计算机上登录。</string>
+    <string name="auth_authzen_login_challenge_title_text">正在尝试登录？</string>
+    <string name="auth_authzen_profile_picture_label">个人资料图片</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">选择您想要登录的帐号：</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">正在尝试登录？</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">未找到任何登录通知。</string>
+    <string name="auth_authzen_pull_offline_error">内部错误</string>
+    <string name="auth_authzen_pull_offline_instructions_text">在您的计算机上，点击“有验证码？”，然后输入：</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">您刚才尝试登录 Google 了吗？</string>
+    <string name="auth_authzen_recovery_approved_text">密码重置已获批准</string>
+    <string name="auth_authzen_recovery_canceled_text">密码重置已取消</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">是否允许从%s重置密码？</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">我们需要您的确认</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google阻止了此次密码重置尝试。</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">数字有误</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">触摸另一屏幕上显示的数字，即可重置您的密码。</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">允许重置密码</string>
+    <string name="auth_authzen_recovery_reject_desc_text">有人请求重置您的Google帐号密码。Google阻止了这次密码重置尝试。</string>
+    <string name="auth_authzen_recovery_reject_title_text">已阻止重置密码</string>
+    <string name="auth_authzen_recovery_verification_desc_text">您是否从%s发出过密码重置请求？</string>
+    <string name="auth_authzen_recovery_verification_title_text">您是否尝试过重置密码？</string>
+    <string name="auth_authzen_secure_account_button_text">确保您的帐号安全</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">正在查找登录通知…</string>
+    <string name="auth_back_button_label">返回</string>
+    <string name="auth_cant_add_work_account_message">此类帐号由您所在的单位管理。</string>
+    <string name="auth_captcha_instructions">在此处输入您看到的文字：</string>
+    <string name="auth_captcha_title">需要输入人机识别系统内容</string>
+    <string name="auth_common_next_button">下一步</string>
+    <string name="auth_common_skip">跳过</string>
+    <string name="auth_common_switch_accounts">切换帐号</string>
+    <string name="auth_communicating_message">您的设备正与 Google 的服务器通信，以便将信息保存到您的帐号中。此过程最多可能需要5分钟的时间。</string>
+    <string name="auth_confirm_creds_sync_title">凭据状态</string>
+    <string name="auth_d2d_source_alert_title">一键恢复</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">锁定并验证</string>
+    <string name="auth_d2d_source_copy_notice">要将帐号和数据复制到您的其他设备吗？</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">完成验证后，蓝牙将会开启，以便您的设备之间进行通信。</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">完成验证后，您的设备将通过蓝牙建立连接。</string>
+    <string name="auth_d2d_source_lock_notice">要继续操作，您的屏幕将会锁定，而您需要解锁屏幕才能通过验证。</string>
+    <string name="auth_d2d_source_no_accounts_toast">此设备上未配置任何帐号，因此无法使用“一键恢复”功能。</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">您的设备无法使用蓝牙，因此无法使用“一键恢复”功能。</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">蓝牙将会开启，以便您的设备之间进行通信。</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">此操作需使用蓝牙功能。</string>
+    <string name="auth_d2d_source_notification_title">一键恢复已完成</string>
+    <string name="auth_d2d_source_restricted_user_toast">无法通过受限用户个人资料进行“一键恢复”。</string>
+    <string name="auth_d2d_source_title">恢复帐号</string>
+    <string name="auth_d2d_source_unknown_device_name">未知设备</string>
+    <string name="auth_d2d_target_sorry_alert">抱歉，出现问题</string>
+    <string name="auth_d2d_target_tap_progress_message">要继续，请在您的另一台设备上点按“确定”</string>
+    <string name="auth_d2d_target_title">一键恢复</string>
+    <string name="auth_d2d_target_unlock_progress_message">检查您的其他设备</string>
+    <string name="auth_d2d_target_wait_progress_message">正在提取帐号和数据…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">拒绝</string>
+    <string name="auth_device_management_download_app_icon">“%s”应用图标</string>
+    <string name="auth_device_management_download_description">此帐号需要使用移动设备管理功能。请安装 ^1 应用，以强制执行此帐号要求的安全政策。</string>
+    <string name="auth_device_management_download_description_kids">要在此设备中添加帐号，请先安装 <b>^1</b>"。
+
+^1 可协助您为孩子设置此设备。"</string>
+    <string name="auth_device_management_download_failed_message">您仍然可以在不使用此应用的情况下继续设置</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">无法安装设备管理应用。此帐号将被移除。请稍后重试。</string>
+    <string name="auth_device_management_download_failed_title">无法下载应用</string>
+    <string name="auth_device_management_download_not_updated_message">您仍然可以使用当前版本继续设置</string>
+    <string name="auth_device_management_download_paused">已暂停</string>
+    <string name="auth_device_management_download_progress">正在下载…</string>
+    <string name="auth_device_management_download_skip_message">此帐号需要设置设备管理功能。要跳过此管理设置并继续操作吗？</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">您必须完成设备管理设置才能添加此帐号。要使用其他帐号重新开始吗？</string>
+    <string name="auth_device_management_go_back">返回</string>
+    <string name="auth_device_management_screenlock_description">根据贵单位的移动设备政策，要在此设备上使用您的工作帐号，您需要设置屏幕锁定方式。</string>
+    <string name="auth_device_management_screenlock_skip_message">您必须完成屏幕锁定安全设置才能使用此帐号。要使用其他帐号重新开始操作吗？</string>
+    <string name="auth_device_management_start_description">此帐号需要使用移动设备管理功能。当您点按“下一步”后，^1 应用将会协助您执行此帐号所要求的安全政策。</string>
+    <string name="auth_device_management_start_description_kids">要在此设备中添加帐号，请使用 <b>^1</b>"。
+
+^1 可协助您为孩子设置此设备。"</string>
+    <string name="auth_device_management_title">设备管理</string>
+    <string name="auth_device_management_update_description">此帐号需要使用移动设备管理功能。为符合此帐号适用的安全政策，您必须安装新版 ^1 应用。</string>
+    <string name="auth_device_management_update_description_kids">要在此设备中添加帐号，请先安装最新版本的 <b>^1</b>"。
+
+^1 可协助您为孩子设置此设备。"</string>
+    <string name="auth_dismiss_button_label">关闭</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> 未使用 Gmail。</string>
+    <string name="auth_error_account_disabled">"此帐号已停用。
+
+（如要了解详情，请使用网络浏览器访问 http://google.com/accounts。）"</string>
+    <string name="auth_error_account_not_verified">"此帐号尚未经过验证。请查看您的电子邮件，并点击其中的链接以验证此帐号。
+
+（要找回您的帐号信息，请在计算机上访问 http://www.google.com/accounts/recovery。）"</string>
+    <string name="auth_error_bad_password">密码的安全强度过低，或包含无效字符。请重试。</string>
+    <string name="auth_error_bad_username">用户名无效。</string>
+    <string name="auth_error_generic_server_error">"与 Google 服务器通信时出现问题。
+
+请稍后重试。"</string>
+    <string name="auth_error_invalid_second_factor">请使用应用专用密码，而不是常规帐号密码。</string>
+    <string name="auth_error_login_failed">"您输入的用户名或密码不正确，请重试。
+
+要找回帐号信息，请访问 google.com/accounts/recovery/。"</string>
+    <string name="auth_error_needs_browser">要访问您的帐号，您需要先在网页上登录。点按“下一步”即可启动浏览器进行登录。</string>
+    <string name="auth_error_no_network">"您当前未连接到网络。
+
+这可能是暂时性的问题，请稍后重试，或连接到其他 WLAN 网络。"</string>
+    <string name="auth_error_not_logged_in">用户尚未登录。</string>
+    <string name="auth_error_username_unavailable">此用户名无法使用。</string>
+    <string name="auth_existing_account_error_text">此Android设备上已存在帐号 ^1。</string>
+    <string name="auth_existing_account_error_title">此帐号已存在</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">由于您最近更改了密码，因此无法登录这个设备。更改密码后，请等待 24 小时，然后再尝试登录。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">设备保护功能将无法再使用。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">如果您将设备上最后一个 Google 帐号从自己的个人资料中移除，系统将停用设备防盗保护功能。日后您可以将其他帐号添加到设备，以便重新启用这些功能。</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">确定要移除吗？</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">要将帐号移入工作资料吗？</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">由于未知错误，无法登录这个设备。请尝试使用其他帐号登录，或 24 小时后再尝试登录。</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">请使用此设备的某个所有者帐号登录</string>
+    <string name="auth_field_cant_be_blank">此字段不能为空。</string>
+    <string name="auth_frp_add_account_no">否</string>
+    <string name="auth_frp_add_account_prompt">要立即将 ^1 添加到您的设备吗？如果您有其他帐号，可以稍后进行添加。</string>
+    <string name="auth_frp_add_account_yes">是</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">无法访问该帐号。请确保您的设备符合贵单位的安全政策。如果此错误继续出现，请与贵单位的管理员联系。</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">帐号错误</string>
+    <string name="auth_gls_dmagent_activity_download_message">" 您的网域需要使用移动设备管理功能。请安装 Google Apps Device Policy 应用，以强制执行  "<b>^1</b> 帐号要求的安全政策。</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">下载</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" 只能包含字母、
+数字和句号。"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> 不包含任何字母。</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> 包含的字符少于 6 个或多于 30 个。</string>
+    <string name="auth_gls_is_not_available">用户名 <b>^1</b> 不可用。</string>
+    <string name="auth_gls_name_checking_info_title">正在核对信息…</string>
+    <string name="auth_gls_sync_item_title">同步%s</string>
+    <string name="auth_gls_third_party_activity_download_message">" 您必须将帐号  "<b>^1</b> 添加到由您的单位管理的设备或工作资料中。请按照您的 IT 管理员提供的说明完成此操作。</string>
+    <string name="auth_google_title_logo">Google徽标</string>
+    <string name="auth_invalid_login_character">字符无效。只允许使用 0-9、a-z、A-Z 和句点。</string>
+    <string name="auth_invalid_password_character">密码字符无效。</string>
+    <string name="auth_invalid_username">您输入的文字不是有效的用户名。</string>
+    <string name="auth_kids_setup_wizard_services_agreement">继续操作即表示您同意此设备还可从 Google、您的运营商以及此设备的制造商处自动下载及安装更新和应用（可能会使用移动数据网络）。在这些应用中，有些可能会提供应用内购买功能。您可以随时移除这些应用。</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>当设备存储空间快要用尽时，您可以移除此设备中的部分数据（例如已备份的照片和视频），从而释放存储空间</b>。</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>将设备数据</b>（例如 WLAN 密码和通话记录）和应用数据（例如应用存储的设置和文件）自动备份到您孩子的 Google 云端硬盘。</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"启用自动备份功能后，系统会定期将设备和应用数据保存到您孩子的 Google 云端硬盘上的私人文件夹中。应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件、消息、照片等可能具有敏感性的数据。
+
+备份数据不会计入您孩子的云端硬盘存储空间配额。此外，系统不会备份大型文件或开发者已选择从备份服务中排除的文件。"</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>将设备数据</b>（例如 WLAN 密码、短信和通话记录）、设置和应用数据（例如应用存储的设置和文件）自动备份到您孩子的 Google 云端硬盘。</string>
+    <string name="auth_kids_setup_wizard_services_description">作为家长，您可以随时为孩子的帐号开启或关闭这些服务。我们会遵照 Google 的<annotation link="google_privacy">政策</annotation>"使用这些数据。
+
+如需了解详情，请点按各项服务。"</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>使用 Google 的位置信息服务协助应用</b>确定您的孩子所在的位置。当此设备处于开机状态时，系统会将匿名位置数据发送给 Google。</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Google 的位置信息服务会使用 WLAN 和移动数据网络等来源，更快速、更准确地确定此设备所在的大致位置。当您开启此设备的“位置信息”设置并让设备进入使用 WLAN 或移动数据网络来估测位置的模式（例如“准确度高”或“耗电量低（节电）”模式）时，这项服务就会自动开启。
+
+您可以通过以下方式关闭这项服务：
+
+"<li>关闭此设备上的主要“位置信息”设置。</li>"
+
+"<li>让主要“位置信息”设置保持开启状态，同时选择仅使用 GPS 的模式（有时显示为“仅限设备”模式）。</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">自动向 Google 发送诊断信息以及设备和应用使用情况数据，以<b>协助我们改善您的 Android 设备使用体验</b>。这些信息不会用来标识您孩子的身份，而是用于改善电池续航能力、应用稳定性和网络连接质量等。</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"这是关于此设备及其使用情况（例如，电池电量、应用使用情况和网络连接情形）的一般信息。我们会使用这些数据来改善 Google 的各项产品和服务，让所有用户都受惠。另外，部分汇总信息也有助于我们的合作伙伴（例如 Android 开发者）改善其应用和产品。
+
+关闭此功能并不会影响此设备为获得基本服务（例如系统更新和安全保护）而发送所需信息的功能。"</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"这是关于此设备及其使用情况（例如，电池电量、应用使用情况，以及网络连接情形）的一般信息。我们会使用这些数据来改善 Google 的各项产品和服务，让所有用户都受惠。另外，部分汇总信息也有助于我们的合作伙伴（例如 Android 开发者）改善其应用和产品。
+
+关闭此功能并不会影响此设备为获得基本服务（例如系统更新和安全保护）而发送所需信息的功能。
+
+要控制此功能，请依次转到“设置”>“Google”，并从菜单中选择“使用情况和诊断信息”。"</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">您输入的密码不正确，或者您的帐号已变更。请重新输入您的密码。如果您忘记了自己的密码，并需要恢复帐号，请点击<annotation id="help_url">此处</annotation>。</string>
+    <string name="auth_login_activity_task_title">正在登录…</string>
+    <string name="auth_login_activity_title">登录</string>
+    <string name="auth_login_task_title">正在登录</string>
+    <string name="auth_login_title">输入电子邮件地址和密码</string>
+    <string name="auth_minutemaid_ssl_error">"连接到  %s 时出现问题。"</string>
+    <string name="auth_network_unreliable_help">这可能是暂时性的问题，或者您的Android设备未开通数据网络服务。如果问题一直存在，请与客服人员联系。</string>
+    <string name="auth_next_button_label">下一步</string>
+    <string name="auth_no_network">您没有网络连接。</string>
+    <string name="auth_no_network_help">这可能是暂时性的问题，也可能是因为您的Android设备未开通数据网络服务。请在连接到移动网络或WLAN网络后重试。</string>
+    <string name="auth_no_network_help_wifi_only">这可能是暂时性的问题。请重试或连接到其他WLAN网络。</string>
+    <string name="auth_otp_error">生成验证码时出现问题。</string>
+    <string name="auth_otp_explained_paragraph">如果您忘记了密码，或您的登录方式与平时不同，Google 可能会要求您提供验证码以保护您的帐号安全。您可以立即使用这个验证码，也可以稍后再返回获取新验证码。</string>
+    <string name="auth_otp_header_message">何时使用此验证码登录</string>
+    <string name="auth_otp_help">帮助和反馈</string>
+    <string name="auth_otp_no_accounts_available_message">此设备上尚未配置任何帐号。</string>
+    <string name="auth_otp_progress_dialog_message">正在生成验证码。</string>
+    <string name="auth_password">密码</string>
+    <string name="auth_plus_audience_selection_description_acl">分享对象</string>
+    <string name="auth_plus_failure_new_account_text">您已创建Google帐号，但您创建 Google+ 个人资料的申请未获通过。请稍后使用任意网络浏览器访问 plus.google.com，再次尝试创建个人资料。</string>
+    <string name="auth_plus_failure_text">您加入 Google+ 的申请未获通过。请稍后使用任意网络浏览器访问 plus.google.com 重试。</string>
+    <string name="auth_plus_failure_title">以后再创建 Google+ 个人资料</string>
+    <string name="auth_plus_info_fragment_app_name">%s请求获取以下权限：</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s设备上的%s希望：</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">您的外扩圈子</string>
+    <string name="auth_plus_scope_fragment_mixed_label">所选的圈子</string>
+    <string name="auth_plus_scope_fragment_only_you_label">仅限您自己</string>
+    <string name="auth_plus_scope_fragment_public_label">网络上的任何人</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">您的圈子</string>
+    <string name="auth_relogin_activity_title">再次输入密码</string>
+    <string name="auth_remove_account_start_over">重新开始</string>
+    <string name="auth_scope_more_details">详情</string>
+    <string name="auth_server_error">与 Google 服务器通信时出现问题。</string>
+    <string name="auth_server_error_help">请稍后重试。</string>
+    <string name="auth_setup_wizard_account_added_activity_title">已添加帐号</string>
+    <string name="auth_setup_wizard_account_added_description">您的帐号已添加。接下来请选择 Google 服务选项</string>
+    <string name="auth_setup_wizard_back_button_label">返回</string>
+    <string name="auth_setup_wizard_next_button_label">下一步</string>
+    <string name="auth_setup_wizard_services_activity_title">Google 服务</string>
+    <string name="auth_setup_wizard_services_agreement">继续操作即表示您同意此设备还可从 Google、您的运营商以及您设备的制造商处自动下载及安装更新和应用（可能会使用移动数据网络）。在这些应用中，有些可能会提供应用内购买功能。您可以随时移除这些应用。</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">要移除应用，请依次转到“设置”>“应用”或“应用管理器”，点按您要卸载的应用（您可能需要左右滑动才能找到相应的应用），然后点按“卸载”或“停用”。</string>
+    <string name="auth_setup_wizard_services_agreement_korea">您也在此同意并授权预加载的 Google 应用使用您设备上的信息和功能。要详细了解这些权限的使用情况相关信息，请参阅<annotation link="app_permissions">此网页</annotation>。</string>
+    <string name="auth_setup_wizard_services_agreement_title">安装更新和应用</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">当您的手机存储空间快要用尽时，您可以移除部分数据（例如已备份的照片和视频），从而释放存储空间。</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">连接到网络后，您仍然可以访问这些数据。要控制此功能以及指定要移除的内容，请依次转到“设置”>“存储”>“智能存储空间”。</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">释放空间</string>
+    <string name="auth_setup_wizard_services_backup">随时轻松恢复数据或换用手机。备份内容包括应用、应用数据和设备设置（包括 WLAN 密码）。</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件/消息、照片等可能具有敏感性的数据。
+
+备份数据不会计入您的云端硬盘存储空间配额。
+
+您可以在“设置”中关闭这项服务。"</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件、消息、照片等可能具有敏感性的数据。
+
+系统会将此设备上的照片和视频同步到您的 Google 照片，以便您可以在自己的任何设备上搜索、编辑、删除和分享这些内容。默认情况下，系统会上传完整分辨率的照片和视频。
+
+备份数据不会计入您的云端硬盘存储空间配额。
+
+您可以在“设置”中关闭此服务。"</string>
+    <string name="auth_setup_wizard_services_backup_title">备份到 Google 云端硬盘</string>
+    <string name="auth_setup_wizard_services_backup_v23">随时轻松恢复数据或换用手机。备份内容包括应用、应用数据、通话记录、通讯录和设备设置（包括 WLAN 密码和权限）。</string>
+    <string name="auth_setup_wizard_services_backup_v26">随时轻松恢复数据或换用手机。备份内容包括应用、应用数据、通话记录、通讯录、设备设置（包括 WLAN 密码和权限）和短信。</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">随时轻松恢复数据或换用手机。备份内容包括应用、应用数据、通话记录、通讯录、设备设置（包括 WLAN 密码和权限）、照片、视频和短信。照片和视频会同步到您的 Google 帐号，并可通过各项服务使用。</string>
+    <string name="auth_setup_wizard_services_description">点按即可详细了解各项服务（例如，以后如何开启或关闭相应服务）。我们会遵照 Google 的<annotation link="google_privacy">隐私权政策</annotation>使用相应的数据。</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"您可以在 Play 商店中找到应用详情（包括应用内购商品）。应用数据和设置会与登录您的 Google 帐号的设备保持同步。
+
+使用免安装应用时须遵守 "<a href="https://play.google.com/about/play-terms.html">Google Play 服务条款</a>"。
+"<a href="https://support.google.com/googleplay/?p=instant_apps">了解详情</a>。</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">当您点按某个链接时，Google Play 会检查是否存在相应的免安装应用，如果存在就会直接运行该应用（无需安装）。免安装应用会暂时保留在您的设备上。</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">无需安装即可使用应用</string>
+    <string name="auth_setup_wizard_services_location_sharing">使用 Google 的位置信息服务协助应用确定您所在的位置。当您的设备处于开机状态时，系统会将匿名位置数据发送给 Google。</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Google 的位置信息服务会使用 WLAN 和移动数据网络等来源，更快速、更准确地确定您设备所在的大致位置。当您开启设备的“位置信息”设置并让设备进入使用 WLAN 或移动数据网络来估测位置的模式（例如“准确度高”或“耗电量低（节电）”模式）时，这项服务就会自动开启。
+
+您可以通过以下任一方式关闭这项服务：
+
+"<li>关闭您设备上的主要“位置信息”设置。</li>"
+
+"<li>让主要“位置信息”设置保持开启状态，同时选择仅使用 GPS 的模式（有时显示为“仅限设备”模式）。</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">协助应用确定位置信息</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">允许应用和服务扫描 WLAN 网络（即使 WLAN 已关闭）。</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">您可以在位置信息设置中关闭此功能。</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">提高位置信息的精确度</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">允许应用和服务扫描 WLAN 网络和蓝牙（即使这些设置已关闭）。</string>
+    <string name="auth_setup_wizard_services_play">向我发送 Google Play 的最新消息和优惠信息。</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">备份和存储空间</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">设备维护</string>
+    <string name="auth_setup_wizard_services_section_location">位置信息</string>
+    <string name="auth_setup_wizard_services_tos">如果继续，即表示您还同意 <annotation link="tos">Google 服务条款</annotation>。</string>
+    <string name="auth_setup_wizard_services_tos_germany">在您使用此设备时，Google 会遵守<annotation link="google_privacy">隐私权政策</annotation>和<annotation link="tos">其他适用条款</annotation>。</string>
+    <string name="auth_setup_wizard_services_usage_reporting">自动向 Google 发送诊断信息以及设备和应用使用情况数据，以协助我们改善您的 Android 设备使用体验。这些信息有助于改善电池续航能力、应用稳定性和网络连接质量等。如果您开启了其他“网络与应用活动记录”，这些信息将存储在您的帐号名下，这样您就可以在“我的活动记录”中对其进行管理。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"这是关于您的设备及其使用情况（例如，电池电量、应用使用情况和网络连接情形）的一般信息。我们会使用这些数据来改善 Google 的各项产品和服务，让所有用户都受惠。另外，部分汇总信息也有助于我们的合作伙伴（例如 Android 开发者）改善其应用和产品。
+
+关闭此功能并不会影响您的设备为获得基本服务（例如系统更新和安全保护）而发送所需信息的功能。"</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">您可以在 myactivity.google.com 上更新“我的活动记录”设置。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">要控制此功能，请转到“Google 设置”，并从菜单中选择“使用情况和诊断信息”。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">要控制此功能，请依次转到“设置”>“Google”，并从菜单中选择“使用情况和诊断信息”。</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">发送系统数据</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">允许 Google 动态壁纸访问 Google 位置信息服务，以便根据您所在的位置做出回应。</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">您可以为动态壁纸启用或停用 Google 位置信息服务访问权限，方法如下：依次转到“设置”>“应用和通知”>“应用信息”。在溢出菜单中，依次点按“显示系统”>“动态数据壁纸”/“动态地球壁纸”>“权限”。</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">允许壁纸使用位置信息</string>
+    <string name="auth_setup_wizard_title">设置向导</string>
+    <string name="auth_show_error_activity_title">无法登录</string>
+    <string name="auth_show_error_title">出错</string>
+    <string name="auth_sign_in_agreement">登录即表示您同意 <annotation id="google_privacy">Google 隐私权政策</annotation>和<annotation id="android_privacy">其他</annotation>隐私权政策。</string>
+    <string name="auth_sign_in_browser">浏览器登录</string>
+    <string name="auth_sign_in_button_label">登录</string>
+    <string name="auth_sign_in_with_google_account_short">使用您的Google帐号登录：</string>
+    <string name="auth_skip_button_label">跳过</string>
+    <string name="auth_submission_error_text">发生错误，请重试。</string>
+    <string name="auth_submission_title">抱歉…</string>
+    <string name="auth_try_again_button_label">重试</string>
+    <string name="auth_ui_activity_authenticating">正在进行身份验证...</string>
+    <string name="auth_ui_activity_title">Google登录</string>
+    <string name="auth_ui_activity_title_browser_signin">登录</string>
+    <string name="auth_ui_add_account_title">帐号设置</string>
+    <string name="auth_uncertified_notification_content">制造商尚未认证此设备</string>
+    <string name="auth_uncertified_notification_description">"此设备制造商并未将这个设备送交 Google 进行认证便自行使用 Google 应用。
+
+未经认证的设备可能不安全，并可能无法接收系统或应用更新。此外，设备上的应用和功能（例如备份文件或照片的功能）也可能无法正常运行。
+
+请与您的设备制造商联系以解决此问题。
+
+要详细了解经 Google 认证的合作伙伴，请访问 %s。"</string>
+    <string name="auth_uncertified_notification_learn_more">了解详情</string>
+    <string name="auth_uncertified_notification_title">警告：设备未经认证</string>
+    <string name="auth_username">电子邮件</string>
+    <string name="auth_work_authenticator_label">受管理的帐号</string>
+    <string name="authorization_dialog">授权对话框</string>
+    <string name="auto_restore_summary">重新安装某个应用后，系统会恢复之前备份的设置和数据</string>
+    <string name="auto_restore_title">自动恢复</string>
+    <string name="autofill_dataset_password">使用以下帐号的密码：<b>^1</b></string>
+    <string name="autofill_datatype_address">地址</string>
+    <string name="autofill_datatype_password">已保存的密码</string>
+    <string name="autofill_datatype_payment">信用卡</string>
+    <string name="autofill_datatype_profile">个人信息</string>
+    <string name="autofill_label">Google 自动填充</string>
+    <string name="autofill_optin_line1"><b>点按即可让 Google 为您填写这个字段</b></string>
+    <string name="autofill_optin_line2">（根据已通过 Chrome 自动填充功能保存的信息）</string>
+    <string name="autofill_setup_points">"• Google 会根据您屏幕上的内容判断可以自动填充哪些信息。
+• 您可以在“设置”中查看和管理您的自动填充信息。"</string>
+    <string name="autofill_setup_summary">只需点按一次，即可填写密码、地址、信用卡信息和保存在您帐号中的其他信息。</string>
+    <string name="autofill_setup_summary_single_account">只需点按一次，即可填写密码、地址、信用卡信息和保存在您帐号 (<b>^1</b>) 中的其他信息。</string>
+    <string name="backup_configure_account_default_summary">目前没有存储备份数据的帐号</string>
+    <string name="backup_configure_account_title">备份帐号</string>
+    <string name="backup_data_summary">将应用数据、WLAN 密码和其他设置备份到 Google 云端硬盘</string>
+    <string name="backup_data_summary_full">"自动远程备份设备数据（例如 WLAN 密码和通话记录）和应用数据（例如应用存储的设置和文件）。
+
+启用自动备份功能后，系统会定期远程保存设备和应用数据。应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件、消息、照片等可能具有敏感性的数据。"</string>
+    <string name="backup_data_title">备份到 Google 云端硬盘</string>
+    <string name="backup_erase_dialog_message">要停止备份您的 WLAN 密码、书签、其他设置和应用数据，并清除 Google 云端硬盘上的所有副本吗？</string>
+    <string name="backup_erase_dialog_message_full">要停止备份设备数据（例如 WLAN 密码和通话记录）和应用数据（例如应用存储的设置和文件），并清除 Google 云端硬盘上的所有副本吗？</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">打开 Google 照片设置时出错</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"开启自动备份功能后：
+
+ ● 系统会定期将设备设置和应用数据保存到 Google 云端硬盘上的私人文件夹中。应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件/消息、照片等可能具有敏感性的数据。
+
+系统不会备份大型文件或开发者已选择从备份服务中排除的文件。
+
+ ● 系统会将此设备的照片和视频录制内容同步到您的 Google 相册照片库，以便您通过任何设备搜索、编辑、删除和分享这些内容。
+
+默认情况下，系统会上传完整分辨率照片和视频，且这类内容不会计入您的云端硬盘存储空间配额。
+
+ ● 系统会将此设备的通讯录和相关数据同步到 Google 通讯录。您可以通过任何设备使用 Google 通讯录应用搜索、修改、删除和分享联系人数据。
+
+ ● 系统会将此设备的日历条目和相关数据同步到 Google 日历。您可以通过任何设备使用 Google 日历应用搜索、修改、删除和分享联系人数据。
+
+备份数据不会计入您的云端硬盘存储空间配额。"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"开启自动备份功能后：
+
+ ● 系统会定期将设备设置和应用数据保存到您在 Google 云端硬盘上的私人文件夹中。应用数据可以是应用根据开发者设置保存的任何数据，包括通讯录、邮件/消息、照片等可能具有敏感性的数据。
+
+系统不会备份大型文件或开发者已选择从备份服务中排除的文件。
+
+ ● 系统会将此设备的通讯录和相关数据同步到 Google 通讯录。您可以通过任何设备使用 Google 通讯录应用搜索、修改、删除和分享联系人。
+
+ ● 系统会将此设备的日历条目和相关数据同步到 Google 日历。您可以通过任何设备使用 Google 日历应用搜索、修改、删除和分享联系人。
+
+备份数据不会计入您的云端硬盘存储空间配额。"</string>
+    <string name="backup_opt_in_backup_description_extra">日历、通讯录、照片和视频会同步到您的 Google 帐号，并可在各种服务中使用。</string>
+    <string name="backup_opt_in_backup_description_v2">自动备份功能可确保让您随时轻松恢复数据或换用手机。<annotation id="backup_opt_in_learn_more">了解详情</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"此操作会针对以下内容关闭备份功能：
+
+应用和应用数据
+通话记录
+设备设置
+照片和视频
+短信
+
+系统会继续将日历和通讯录同步到您的 Google 帐号。要在设置完成后更改同步设置，请依次转到"<annotation id="backup_opt_in_settings_instructions">“设置”>“帐号”>“Google”</annotation>。</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">要关闭备份功能吗？</string>
+    <string name="backup_opt_in_backup_list">"应用和应用数据
+日历
+通话记录
+通讯录
+设备设置（包括 WLAN 密码）
+照片和视频
+短信"</string>
+    <string name="backup_opt_in_backup_list_header">备份内容包括：</string>
+    <string name="backup_opt_in_backup_title">备份到 Google 云端硬盘</string>
+    <string name="backup_opt_in_disable_backup">关闭备份功能</string>
+    <string name="backup_photos_update">请更新 Google 照片</string>
+    <string name="backup_settings_activity_backup_title">备份</string>
+    <string name="backup_settings_activity_title">备份和重置</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">不要复制</string>
+    <string name="chrome_privacy_title">Chrome 隐私权声明</string>
+    <string name="chrome_tos_title">Chrome 服务条款</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$s 的现有密码之前已通过您的密码加密。如果您忘记了密码，请停止操作并通过 &lt;a href=%2$s>Google Dashboard&lt;/a> 重置同步功能。</string>
+    <string name="chromesync_custom_passphrase_title">ChromeSync 密码</string>
+    <string name="chromesync_enter_passphrase_hint">输入密码</string>
+    <string name="chromesync_entered_wrong_passphrase">密码错误</string>
+    <string name="chromesync_no_browser_found">未找到可用于打开此链接的浏览器</string>
+    <string name="close_button_label">关闭</string>
+    <string name="cloud_restore_app_picker_button">恢复</string>
+    <string name="cloud_restore_app_picker_description_no_apps">您的备份内容中没有任何应用</string>
+    <string name="cloud_restore_app_picker_title">选择要恢复的应用</string>
+    <string name="common_accept">接受</string>
+    <string name="common_account_chip_add_account_button_label">使用其他帐号</string>
+    <string name="common_add_account_button_label">添加帐号</string>
+    <string name="common_add_account_label">添加帐号</string>
+    <string name="common_ads_settings_title">广告</string>
+    <string name="common_agree">同意</string>
+    <string name="common_app_name">Google Play 服务</string>
+    <string name="common_asm_preferences_settings_title">帐号设置</string>
+    <string name="common_asm_privacy_settings_title">个人信息和隐私</string>
+    <string name="common_asm_security_settings_title">登录和安全</string>
+    <string name="common_audience_edit_button_label">修改</string>
+    <string name="common_cancel">取消</string>
+    <string name="common_cannot_start_hangouts_security_exception">无法发起环聊（权限错误）。</string>
+    <string name="common_car_permission_desc">使用汽车服务的权限。</string>
+    <string name="common_car_permission_label">汽车服务</string>
+    <string name="common_chips_label_empty_circles">没有任何圈子</string>
+    <string name="common_chips_label_extended_circles">外扩圈子</string>
+    <string name="common_chips_label_only_you">仅限您自己</string>
+    <string name="common_chips_label_public">公开</string>
+    <string name="common_chips_label_your_circles">您的圈子</string>
+    <string name="common_choose_account">选择帐号</string>
+    <string name="common_choose_account_for_app_label">为“%1$s”选择帐号</string>
+    <string name="common_choose_account_label">选择帐号</string>
+    <string name="common_clear_app_data_menu_item">清除应用数据</string>
+    <string name="common_connected">已连接</string>
+    <string name="common_connected_apps_settings_title">关联的应用</string>
+    <string name="common_connecting">正在连接…</string>
+    <string name="common_continue">继续</string>
+    <string name="common_disagree">不同意</string>
+    <string name="common_disconnect">断开连接</string>
+    <string name="common_done">完成</string>
+    <string name="common_fitness_settings_title">Google 健身</string>
+    <string name="common_from">发件人：</string>
+    <string name="common_games_settings_title">Play 游戏</string>
+    <string name="common_get_started">开始</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">启用</string>
+    <string name="common_google_play_services_enable_text">您必须先启用 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_google_play_services_enable_title">启用 Google Play 服务</string>
+    <string name="common_google_play_services_error_dialog_title">错误</string>
+    <string name="common_google_play_services_install_button">安装</string>
+    <string name="common_google_play_services_install_text">您的设备没有安装 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_install_title">获取 Google Play 服务</string>
+    <string name="common_google_play_services_notification_ticker">Google Play服务出错</string>
+    <string name="common_google_play_services_unknown_issue">%1$s无法访问 Google Play 服务，请重试。</string>
+    <string name="common_google_play_services_unsupported_text">您的设备不支持 Google Play 服务，因此无法运行%1$s。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">您必须先更新 Google Play 服务，然后才能运行%1$s。</string>
+    <string name="common_google_play_services_update_title">更新 Google Play 服务</string>
+    <string name="common_google_play_services_updating_text">Google Play 服务当前正在更新，因此您无法运行%1$s。</string>
+    <string name="common_google_play_services_updating_title">Google Play 服务正在更新</string>
+    <string name="common_google_play_services_wear_update_text">必须使用新版 Google Play 服务。该服务很快就会自行更新。</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Google Play 服务已安装，但架构错误。</string>
+    <string name="common_google_play_services_wrong_architecture_text">Google Play 服务已安装，但其架构 (%1$s) 与您设备的架构 (%2$s) 不一致。</string>
+    <string name="common_google_play_services_wrong_architecture_title">架构错误</string>
+    <string name="common_google_settings">Google设置</string>
+    <string name="common_google_settings_account">帐号</string>
+    <string name="common_google_settings_credentials_title">Smart Lock（密码专用）</string>
+    <string name="common_google_settings_developer">开发者</string>
+    <string name="common_google_settings_services">服务</string>
+    <string name="common_got_it">知道了</string>
+    <string name="common_install">安装</string>
+    <string name="common_learn_more">了解详情</string>
+    <string name="common_list_apps_menu_help">帮助</string>
+    <string name="common_list_apps_menu_help_and_feedback">帮助和反馈</string>
+    <string name="common_loading">正在加载…</string>
+    <string name="common_location_settings_title">位置信息</string>
+    <string name="common_magictether_settings_title">即时网络共享</string>
+    <string name="common_maps_settings_title">地图和纵横</string>
+    <string name="common_mdm_feature_name">Android 设备管理器</string>
+    <string name="common_missing_url_viewer">缺少可显示外部网址的查看器。</string>
+    <string name="common_more_options">更多选项</string>
+    <string name="common_networking_settings_title">网络</string>
+    <string name="common_no_browser_for_restricted_url">访问受限。未找到任何浏览器。</string>
+    <string name="common_no_devices_found">未找到任何设备</string>
+    <string name="common_no_network">设备未连接到网络，因此无法加载内容</string>
+    <string name="common_no_thanks">不用了</string>
+    <string name="common_not_now">以后再说</string>
+    <string name="common_off">关闭</string>
+    <string name="common_ok">确定</string>
+    <string name="common_on">开启</string>
+    <string name="common_open_on_phone">在手机上打开</string>
+    <string name="common_open_source_licenses">开放源代码许可</string>
+    <string name="common_people_settings_title">通讯录</string>
+    <string name="common_permissions_enable_in_settings">在“设置”中启用</string>
+    <string name="common_permissions_missing_end">要继续，请打开“设置”，转到“权限”，然后允许其中列出的所有项。</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+要启用此设置，请依次转到
+“设置”>
+“权限”>
+“Google Play 服务”"</string>
+    <string name="common_permissions_missing_start">您必须先允许 Google Play 服务访问以下内容，然后才能正常运行此应用：</string>
+    <string name="common_permissions_open_settings">打开“设置”</string>
+    <string name="common_phone">电话号码</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">隐私权政策</string>
+    <string name="common_restore">恢复</string>
+    <string name="common_restricted_no_accounts">没有可供选择的帐号</string>
+    <string name="common_retry">重试</string>
+    <string name="common_search_settings_title">搜索</string>
+    <string name="common_security_ootp_setting_title">验证码</string>
+    <string name="common_security_settings_title">安全</string>
+    <string name="common_send">发送</string>
+    <string name="common_sending">正在发送…</string>
+    <string name="common_set_up_nearby_device_settings_title">设置附近的设备</string>
+    <string name="common_settings">设置</string>
+    <string name="common_signin_button_text">登录</string>
+    <string name="common_signin_button_text_long">使用 Google 帐号登录</string>
+    <string name="common_something_went_wrong">出错了</string>
+    <string name="common_system_info">系统信息</string>
+    <string name="common_take_photo_label">拍照</string>
+    <string name="common_terms_of_service">服务条款</string>
+    <string name="common_try_again">重试</string>
+    <string name="common_turn_on_bluetooth">开启蓝牙</string>
+    <string name="common_ui_confirm_deleting_button">删除</string>
+    <string name="common_ui_confirm_deleting_checkbox">知道了，仍然删除</string>
+    <string name="common_unknown">未知</string>
+    <string name="common_update">更新</string>
+    <string name="common_url_load_unsuccessful_message">您的Android设备未连接到数据网络服务。要立即查看此信息，请使用网络浏览器访问 %s。</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">您的 Android 设备未连接到 WLAN 网络。要立即查看此信息，请使用网络浏览器访问 %s。</string>
+    <string name="common_url_login_notice">使用帐号%1$s登录</string>
+    <string name="common_usage_and_diagnostics">使用情况和诊断信息</string>
+    <string name="common_yesterday">昨天</string>
+    <string name="confirm_copy_button_text">复制</string>
+    <string name="contacts_number_device_and_icloud">%1$d 位 iCloud® 联系人、%2$d 位设备联系人</string>
+    <string name="contacts_number_device_and_icloud_with_google">Google 通讯录、%1$d 位 iCloud® 联系人、%2$d 位设备联系人</string>
+    <string name="contacts_number_device_and_sim_with_google">Google 通讯录、%1$d 位 SIM 卡联系人、%2$d 位设备联系人</string>
+    <string name="contacts_number_device_with_google">Google 通讯录、%1$d 位设备联系人</string>
+    <string name="contacts_number_icloud_with_google">Google 通讯录、%1$d 位 iCloud® 联系人</string>
+    <string name="contacts_number_sim_with_google">Google 通讯录、%1$d 位 SIM 卡联系人</string>
+    <string name="continue_to_login_heading">请登录。</string>
+    <string name="continue_to_login_text">已获凭据授权。请继续登录您的第一台设备。</string>
+    <string name="copy_confirmation_description">您即将开始将数据（例如您的 Google 帐号和应用相关数据）复制到您的新手机上</string>
+    <string name="copy_confirmation_title">要复制到您的新手机吗？</string>
+    <string name="d2d_app_picker_description_no_apps">系统找不到任何应用</string>
+    <string name="d2d_app_picker_title">应用</string>
+    <string name="d2d_migration_canceled_on_source">已取消复制操作</string>
+    <string name="data_copied_fragment_description">您的数据已复制到新手机。现在您可以拔下数据线了。</string>
+    <string name="data_copied_fragment_description_cancel">您已选择停止复制，因此只有部分数据成功复制到新手机。</string>
+    <string name="data_copied_fragment_description_cancel_no_data">您已选择停止复制，因此系统并未复制任何数据到您的新手机上。</string>
+    <string name="data_copied_fragment_description_error">出了点问题，因此我们无法复制所有内容。</string>
+    <string name="data_copied_fragment_description_error_no_data">出了点问题，因此我们无法复制您的数据。</string>
+    <string name="data_copied_fragment_no_data_title">无法复制</string>
+    <string name="data_copied_fragment_some_data_title">已复制部分数据</string>
+    <string name="data_copied_fragment_title">数据已复制</string>
+    <string name="device_backup_title">设备备份</string>
+    <string name="device_not_supported_fragment_new_device">您已连接到新手机。要继续操作，请重新连接到您之前使用的手机。</string>
+    <string name="device_not_supported_fragment_new_device_title">重新连接到之前使用的手机</string>
+    <string name="device_not_supported_fragment_no_data_cable">这条数据线无法传输数据。请使用其他数据线重新连接，然后重试。</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">尝试使用其他数据线</string>
+    <string name="device_not_supported_fragment_retry_description">请确保您的旧手机已解锁，然后拔下数据线并重新插上</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">出了点问题</string>
+    <string name="device_not_supported_ios_supervised_description">您使用的是受监督的 iPhone® 设备，因此您必须选择其他方式来复制数据</string>
+    <string name="device_picker_description">备份内容会存储在 Google 云端硬盘中</string>
+    <string name="device_picker_empty">没有与 %1$s 关联的备份设备。</string>
+    <string name="device_picker_empty_title">未找到任何备份设备</string>
+    <string name="device_picker_item">%1$s 备份数据</string>
+    <string name="device_picker_last_used">上次使用时间：^1</string>
+    <string name="device_picker_skip">不恢复</string>
+    <string name="device_picker_title">选择要恢复的备份数据</string>
+    <string name="disabled_by_admin_summary_text">由管理员控制</string>
+    <string name="download_msg_error_invalid">下载配置有误。</string>
+    <string name="download_msg_in_progress">正在下载。</string>
+    <string name="download_msg_not_allowed_space">空间不足，无法下载。</string>
+    <string name="download_msg_pending">正在等待下载。</string>
+    <string name="download_notification_description">%1$s请求了该数据。</string>
+    <string name="download_notification_title">正在获取更多数据</string>
+    <string name="drive_backup_account">备份帐号</string>
+    <string name="drive_backup_apps_in_backup">已备份的应用数据</string>
+    <string name="drive_backup_apps_last_backup">上次备份时间</string>
+    <string name="drive_backup_apps_loading">正在加载…</string>
+    <string name="drive_backup_apps_screen_title">应用数据</string>
+    <string name="drive_backup_content_apps_title">应用数据</string>
+    <string name="drive_backup_content_calendar_dialog_message">在 Google 日历中创建的活动会在所有您已登录 Google 帐号的设备上保持同步。</string>
+    <string name="drive_backup_content_calendar_title">Google 日历</string>
+    <string name="drive_backup_content_callhistory_dialog_message">备份内容包括拨打/接听电话的日期和通话对象。</string>
+    <string name="drive_backup_content_callhistory_title">通话记录</string>
+    <string name="drive_backup_content_contacts_dialog_message">在 Google 通讯录中创建的联系人会在所有您已登录 Google 帐号的设备上保持同步。</string>
+    <string name="drive_backup_content_contacts_title">Google 通讯录</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">备份内容包括壁纸、WLAN 密码和默认应用等设备配置。</string>
+    <string name="drive_backup_content_devicesettings_title">设备设置</string>
+    <string name="drive_backup_content_header">内容</string>
+    <string name="drive_backup_content_photos_dialog_message">您的主要备份帐号已更改。您也可以将 Google 照片备份帐号改为 %s。</string>
+    <string name="drive_backup_content_photos_dialog_no">关闭</string>
+    <string name="drive_backup_content_photos_dialog_title">要一并更改照片和视频帐号吗？</string>
+    <string name="drive_backup_content_photos_dialog_yes">更改</string>
+    <string name="drive_backup_content_photos_title">照片和视频</string>
+    <string name="drive_backup_content_sms_dialog_message">备份内容包括发送和接收的消息，但不包括彩信媒体消息。</string>
+    <string name="drive_backup_content_sms_title">短信</string>
+    <string name="drive_backup_content_status_dolly_action">知道了</string>
+    <string name="drive_backup_content_status_error">获取上次同步日期时出错</string>
+    <string name="drive_backup_content_status_lastsaved">上次备份时间：%1$tb %1$td，%1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">上次同步时间：%1$tb %1$td，%1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">正在等待备份</string>
+    <string name="drive_backup_content_status_sync_adapter_action">同步设置</string>
+    <string name="drive_backup_content_status_sync_off">已关闭同步功能</string>
+    <string name="drive_backup_content_status_updating">正在检查状态…</string>
+    <string name="drive_backup_disabled_backuplist">"备份内容包括：
+\u0009- 应用和应用数据
+\u0009- 通话记录
+\u0009- 设备设置（包括 WLAN 密码）
+\u0009- Google 日历
+\u0009- Google 通讯录
+\u0009- 照片和视频
+\u0009- 短信"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"备份内容包括：
+\u0009- 应用和应用数据
+\u0009- 通话记录
+\u0009- 设备设置（包括 WLAN 密码）
+\u0009- Google 日历
+\u0009- Google 通讯录
+\u0009- 短信"</string>
+    <string name="drive_backup_disabled_by_device_owner">已被您的管理员停用</string>
+    <string name="drive_backup_disabled_detailedinfo">"Google 日历、Google 通讯录、照片和视频会同步到您的 Google 帐号，并可在各项服务中使用。
+
+即使您已关闭备份功能，仍可启用同步功能。要更改同步设置，请依次转到“设置”>“帐号”>“Google”。"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Google 日历和 Google 通讯录会同步到您的 Google 帐号，并可通过各项服务使用。
+
+即使您已关闭备份功能，仍可启用同步功能。要更改同步设置，请依次转到“设置”>“帐号”>“Google”。"</string>
+    <string name="drive_backup_disabled_introduction">自动备份功能可确保让您随时轻松恢复数据或切换手机。</string>
+    <string name="drive_backup_settings_title">备份</string>
+    <string name="drive_backup_state">备份到 Google 云端硬盘</string>
+    <string name="drive_backup_state_dialog_message">"系统将永久删除此设备存储在 Google 云端硬盘中的备份数据。
+
+已备份的照片和视频仍会保存在 Google 云端硬盘中。
+
+Google 日历和 Google 通讯录会继续同步到您的 Google 帐号。要更改同步设置，请依次转到“设置”>“帐号”>“Google”。"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"系统将永久删除为此设备存储在 Google 云端硬盘中的备份数据。
+
+Google 日历和 Google 通讯录会继续同步到您的 Google 帐号。要更改同步设置，请依次转到“设置”>“帐号”>“Google”。"</string>
+    <string name="drive_backup_state_dialog_okaction">关闭并删除</string>
+    <string name="drive_backup_state_dialog_title">要关闭备份功能并删除备份内容吗？</string>
+    <string name="durationDayHour">%1$d 天 %2$d 小时</string>
+    <string name="durationDayHours">%1$d 天 %2$d 小时</string>
+    <string name="durationDays">%1$d 天</string>
+    <string name="durationHourMinute">%1$d 小时 %2$d 分钟</string>
+    <string name="durationHourMinutes">%1$d 小时 %2$d 分钟</string>
+    <string name="durationHours">%1$d 小时</string>
+    <string name="durationMinute">%1$d 分钟</string>
+    <string name="durationMinuteSecond">%1$d 分钟 %2$d 秒</string>
+    <string name="durationMinuteSeconds">%1$d 分钟 %2$d 秒</string>
+    <string name="durationMinutes">%1$d 分钟</string>
+    <string name="durationSecond">%1$d 秒</string>
+    <string name="durationSeconds">%1$d 秒</string>
+    <string name="encryption_warning_fragment_description">"您的 iPhone® 设备已开启备份加密功能。如果您并未开启这项功能，则可能是您的 IT 管理员开启了该功能。
+
+系统只会复制照片、音乐和视频。有关详情，请访问 "<b>g.co/datatransferhelp</b>。</string>
+    <string name="encryption_warning_fragment_title">备份加密</string>
+    <string name="fido_begin_button">开始</string>
+    <string name="fido_ble_device_icon_content_description">发现的蓝牙设备</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">按下密钥上的按钮至少 5 秒钟以确保密钥已进入配对模式</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">确定</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">出了点问题</string>
+    <string name="fido_ble_dont_see_your_key_hint">看不到您的密钥吗？</string>
+    <string name="fido_ble_enable_body">您必须开启设备的蓝牙功能才能使用安全密钥</string>
+    <string name="fido_ble_enable_title">开启蓝牙</string>
+    <string name="fido_ble_enable_turn_on_button">开启</string>
+    <string name="fido_ble_instructions_body">只需点按相应的按钮即可使用大多数密钥</string>
+    <string name="fido_ble_instructions_title">要允许使用您的安全密钥吗？</string>
+    <string name="fido_ble_locate_pin_body">配对 PIN 码通常为 4 位数或 6 位数，可能位于密钥的背面。准备好输入 PIN 码后，请继续操作。</string>
+    <string name="fido_ble_locate_pin_continue_button">继续</string>
+    <string name="fido_ble_locate_pin_title">找到密钥“%1$s”的蓝牙配对 PIN 码</string>
+    <string name="fido_ble_pair_device_pairing">正在执行安全密钥配对操作…</string>
+    <string name="fido_ble_pair_instructions_body">将您的安全密钥与此设备配对，以便搭配您的帐号使用密钥</string>
+    <string name="fido_ble_pair_instructions_title">准备好将您的安全密钥配对了吗？</string>
+    <string name="fido_ble_pairing_failure_dialog_message">让您的密钥重新进入配对模式</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">重试</string>
+    <string name="fido_ble_pairing_failure_dialog_title">出了点问题</string>
+    <string name="fido_ble_pairing_mode_body">按下安全密钥上的按钮至少 5 秒钟</string>
+    <string name="fido_ble_pairing_mode_title">进入配对模式</string>
+    <string name="fido_ble_select_device_body">从下方列表中选择要与设备配对的安全密钥。密钥的名称可能印在了密钥的背面。</string>
+    <string name="fido_ble_select_device_title">选择安全密钥</string>
+    <string name="fido_cancel_button">取消</string>
+    <string name="fido_nfc_enable_body">您必须开启设备的 NFC 功能才能使用安全密钥</string>
+    <string name="fido_nfc_enable_title">开启 NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">开启</string>
+    <string name="fido_nfc_instructions_body">将您的安全密钥平拿，并轻触设备的背面，直到密钥停止振动</string>
+    <string name="fido_nfc_instructions_title">要允许使用您的安全密钥吗？</string>
+    <string name="fido_pair_another_security_key">配对另一个安全密钥</string>
+    <string name="fido_processing">正在验证您的安全密钥…</string>
+    <string name="fido_transport_selection_bluetooth">通过蓝牙使用安全密钥</string>
+    <string name="fido_transport_selection_body">安全密钥需要搭配蓝牙或 NFC 一起使用。请选择您要如何使用安全密钥。</string>
+    <string name="fido_transport_selection_nfc">通过 NFC 使用安全密钥</string>
+    <string name="fido_transport_selection_title">选择安全密钥的使用方式</string>
+    <string name="fido_use_ble_instead">通过蓝牙使用安全密钥</string>
+    <string name="fido_use_nfc_instead">通过 NFC 使用安全密钥</string>
+    <string name="fido_welcome_body">通过%1$s使用安全密钥有助于保护您的私密数据。</string>
+    <string name="fido_welcome_title">通过%1$s使用安全密钥</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">我找不到适配器</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"请找到您的 ^1 包装盒内随附的 Quick Switch Adapter。
+
+将数据线插入该适配器。"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">连接适配器和数据线</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">解锁旧手机，然后将适配器连接到本手机。</string>
+    <string name="fragment_usb_connect_both_phones_title">连接两部手机</string>
+    <string name="fragment_usb_dialog_cancel_description">使用线缆可转移最多的内容。如果包装盒内随附的线缆不适用，请尝试使用适用于旧手机的充电线或数据线。</string>
+    <string name="fragment_usb_dialog_cancel_title">要使用其他方式复制数据吗？</string>
+    <string name="fragment_usb_dont_have_cable">我没有数据线</string>
+    <string name="fragment_usb_dont_have_old_phone">我没有旧手机</string>
+    <string name="fragment_usb_find_cable_description">请使用适用于旧手机的线缆，例如数据线或充电线。</string>
+    <string name="fragment_usb_find_cable_title">找到合适的数据线</string>
+    <string name="fragment_usb_initial_description">将数据从您的旧手机转移到这部 ^1。</string>
+    <string name="fragment_usb_initial_title">来复制您的数据吧！</string>
+    <string name="fragment_usb_legacy_description">"这是可在最短时间内转移最多数据的方法。
+
+请找到包装盒内随附的适配器，然后将其连到您的新手机。使用数据线将新旧手机连接在一起，然后将旧手机解锁。"</string>
+    <string name="fragment_usb_other_ways">在不使用数据线的情况下复制数据</string>
+    <string name="fragment_usb_plug_cable">将数据线插入旧手机</string>
+    <string name="fragment_waiting_title">请稍候…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">应用权限</string>
+    <string name="google_contacts_static_text">Google 通讯录将会保持同步</string>
+    <string name="google_contacts_static_text_off">Google 通讯录仍将保持同步</string>
+    <string name="google_legal_title">Google 法律信息</string>
+    <string name="google_play_tos_title">Google Play 服务条款</string>
+    <string name="google_plus_privacy_policy_title">Google+ 隐私权政策</string>
+    <string name="google_privacy_policy_title">Google 隐私权政策</string>
+    <string name="google_terms_of_service_title">Google 服务条款</string>
+    <string name="header_set_backup_account">设置备份帐号</string>
+    <string name="i_message_dialog_message">"要继续接收 iPhone® 设备用户发来的短信，您需要关闭 iMessage®。
+
+要了解相关说明，请访问 "<b>g.co/iMessageHelp</b>。</string>
+    <string name="instant_apps_settings_title">免安装应用</string>
+    <string name="instructions_fragment_title">在其他手机上继续</string>
+    <string name="ios_connected_fragment_description">"在随即显示的屏幕上，您可以登录自己的 Google 帐号，也可以新建一个。
+
+如果您未添加 Google 帐号，系统就不会转移您的 iOS 日历® 活动。"</string>
+    <string name="ios_message_attachment_explanation">[要查看您的消息附件，请依次转到“Google 照片”>“设备文件夹”>“消息附件”]</string>
+    <string name="ios_message_attachment_failed_explanation">[无法复制部分附件。要查看已转移的附件，请依次转到“Google 相册”>“设备文件夹”>“消息附件”]</string>
+    <string name="ios_message_attachment_placeholder">[附件保存在以下位置：“Google 照片”>“设备文件夹”>“消息附件”]</string>
+    <string name="ios_message_attachments_placeholder">[附件保存在以下位置：“Google 照片”>“设备文件夹”>“消息附件”]</string>
+    <string name="ios_migration_default_calendar_title">日历</string>
+    <string name="ios_migration_other_contact_relation">其他</string>
+    <string name="ios_photos_dialog_message">"系统无法复制存储在 iCloud® 中的照片。
+
+要将这些照片转移到您的 ^1，请在您的 iPhone® 设备上安装 Google 相册应用，然后开启“备份和同步”功能。如需详细说明，请访问 "<b>g.co/datatransferhelp</b>。</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">添加帐号</string>
+    <string name="lockscreen_smartdevice_action_next">下一步</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">您需要解锁才能继续设置手机</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">为了安全起见，您需要确认屏幕锁定方式才能继续设置</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">确认您的屏幕锁定方式</string>
+    <string name="manage_data_label">Google 帐号</string>
+    <string name="master_clear_title">恢复出厂设置</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">网络推荐</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">WLAN 消息</string>
+    <string name="notification_channel_network_available">有可用的网络</string>
+    <string name="notification_channel_wakeup_name">WLAN 已开启</string>
+    <string name="notification_content_text_set_backup_account">需设置备用帐号</string>
+    <string name="notification_content_title_set_backup_account">备用</string>
+    <string name="notification_ticker">收到权限申请</string>
+    <string name="notification_ticker_set_backup_account">需设置备份帐号</string>
+    <string name="open_in_web_button">在浏览器中打开</string>
+    <string name="open_source_activity_prompt_heading">打开应用</string>
+    <string name="open_source_activity_prompt_text">"在您的手机上打开 SourceResponseActivity 以完成身份验证流程。 "</string>
+    <string name="opt_in_account_content_description">选择帐号。目前已选择：%1$s</string>
+    <string name="opt_in_account_null_state">创建帐号</string>
+    <string name="opt_in_agreement">继续操作即表示您接受 <a href="https://play.google.com/about/play-terms.html">Play 服务条款</a>。<a href="https://support.google.com/googleplay/?p=instant_apps">了解详情</a></string>
+    <string name="opt_in_confirm">立即启用</string>
+    <string name="opt_in_description">"当您点按某个链接时，Google Play 会检查是否存在相应的免安装应用，如果存在就会直接运行该应用（无需安装）。免安装应用会暂时保留在您的设备上。
+
+在您使用免安装应用时，这些应用会请求获取相应的权限。您可以在 Google Play 商店中找到应用详情（包括应用内购商品）。应用数据和设置会与登录以下帐号的设备保持同步："</string>
+    <string name="opt_in_description_m_plus">"当您点按某个链接时，Google Play 会检查是否存在相应的免安装应用，如果存在就会直接运行该应用（无需安装）。免安装应用会暂时保留在您的设备上。
+
+您可以在 Google Play 商店中找到应用详情（包括应用内购商品）。应用数据和设置会与登录以下帐号的设备保持同步："</string>
+    <string name="opt_in_subtitle">无需安装即可使用应用</string>
+    <string name="opt_in_title">免安装应用</string>
+    <string name="permgrouplab_calendar">日历</string>
+    <string name="permgrouplab_camera">相机</string>
+    <string name="permgrouplab_contacts">通讯录</string>
+    <string name="permgrouplab_location">位置信息</string>
+    <string name="permgrouplab_microphone">麦克风</string>
+    <string name="permgrouplab_phone">电话</string>
+    <string name="permgrouplab_sensors">身体传感器</string>
+    <string name="permgrouplab_sms">短信</string>
+    <string name="permgrouplab_storage">存储空间</string>
+    <string name="permissions_not_granted_text">要授予权限，请重新登录。</string>
+    <string name="permissions_not_granted_title">未授予权限。</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">目前没有存储备份照片的帐号</string>
+    <string name="photos_backup_title">照片备份</string>
+    <string name="photos_filtering_option_all">全部</string>
+    <string name="photos_filtering_option_none">无</string>
+    <string name="plus_manage_app_only_you_label">仅限您自己</string>
+    <string name="plus_network_unreliable">无法与服务器建立稳定的连接。</string>
+    <string name="plus_oob_interstitial_loading_text">此过程可能需要几分钟的时间。</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">已复制的联系人将保存到您的 Google 帐号。</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">已复制的联系人和日历将保存到您的 Google 帐号。</string>
+    <string name="restore_choice_data_disclaimer_v2">系统可能无法将部分数据复制到您的 ^1。<annotation id="restore_choice_data_disclaimer_learn_more">了解详情</annotation></string>
+    <string name="restore_choice_deselect_some_content">取消选择部分内容即可继续</string>
+    <string name="restore_choice_learn_more_android">"系统无法自动复制您旧手机上的部分数据：
+
+ ● 下载内容（例如 PDF 文件）
+
+ ● 隐藏文件夹中存储的照片、视频和音乐
+
+ ● 通过短信接收的照片、视频和音乐
+
+ ● 并非通过 Google Play 商店安装的应用
+
+ ● 应用数据（如果应用未使用 Android 备份功能）
+
+ ● 某些设备设置
+
+ ● Google 帐号以外的帐号（以及任何相关联的数据）
+
+ ● 同步到 Google 以外的其他服务的联系人和日历
+
+ ● 铃声
+
+要查看更多详情，并了解如何复制上方所列的部分数据，请访问 g.co/datatransferhelp。"</string>
+    <string name="restore_choice_learn_more_ios">"系统无法自动复制您旧手机上的部分数据：
+
+ ● 应用和应用数据
+
+ ● 原始副本未存储在手机上的照片（例如，如果开启了“优化存储空间”设置，则原始副本会存储在 iCloud® 中）
+
+ ● 存储在 iCloud® 中的文件和文档
+
+ ● 设备设置（例如 WLAN 密码和壁纸）
+
+ ● 受到数字版权管理 (DRM) 保护的音乐（例如在 2009 年 4 月之前购买的 iTunes(R) 音乐或通过在线音乐应用下载的用于离线收听的音乐）
+
+ ● Google 帐号以外的帐号（以及任何相关联的数据）
+
+ ● 同步到除 Google 或 iCloud® 之外的其他服务的联系人和日历
+
+ ● Safari® 中的书签
+
+iMessage® 附件可在以下位置查看：“Google 照片”>“设备文件夹”>“消息附件”。
+
+要查看更多详情，并了解如何复制上方所列的部分数据，请访问 g.co/datatransferhelp。"</string>
+    <string name="restore_choice_not_enough_space">空间不足</string>
+    <string name="restore_choice_total_text">（可用空间为 %1$s）/ 转移数据所需时间：%2$s</string>
+    <string name="restore_error_message">抱歉，恢复时出了点问题。</string>
+    <string name="restore_instant_apps_notif_text">所需的%1$s已从此设备中移除</string>
+    <string name="restore_instant_apps_notif_title">恢复免安装应用</string>
+    <string name="restore_item_appdata">应用数据</string>
+    <string name="restore_item_calendar">日历</string>
+    <string name="restore_item_calendar_ical_description">iOS® 日历、Google 日历</string>
+    <string name="restore_item_calendar_ical_off_description">Google 日历仍会保持同步</string>
+    <string name="restore_item_calendar_sync_description">Google 日历将会保持同步</string>
+    <string name="restore_item_call_logs">通话记录</string>
+    <string name="restore_item_contacts">通讯录</string>
+    <string name="restore_item_device_settings_description">WLAN 密码等设置</string>
+    <string name="restore_item_downloads">下载内容</string>
+    <string name="restore_item_email">电子邮件</string>
+    <string name="restore_item_email_description">Gmail 将会保持同步</string>
+    <string name="restore_item_message_attachments">消息附件</string>
+    <string name="restore_item_messages">消息</string>
+    <string name="restore_item_music">音乐</string>
+    <string name="restore_item_photos">照片和视频</string>
+    <string name="restore_item_settings">设备设置</string>
+    <string name="restore_item_sms">短信</string>
+    <string name="restore_item_will_be_synced_text">这项数据会同步到您的手机</string>
+    <string name="restore_progress_title">正在恢复…</string>
+    <string name="restore_supervisor_description">要在免安装应用中打开链接，请恢复%1$s</string>
+    <string name="restore_supervisor_success">已成功恢复免安装应用</string>
+    <string name="restore_supervisor_title">要恢复免安装应用吗？</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="setup_failure_description">无法设置免安装应用。<a href="https://support.google.com/googleplay/?p=instant_apps">了解详情</a></string>
+    <string name="setup_failure_title">无法设置</string>
+    <string name="sharedUserLabel">Google 服务</string>
+    <string name="sid_lsid_grant_detail">与密码类似，会话标识(SID) Cookie和本地会话标识(LSID) Cookie会将您的身份信息与发自浏览器的一系列请求相关联。使用这些Cookie可获得您的所有帐号数据的完整访问权限。正常情况下只有浏览器需要使用这些Cookie。</string>
+    <string name="sid_lsid_grant_label">使用 SID Cookie 和 LSID Cookie 获得访问您的所有 Google 帐号数据的权限。</string>
+    <string name="small_time_duration">不到 1 分钟</string>
+    <string name="smartdevice_action_copy">复制</string>
+    <string name="smartdevice_action_next">下一步</string>
+    <string name="smartdevice_action_open_app">打开应用</string>
+    <string name="smartdevice_action_skip">跳过</string>
+    <string name="smartdevice_action_try_another_way">尝试其他方法</string>
+    <string name="smartdevice_action_turn_on_location">开启位置信息服务</string>
+    <string name="smartdevice_alert_disconnected_message">"设备连接中断。
+要继续设置，请连接设备并重新开始。"</string>
+    <string name="smartdevice_alert_disconnected_title">设备连接中断</string>
+    <string name="smartdevice_alert_dm_backup_account_message">抱歉，您无法使用这项功能，因为您的备份帐号是由您的设备管理员所管理。</string>
+    <string name="smartdevice_alert_dm_backup_account_title">无法使用这项功能</string>
+    <string name="smartdevice_alert_exit_setup_message">确定要退出其他设备的设置吗？</string>
+    <string name="smartdevice_alert_exit_setup_title">要退出设备设置吗？</string>
+    <string name="smartdevice_alert_generic_error_title">抱歉，出错了</string>
+    <string name="smartdevice_alert_generic_error_toast_text">抱歉，出错了</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">要设置你的设备，你至少需要一个 Google 帐号。</string>
+    <string name="smartdevice_alert_no_accounts_text">要设置你的%s，你至少需要一个 Google 帐号。</string>
+    <string name="smartdevice_alert_no_accounts_title">没有可复制的帐号</string>
+    <string name="smartdevice_alert_quit_button">退出</string>
+    <string name="smartdevice_alert_restart_setup_button">重新开始设置</string>
+    <string name="smartdevice_alert_setup_incomplete">设置尚未完成</string>
+    <string name="smartdevice_alert_skip_button">跳过</string>
+    <string name="smartdevice_alert_start_over_button">重新开始</string>
+    <string name="smartdevice_alert_work_profile_message">目前尚无法复制 Google for Work 帐号。复制您的其他 Google 帐号和数据后，请在新设备上转到“设置”部分以添加您的 Google for Work 帐号。</string>
+    <string name="smartdevice_alert_work_profile_title">无法复制 Google for Work 帐号</string>
+    <string name="smartdevice_application_label">设备设置</string>
+    <string name="smartdevice_choose_device">选择设备</string>
+    <string name="smartdevice_companion_app_ready">此设备之前已安装“%s”应用。</string>
+    <string name="smartdevice_connect_to_wifi">连接你的设备</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">正在连接你的设备…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">系统将会复制您的 Google 帐号信息、其他帐号信息、应用和数据</string>
+    <string name="smartdevice_d2d_copy_account_text">要将 Google 帐号、应用和数据复制到另一台设备吗？</string>
+    <string name="smartdevice_d2d_copy_account_title">要复制到另一台设备吗？</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">无法识别</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">改用屏幕锁定功能</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">为了安全起见，请确认您的指纹。系统会将您的 Google 帐号、应用和数据复制到您的%s。</string>
+    <string name="smartdevice_d2d_lockscreen_description">你必须解锁才能继续设置设备</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">为了安全起见，请确认您的屏幕锁定图案以继续进行设置。</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">确认以继续</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">你的设备不支持蓝牙，因此无法设置其他设备。</string>
+    <string name="smartdevice_d2d_source_disabled_text">为了安全起见，系统已停用此功能。请在另一台设备上触摸“跳过”，然后继续设置。</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">设置新设备</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">设备设置</string>
+    <string name="smartdevice_d2d_source_notification_title">^1设置</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">重新开始设置并选择你的^1，以保证将你的 Google 帐号、应用和数据复制到正确的设备。</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">未看到此代码？</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">未看到此代码？</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">在另一台设备上查看此代码，以确认你选择的设备无误</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">验证代码</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">无法通过受限的用户个人资料设置新设备。</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">请在您的 %s 上完成设置</string>
+    <string name="smartdevice_d2d_source_setup_success">即将完成！</string>
+    <string name="smartdevice_d2d_target_choice_description">如果您还使用其他 Android 设备，则可以将您现有的设置快速复制到此 %s 上。</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">恢复旧设备中的大部分内容（仅限 Android 设备）</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">使用新设置</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">从另一台 Android 设备复制</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">不用了</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">好，按照后续步骤设置此设备</string>
+    <string name="smartdevice_d2d_target_choice_title">还有其他设备吗？</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">复制其他设备上的 Google 帐号、应用和数据</string>
+    <string name="smartdevice_d2d_target_continue_description">在另一台设备上继续设置。</string>
+    <string name="smartdevice_d2d_target_copying_accounts">正在复制帐号…</string>
+    <string name="smartdevice_d2d_target_description">返回到另一台设备：&lt;br/>&lt;br/>1. 说出&lt;b>&lt;xliff:g id=ok_google>^1&lt;/xliff:g>、&lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>&lt;/b>或输入“&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>”，并点按进行确认&lt;br/>&lt;br/>2. 触摸列表中的&lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b>，然后按屏幕上的指示操作</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">改用此方法试试</string>
+    <string name="smartdevice_d2d_target_google_settings_description">在您的另一台设备上执行以下操作：&lt;br/>&lt;br/> 1. 打开 &lt;b>Google 设置&lt;/b>应用&lt;br/>&lt;br/> 2. 选择&lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=设置附近的设备>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. 触摸列表中的&lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>，然后按照屏幕上的说明操作</string>
+    <string name="smartdevice_d2d_target_google_settings_link">无法完成这些步骤</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">使用“设置”</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">在您的另一台设备上执行以下操作：&lt;br/>&lt;br/> 1. 点按“所有应用”图标，然后打开&lt;b>“设置”应用&lt;/b> &lt;br/>&lt;br/> 2. 点按 &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. 选择&lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=设置附近的设备>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. 触摸列表中的&lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b>，然后按照屏幕上的说明操作</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">从另一台 Android 设备复制</string>
+    <string name="smartdevice_d2d_target_help_needed_link">有问题吗？</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">找不到吗？</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">在您的另一台设备上，打开 Google 应用</string>
+    <string name="smartdevice_d2d_target_instruction_description">打开 Google 应用</string>
+    <string name="smartdevice_d2d_target_instruction_title">在其他设备上</string>
+    <string name="smartdevice_d2d_target_nfc_description">"复制方法：
+
+1. 确保你的其他设备已开启，且未被锁定
+
+2. 将两台设备背靠背放在一起，并在听到提示音后拿开"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">“一键恢复”功能会利用 NFC 复制您另一台设备上的 Google 帐号、应用和数据。请转到“设置”，确保设备的 NFC 功能已开启。</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">遇到问题了吗？</string>
+    <string name="smartdevice_d2d_target_nfc_title">一键恢复</string>
+    <string name="smartdevice_d2d_target_other_device_description">所有 Android 设备均预装了 Google 应用。在主屏幕上触摸“所有应用”按钮，然后在上方显示的图标中查找。</string>
+    <string name="smartdevice_d2d_target_pin_code_description">此代码应与另一台设备上的代码一致：</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">不要跳过</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">设置时，系统不会将此帐号或备份的应用和数据复制到此设备上。</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">仍然跳过</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">要跳过此帐号吗？</string>
+    <string name="smartdevice_d2d_target_title">在 Google 应用中</string>
+    <string name="smartdevice_default_device_name">设备</string>
+    <string name="smartdevice_install_app">安装应用</string>
+    <string name="smartdevice_install_app_reason" formatted="false">下载%s应用即可在此设备上控制和管理你的新%s</string>
+    <string name="smartdevice_install_on_this_device">安装</string>
+    <string name="smartdevice_search_again">重新搜索</string>
+    <string name="smartdevice_searching_for_devices">搜索设备</string>
+    <string name="smartdevice_setup_enter_code">请输入设备上的确认码。确认码应该会显示在贴纸上。</string>
+    <string name="smartdevice_setup_enter_code_hint">请输入确认码</string>
+    <string name="smartdevice_setup_enter_pin_4">请输入其他设备上当前显示的 4 位数 PIN 码</string>
+    <string name="smartdevice_setup_google_app_trigger">設定我嘅裝置</string>
+    <string name="smartdevice_setup_info_installing_app">正在安装应用…</string>
+    <string name="smartdevice_setup_intro_text">系统需要使用手机的蓝牙和 WLAN 数据网络以设置您的其他设备。</string>
+    <string name="smartdevice_setup_intro_text_nfc">系统需要使用手机的蓝牙以设置您的其他设备。</string>
+    <string name="smartdevice_setup_intro_title">开始设置</string>
+    <string name="smartdevice_setup_password_hint">输入 WLAN 密码</string>
+    <string name="smartdevice_setup_show_password">显示密码</string>
+    <string name="smartdevice_setup_title_verify_code">验证代码</string>
+    <string name="smartdevice_wifi_cannot_connect_description">仅开放网络和 WPA/WPA2 网络可用来设置此设备</string>
+    <string name="smartdevice_wifi_cannot_connect_title">无法使用 WLAN 网络</string>
+    <string name="smartdevice_wifi_skip_dialog_text">如果没有 WLAN 网络，你的设备可能无法正常工作。请连接到 WLAN 网络以继续设置。</string>
+    <string name="smartdevice_wifi_skip_dialog_title">选择 WLAN 网络</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"要搜索 WLAN 网络，请开启“位置信息”。
+
+您之后随时可以在“设置”中更改这项设置。"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">无法搜索 WLAN 网络</string>
+    <string name="source_connected_description">正在准备…</string>
+    <string name="source_connected_title">已连接到您的 %1$s</string>
+    <string name="source_copying_description">系统正在将您所选的数据复制到新手机</string>
+    <string name="source_copying_title">正在复制…</string>
+    <string name="source_default_target_device_name">新设备</string>
+    <string name="source_notification_device_disconnected">重新连接数据线</string>
+    <string name="source_notification_text">正在手机之间转移数据</string>
+    <string name="source_notification_title">数据转移</string>
+    <string name="source_success_description">请在 %1$s 上完成设置。</string>
+    <string name="source_success_screen_title">大功告成！</string>
+    <string name="source_unplugged_description">请重新连接到您的 %1$s</string>
+    <string name="source_unplugged_title">数据线已断开连接</string>
+    <string name="source_waiting_title">在 %1$s 上继续设置</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="stop_copying_dialog_continue_button">关闭</string>
+    <string name="stop_copying_dialog_message_before_transfer">您的数据尚未复制到新手机上</string>
+    <string name="stop_copying_dialog_message_during_transfer">您的部分数据尚未复制到新手机上</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">不要复制</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">停止</string>
+    <string name="stop_copying_dialog_title_before_transfer">不要复制吗？</string>
+    <string name="stop_copying_dialog_title_during_transfer">要停止复制吗？</string>
+    <string name="storage_management_wear_descriptive_text">应用会使用您的设备存储空间将数据复制到穿戴式设备。</string>
+    <string name="storage_management_wear_manage_size_label">管理穿戴式设备存储空间</string>
+    <string name="storage_management_wear_size_label">穿戴式设备存储空间</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play服务使用的总数据量（包括搜索引擎数据和其他数据）。</string>
+    <string name="storage_managment_clear_all_data">清除所有数据</string>
+    <string name="storage_managment_computing_size">正在计算…</string>
+    <string name="storage_managment_icing_size_label">搜索数据</string>
+    <string name="storage_managment_manage_icing_button">管理搜索数据</string>
+    <string name="storage_managment_search_index_descriptive_text">我们会为您的应用提供专用的搜索引擎，从而加快您在设备上的搜索速度。</string>
+    <string name="storage_managment_title">Google Play服务存储空间</string>
+    <string name="storage_managment_total_size_label">总存储空间</string>
+    <string name="supervisor_downloading_description">正在下载%1$s</string>
+    <string name="supervisor_downloading_title">请稍候，系统正在设置您的设备</string>
+    <string name="supervisor_installing_description">正在安装%1$s</string>
+    <string name="supervisor_title">面向免安装应用的 Google Play 服务</string>
+    <string name="suw_back_button_label">返回</string>
+    <string name="suw_more_button_label">更多</string>
+    <string name="suw_next_button_label">下一步</string>
+    <string name="system_update_ab_update_downloaded_notification_message">点按即可了解详情</string>
+    <string name="system_update_activity_battery_low_text">电量不足，无法安装更新</string>
+    <string name="system_update_activity_name">系统更新</string>
+    <string name="system_update_activity_roaming_text">漫游时无法下载系统更新。</string>
+    <string name="system_update_activity_roaming_text_glif">漫游时无法下载</string>
+    <string name="system_update_android_version_text">Android 版本：^1</string>
+    <string name="system_update_check_now_button_text">检查更新</string>
+    <string name="system_update_checking_status_text">正在检查</string>
+    <string name="system_update_complete_label">系统更新</string>
+    <string name="system_update_countdown_cancel_button">取消安装</string>
+    <string name="system_update_countdown_complete">正在重启…</string>
+    <string name="system_update_download_and_install_button_text">下载并安装</string>
+    <string name="system_update_download_button_text">下载</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">空间不足，无法下载</string>
+    <string name="system_update_download_failed_no_space_status_text">可用空间不足，无法下载</string>
+    <string name="system_update_download_failed_status_text">无法下载</string>
+    <string name="system_update_download_manage_storage_button_text">管理存储空间</string>
+    <string name="system_update_download_paused_no_wifi_status_text">正在等待连接到 WLAN</string>
+    <string name="system_update_download_paused_title_text">已暂停下载</string>
+    <string name="system_update_download_retry_button_text">重新下载</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">系统会自动在 ^1 到 ^2 之间开始下载更新。</string>
+    <string name="system_update_download_waiting_off_peak_status_text">您随时可以通过 WLAN 下载此更新。否则，系统会自动在 ^1 到 ^2 之间开始下载此更新。</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">要下载此更新，请先切换至另一张 SIM 卡。</string>
+    <string name="system_update_download_waiting_status_text">正在等待下载</string>
+    <string name="system_update_downloading_status_text">正在下载</string>
+    <string name="system_update_downloading_title_text">正在下载系统更新…</string>
+    <string name="system_update_downloading_wifi_status2_text">^2前仅通过^1下载</string>
+    <string name="system_update_file_browser_ok_button">选择</string>
+    <string name="system_update_file_browser_title">选择更新文件</string>
+    <string name="system_update_free_up_space_button_text">释放空间</string>
+    <string name="system_update_from_sd_card_button_and_title">从 SD 卡更新</string>
+    <string name="system_update_from_sd_card_unknown_status">正在检查…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">无法验证</string>
+    <string name="system_update_from_sd_card_verified_description">更新已通过验证，可以安装了。</string>
+    <string name="system_update_from_sd_card_verifying_status">正在验证…</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">需要使用不限流量的 WLAN 网络</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">建议使用 WLAN</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"^2之前，只能通过^1下载此更新。
+
+要继续下载，请连接到^3。"</string>
+    <string name="system_update_glif_wifi_needed_title">需要使用 WLAN 网络</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">要避免可能产生的数据流量费用，请连接到不限流量的 WLAN 网络。</string>
+    <string name="system_update_install_button_text">重启并安装</string>
+    <string name="system_update_install_failed_button_qualifier_text">安装出现问题</string>
+    <string name="system_update_install_failed_title_text">无法更新</string>
+    <string name="system_update_install_steps_text">第 ^1 步（共 2 步）</string>
+    <string name="system_update_installing_title_text">正在安装系统更新…</string>
+    <string name="system_update_last_checkin">上次检查更新的时间：^1。</string>
+    <string name="system_update_last_checkin_glif">上次检查更新的时间：^1</string>
+    <string name="system_update_managed_by_policy">此设备的系统软件更新由您所在的单位控制。</string>
+    <string name="system_update_no_update_content_text">您的系统为最新版本。</string>
+    <string name="system_update_no_update_content_text_glif">您的系统已是最新版本</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">无法下载系统更新</string>
+    <string name="system_update_not_owner_text">有可用的系统软件更新，但只有机主才能安装。</string>
+    <string name="system_update_notification_header_name">Android 系统更新</string>
+    <string name="system_update_pause_button_text">暂停下载</string>
+    <string name="system_update_processing_status_text">正在处理</string>
+    <string name="system_update_requires_restart_status_text">需要重启</string>
+    <string name="system_update_restart_to_install_button_text">立即重启即可安装</string>
+    <string name="system_update_restart_to_update_button_text">立即重启即可更新</string>
+    <string name="system_update_resume_button_text">继续</string>
+    <string name="system_update_scheduled_status_text">已排定</string>
+    <string name="system_update_security_patch_level_text">安全补丁程序级别：^1</string>
+    <string name="system_update_security_update_available_title_text">有可用的安全更新</string>
+    <string name="system_update_security_update_downloading_title_text">正在下载安全更新…</string>
+    <string name="system_update_security_update_installing_title_text">正在安装安全更新…</string>
+    <string name="system_update_size_label">更新包大小：</string>
+    <string name="system_update_suw_download_and_install_text">"此更新的下载和安装可能需要几分钟时间才能完成。
+
+完成后，您的设备会自动重启。"</string>
+    <string name="system_update_suw_download_text">"此更新的下载可能需要几分钟时间才能完成。
+
+完成后，您的设备会自动重启。"</string>
+    <string name="system_update_suw_download_title">正在下载更新…</string>
+    <string name="system_update_suw_restart_text">设备将重启以便安装系统更新。</string>
+    <string name="system_update_suw_restart_title">即将重启</string>
+    <string name="system_update_suw_wifi_needed">要继续下载，请选择^1。</string>
+    <string name="system_update_update_available_download_message_wearable">向左滑动即可下载。</string>
+    <string name="system_update_update_available_notification_message">点按即可了解详情及下载</string>
+    <string name="system_update_update_available_notification_title">有可用的系统更新</string>
+    <string name="system_update_update_available_tap_to_download">点按即可下载</string>
+    <string name="system_update_update_available_title_text">有可用的系统更新</string>
+    <string name="system_update_update_download_auto_paused_notification_title">已暂停下载</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">没有足够的可用空间</string>
+    <string name="system_update_update_downloaded_charge_wearable">请将电池的电量至少充到 %d%%</string>
+    <string name="system_update_update_downloaded_install_message_wearable">向左滑动即可安装。</string>
+    <string name="system_update_update_downloaded_notification_message">点按即可了解详情及安装</string>
+    <string name="system_update_update_downloaded_notification_title">系统更新已下载完毕</string>
+    <string name="system_update_update_downloaded_tap_to_install">点按即可安装</string>
+    <string name="system_update_verification_failed_text">验证失败</string>
+    <string name="system_update_verified_status_text">已下载并通过验证</string>
+    <string name="system_update_verify_failed_button_qualifier_text">无法验证</string>
+    <string name="system_update_verifying_status_text">正在验证</string>
+    <string name="system_update_wearable_countdown_message">将在 %d后重新启动…</string>
+    <string name="target_default_source_device_model">旧设备</string>
+    <string name="target_device_not_supported_cant_continue_description">您需要选择其他方式来复制数据</string>
+    <string name="target_device_not_supported_cant_continue_title">不支持其他手机</string>
+    <string name="target_device_not_supported_try_restarting_description">"请拔掉数据线并重新启动旧手机，然后重新插上数据线，并按 Pixel 上的说明操作。
+
+如果系统继续显示这个错误消息，您可能需要通过其他方式进行复制。"</string>
+    <string name="target_device_not_supported_try_restarting_title">手机可能不受支持</string>
+    <string name="target_smart_device_timeout_add_account">添加帐号</string>
+    <string name="target_smart_device_timeout_description">如果您愿意的话，可以尝试手动添加您的帐号</string>
+    <string name="target_smart_device_timeout_dismiss">关闭</string>
+    <string name="target_smart_device_timeout_title">遇到问题了吗？</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">已连接手机</string>
+    <string name="toast_reconnect_cable">重新连接数据线</string>
+    <string name="transfer_finished_fragment_title">正在进行最后几项设置…</string>
+    <string name="transfer_summary_copied">数据已复制</string>
+    <string name="transfer_summary_fragment_description">您可以拔下数据线。</string>
+    <string name="transfer_summary_fragment_finish">完成</string>
+    <string name="transfer_summary_fragment_title">您的手机已差不多准备就绪</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">系统无法复制部分照片。<annotation id="transfer_summary_learn_more">了解详情</annotation></string>
+    <string name="transfer_summary_not_copied">数据未复制</string>
+    <string name="transfer_summary_partial">已复制 %1$s 项（共 %2$s 项）</string>
+    <string name="transfer_summary_will_sync">数据将在设置完成后进行同步</string>
+    <string name="transferring_fragment_calculating_remaining_time">正在计算剩余时间…</string>
+    <string name="transferring_fragment_header">正在复制…</string>
+    <string name="transferring_fragment_remaining_time">还剩 %1$s</string>
+    <string name="trust_instructions_description">要继续，请查看您的 iPhone® 设备并批准连接</string>
+    <string name="trust_instructions_trademark_disclaimer">iPhone、iPad、iOS、iMessage、iCloud、Safari 和 iTunes 是 Apple Inc. 在美国和其他国家/地区的注册商标。</string>
+    <string name="unmetered_wifi_string">不限流量的 WLAN 网络</string>
+    <string name="url_load_unsuccessful_message">您的 Android 设备未连接到移动数据网络服务。要立即查看此信息，请在网络浏览器中访问 %s。</string>
+    <string name="url_load_unsuccessful_message_wifi_only">您的Android设备未连接到WLAN网络。要立即查看此信息，请使用网络浏览器访问 %s。</string>
+    <string name="use_nearby_device_heading">要使用附近的设备吗？</string>
+    <string name="use_nearby_device_text">要使用附近的设备授予凭据吗？</string>
+    <string name="waiting_for_account_info_text">正在等待帐号信息…</string>
+    <string name="wifi_available_action_all_networks">所有网络</string>
+    <string name="wifi_available_action_connect">连接</string>
+    <string name="wifi_available_content_failed">点按即可查看所有网络</string>
+    <string name="wifi_available_title">连接到开放的 WLAN 网络</string>
+    <string name="wifi_available_title_connected">已连接到 WLAN 网络</string>
+    <string name="wifi_available_title_connecting">正在连接到开放的 WLAN 网络</string>
+    <string name="wifi_available_title_failed">无法连接到 WLAN 网络</string>
+    <string name="wifi_string">WLAN 网络</string>
+    <string name="wifi_wakeup_enabled_notification_context">您位于已保存的网络 (%1$s) 信号范围内</string>
+    <string name="wifi_wakeup_enabled_notification_title">已自动开启 WLAN 网络</string>
+</resources>

@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">اکاؤنٹ مسدود ہو گیا</string>
+    <string name="account_level_title">اکاؤنٹ ایکشن درکار ہے</string>
+    <string name="account_removed_notification_text">‏‎%1$s کو آلہ کا نظم مکمل نہ ہونے کی وجہ سے ہٹا دیا گیا تھا</string>
+    <string name="account_removed_notification_title">اکاؤنٹ ہٹا دیا گیا</string>
+    <string name="android_privacy_policy_title">اضافی رازداری کی پالیسی</string>
+    <string name="app_has_in_app_purchases">درون ایپ خریداریاں</string>
+    <string name="app_has_permissions">‏اجازتیں: ‎%s</string>
+    <string name="app_has_runtime_permissions">ایپ اجازتوں کیلئے پوچھے گی</string>
+    <string name="app_level_title">سائن ان درخواست</string>
+    <string name="app_level_title_secondary">سائن ان درخواست بذریعہ %s</string>
+    <string name="app_picker_app_already_installed_toast">یہ ایپ پہلے سے انسٹال شدہ ہے</string>
+    <string name="app_picker_loading">دستیاب ایپس تلاش کی جا رہی ہیں…</string>
+    <string name="app_picker_loading_toast">دستیاب ایپس جلد لوڈ ہو جائیں گی</string>
+    <string name="app_picker_no_apps">کوئی ایپ منتخب نہیں ہوئی</string>
+    <string name="app_picker_no_apps_found">کوئی ایپس نہیں ملیں</string>
+    <string name="apps_in_app_purchases_disclaimer_all">درون ایپ خریداریاں آپ کے ^1 پر منتقل نہیں ہوں گی۔</string>
+    <string name="apps_in_app_purchases_disclaimer_some">کچھ درون ایپ خریداریاں آپ کے ^1 پر منتقل نہیں ہوں گی۔</string>
+    <string name="apps_permissions_described_v2">"‏صرف مقبول، مفت ®iOS ایپس کو Android ایپس سے میچ کیا جا سکتا ہے۔ زیادہ تر درون ایپ خریداریاں منتقل نہیں ہوتیں۔ سیٹ اپ مکمل ہونے کے بعد آپ Play اسٹور پر مزید ایپس تلاش کر سکتے ہیں۔
+
+آپ کے فون کی مخصوص اہلیتوں یا معلومات تک رسائی کیلئے آپ کو کچھ ایپس کو پیشگی اجازت دینے کی ضرورت ہو سکتی ہے۔ اجازتوں کا نظم اجازت کے گروپس میں ہوتا ہے۔ ان ایپس کو انسٹال کرنا منتخب کر کے، آپ ان اجازتوں کو قبول کرتے ہیں جو ہر گروپ کا حصہ ہیں- ذیل میں ہر اجازت گروپ کی تفصیل فراہم کی گئی ہے۔
+
+ہو سکتا ہے کچھ ایپس کو پیشگی اجازتیں منظور کرنا درکار نہ ہو۔ جب آپ ان میں سے کسی ایپ کا استعمال کرتے ہیں، تو آپ ایپ کے اس قسم کے ڈیٹا کو استعمال کرنے سے پہلے انفرادی اجازتوں کو منظور یا مسترد کر سکتے ہیں۔
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">ہر ایپ انسٹال کر کے، آپ اس کی اجازتوں سے اتفاق کرتے ہیں۔ <annotation id="apps_permissions_learn_more">مزید جانیں</annotation></string>
+    <string name="audience_selection_done">ہو گیا</string>
+    <string name="auth_account_already_has_gmail">‏اکاؤنٹ کے پاس پہلے ہی Gmail ہے۔</string>
+    <string name="auth_account_content_provider_label">‏Google اکاؤنٹ ڈیٹا</string>
+    <string name="auth_account_removed_default_description">آلہ کا نظم و نسق مکمل نہیں ہوا۔ پھر سے شروع کریں اور دوبارہ سائن ان کریں۔</string>
+    <string name="auth_account_removed_default_title">سیٹ اپ منسوخ ہو گیا</string>
+    <string name="auth_account_removed_dm_bad_result_description">آلہ کا نظم و نسق مکمل نہیں ہوسکا۔ پھر سے شروع کریں اور دوبارہ سائن ان کریں۔</string>
+    <string name="auth_account_removed_dm_not_supported_description">آپ کی ڈومین کو موبائل آلہ کا نظم درکار ہے مگر یہ اس آلہ پر تعاون یافتہ نہیں ہے۔ مختلف اکاؤنٹ استعمال کر کے کوشش کریں۔</string>
+    <string name="auth_account_removed_dm_not_supported_title">آلہ کا نظم تعاون یافتہ نہیں ہے</string>
+    <string name="auth_account_removed_dm_setup_failed_description">آلہ کا نظم و نسق ٹھیک طرح سے انسٹال نہیں ہوا۔ پھر سے شروع کریں اور دوبارہ سائن ان کریں۔</string>
+    <string name="auth_account_removed_dm_setup_failed_title">انسٹال کرنے میں پریشانی</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">آلہ کا نظم و نسق مکمل نہیں ہوا۔ پھر سے شروع کریں اور دوبارہ سائن ان کریں۔</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">سیٹ اپ منسوخ ہو گیا</string>
+    <string name="auth_account_settings_title">اکاؤنٹ کی ترتیبات</string>
+    <string name="auth_account_setup_title">‏Google اکاؤنٹ</string>
+    <string name="auth_account_state_sync_title">اکاؤنٹ حالت کی مطابقت پذیری</string>
+    <string name="auth_allow_button_label">اجازت دیں</string>
+    <string name="auth_allow_external_site_access">%s پر اپنے ڈیٹا تک مسلسل رسائی رکھیں</string>
+    <string name="auth_app_permission_ok_footnote">‏جاری رکھ کر، آپ اس ایپ اور Google کو اپنی معلومات ان کی متعلقہ سروس کی شرائط اور رازداری کی پالیسیوں کے مطابق استعمال کرنے کی اجازت دیتے ہیں۔</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">لاگ ان کی اجازت دیں</string>
+    <string name="auth_authzen_allow_reset_button_text">پاس ورڈ تبدیلی کی اجازت دیں</string>
+    <string name="auth_authzen_google_logo_label">‏Google لوگو</string>
+    <string name="auth_authzen_login_challenge_approved_text">سائن ان منظور ہو گیا</string>
+    <string name="auth_authzen_login_challenge_canceled_text">سائن ان منسوخ کر دیا گیا</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">سائن ان کی اجازت دیں</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s سے سائن ان کر رہے ہیں؟</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">‏Google نے سائن ان کی کوشش کو روک دیا۔</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">غلط نمبر</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">دوسری اسکرین پر دکھائے گئے نمبر کو ٹچ کریں۔ اس سے آپ اپنے کمپیوٹر پر سائن ان ہو جائیں گے۔</string>
+    <string name="auth_authzen_login_challenge_title_text">سائن ان کی کوشش کر رہے ہیں؟</string>
+    <string name="auth_authzen_profile_picture_label">پروفائل تصویر</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">وہ اکاؤنٹ منتخب کریں جس کے ساتھ آپ سائن ان کرنے کی کوشش کر رہے ہیں:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">سائن ان کرنے کی کوشش کر رہے ہیں؟</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">سائن ان کی کوئی اطلاعات نہیں ملیں۔</string>
+    <string name="auth_authzen_pull_offline_error">داخلی خرابی</string>
+    <string name="auth_authzen_pull_offline_instructions_text">اپنے کمپیوٹر پر، \"کیا آپ کے پاس ایک کوڈ ہے؟\" پر کلک کریں، پھر یہ ٹائپ کریں:</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">‏کیا آپ نے ابھی Google میں لاگ ان کی کوشش کی؟</string>
+    <string name="auth_authzen_recovery_approved_text">پاس ورڈ کی تبدیلی منظور ہو گئی</string>
+    <string name="auth_authzen_recovery_canceled_text">پاس ورڈ کی تبدیلی منسوخ ہو گئی</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%s سے پاس ورڈ دوبارہ ترتیب دینے کی اجازت دیں؟</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">ہمیں آپ کی توثیق درکار ہے</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">‏Google نے پاس ورڈ دوبارہ ترتیب دینے کی کوشش کو روک دیا۔</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">غلط نمبر</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">دوسری اسکرین پر دکھائے گئے نمبر کو ٹچ کریں۔ یہ آپ کا پاس ورڈ دوبارہ ترتیب دے گا۔</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">پاس ورڈ دوبارہ ترتیب دینے کی اجازت دیں</string>
+    <string name="auth_authzen_recovery_reject_desc_text">‏کسی شخص نے آپ کا Google اکاؤنٹ پاس ورڈ دوبارہ ترتیب دینے کی درخواست کی۔ Google نے پاس ورڈ دوبارہ ترتیب دینے کی کوشش کو روک دیا۔</string>
+    <string name="auth_authzen_recovery_reject_title_text">پاس ورڈ دوبارہ ترتیب دینے کو روک دیا گیا</string>
+    <string name="auth_authzen_recovery_verification_desc_text">کیا آپ نے %s سے اپنا پاس ورڈ دوبارہ ترتیب دینے کی درخوست کی؟</string>
+    <string name="auth_authzen_recovery_verification_title_text">اپنا پاس ورڈ دوبارہ ترتیب دینے کی کوشش کی؟</string>
+    <string name="auth_authzen_secure_account_button_text">اکاؤنٹ محفوظ کریں</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">سائن ان کی اطلاعات تلاش کی جا رہی ہیں…</string>
+    <string name="auth_back_button_label">پیچھے</string>
+    <string name="auth_cant_add_work_account_message">آپ کی تنظیم اس قسم کے اکاؤنٹ کا نظم کرتی ہے۔</string>
+    <string name="auth_captcha_instructions">یہاں دکھائی دینے والا متن ٹائپ کریں:</string>
+    <string name="auth_captcha_title">‏CAPTCHA درج کرنے کی ضرورت ہے</string>
+    <string name="auth_common_next_button">آگے جائیں</string>
+    <string name="auth_common_skip">نظر انداز کریں</string>
+    <string name="auth_common_switch_accounts">اکاؤنٹس سوئچ کریں</string>
+    <string name="auth_communicating_message">‏آپ کا آلہ آپ کے اکاؤنٹ میں معلومات محفوظ کرنے کیلئے Google سے رابطہ کر رہا ہے۔ اس میں 5 منٹ تک لگ سکتے ہیں۔</string>
+    <string name="auth_confirm_creds_sync_title">اسناد کی حالت</string>
+    <string name="auth_d2d_source_alert_title">تھپتھپائیں اور منتقل کریں</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">مقفل کریں اور توثیق کریں</string>
+    <string name="auth_d2d_source_copy_notice">اکاؤنٹس اور ڈیٹا آپ کے دیگر آلہ پر کاپی کریں؟</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">آپ کی توثیق کے بعد، بلوٹوتھ کو آن کر دیا جائے گا تاکہ آپ کے آلات مواصلت کر سکیں۔</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">آپ کی توثیق کے بعد، آپ کے آلات بلوٹوتھ کے ذریعے منسلک ہو جائیں گے۔</string>
+    <string name="auth_d2d_source_lock_notice">جاری رکھنے کیلئے، آپ کی اسکرین کو مقفل کر دیا جائے گا اور توثیق کیلئے آپ کو اسے غیر مقفل کرنا ہوگا۔</string>
+    <string name="auth_d2d_source_no_accounts_toast">تھپتھپائیں اور منتقل کریں نہیں کر سکتے کیونکہ اس آلہ پر کوئی اکاؤنٹس نہیں ہیں۔</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">تھپتھپائیں اور منتقل کریں نہیں کر سکتے کیونکہ بلوٹوتھ آپ کے آلہ پر دستیاب نہیں ہے۔</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">بلوٹوتھ کو آن کر دیا جائے گا تاکہ آپ کے آلات مواصلت کر سکیں۔</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">یہ بلوٹوتھ کا استعمال کرتا ہے۔</string>
+    <string name="auth_d2d_source_notification_title">تھپتھپائیں اور منتقل کریں مکمل</string>
+    <string name="auth_d2d_source_restricted_user_toast">ایک محدود صارف پروفائل سے تھپتھپایا اور بحال نہیں کیا جا سکتا۔</string>
+    <string name="auth_d2d_source_title">اکاؤنٹس بحال کریں</string>
+    <string name="auth_d2d_source_unknown_device_name">نامعلوم آلہ</string>
+    <string name="auth_d2d_target_sorry_alert">معذرت، کچھ غلط ہو گیا</string>
+    <string name="auth_d2d_target_tap_progress_message">جاری رکھنے کیلئے، اپنے دوسرے آلہ پر ٹھیک ہے کو تھپتھپائیں</string>
+    <string name="auth_d2d_target_title">تھپتھپائیں اور آگے بڑھیں</string>
+    <string name="auth_d2d_target_unlock_progress_message">اپنا دوسرا آلہ چیک کریں</string>
+    <string name="auth_d2d_target_wait_progress_message">اکاؤنٹس اور ڈیٹا حاصل ہو رہے ہیں…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">انکار کریں</string>
+    <string name="auth_device_management_download_app_icon">%s ایپ آئیکن</string>
+    <string name="auth_device_management_download_description">اس اکاؤنٹ کیلئے موبائل آلہ کا نظم درکار ہے۔ اکاؤنٹ کیلئے درکار سیکیورٹی پالیسیاں نافذ کرنے کیلئے ^1 ایپ انسٹال کریں۔</string>
+    <string name="auth_device_management_download_description_kids">اکاؤنٹ کو اس آلے میں شامل کرنے کیلئے پہلے <b>^1</b>" انسٹال کریں۔ 
+
+^1 آپ کو آپ کے بچے کیلئے اس آلہ کا سیٹ اپ کرنے میں مدد کرتی ہے۔"</string>
+    <string name="auth_device_management_download_failed_message">آپ اب بھی اس ایپ کے بغیر سیٹ اپ جاری رکھ سکتے ہیں</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">آلہ کا نظم انسٹال نہیں ہو سکا۔ یہ اکاؤنٹ ہٹا دیا جائے گا۔ بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="auth_device_management_download_failed_title">ایپ ڈاؤن لوڈ نہیں کی جا سکتی</string>
+    <string name="auth_device_management_download_not_updated_message">آپ اب بھی موجودہ ورژن استعمال کرکے سیٹ اپ جاری رکھ سکتے ہیں</string>
+    <string name="auth_device_management_download_paused">موقوف ہوگیا</string>
+    <string name="auth_device_management_download_progress">ڈاؤن لوڈ ہو رہا ہے…</string>
+    <string name="auth_device_management_download_skip_message">اس اکاؤنٹ کیلئے آلہ کا نظم درکار ہے۔ اس کے بغیر جاری رکھیں؟</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">اس اکاؤنٹ کو شامل کرنے کیلئے آلہ کا نظم و نسق درکار ہوتا ہے۔ کیا آپ ایک مختلف اکاؤنٹ کے ساتھ پھر سے شروع کرنا پسند کریں گے؟</string>
+    <string name="auth_device_management_go_back">واپس جائیں</string>
+    <string name="auth_device_management_screenlock_description">اس آلہ پر اپنا دفتری اکاؤنٹ سیٹ اپ کرنے کیلئے آپ کو ایک اسکرین قفل سیٹ کرنا ہو گا۔ یہ آپ کی تنظیم کی موبائل آلہ کی پالیسی ہے۔</string>
+    <string name="auth_device_management_screenlock_skip_message">اس اکاؤنٹ کو اسکرین قفل سیکیورٹی درکار ہے۔ کیا آپ ایک مختلف اکاؤنٹ کے ساتھ پھر سے شروع کرنا چاہیں گے؟</string>
+    <string name="auth_device_management_start_description">"اس اکاؤنٹ کیلئے موبائل آلہ کا نظم درکار ہے۔ جب آپ 'اگلا' کو تھپتھپائیں گے تو اکاؤنٹ کیلئے درکار سیکیورٹی پالیسیوں کو نافذ کرنے میں ^1 ایپ آپ کی مدد کرے گی۔"</string>
+    <string name="auth_device_management_start_description_kids">اکاؤنٹ کو اس آلے میں شامل کرنے کیلئے <b>^1</b>" استعمال کریں۔ 
+
+^1 آپ کو آپ کے بچے کیلئے اس آلہ کا سیٹ اپ کرنے میں مدد کرتی ہے۔"</string>
+    <string name="auth_device_management_title">آلہ کا نظم</string>
+    <string name="auth_device_management_update_description">اس اکاؤںٹ کیلئے موبائل آلہ کا نظم درکار ہے۔ اکاؤنٹ سے وابستہ سیکیورٹی پالیسیوں کا تقاضا پورا کرنے کیلئے آپ کو ^1 ایپ کا نیا ورژن انسٹال کرنا پڑے گا۔</string>
+    <string name="auth_device_management_update_description_kids">اکاؤنٹ کو اس آلے میں شامل کرنے کیلئے پہلے <b>^1</b>" کا تازہ ترین ورژن انسٹال کریں۔ 
+
+^1 آپ کو آپ کے بچے کیلئے اس آلہ کا سیٹ اپ کرنے میں مدد کرتی ہے۔"</string>
+    <string name="auth_dismiss_button_label">برخاست کریں</string>
+    <string name="auth_doesnt_use_gmail">" ‏"<b>‎^1</b> ‏Gmail‎ کا استعمال نہیں کرتا۔</string>
+    <string name="auth_error_account_disabled">"‏یہ اکاؤنٹ غیر فعال کر دیا گیا ہے۔ 
+
+(تفصیلات کیلئے، ایک ویب براؤزر کے ساتھ http://google.com/accounts ملاحظہ کریں۔)"</string>
+    <string name="auth_error_account_not_verified">"‏اس اکاؤنٹ کی توثیق نہیں ہوئی ہے۔ اپنا ای میل چیک کریں اور اس اکاؤنٹ کی توثیق کرنے کیلئے شامل کردہ لنک کی پیروی کریں۔ 
+
+(اپنے اکاؤنٹ کی معلومات کی بحالی کیلئے، اپنے کمپیوٹر پر http://www.google.com/accounts/recovery پر جائیں۔)"</string>
+    <string name="auth_error_bad_password">پاس ورڈ بہت کمزور ہے یا اس میں غلط حروف شامل ہیں۔ دوبارہ کوشش کریں۔</string>
+    <string name="auth_error_bad_username">غلط صارف نام۔</string>
+    <string name="auth_error_generic_server_error">"‏Google سرورز کے ساتھ مواصلت کرنے میں ایک مسئلہ پیش آگیا۔ 
+
+ بعد میں دوباہ کوشش کریں۔"</string>
+    <string name="auth_error_invalid_second_factor">اپنے اکاؤنٹ کے مستقل پاس ورڈ کے بجائے ایپ کیلئے مخصوص ایک پاس ورڈ استعمال کریں۔</string>
+    <string name="auth_error_login_failed">"‏آپ کا صارف نام اور پاس ورڈ مماثل نہیں ہیں۔ دوبارہ کوشش کریں۔
+
+اپنے اکاؤنٹ کی معلومات کی بحالی کیلئے، go to google.com/accounts/recovery/ پر جائیں۔"</string>
+    <string name="auth_error_needs_browser">اپنے اکاؤنٹ تک رسائی کیلئے، آپ کو ویب پر سائن ان کرنا ہوگا۔ براؤزر سائن ان شروع کرنے کیلئے اگلا کو تھپتھپائیں۔</string>
+    <string name="auth_error_no_network">"‏آپ کے پاس ایک نیٹ ورک کنکشن نہیں ہے۔ 
+
+ یہ ایک عارضی مسئلہ ہو سکتا ہے۔ دوبارہ کوشش کریں یا کسی دوسرے Wi-Fi نیٹ ورک سے منسلک ہوں۔"</string>
+    <string name="auth_error_not_logged_in">صارف سائن ان نہیں ہے۔</string>
+    <string name="auth_error_username_unavailable">صارف نام دستیاب نہیں ہے۔</string>
+    <string name="auth_existing_account_error_text">‏اس Android آلہ پر پہلے ہی ایک ^1 اکاؤنٹ ہے۔</string>
+    <string name="auth_existing_account_error_title">اکاؤنٹ پہلے ہی موجود ہے</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">پاسورڈ کی ایک حالیہ تبدیلی کی وجہ سے آلہ میں سائن ان ہونے سے قاصر۔ براہ کرم پاسورڈ تبدیل ہونے کے 24 گھنٹے بعد سائن ان کرنے کی کوشش کریں۔</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">آلہ کے تحفظ کی خصوصیات مزید کام نہیں کریں گی۔</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">‏آلہ پر آخری Google اکاؤنٹ کو اپنے ذاتی پروفائل سے باہر منتقل کرنے سے آلہ کی چوری سے تحفظ کی خصوصیات غیر فعال ہو جائیں گی۔ آپ بعد میں اپنے آلہ پر ایک اور اکاؤنٹ شامل کر کے انہیں دوبارہ فعال کر سکتے ہیں۔</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">کیا آپ تیار ہیں؟</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">اکاؤنٹ کو دفتری پروفائل میں منتقل کریں؟</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">کسی نامعلوم خرابی کی وجہ سے آلہ میں سائن ان کرنے سے قاصر۔ براہ کرم کوئی اور اکاؤنٹ آزمائیں یا 24 گھنٹے بعد دوبارہ سائن ان کرنے کی کوشش کریں۔</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">براہ کرم اس آلہ کیلئے مالک کے اکاؤنٹس میں سے کسی ایک کا استعمال کر کے سائن ان کریں</string>
+    <string name="auth_field_cant_be_blank">فیلڈ خالی نہیں رہ سکتی ہے۔</string>
+    <string name="auth_frp_add_account_no">نہیں</string>
+    <string name="auth_frp_add_account_prompt">^1 اپنے آلے میں ابھی شامل کریں؟ اگر آپ کا کوئی اور اکاؤنٹ ہے تو آپ اسے بعد میں شامل کر سکتے ہیں۔</string>
+    <string name="auth_frp_add_account_yes">ہاں</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">اس اکاؤنٹ پر رسائی نہیں ہو سکی۔ یقینی بنائیں کہ آپ کا آلہ آپ کی تنظیم کی سیکیورٹی کی پالیسیوں کی پیروی کر رہا ہے۔ اگر آپ کو یہ خرابی نظر آتی رہے تو اپنی تنظیم کے منتظم سے رابطہ کریں۔</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">اکاؤنٹ کی خرابی</string>
+    <string name="auth_gls_dmagent_activity_download_message">" ‏آپ کے ڈومین کو موبائل آلہ کے مینیجمنٹ کی ضرورت ہے۔  "<b>^1</b> اکاؤنٹ کیلئے ضروری سیکیورٹی پالیسیاں نافذ کرنے کیلئے \"Google ایپس آلہ کی پالیسی\" انسٹال کریں۔</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ڈاؤن لوڈ کریں</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" میں صرف حروف،
+نمبرز اور پیریڈز شامل ہو سکتے ہیں۔"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> میں کوئی حروف شامل نہیں۔</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> میں 6 سے کم یا 30 سے زیادہ حروف شامل ہیں۔</string>
+    <string name="auth_gls_is_not_available">‏صارف نام <b>‎^1</b> دستیاب نہیں ہے۔</string>
+    <string name="auth_gls_name_checking_info_title">معلومات چیک ہو رہی ہے…</string>
+    <string name="auth_gls_sync_item_title">%s کی مطابقت پذیری کریں</string>
+    <string name="auth_gls_third_party_activity_download_message">" ‏اکاؤنٹ  "<b>^1</b> آپ کی تنظیم کے زیر انتظام ایک آلہ یا دفتری پروفائل میں شامل ہونا چاہئیے۔ اسے مکمل کرنے کیلئے براہ کرم اپنے IT منتظم کے ذریعے فراہم کردہ ہدایات کی پیروی کریں۔</string>
+    <string name="auth_google_title_logo">‏Google لوگو</string>
+    <string name="auth_invalid_login_character">‏غلط حرف۔ صرف 0‎-9, a-z, A-Z اور پیریڈز کی اجازت ہے۔</string>
+    <string name="auth_invalid_password_character">غلط پاس ورڈ حرف۔</string>
+    <string name="auth_invalid_username">آپ کے ذریعے ٹائپ کردہ متن ایک درست صارف نام نہیں ہے۔</string>
+    <string name="auth_kids_setup_wizard_services_agreement">‏جاری رکھ کر آپ اتفاق کرتے ہیں کہ یہ آلہ خودکار طور پر Google، آپ کے کیریئر اور اس آلہ کے مینوفیکچرر سے، ممکنہ طور پر سیلولر ڈیٹا استعمال کرتے ہوئے اپ ڈیٹس اور ایپس بھی ڈاؤن لوڈ اور انسٹال کر سکتا ہے۔ آپ ان ایپس کو کسی بھی وقت ہٹا سکتے ہیں۔</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager">اس آلہ سے کچھ ڈیٹا، جیسے بیک اپ کی گئی تصاویر اور ویڈیوز ہٹا کر، <b>جب آلہ کا اسٹوریج تقریباً بھر جائے تو جگہ خالی کریں</b>۔</string>
+    <string name="auth_kids_setup_wizard_services_backup">‏اپنے بچہ کی Google Drive میں <b>خودکار طور پر آلہ کے ڈیٹا کا بیک اپ لیں</b> (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلیں)۔</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"‏جب آپ خودکار بیک اپ آن کرتے ہیں تو آلہ اور ایپ کا ڈیٹا وقفہ وقفہ پر آپ کے بچہ کی Google Drive کے ایک نجی فولڈر میں محفوظ کیا جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔
+
+بیک اپ ڈیٹا کا شمار آپ کے بچہ کے Drive اسٹوریج کوٹہ میں نہیں کیا جائے گا۔ بڑی فائلیں یا ایسی فائلیں جنہیں ڈیولپرز نے سروس میں شامل نہ کرنے کا انتخاب کیا ہے ان کا بیک اپ نہیں لیا جائے گا۔"</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26">‏اپنے بچے کی Google Drive میں ترتیبات، ایپ ڈیٹا (جیسے کہ ترتیبات اور ایپس کی طرف سے اسٹور کردہ فائلز) اور (Wi‑Fi پاسورڈز، SMS اور کال کی سرگزشت جیسے) <b>آلہ کے ڈیٹا کا خود کار طور پر بیک اپ لیں</b>۔</string>
+    <string name="auth_kids_setup_wizard_services_description">‏بطور والدین، آپ اپنے بچہ کے اکاؤنٹ کیلئے یہ سروسز کسی بھی وقت آن یا آف کر سکتے ہیں۔ ڈیٹا کا استعمال Google کی <annotation link="google_privacy">پالیسیوں</annotation>" کے مطابق ہو گا۔
+
+اگر آپ مزید جاننا چاہتے ہیں تو آپ ہر سروس کو تھپتھپا سکتے ہیں۔"</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing">‏اپنے بچے کے مقام کا تعین کرنے میں <b>ایپس کی مدد کرنے کیلئے Google کی مقام کی سروس استعمال کریں</b>۔ اس آلہ کے آن ہونے پر گمنام مقام کا ڈیٹا Google کو بھیجا جائے گا۔</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"‏اس آلہ کے مقام کا مزید تیزی اور درستگی کے ساتھ اندازہ لگانے میں مدد کرنے کیلئے Google کی مقام کی سروس Wi-Fi اور سیلولر نیٹ ورکس جیسے ذرائع کا استعمال کرتی ہے۔ یہ سروس تب فعال ہوتی ہے جب اس آلہ کے مقام کی ترتیب آن ہو اور اس موڈ میں ہو جو مقام کا تعین کرنے کیلئے Wi-Fi یا موبائل نیٹ ورکس استعمال کرتا ہو جیسے کہ اعلی درستگی یا بیٹری کی بچت (پاور سیونگ) موڈ۔
+
+آپ اس سروس کو یوں بند کر سکتے ہیں:
+
+"<li>اس آلہ پر مرکزی مقام کی ترتیب بند کر کے۔</li>"
+
+"<li>"مرکزی مقام کی ترتیب کو آن چھوڑ کر اور ایسا موڈ منتخب کر کے جو صرف GPS استعمال کرتا ہو جو کبھی کبھی 'صرف آلہ' کہلاتا ہے۔"</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting">‏Google کو خودکار طور پر ڈائیگناسٹک اور آلہ اور ایپ کے استعمال کا ڈیٹا بھیج کر <b>اپنا Android تجربہ بہتر بنانے میں مدد کریں</b>۔ اس معلومات کا استعمال آپ کے بچے کی شناخت کیلئے نہیں کیا جائے گا بلکہ یہ بیٹری کی میعاد، ایپ کے استحکام، نیٹ ورک کے رابطہ و دیگر کئی چیزوں کو بہتر بنانے میں مدد کرے گی۔</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"‏یہ اس آلہ اور اس کے طریقہ استعمال (جیسے کہ بیٹری سطح، ایپ کا استعمال اور نیٹ ورک کنیکٹوٹی) کے بارے میں ایک عام معلومات ہے۔ Google کے پروڈکٹس اور سروسز کو ہر کسی کیلئے بہتر بنانے کی خاطر ڈیٹا کو استعمال کیا جائے گا۔ کچھ مجموعی معلومات Android ڈیولپرز جیسے پارٹنرز کیلئے ان کی ایپس اور پروڈکٹس کو بہتر بنانے میں بھی معاون ہوں گی۔
+
+اس خصوصیت کو آف کرنے سے سسٹم اپ ڈیٹس اور سیکیورٹی جیسی لازمی سروسز کیلئے درکار معلومات بھیجنے کی اس آلے کی اہلیت متاثر نہیں ہوتی ہے۔"</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"‏یہ اس آلہ اور اس کے استعمال سے متعلق عام معلومات ہے (جیسے بیٹری کی سطح، ایپس کا استعمال اور نیٹ ورک کا رابطہ)۔ ڈیٹا ہر کسی کیلئے Google پروڈکٹس اور سروسز کو بہتر بنانے کیلئے استعمال ہو گا۔ کچھ مجموعی معلومات پارٹنرز، جیسے Android ڈیولپرز کو ان کی ایپس اور پروڈکٹس بہتر بنانے میں بھی مدد کریں گی۔
+
+اس خصوصیت کو آف کرنا آلہ کی معلومات بھیجنے کی وہ اہلیت متاثر نہیں کرتا جو ضروری سروسز موصول کرنے کیلئے درکار ہے جیسے سسٹم اپ ڈیٹس اور سیکیورٹی۔
+
+آپ اس خصوصیت کو ترتیبات > Google سے کنٹرول کر سکتے ہیں۔ مینو سے استعمال اور تشخیصات منتخب کریں۔"</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">آپ نے ایک غلط پاس ورڈ ٹائپ کیا یا آپ کا اکاؤنٹ تبدیل ہو گیا ہے۔ اپنا پاس ورڈ دوبارہ ٹائپ کریں۔ اگر آپ اپنا پاس ورڈ بھول گئے اور اپنے اکاؤنٹ کی بازیابی کرنا چاہتے ہیں تو <annotation id="help_url">یہاں</annotation> کلک کریں۔</string>
+    <string name="auth_login_activity_task_title">سائن ان کیا جا رہا ہے…</string>
+    <string name="auth_login_activity_title">سائن ان کریں</string>
+    <string name="auth_login_task_title">سائن ان ہو رہا ہے</string>
+    <string name="auth_login_title">ای میل اور پاس ورڈ ٹائپ کریں</string>
+    <string name="auth_minutemaid_ssl_error">" %s سے منسلک کرتے وقت ایک مسئلہ پیش آ گیا۔"</string>
+    <string name="auth_network_unreliable_help">‏یہ ایک عارضی مسئلہ ہو سکتا ہے یا آپ کاAndroid آلہ ڈیٹا سروسز کیلئے فراہم نہیں کیا جا سکتا ہے۔ اگر یہ جاری رہتا ہے تو کسٹمر کیئر کو کال کریں۔</string>
+    <string name="auth_next_button_label">اگلا</string>
+    <string name="auth_no_network">آپ کے پاس ایک نیٹ ورک کنکشن موجود نہیں ہے۔</string>
+    <string name="auth_no_network_help">‏یہ ایک عارضی مسئلہ ہو سکتا ہے یا آپ کاAndroid آلہ ڈیٹا سروسز کیلئے فراہم نہیں کیا جا سکتا ہے۔ کسی موبائل نیٹ ورک سے مربوط ہونے پر دوبارہ کوشش کریں، یا کسی Wi-Fi نیٹ ورک سے مربوط ہوں۔</string>
+    <string name="auth_no_network_help_wifi_only">‏یہ ایک عارضی مسئلہ ہو سکتا ہے۔ دوبارہ کوشش کریں یا کسی دوسرے Wi-Fi نیٹ ورک سے مربوط ہوں۔</string>
+    <string name="auth_otp_error">سیکیورٹی کوڈ تخلیق کرنے میں ایک مسئلہ پیش آگیا۔</string>
+    <string name="auth_otp_explained_paragraph">‏اگر آپ اپنا پاسورڈ بھول گئے ہیں یا آپ کے سائن ان سے متعلق کچھ نیا ہوتا ہے تو Google آپ کے اکاؤنٹ کے تحفظ کے لیے سیکیورٹی کوڈ طلب کر سکتا ہے۔ اس کو ابھی استعمال کریں یا نئے کے لیے واپس آئيں۔</string>
+    <string name="auth_otp_header_message">سائن ان کرنے کے لیے اس کوڈ کا کب استعمال کریں</string>
+    <string name="auth_otp_help">مدد اور تاثرات</string>
+    <string name="auth_otp_no_accounts_available_message">اس آلہ پر کوئی اکاؤنٹ کنفیگر نہیں ہے۔</string>
+    <string name="auth_otp_progress_dialog_message">ایک سیکیورٹی کوڈ تخلیق ہو رہا ہے۔</string>
+    <string name="auth_password">پاسورڈ</string>
+    <string name="auth_plus_audience_selection_description_acl">اس کے ساتھ اشتراک کریں</string>
+    <string name="auth_plus_failure_new_account_text">‏آپ کا Google اکاؤنٹ بن گیا ہے، لیکن ایک Google+‎ پروفائل بنانے کی آپ کی درخواست مکمل نہیں ہو سکی۔ plus.google.com پر بعد میں کسی بھی ویب براؤزر سے دوبارہ کوشش کریں۔</string>
+    <string name="auth_plus_failure_text">‏Google+‎ میں شامل ہونے کی آپ کی درخواست مکمل نہیں ہوئی۔ plus.google.com پر بعد میں کسی بھی ویب براؤزر سے دوبارہ کوشش کریں۔</string>
+    <string name="auth_plus_failure_title">‏ایک Google+‎ پروفائل بعد میں بنائیں</string>
+    <string name="auth_plus_info_fragment_app_name">%s چاہے گی کہ:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s آلہ سے %s چاہے گی کہ:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">آپ کے توسیعی حلقے</string>
+    <string name="auth_plus_scope_fragment_mixed_label">منتخب حلقے</string>
+    <string name="auth_plus_scope_fragment_only_you_label">صرف آپ</string>
+    <string name="auth_plus_scope_fragment_public_label">ویب پر موجود کوئی بھی</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">آپ کے حلقے</string>
+    <string name="auth_relogin_activity_title">پاس ورڈ دوبارہ ٹائپ کریں</string>
+    <string name="auth_remove_account_start_over">پھر سے شروع کریں</string>
+    <string name="auth_scope_more_details">مزید معلومات</string>
+    <string name="auth_server_error">‏Google سرورز کے ساتھ مواصلت میں مسئلہ پیش آگیا۔</string>
+    <string name="auth_server_error_help">بعد میں دوبارہ کوشش کریں۔</string>
+    <string name="auth_setup_wizard_account_added_activity_title">اکاؤنٹ شامل ہو گیا</string>
+    <string name="auth_setup_wizard_account_added_description">‏آپ کا اکاؤنٹ شامل ہو گیا ہے۔ براہ کرم Google سروسز اختیارات منتخب کرنے کیلئے آگے بڑھیں</string>
+    <string name="auth_setup_wizard_back_button_label">پیچھے</string>
+    <string name="auth_setup_wizard_next_button_label">آگے</string>
+    <string name="auth_setup_wizard_services_activity_title">‏Google سروسز</string>
+    <string name="auth_setup_wizard_services_agreement">‏جاری رکھ کر آپ اتفاق کرتے ہیں کہ یہ آلہ خودکار طور پر Google، آپ کے کیریئر اور اس آلہ کے مینوفیکچرر سے، ممکنہ طور پر سیلولر ڈیٹا استعمال کرتے ہوئے اپ ڈیٹس اور ایپس بھی ڈاؤن لوڈ اور انسٹال کر سکتا ہے۔ ان میں سے کچھ ایپس درون ایپ خریداریاں بھی پیش کر سکتی ہیں۔ آپ ان ایپس کو کسی بھی وقت ہٹا سکتے ہیں۔</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">"ایپس ہٹانے کیلئے، ترتیبات > ایپس یا ایپلیکیشن مینجر پر جائیں۔ پھر جس ایپ کو آپ ان انسٹال کرنا چاہتے ہوں اسے تھپتھپائیں (ممکن ہے کہ ایپ تلاش کرنے کیلئے آپ کو دائیں یا بائیں سوائپ کرنا پڑے)۔ پھر 'اَن انسٹال' یا 'غیر فعال' تھپتھپائیں۔"</string>
+    <string name="auth_setup_wizard_services_agreement_korea">‏آپ بھی اس کے ذریعے سے منظوری دیتے ہیں اور پیشگی لوڈ کردہ Google ایپس کی اجازت کو اپنے آلہ پر معلومات اور فنکشنز تک رسائی دیتے ہیں۔ ان اجازتوں کے استعمال کے بارے میں مزید معلومات کے لیے <annotation link="app_permissions">یہ صفحہ</annotation> ملاحظہ کریں۔</string>
+    <string name="auth_setup_wizard_services_agreement_title">اپ ڈیٹس اور ایپس انسٹال کریں</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">کچھ ڈیٹا جیسے بیک اپ کی گئی تصاویر اور ویڈیوز ہٹا کر، جب آپ کا فون اسٹوریج تقریباً بھر جائے تو جگہ خالی کریں۔</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">آپ منسلک ہوتے ہوئے بھی اس ڈیٹا تک رسائی حاصل کر سکتے ہیں۔ آپ یہ خصوصیت اور ہٹائی گئی چیزیں ترتیبات > اسٹوریج > اسمارٹ اسٹوریج پر جا کر کنٹرول کر سکتے ہیں۔</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">جگہ خالی کریں</string>
+    <string name="auth_setup_wizard_services_backup">‏آسانی سے کسی بھی وقت فوںز بحال یا سوئچ کریں۔ بیک اپ میں ایپس، ایپ کا ڈیٹا اور آلہ کی ترتیبات شامل ہیں (بشمول Wi‑Fi پاس ورڈز)۔</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"‏ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر کی ترتیبات کی بنیاد پر) محفوظ کیا ہو۔
+
+بیک اپ ڈیٹا آپ کے Drive storage کے کوٹہ میں شمار نہیں کیا جائے گا۔
+
+آپ اس سروس کو ترتیبات میں آف کر سکتے ہیں۔"</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"‏ایپ ڈیٹا ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔
+
+اس آلے کی تصاویر اور ویڈیوز کو آپ کے کسی بھی آلات سے تلاش، ترمیم، حذف، اور اشتراک کرنے کے لیے Google تصاویر کے ساتھ مطابقت پذیر کیا جاتا ہے۔ بطور ڈیفالٹ، پوری ریزولیوشن والی تصاویر اور ویڈیوز اپ لوڈ کی جاتی ہیں۔
+
+بیک اپ ڈیٹا آپ کے Drive storage کے کوٹہ میں شمار نہیں کیا جائے گا۔
+
+آپ ترتیبات میں یہ سروس آف کر سکتے ہیں۔"</string>
+    <string name="auth_setup_wizard_services_backup_title">‏Google Drive پر بیک اپ لیں</string>
+    <string name="auth_setup_wizard_services_backup_v23">‏آسانی سے کسی بھی وقت فوںز بحال یا سوئچ کریں۔ بیک اپ میں ایپس، ایپ کا ڈیٹا، کال کی سرگزشت، رابطے اور آلہ کی ترتیبات شامل ہیں (بشمول Wi‑Fi پاس ورڈز اور اجازتیں)۔</string>
+    <string name="auth_setup_wizard_services_backup_v26">‏آسانی سے کسی بھی وقت فوںز بحال یا سوئچ کریں۔ بیک اپ میں ایپس، ایپ کا ڈیٹا، کال کی سرگزشت، رابطے اور آلہ کی ترتیبات اور SMS شامل ہیں (بشمول Wi‑Fi پاس ورڈز اور اجازتیں)۔</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">‏آسانی سے کسی بھی وقت فونز بحال یا سوئچ کریں۔ بیک اپ میں ایپس، ایپ کا ڈیٹا، کال کی سرگزشت، رابطے، آلہ کی ترتیبات (بشمول Wi‑Fi پاس ورڈز اور اجازتیں)، تصاویر، ویڈیوز، اور SMS شامل ہیں۔ تصاویر، اور ویڈیوز آپ کے Google اکاؤنٹ سے مطابقت پذیر ہیں اور تمام سروسز پر ان کا استعمال کیا جا سکتا ہے۔</string>
+    <string name="auth_setup_wizard_services_description">‏آن یا بعد میں آف کرنے کا طریقہ جیسی ہر سروس کے بارے میں مزید جاننے کیلئے تھپتھپائيں۔ ڈیٹا کو Google کی <annotation link="google_privacy">رازداری کی پالیسی</annotation> کے مطابق استعمال کیا جائے گا۔</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"‏ایپ کی تفصیلات بشمول درون ایپ خریداریاں، Play اسٹور میں پائی جا سکتی ہیں۔ ایپ کا ڈیٹا اور ترتیبات آپ کے Google اکاؤنٹ کے ساتھ سائن ان کردہ آلات سے مطابقت پذیر ہوتی ہیں۔
+
+فوری ایپس کا استعمال "<a href="https://play.google.com/about/play-terms.html">Google Play سروس کی شرائط</a>" کے زیر انتظام ہے۔ 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">مزید جانیں</a>۔</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">‏جب آپ کسی لنک پر تھپتھپاتے ہیں تو Google Play چیک کرتا ہے کہ آیا کوئی فوری ایپ موجود ہے اور اسے بغیر انسٹالیشن کے چلاتا ہے۔ فوری ایپس کو آپ کے آلہ پر عارضی طور پر رکھا جاتا ہے۔</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">بغیر انسٹالیشن کے ایپس استعمال کریں</string>
+    <string name="auth_setup_wizard_services_location_sharing">‏آپ کے مقام کا تعین کرنے میں ایپس کی مدد کرنے کیلئے Google کی مقام کی سروس استعمال کریں۔ آپ کے آلہ کے آن ہونے پر گمنام مقام کا ڈیٹا Google کو بھیجا جائے گا۔</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"‏آپ کے آلہ کے مقام کا مزید تیزی اور درستگی کے ساتھ اندازہ لگانے میں مدد کرنے کیلئے Google کی مقام کی سروس Wi-Fi اور سیلولر نیٹ ورکس جیسے ذرائع کا استعمال کرتی ہے۔ یہ سروس تب فعال ہوتی ہے جب آپ کے آلہ کے مقام کی ترتیب آن ہو اور اس موڈ میں ہو جو مقام کا تعین کرنے کیلئے Wi-Fi یا موبائل نیٹ ورکس استعمال کرتا ہو جیسے کہ اعلی درستگی یا بیٹری کی بچت (پاور سیونگ) موڈ۔
+
+آپ اس سروس کو یوں بند کر سکتے ہیں:
+
+"<li>اپنے آلہ پر مرکزی مقام کی ترتیب بند کر کے۔</li>"
+
+"<li>"مرکزی مقام کی ترتیب کو آن چھوڑ کر اور ایسا موڈ منتخب کر کے جو صرف GPS استعمال کرتا ہو جو کبھی کبھی 'صرف آلہ' کہلاتا ہے۔"</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">مقام تلاش کرنے میں ایپس کی مدد کریں</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">‏Wi‑Fi آف ہونے پر بھی، ایپس اور سروسز کو Wi‑Fi کیلئے اسکین کرنے کی اجازت دیں۔</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">آپ اسے مقام کی ترتیبات میں آف کر سکتے ہیں۔</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">مقام کی درستگی کو بہتر بنائیں</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">‏Wi‑Fi اور بلوٹوتھ آف ہونے پر بھی، ایپس اور سروسز کو Wi‑Fi اور بلوٹوتھ کیلئے اسکین کرنے کی اجازت دیں۔</string>
+    <string name="auth_setup_wizard_services_play">‏Google Play کی جانب سے خبروں اور پیشکشوں کے ساتھ مجھے اپ ٹو ڈیٹ رکھیں۔</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">بیک اپ اور اسٹوریج</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">آلہ کی دیکھ بھال</string>
+    <string name="auth_setup_wizard_services_section_location">مقام</string>
+    <string name="auth_setup_wizard_services_tos">‏اگر آپ جاری رکھتے ہیں تو آپ <annotation link="tos">Google کی سروس کی شرائط</annotation> سے بھی اتفاق کرتے ہیں۔</string>
+    <string name="auth_setup_wizard_services_tos_germany">جب آپ اس آلہ کا استعمال کرتے ہیں تب ہم اپنی <annotation link="google_privacy">رازداری کی پالیسی</annotation> پر عمل کرتے ہیں اور <annotation link="tos">اضافی شرائط</annotation> لاگو ہوتی ہیں۔</string>
+    <string name="auth_setup_wizard_services_usage_reporting">"‏Google کو خودکار طور پر ڈائیگناسٹک اور آلہ اور ایپ کے استعمال کا ڈیٹا بھیج کر اپنا Android تجربہ بہتر بنانے میں مدد کریں۔ اس سے بیٹری کی میعاد، ایپ کے استحکام، نیٹ ورک کی کنیکٹوٹی وغیرہ کو بہتر بنانے میں مدد ملے گی۔ اگر آپ نے اضافی ویب اور ایپ کنیکٹوٹی کو آن کیا تو یہ معلومات آپ کے اکاؤنٹ میں اسٹور کر دی جائے گي، تاکہ آپ اس کا 'میری سرگرمی' میں نظم کر سکیں۔"</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"‏یہ آپ کے آلہ اور آپ کے اس آلہ کے طریقہ استعمال (جیسے کہ بیٹری سطح، ایپ کا استعمال اور نیٹ ورک کنیکٹوٹی) کے بارے میں ایک عام معلومات ہے۔ Google کے پروڈکٹس اور سروسز کو ہر کسی کیلئے بہتر بنانے کی خاطر ڈیٹا کو استعمال کیا جائے گا۔ کچھ مجموعی معلومات Android ڈیولپرز جیسے پارٹنرز کیلئے ان کی ایپس اور پروڈکٹس کو بہتر بنانے میں بھی معاون ہوں گی۔
+
+اس خصوصیت کو آف کرنے سے سسٹم اپ ڈیٹس اور سیکیورٹی جیسی لازمی سروسز کیلئے درکار معلومات بھیجنے کی اس آلے کی اہلیت متاثر نہیں ہوتی ہے۔"</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">"‏آپ 'میری سرگرمی' ترتیبات کو myactivity.google.com پر اپ ڈیٹ کر سکتے ہیں۔"</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">‏آپ Google کی ترتیبات سے یہ خصوصیت کنٹرول کر سکتے ہیں۔ مینو سے استعمال اور ڈائیگناسٹکس منتخب کریں۔</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">‏آپ ترتیبات > Google سے یہ خصوصیت کنٹرول کر سکتے ہیں۔ مینو سے استعمال اور ڈائیگناسٹکس منتخب کریں۔</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">سسٹم ڈیٹا بھیجیں</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">‏Google کی مقام کی سروس تک رسائی کر کے Google لائیو والپیپرز کو آپ کے مقام کا جواب دینے کی اجازت دیں۔</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">‏ترتیبات > ایپس اور اطلاعات > ایپ کی معلومات پر جا کر، آپ لائیو والپیپرز کیلئے Google کی مقام کی سروس تک رسائی کو آن یا آف کر سکتے ہیں۔ اوورفلو مینو میں، سسٹم > لائیو ڈیٹا والپیپرز یا لائیو Earth والپیپرز > اجازتیں دکھائيں پر تھپتھپائیں۔</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">وال پیپرز کو مقام استعمال کرنے دیں</string>
+    <string name="auth_setup_wizard_title">سیٹ اپ ویزرڈ</string>
+    <string name="auth_show_error_activity_title">سائن ان نہیں کر سکا</string>
+    <string name="auth_show_error_title">خرابی</string>
+    <string name="auth_sign_in_agreement">‏سائن ان کر کے آپ <annotation id="google_privacy">Google</annotation> اور <annotation id="android_privacy">اضافی</annotation> رازداری پالیسیوں سے اتفاق کرتے ہیں۔</string>
+    <string name="auth_sign_in_browser">براؤزر سائن ان</string>
+    <string name="auth_sign_in_button_label">سائن ان کریں</string>
+    <string name="auth_sign_in_with_google_account_short">‏اپنے Google اکاؤنٹ کے ساتھ سائن ان کریں:</string>
+    <string name="auth_skip_button_label">نظر انداز کریں</string>
+    <string name="auth_submission_error_text">ایک خرابی پیش آگئی۔ دوبارہ کوشش کریں۔</string>
+    <string name="auth_submission_title">معذرت…</string>
+    <string name="auth_try_again_button_label">دوبارہ کوشش کریں</string>
+    <string name="auth_ui_activity_authenticating">توثیق ہو رہی ہے…</string>
+    <string name="auth_ui_activity_title">‏Google سائن ان</string>
+    <string name="auth_ui_activity_title_browser_signin">سائن ان کریں</string>
+    <string name="auth_ui_add_account_title">اکاؤنٹ سیٹ اپ</string>
+    <string name="auth_uncertified_notification_content">مینوفیکچرر نے اس آلہ کی تصدیق نہیں کی ہے</string>
+    <string name="auth_uncertified_notification_description">"‏اس آلہ کا مینوفیکچرر اس آلہ کی Google سے تصدیق کروائے بغیر Google ایپس استعمال کر رہا ہے۔
+
+غیر تصدیق یافتہ آلات غیر محفوظ ہو سکتے ہیں اور ہو سکتا ہے کہ سسٹم یا ایپ اپ ڈیٹس موصول نہ کریں۔ ہو سکتا ہے کہ ایپس اور خصوصیات، جیسے کہ فائلز یا تصاویر بیک اپ کرنا درست طور پر کام نہ کریں۔
+
+ اس مسئلے کو ٹھیک کرنے کیلئے اپنے آلہ کے مینوفیکچرر سے رابطہ کریں۔ 
+
+Google کے تصدیق شدہ پارٹنرز کے بارے میں مزید معلومات کیلئے آپ %s ملاحظہ کر سکتے ہیں۔"</string>
+    <string name="auth_uncertified_notification_learn_more">مزید جانیں</string>
+    <string name="auth_uncertified_notification_title">انتباہ: غیر تصدیق شدہ آلہ</string>
+    <string name="auth_username">ای میل</string>
+    <string name="auth_work_authenticator_label">نظم کردہ اکاؤنٹ</string>
+    <string name="authorization_dialog">اجازت دہندگی کا ڈائیلاگ</string>
+    <string name="auto_restore_summary">کسی ایپ کو دوبارہ انسٹال کرتے وقت بیک اپ کردہ ترتیبات اور ڈیٹا کو بحال کریں</string>
+    <string name="auto_restore_title">خود کار بحالی</string>
+    <string name="autofill_dataset_password">پاس ورڈ استعمال کریں برائے: <b>^1</b></string>
+    <string name="autofill_datatype_address">پتے</string>
+    <string name="autofill_datatype_password">محفوظ کردہ پاس ورڈز</string>
+    <string name="autofill_datatype_payment">کریڈٹ کارڈز</string>
+    <string name="autofill_datatype_profile">ذاتی معلومات</string>
+    <string name="autofill_label">‏Google والا آٹو فل</string>
+    <string name="autofill_optin_line1">‏<b>Google کو اسے آپ کے لیے بھرنے دینے کے لیے تھپتھپائيں</b></string>
+    <string name="autofill_optin_line2">‏Chrome آٹو فل میں پہلے سے ہی محفوظ معلومات کے ساتھ</string>
+    <string name="autofill_setup_points">"‏• آٹو فل کے لائق اشیاء کی تعیین کیلئے Google آپ کی اسکرین پر جو موجود ہے اس کا استعمال کرتا ہے۔ 
+• آپ اپنے آٹو فل کی معلومات ترتیبات میں دیکھ اور نظم کر سکتے ہیں۔"</string>
+    <string name="autofill_setup_summary">ایک بار تھپتھپا کر، آپ کے اکاؤنٹ میں محفوظ پاس ورڈز، پتے، کریڈٹ کارڈز اور دیگر معلومات بھریں۔</string>
+    <string name="autofill_setup_summary_single_account">ایک بار تھپتھپا کر، آپ کے اکاؤنٹ میں محفوظ پاس ورڈز، پتے، کریڈٹ کارڈز اور دیگر معلومات بھریں (<b>^1</b>)۔</string>
+    <string name="backup_configure_account_default_summary">فی الحال کوئی بھی اکاؤنٹ بیک اپ لیا گیا ڈیٹا اسٹور نہیں کر رہا ہے</string>
+    <string name="backup_configure_account_title">اکاؤنٹ کا بیک اپ لیں</string>
+    <string name="backup_data_summary">‏Google Drive پر ایپ کے ڈیٹا، Wi-Fi پاسورڈز اور دیگر ترتیبات کا بیک اپ لیں</string>
+    <string name="backup_data_summary_full">"‏خودکار طریقے سے دور سے آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لیں۔
+
+جب آپ خودکار بیک اپ آن کرتے ہیں تو آلہ اور ایپ کا ڈیٹا وقفہ وقفہ پر دور سے محفوظ کیا جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔"</string>
+    <string name="backup_data_title">‏Google Drive پر بیک اپ لیں</string>
+    <string name="backup_erase_dialog_message">‏اپنے Wi‑Fi پاسورڈز، بُک مارکس، دوسری ترتیبات اور ایپ کے ڈیٹا کا بیک اپ لینا بند کریں، نیز Google Drive پر موجود سبھی کاپیاں حذف کریں؟</string>
+    <string name="backup_erase_dialog_message_full">‏آلہ کے ڈیٹا (جیسے کہ Wi-Fi پاسورڈز اور کال کی سرگزشت) اور ایپ ڈیٹا (جیسے کہ ایپس کی جانب سے اسٹور کردہ ترتیبات اور فائلز) کا بیک اپ لینا بند کریں، نیز Google Drive پر موجود سبھی کاپیاں مٹائیں؟</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">تصاویر کی ترتیبات کھولنے میں ایک خرابی تھی</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"‏جب آپ خود کار بیک اپ آن کرتے ہیں تو:
+
+ ● آلہ کی ترتیبات اور ایپ کا ڈیٹا وقفہ وقفہ سے آپ کے Google Drive کے ایک نجی فولڈر میں محفوظ ہو جاتا ہے۔ ممکنہ طور پر حساس ڈیٹا مثلاً رابطے، پیغامات اور تصاویر سمیت، ایپ ڈیٹا کوئی بھی ایسا ڈیٹا ہو سکتا ہے جسے کسی ایپ نے (ڈیولپر ترتیبات کی بنیاد پر) محفوظ کیا ہو۔
+
+بڑی فائلیں، یا ایسی فائلیں جنہیں ڈیولپرز نے سروس میں شامل نہ کرنے کا انتخاب کیا ہے ان کا بیک اپ نہیں لیا جائے گا۔
+
+ ● اس آلہ کی تصاویر اور ویڈیو ریکارڈنگز کو کسی بھی آلہ سے تلاش، ترمیم، حذف اور اشتراک کرنے کیلئے Google تصاویر لائبریری سے مطابقت پذیر کر دیا جاتا ہے۔
+
+ فل ریزولیوشن تصاور اور ویڈیوز بذریعہ ڈیفالٹ اپ لوڈ ہوتی ہیں۔ ان کا شمار آپ کے کوٹا میں نہیں ہوتا۔
+
+ ● رابطے اور اس آلہ سے وابستہ ڈیٹا Google رابطوں سے مطابقت پذیر ہوتا ہے۔ آپ اپنے کسی بھی آلہ سے رابطوں کو ترمیم، حذف، تلاش  اور اشتراک کرنے کیلئے Google رابطہ ایپ استعمال کر سکتے ہیں۔
+
+ ● کیلنڈر کے اندراجات اور اس آلہ کا ڈیٹا Google کیلنڈر سے مطابقت پذیر ہوتا ہے۔ آپ اپنے کسی بھی آلہ سے رابطوں کو ترمیم، حذف، تلاش  اور اشتراک کرنے کیلئے Google کیلنڈر ایپ استعمال کر سکتے ہیں۔
+
+"</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"‏جب آپ خود کار بیک اپ آن کرتے ہیں، تو:
+
+ ● آلے کی ترتیبات اور ایپ ڈیٹا وقفے وقفے سے آپ کے Google Drive کے ایک نجی فولڈر میں محفوظ ہوتا ہے۔ ایپ ڈیٹا کسی ایپ کے ذریعے (ڈیولپر کی ترتیبات کی بنیاد پر) محفوظ کردہ کوئی بھی ڈیٹا ہو سکتا ہے، جس میں رابطے، پیغامات اور تصاویر جیسے حساس ڈیٹا بھی شامل ہو سکتے ہیں۔
+
+ بڑی فائلوں یا ایسی فائلوں کا بیک اپ نہیں لیا جائے گا جنہیں ڈیولپرز نے سروس سے خارج کرنے کیلئے منتخب کیا ہے۔
+
+ ● اس آلے سے وابستہ رابطے اور ڈیٹا کی Google رابطے پر مطابقت پذیری کی جاتی ہے۔ آپ اپنے آلات میں سے کسی سے بھی رابطے تلاش، ترمیم، حذف اور اشتراک کرنے کیلئے Google رابطے ایپ کا استعمال کر سکتے ہیں۔
+
+ ● اس آلے سے وابستہ ڈیٹا اور کیلنڈر کے اندراجات کی Google کیلنڈر پر مطابقت پذیری کی جاتی ہے۔ آپ اپنے آلات میں سے کسی سے بھی آلات کے رابطے تلاش، ترمیم، حذف اور اشتراک کرنے کیلئے Google کیلنڈر ایپ کا استعمال کر سکتے ہیں۔
+
+ بیک اپ ڈیٹا کا شمار آپ کے Drive اسٹوریج کوٹا میں نہیں کیا جائے گا۔"</string>
+    <string name="backup_opt_in_backup_description_extra">‏کیلنڈر، رابطے اور تصاویر اور ویڈیوز آپ کے Google اکاؤنٹ پر مطابقت پذیر ہو جاتی ہیں اور شاید تمام سروسز کیلئے استعمال ہوں۔</string>
+    <string name="backup_opt_in_backup_description_v2">خودکار بیک اپ آپ کا کسی بھی وقت آسانی سے فونز بحال یا سوئچ کرنا یقینی بناتا ہے۔ <annotation id="backup_opt_in_learn_more">مزید جانیں</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"‏اس سے بیک اپ ان سب کیلئے آف ہو جائے گا:
+
+ایپس اور ایپ ڈیٹا
+کال کی سرگزشت
+آلہ کی ترتیبات
+تصاویراور ویڈیوز
+SMS
+
+‎کیلنڈر اور رابطے آپ کے Google اکاؤنٹ پر مطابقت پذیر ہوتے رہیں گے۔ جب سیٹ اپ مکمل ہو جائے گا تو آپ "<annotation id="backup_opt_in_settings_instructions">ترتیبات > اکاؤنٹس > Google</annotation>‎ پر جا کر مطابقت پذیری کی ترتیبات تبدیل کر سکتے ہیں۔</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">بیک اپ آف کریں؟</string>
+    <string name="backup_opt_in_backup_list">"‏ایپس اور ایپ ڈیٹا
+کیلنڈر
+کال کی سرگزشت
+رابطے
+آلہ کی ترتیبات (بشمول Wi-Fi پاسورڈز)
+تصاویر اور ویڈیوز
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">بیک اپ میں یہ شامل ہے:</string>
+    <string name="backup_opt_in_backup_title">‏Google Drive پر بیک اپ لیں</string>
+    <string name="backup_opt_in_disable_backup">بیک اپ آف کریں</string>
+    <string name="backup_photos_update">‏براہ کرم Google تصاویر اپ ڈیٹ کریں</string>
+    <string name="backup_settings_activity_backup_title">بیک اپ لیں</string>
+    <string name="backup_settings_activity_title">بیک اپ اور ری سیٹ</string>
+    <string name="byteShort">B</string>
+    <string name="cancel_copy_button_text">کاپی نہ کریں</string>
+    <string name="chrome_privacy_title">‏Chrome رازداری کا نوٹس</string>
+    <string name="chrome_tos_title">‏Chrome سروس کی شرائط</string>
+    <string name="chromesync_custom_passphrase_explanation">%1$s کیلئے آپ کے موجودہ پاسورڈز آپ کے پاس فریز کے ساتھ مرموز تھے۔ اگر آپ اپنا پاس فریز بھول گئے ہیں تو رک جائیں اور &lt;a href=%2$s>Google Dashboard&lt;/a> کے ذریعے مطابقت پذیری ری سیٹ کریں۔</string>
+    <string name="chromesync_custom_passphrase_title">‏Chrome مطابقت پذیری پاس فریز</string>
+    <string name="chromesync_enter_passphrase_hint">پاس فریز داخل کریں</string>
+    <string name="chromesync_entered_wrong_passphrase">غلط پاس فریز</string>
+    <string name="chromesync_no_browser_found">اس لنک کو کھولنے کیلئے کوئی براؤزر نہیں ملا</string>
+    <string name="close_button_label">بند کریں</string>
+    <string name="cloud_restore_app_picker_button">بحال کریں</string>
+    <string name="cloud_restore_app_picker_description_no_apps">آپ کے بیک اپ میں کوئی ایپ نہیں ہے</string>
+    <string name="cloud_restore_app_picker_title">بحال کرنے کیلئے ایپس منتخب کریں</string>
+    <string name="common_accept">قبول کریں</string>
+    <string name="common_account_chip_add_account_button_label">کوئی دوسرا اکاؤنٹ استعمال کریں</string>
+    <string name="common_add_account_button_label">اکاؤنٹ شامل کریں</string>
+    <string name="common_add_account_label">ایک اکاؤنٹ شامل کریں</string>
+    <string name="common_ads_settings_title">اشتہارات</string>
+    <string name="common_agree">متفق</string>
+    <string name="common_app_name">‏Google Play سروسز</string>
+    <string name="common_asm_preferences_settings_title">اکاؤنٹ کی ترجیحات</string>
+    <string name="common_asm_privacy_settings_title">ذاتی معلومات اور رازداری</string>
+    <string name="common_asm_security_settings_title">سائن ان اور سیکیورٹی</string>
+    <string name="common_audience_edit_button_label">ترمیم کریں</string>
+    <string name="common_cancel">منسوخ کریں</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏Hangouts شروع نہیں ہو سکتا ہے (اجازت کی خرابی)۔</string>
+    <string name="common_car_permission_desc">کار سروس تک رسائی حاصل کریں۔</string>
+    <string name="common_car_permission_label">کار سروس</string>
+    <string name="common_chips_label_empty_circles">کوئی حلقے نہیں ہیں</string>
+    <string name="common_chips_label_extended_circles">توسیعی حلقے</string>
+    <string name="common_chips_label_only_you">صرف آپ</string>
+    <string name="common_chips_label_public">عوامی</string>
+    <string name="common_chips_label_your_circles">آپ کے حلقے</string>
+    <string name="common_choose_account">ایک اکاؤنٹ منتخب کریں</string>
+    <string name="common_choose_account_for_app_label">%1$s کیلئے اکاؤنٹ منتخب کریں</string>
+    <string name="common_choose_account_label">ایک اکاؤنٹ منتخب کریں</string>
+    <string name="common_clear_app_data_menu_item">ایپ کا ڈیٹا صاف کریں</string>
+    <string name="common_connected">منسلک ہے</string>
+    <string name="common_connected_apps_settings_title">منسلکہ ایپس</string>
+    <string name="common_connecting">منسلک ہو رہا ہے…</string>
+    <string name="common_continue">جاری رکھیں</string>
+    <string name="common_disagree">غیر متفق</string>
+    <string name="common_disconnect">غیر منسلک کریں</string>
+    <string name="common_done">ہو گیا</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">منجانب:</string>
+    <string name="common_games_settings_title">‏Play گیمز</string>
+    <string name="common_get_started">شروع کریں</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏جب تک آپ Google Play سروسز فعال نہیں کر لیتے، %1$s کام نہیں کرے گی۔</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_error_dialog_title">خرابی</string>
+    <string name="common_google_play_services_install_button">انسٹال کریں</string>
+    <string name="common_google_play_services_install_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے آلہ سے غائب ہیں۔</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_unknown_issue">‏%1$s کو Google Play سروسز کے ساتھ مسئلہ پیش آ رہا ہے۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="common_google_play_services_unsupported_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جن کی آپ کا آلہ معاونت نہیں کرتا۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏جب تک آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں %1$s تب تک نہیں چلے گی۔</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_updating_text">‏%1$s Google Play سروسز کے بغیر نہیں چلے گی، جو فی الحال اپ ڈیٹ ہو رہی ہیں۔</string>
+    <string name="common_google_play_services_updating_title">‏Google Play سروسز اپ ڈیٹ ہو رہی ہیں</string>
+    <string name="common_google_play_services_wear_update_text">‏Google Play سروسز کے نئے ورژن کی ضرورت ہے۔ یہ تھوڑی دیر میں خود ہی اپنے آپ کو اپ ڈیٹ کر لے گا۔</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">‏Google Play سروسز غلط آرکیٹیکچر کے ساتھ انسٹال ہوگئیں۔</string>
+    <string name="common_google_play_services_wrong_architecture_text">‏Google Play سروسز کو ایک ایسے آرکیٹیکچر (%1$s) کے ساتھ انسٹال کیا گیا ہے جو آپ کے آلہ کے آرکیٹیکچر (%2$s) سے مختلف ہے۔</string>
+    <string name="common_google_play_services_wrong_architecture_title">غلط آرکیٹیکچر</string>
+    <string name="common_google_settings">‏Google‎ کی ترتیبات</string>
+    <string name="common_google_settings_account">اکاؤنٹ</string>
+    <string name="common_google_settings_credentials_title">‏پاس ورڈز کیلئے Smart Lock</string>
+    <string name="common_google_settings_developer">ڈیولپر</string>
+    <string name="common_google_settings_services">سروسز</string>
+    <string name="common_got_it">سمجھ آ گئی</string>
+    <string name="common_install">انسٹال کریں</string>
+    <string name="common_learn_more">مزید جانیں</string>
+    <string name="common_list_apps_menu_help">مدد</string>
+    <string name="common_list_apps_menu_help_and_feedback">مدد اور تاثرات</string>
+    <string name="common_loading">لوڈ ہو رہا ہے…</string>
+    <string name="common_location_settings_title">مقام</string>
+    <string name="common_magictether_settings_title">فوری ٹیتھرنگ</string>
+    <string name="common_maps_settings_title">‏Maps اور عرض البلد</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_missing_url_viewer">‏ایک بیرونی url کو دکھانے کیلئے ناظر موجود نہیں ہے۔</string>
+    <string name="common_more_options">مزید اختیارات</string>
+    <string name="common_networking_settings_title">نیٹ ورکنگ</string>
+    <string name="common_no_browser_for_restricted_url">محدود رسائی. کوئی براؤزر نہیں ملا۔</string>
+    <string name="common_no_devices_found">کوئی آلات نہیں ملے</string>
+    <string name="common_no_network">آلہ آف لائن ہونے کی وجہ سے غیر دستیاب ہے</string>
+    <string name="common_no_thanks">نہیں، شکریہ</string>
+    <string name="common_not_now">ابھی نہیں</string>
+    <string name="common_off">آف</string>
+    <string name="common_ok">ٹھیک ہے</string>
+    <string name="common_on">آن</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="common_open_source_licenses">اوپن سورس لائسنسز</string>
+    <string name="common_people_settings_title">رابطے</string>
+    <string name="common_permissions_enable_in_settings">ترتیبات میں فعال کریں</string>
+    <string name="common_permissions_missing_end">جاری رکھنے کیلئے ترتیبات، پھر اجازتوں کو کھولیں اور تمام مندرج آئٹمز کی اجازت دیں۔</string>
+    <string name="common_permissions_missing_end_wearable">"‏
+
+%1$s
+فعال کرنے کیلئے
+ترتیبات >
+اجازتیں >
+Google Play سروسز پر جائیں"</string>
+    <string name="common_permissions_missing_start">‏یہ ایپ تب تک ٹھیک طرح سے کام نہیں کرے گی جب تک کہ آپ Google Play سروسز کو مندرجہ ذیل تک رسائی کی درخواست کرنے کی اجازت نہیں دیتے:</string>
+    <string name="common_permissions_open_settings">ترتیبات کھولیں</string>
+    <string name="common_phone">فون</string>
+    <string name="common_plus_settings_title">+Google</string>
+    <string name="common_privacy_policy">رازداری کی پالیسی</string>
+    <string name="common_restore">بحال کریں</string>
+    <string name="common_restricted_no_accounts">منتخب کرنے کیلئے کوئی اکاؤنٹس نہیں ہیں</string>
+    <string name="common_retry">دوبارہ کوشش کریں</string>
+    <string name="common_search_settings_title">تلاش</string>
+    <string name="common_security_ootp_setting_title">سیکیورٹی کوڈ</string>
+    <string name="common_security_settings_title">سیکیورٹی</string>
+    <string name="common_send">بھیجیں</string>
+    <string name="common_sending">بھیجا جا رہا ہے…</string>
+    <string name="common_set_up_nearby_device_settings_title">قریبی آلہ ترتیب دیں</string>
+    <string name="common_settings">ترتیبات</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="common_something_went_wrong">کچھ غلط ہو گیا ہے</string>
+    <string name="common_system_info">سسٹم کی معلومات</string>
+    <string name="common_take_photo_label">تصویر لیں</string>
+    <string name="common_terms_of_service">سروس کی شرائط</string>
+    <string name="common_try_again">دوبارہ کوشش کریں</string>
+    <string name="common_turn_on_bluetooth">بلوٹوتھ آن کریں</string>
+    <string name="common_ui_confirm_deleting_button">حذف کریں</string>
+    <string name="common_ui_confirm_deleting_checkbox">میں سمجھتا ہوں اور حذف کرنا چاہتا ہوں</string>
+    <string name="common_unknown">نامعلوم</string>
+    <string name="common_update">اپ ڈیٹ کریں</string>
+    <string name="common_url_load_unsuccessful_message">‏آپ کا Android آلہ کسی ڈیٹا سروس سے مربوط نہیں ہے۔ یہ معلومات ابھی دیکھنے کیلئے، ایک ویب براؤزر سے %s ملاحظہ کریں۔</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏آپ کا Android آلہ کسی Wi-Fi نیٹ ورک سے منسلک نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے، کسی ویب براؤزر کے ذریعے %s ملاحظہ کریں۔</string>
+    <string name="common_url_login_notice">%1$s کے بطور سائن ان کریں</string>
+    <string name="common_usage_and_diagnostics">استعمال اور تشخیصات</string>
+    <string name="common_yesterday">گزشتہ کل</string>
+    <string name="confirm_copy_button_text">کاپی کریں</string>
+    <string name="contacts_number_device_and_icloud">‏%1$d iCloud®، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_and_icloud_with_google">‏Google رابطے، %1$d iCloud®، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_and_sim_with_google">‏Google رابطے، %1$d SIM، %2$d‎ آلہ</string>
+    <string name="contacts_number_device_with_google">‏Google رابطے، %1$d آلہ</string>
+    <string name="contacts_number_icloud_with_google">‏Google رابطے، %1$d ®iCloud</string>
+    <string name="contacts_number_sim_with_google">‏Google رابطے، %1$d SIM</string>
+    <string name="continue_to_login_heading">براہ کرم لاگ ان کریں۔</string>
+    <string name="continue_to_login_text">اسناد عطا ہو گ‏ئیں۔ اپنے پہلے آلہ پر لاگ ان کرنے کیلئے آگے بڑھیں۔</string>
+    <string name="copy_confirmation_description">‏آپ کا ڈیٹا جیسے کہ آپ کا Google اکاؤنٹ اور ایپس آپ کے نئے فون پر کاپی ہو جائے گا۔</string>
+    <string name="copy_confirmation_title">آپ کے نئے فون پر کاپی کریں؟</string>
+    <string name="d2d_app_picker_description_no_apps">ہمیں کوئی ایپ نہیں ملی</string>
+    <string name="d2d_app_picker_title">ایپس</string>
+    <string name="d2d_migration_canceled_on_source">کاپی کرنا منسوخ ہو گیا</string>
+    <string name="data_copied_fragment_description">آپ کا ڈیٹا آپ کے نئے فون پر کاپی ہو گیا ہے۔ آپ کیبل کو ان پلگ کر سکتے ہیں۔</string>
+    <string name="data_copied_fragment_description_cancel">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر صرف کچھ ہی ڈیٹا کاپی ہوا ہے۔</string>
+    <string name="data_copied_fragment_description_cancel_no_data">آپ نے کاپی کرنے کو روکنے کا انتخاب کیا ہے لہذا اپ کے نئے فون پر کچھ بھی کاپی نہیں ہوا۔</string>
+    <string name="data_copied_fragment_description_error">کچھ غلط ہو گیا ہے لہذا ہم سب کچھ کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_description_error_no_data">کچھ غلط ہو گیا، لہذا ہم آپ کا ڈیٹا کاپی نہیں کر سکے۔</string>
+    <string name="data_copied_fragment_no_data_title">کاپی نہیں ہو سکا</string>
+    <string name="data_copied_fragment_some_data_title">کچھ ڈیٹا کاپی ہوا</string>
+    <string name="data_copied_fragment_title">ڈیٹا کاپی ہو گیا</string>
+    <string name="device_backup_title">آلہ کا بیک اپ</string>
+    <string name="device_not_supported_fragment_new_device">آپ ایک نئے فون سے منسلک ہیں۔ جاری رکھنے کیلئے، اپنے گزشتہ فون سے دوبارہ منسلک کریں۔</string>
+    <string name="device_not_supported_fragment_new_device_title">گزشتہ فون پر دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_no_data_cable">یہ کیبل ڈیٹا منتقل نہیں کر سکتی۔ ایک مختلف کیبل استعمال کر کے دوبارہ منسلک کریں اور دوبارہ کوشش کریں۔</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">دوسری کیبل آزمائیں</string>
+    <string name="device_not_supported_fragment_retry_description">یقینی بنائیں کہ آپ کا پرانا فون غیر مقفل ہے، پھر کیبل کو غیر منسلک کرکے دوبارہ منسلک کریں</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">کچھ غلط ہو گیا ہے</string>
+    <string name="device_not_supported_ios_supervised_description">‏کیونکہ آپ کے iPhone®‎ آلہ کو سپروائز کیا جا رہا ہے، اس لئے آپ کو ڈیٹا کاپی کرنے کیلئے کوئی اور طریقہ ڈھونڈنا ہوگا</string>
+    <string name="device_picker_description">‏بیک اپس کو Google Drive میں محفوظ کیا جاتا ہے</string>
+    <string name="device_picker_empty">کسی بیک اپس کا %1$s سے لنک نہیں کیا گيا۔</string>
+    <string name="device_picker_empty_title">کوئی بیک اپ نہیں ملا</string>
+    <string name="device_picker_item">%1$s بیک اپ</string>
+    <string name="device_picker_last_used">آخری بار استعمال ^1</string>
+    <string name="device_picker_skip">بحال نہ کریں</string>
+    <string name="device_picker_title">بحال کرنے کیلئے بیک اپ منتخب کریں</string>
+    <string name="disabled_by_admin_summary_text">کنٹرول کردہ بذریعہ منتظم</string>
+    <string name="download_msg_error_invalid">ڈاؤن لوڈ غلط طریقے سے کنفیگر کیا گیا تھا۔</string>
+    <string name="download_msg_in_progress">ڈاؤن لوڈ جاری ہے۔</string>
+    <string name="download_msg_not_allowed_space">ڈاؤن لوڈ کرنے کیلئے کافی جگہ نہیں ہے۔</string>
+    <string name="download_msg_pending">ڈاؤن لوڈ زیر التوا ہے</string>
+    <string name="download_notification_description">%1$s نے اس کی درخواست کی ہے۔</string>
+    <string name="download_notification_title">مزید ڈیٹا کی بازیافت ہو رہی ہے</string>
+    <string name="drive_backup_account">بیک اپ اکاؤنٹ</string>
+    <string name="drive_backup_apps_in_backup">بیک اپ کردہ ایپ ڈیٹا</string>
+    <string name="drive_backup_apps_last_backup">آخری بیک اپ</string>
+    <string name="drive_backup_apps_loading">لوڈ ہو رہا ہے…</string>
+    <string name="drive_backup_apps_screen_title">ایپ ڈیٹا</string>
+    <string name="drive_backup_content_apps_title">ایپ ڈیٹا</string>
+    <string name="drive_backup_content_calendar_dialog_message">‏Google کیلنڈر میں بنائے گئے ایونٹس کو ان تمام آلات پر مطابقت پذیر بنایا جائے گا جو آپ کے Google اکاؤنٹ میں سائن ان ہیں۔</string>
+    <string name="drive_backup_content_calendar_title">‏Google کیلنڈر</string>
+    <string name="drive_backup_content_callhistory_dialog_message">بیک اپ میں کی گئی اور موصولہ کالز کی تاریخ اور وصول کنندہ شامل ہوتا ہے۔</string>
+    <string name="drive_backup_content_callhistory_title">کال کی سرگزشت</string>
+    <string name="drive_backup_content_contacts_dialog_message">"‏'Google رابطے' میں بنائے گئے رابطوں کو ان تمام اکاؤنٹس پر مطابقت پذیر بنایا جائے گا جو آپ کے Google اکاؤنٹ پر سائن ان ہیں۔"</string>
+    <string name="drive_backup_content_contacts_title">‏Google رابطے</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">‏بیک اپ میں آلہ کی کنفیگریشن شامل ہے، جیسے وال پیپر، WiFi پاسورڈز اور ڈیفالٹ ایپس۔</string>
+    <string name="drive_backup_content_devicesettings_title">آلہ کی ترتیبات</string>
+    <string name="drive_backup_content_header">مواد</string>
+    <string name="drive_backup_content_photos_dialog_no">برخاست کریں</string>
+    <string name="drive_backup_content_photos_dialog_title">تصاویر اور ویڈیوز کے اکاؤنٹ کو بھی تبدیل کریں؟</string>
+    <string name="drive_backup_content_photos_dialog_yes">تبدیل کریں</string>
+    <string name="drive_backup_content_photos_title">تصاویر اور ویڈیوز</string>
+    <string name="drive_backup_content_sms_dialog_message">‏بیک اپ میں بھیجے گئے اور موصولہ پیغامات شامل ہوتے ہیں۔ اس میں MMS میڈیا شامل نہیں ہے۔</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">سمجھ آ گئی</string>
+    <string name="drive_backup_content_status_error">آخری مطابقت پذیری کی تاریخ حاصل کرنے میں خرابی</string>
+    <string name="drive_backup_content_status_lastsaved">‏آخری بیک اپ: ‎%1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">‏آخری مطابقت پذیری: ‎%1$tb %1$td، %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">بیک اپ کا انتظار ہے</string>
+    <string name="drive_backup_content_status_sync_adapter_action">مطابقت پذیری کی ترتیبات</string>
+    <string name="drive_backup_content_status_sync_off">مطابقت پذیری آف ہے</string>
+    <string name="drive_backup_content_status_updating">اسٹیٹس کو چیک کیا جا رہا ہے…</string>
+    <string name="drive_backup_disabled_backuplist">"‏بیک اپ میں شامل ہے:
+\u0009- ایپس اور ایپس ڈیٹا
+\u0009- کال کی سرگزشت
+\u0009- آلہ کی ترتیبات (بشمول Wi-Fi پاسورڈز)
+\u0009- Google کیلنڈر
+\u0009\u0009- Google رابطے
+\u0009- تصاویر اور ویڈیوز
+\u0009\u0009- SMS"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"‏بیک اپ میں شامل ہیں:
+ - ایپس اور ایپس ڈیٹا
+ - کال کی سرگزشت
+ - آلے کی ترتیبات (بشمول Wi-Fi پاس ورڈز)
+ - Google کیلنڈر
+ - Google رابطے
+ - SMS"</string>
+    <string name="drive_backup_disabled_by_device_owner">آپ کے منتظم کی طرف سے غیر فعال کر دیا گیا</string>
+    <string name="drive_backup_disabled_detailedinfo">"‏Google کیلنڈر، Google رابطے، تصاویر اور ویڈیوز آپ کے Google اکاؤنٹ کے ساتھ مطابقت پذیر ہیں اور ان کا استعمال سروسز پر کیا جا سکتا ہے۔
+
+بیک اپ کے آف ہوتے ہوئے بھی مطابقت پذیری فعال ہو سکتی ہے۔ مطابقت پذیری کی ترتیبات کو ترتیبات > اکاؤنٹس >Google میں تبدیل کیا جا سکتا ہے۔"</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"‏Google کیلنڈر اور Google رابطے آپ کے Google اکاؤنٹ پر مطابقت پذیر ہو جاتے ہیں اور انہیں تمام آلات کیلئے استعمال کیا جا سکتا ہے۔
+
+بیک اپ آف ہونے کے باوجود مطابقت پذیری فعال ہو سکتی ہے۔ مطابقت پذیری کی ترتیبات کو ترتیبات > اکاؤنٹس > Google میں تبدیل کیا جا سکتا ہے۔"</string>
+    <string name="drive_backup_disabled_introduction">خودکار بیک اپ یقینی بناتا ہے کہ آپ کسی بھی وقت آسانی سے فونز کو دوبارہ بحال یا سوئچ کر سکتے ہیں۔</string>
+    <string name="drive_backup_settings_title">بیک اپ</string>
+    <string name="drive_backup_state">‏Google Drive پر بیک اپ لیں</string>
+    <string name="drive_backup_state_dialog_message">"‏Google Drive میں موجود اس آلہ کے بیک اپ ڈیٹا کو مستقل طور پر حذف کر دیا جائے گا۔
+
+پہلے سے بیک اپ کردہ تصاویر اور ویڈیوز اب بھی Google Drive میں دستیاب ہوں گی۔
+
+Google کیلنڈر اور Google رابطے آپ کے Google اکاؤنٹ پر مطابقت پذیر ہوتے رہیں گے۔ مطاقبت پذیری کی ترتیبات کو ترتیبات > اکاؤنٹس > Google میں تبدیل کیا جا سکتا ہے۔"</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"‏Google Drive میں موجود اس آلے کا بیک اپ ڈیٹا مستقل طور پر حذف کر دیا جائے گا۔
+
+Google کیلنڈر اور Google رابطے آپ کے Google اکاؤنٹ پر مطابقت پذیر ہوتے رہیں گے۔ مطابقت پذیری کی ترتیبات کو ترتیبات > اکاؤنٹس > Google میں تبدیل کیا جا سکتا ہے۔"</string>
+    <string name="drive_backup_state_dialog_okaction">آف کریں اور حذف کریں</string>
+    <string name="drive_backup_state_dialog_title">بیک اپ کو آف اور حذف کریں؟</string>
+    <string name="durationDayHour">%1$d دن %2$d گھنٹہ</string>
+    <string name="durationDayHours">%1$d دن %2$d گھنٹے</string>
+    <string name="durationDays">%1$d دن</string>
+    <string name="durationHourMinute">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHourMinutes">%1$d گھنٹہ %2$d منٹ</string>
+    <string name="durationHours">%1$d گھنٹے</string>
+    <string name="durationMinute">%1$d منٹ</string>
+    <string name="durationMinuteSecond">%1$d منٹ %2$d سیکنڈ</string>
+    <string name="durationMinuteSeconds">%1$d منٹ %2$d سیکنڈ</string>
+    <string name="durationMinutes">%1$d منٹ</string>
+    <string name="durationSecond">%1$d سیکنڈ</string>
+    <string name="durationSeconds">%1$d سیکنڈ</string>
+    <string name="encryption_warning_fragment_description">"‏بیک اپ مرموز کاری آپ کے ®iPhone آلے کیلئے آن ہے۔ اگر آپ نے اسے خود سے آن نہیں کیا ہے تو ممکن ہے کہ اسے آپ کے IT ایڈمن نے آن کیا ہو۔
+
+صرف تصاویر، موسیقی اور ویڈیوز کاپی کی جا سکتی ہیں۔ مزید معلومات کیلئے، "<b>g.co/datatransferhelp</b>‎ ملاحظہ کریں۔</string>
+    <string name="encryption_warning_fragment_title">بیک اپ مرموز کاری</string>
+    <string name="fido_begin_button">شروع کریں</string>
+    <string name="fido_ble_device_icon_content_description">بلوٹوتھ آلہ دریافت کیا</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">یقینی بنانے کیلئے کہ یہ جوڑا بنانے کے موڈ میں ہے اپنی کلید پر موجود بٹن کو دبائیں اور کم از کم 5 سیکنڈ تک پکڑے رکھیں</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">ٹھیک ہے</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">کچھ غلط ہو گیا ہے</string>
+    <string name="fido_ble_dont_see_your_key_hint">اپنی کلید نظر نہیں آ رہی؟</string>
+    <string name="fido_ble_enable_body">آپ کی سیکیورٹی کلید صرف تب کام کرتی ہے جب آپ کے آلہ کا بلوٹوتھ آن ہو</string>
+    <string name="fido_ble_enable_title">بلوٹوتھ آن کریں</string>
+    <string name="fido_ble_enable_turn_on_button">آن کریں</string>
+    <string name="fido_ble_instructions_body">زیادہ تر کلیدیں استعمال کرنے کیلئے بس بٹن تھپتھپائیں</string>
+    <string name="fido_ble_instructions_title">اپنی سیکیورٹی کلید کے استعمال کی اجازت دیں؟</string>
+    <string name="fido_ble_locate_pin_body">‏جوڑا بنانے والی PIN عام طور پر 4 یا 6 عددی نمبر ہوتی ہے اور شاید آپ کی کلید کی پشت پر ہو۔ جب آپ PIN درج کرنے کیلئے تیار ہوں تو جاری رکھیں۔</string>
+    <string name="fido_ble_locate_pin_continue_button">جاری رکھیں</string>
+    <string name="fido_ble_locate_pin_title">‏اپنی کلید ‎%1$s کیلئے بلوٹوتھ کی جوڑا بنانے والی PIN تلاش کریں</string>
+    <string name="fido_ble_pair_device_pairing">آپ کی سیکیورٹی کلید کا جوڑا بنایا جا رہا ہے…</string>
+    <string name="fido_ble_pair_instructions_body">اپنی کلید کو اس آلہ کے ساتھ جوڑا بنائیں تاکہ آپ اسے اپنے اکاؤنٹ کے ساتھ استعمال کر سکیں</string>
+    <string name="fido_ble_pair_instructions_title">اپنی سیکیورٹی کلید کا جوڑا بنانے کیلئے تیار ہیں؟</string>
+    <string name="fido_ble_pairing_failure_dialog_message">اپنی کلید کو جوڑا بنانے کے موڈ میں واپس لے جائیں</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">دوبارہ کوشش کریں</string>
+    <string name="fido_ble_pairing_failure_dialog_title">کچھ غلط ہو گیا ہے</string>
+    <string name="fido_ble_pairing_mode_body">اپنی سیکیورٹی کلید پر موجود بٹن دبائیں اور کم از کم 5 سیکنڈ تک پکڑے رکھیں</string>
+    <string name="fido_ble_pairing_mode_title">جوڑا بنانے کے موڈ میں جائیں</string>
+    <string name="fido_ble_select_device_body">مندرجہ ذیل فہرست سے وہ سیکیورٹی کلید منتخب کریں جس کا جوڑا آپ اپنے آلہ کے ساتھ بنانا چاہتے ہیں۔ نام شاید کلید کی پشت پر پرنٹ ہو۔</string>
+    <string name="fido_ble_select_device_title">اپنی سیکیورٹی کلید منتخب کریں</string>
+    <string name="fido_cancel_button">منسوخ کریں</string>
+    <string name="fido_nfc_enable_body">‏آپ کی سیکیورٹی کلید صرف تب کام کرتی ہے جب آپ کے آلہ کا NFC آن ہو</string>
+    <string name="fido_nfc_enable_title">‏NFC آن کریں</string>
+    <string name="fido_nfc_enable_turn_on_button">آن کریں</string>
+    <string name="fido_nfc_instructions_body">اپنی کلید کو اپنے آلہ کی پشت پر سیدھے پکڑے رکھیں جب تک وہ ارتعاش کرنا بند نہیں کر دیتا</string>
+    <string name="fido_nfc_instructions_title">اپنی سیکیورٹی کلید کے استعمال کی اجازت دیں؟</string>
+    <string name="fido_pair_another_security_key">ایک اور سیکیورٹی کلید کا جوڑا بنائیں</string>
+    <string name="fido_processing">آپ کی سیکیورٹی کلید کی توثیق ہو رہی ہے…</string>
+    <string name="fido_transport_selection_bluetooth">سیکیورٹی کلید کو بلوٹوتھ کے ساتھ استعمال کریں</string>
+    <string name="fido_transport_selection_body">‏سیکیورٹی کلیدیں بلوٹوتھ اور NFC کے ساتھ کام کرتی ہیں۔ منتخب کریں کہ آپ اپنی کلید کو کیسے استعمال کرنا چاہتے ہیں۔</string>
+    <string name="fido_transport_selection_nfc">‏سیکیورٹی کلید کو NFC کے ساتھ استعمال کریں</string>
+    <string name="fido_transport_selection_title">منتخب کریں کہ آپ کی کلید کیسے استعمال کرنی ہے</string>
+    <string name="fido_use_ble_instead">اپنی سیکیورٹی کلید کو بلوٹوتھ کے ساتھ استعمال کریں</string>
+    <string name="fido_use_nfc_instead">‏اپنی سیکیورٹی کلید کو NFC کے ساتھ استعمال کریں</string>
+    <string name="fido_welcome_body">‏%1$s کے ساتھ سیکیورٹی کلید استعمال کرنا آپ کے نجی ڈیٹا کو محفوظ رکھنے میں مدد کرتا ہے۔</string>
+    <string name="fido_welcome_title">‏%1$s کے ساتھ سیکیورٹی کلید استعمال کریں</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">میں اڈاپٹر نہیں ڈھونڈ پا رہا</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"‏آپ کے ^1 کے ڈبے میں آنے والا Quick Switch Adapter تلاش کریں۔
+
+کیبل کو اڈاپٹر میں پلگ ان کریں"</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">اڈاپٹر اور کیبل کو منسلک کریں</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">اپنے پرانے فون کو غیر مقفل کریں، پھر اڈاپٹر کو اس فون میں پلگ ان کریں۔</string>
+    <string name="fragment_usb_connect_both_phones_title">دونوں فونز منسلک کریں</string>
+    <string name="fragment_usb_dialog_cancel_description">اگر آپ کیبل استعمال کریں گے تو آپ سب سے زیادہ مواد حاصل کر سکتے ہیں۔ اگر باکس میں موجود کیبلز فٹ نہیں ہوتیں، تو وہ چارجنگ یا ڈیٹا کیبل استعمال کرکے دیکھیں جو آپ کے پرانے فون کے ساتھ کام کرتی ہے۔</string>
+    <string name="fragment_usb_dialog_cancel_title">کسی دوسرے طریقے سے ڈیٹا کاپی کریں؟</string>
+    <string name="fragment_usb_dont_have_cable">میرے پاس کیبل نہیں ہے</string>
+    <string name="fragment_usb_dont_have_old_phone">میرے پاس میرا پرانا فون نہیں ہے</string>
+    <string name="fragment_usb_find_cable_description">ایک کیبل استعمال کریں جو آپ کے پرانے فون پر فٹ ہو جائے، جیسا کہ آپ کی ڈیٹا یا چارجنگ کیبل۔</string>
+    <string name="fragment_usb_find_cable_title">درست کیبل تلاش کریں</string>
+    <string name="fragment_usb_initial_description">اپنے پرانے فون سے اس ^1 میں ڈیٹا منتقل کریں۔</string>
+    <string name="fragment_usb_initial_title">آئیں آپ کا ڈیٹا کاپی کریں</string>
+    <string name="fragment_usb_legacy_description">"یہ زیادہ سے زیادہ ڈیٹا لانے کا تیز ترین طریقہ ہے۔
+
+باکس میں اڈاپٹر تلاش کریں اور اسے اپنے نئے فون میں پلگ ان کریں۔ فونز کو کیبل کے ذریعے منسلک کریں، پھر اپنا پرانا فون غیر مقفل کریں۔"</string>
+    <string name="fragment_usb_other_ways">کیبل کے بغیر کاپی کریں</string>
+    <string name="fragment_usb_plug_cable">کیبل کو اپنے پرانے فون میں پلگ کریں</string>
+    <string name="fragment_waiting_title">بس ایک سیکنڈ…</string>
+    <string name="gigabyteShort">GB</string>
+    <string name="google_app_permissions_title">ایپ کی اجازتیں</string>
+    <string name="google_contacts_static_text">"‏'Google رابطے' مطابقت پذیر ہو گی"</string>
+    <string name="google_contacts_static_text_off">‏Google رابطے اب بھی مطابقت پذیر ہو گی</string>
+    <string name="google_legal_title">‏Google قانونی</string>
+    <string name="google_play_tos_title">‏Google Play سروس کی شرائط</string>
+    <string name="google_plus_privacy_policy_title">‏Google Plus رازداری کی پالیسی</string>
+    <string name="google_privacy_policy_title">‏Google کی رازداری کی پالیسی</string>
+    <string name="google_terms_of_service_title">‏Google سروس کی شرائط</string>
+    <string name="header_set_backup_account">بیک اپ اکاؤنٹ سیٹ کریں</string>
+    <string name="i_message_dialog_message">"‏®iPhone آلہ کے صارفین سے SMS پیغامات حاصل کرنا جاری رکھنے کیلئے آپ کو ®iMessage کو آف کرنا ہو گا۔
+
+ہدایات کیلئے "<b>g.co/iMessageHelp</b> ملاحظہ کریں۔</string>
+    <string name="instant_apps_settings_title">فوری ایپس</string>
+    <string name="instructions_fragment_title">اپنے دوسرے فون پر جاری رکھیں</string>
+    <string name="ios_connected_fragment_description">"‏اگلی اسکرین پر آپ اپنے Google اکاؤنٹ پر سائن ان کر سکتے ہیں، یا نیا بنا سکتے ہیں۔
+
+اگر آپ اپنا Google اکاؤنٹ شامل نہیں کرتے تو آپ کے iOS کیلنڈر® کے ایونٹس مطابقت پذیر نہیں ہوں گے۔"</string>
+    <string name="ios_message_attachment_explanation">‏[آپ کے پیغام کی منسلکات Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں ہیں]</string>
+    <string name="ios_message_attachment_failed_explanation">‏[کچھ منسلکات کاپی نہیں ہو سکیں۔ جو منسلکات منتقل ہوئی ہیں وہ Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں دیکھی جا سکتی ہیں]</string>
+    <string name="ios_message_attachment_placeholder">‏[منسلکہ Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_message_attachments_placeholder">‏[منسلکات Google تصاویر > آلہ فولڈرز > پیغام منسلکات میں محفوظ ہو گئی]</string>
+    <string name="ios_migration_default_calendar_title">کیلنڈر</string>
+    <string name="ios_migration_other_contact_relation">دیگر</string>
+    <string name="ios_photos_dialog_message">"‏®iCloud میں اسٹور کردہ تصاویر کو کاپی نہیں کیا جا سکتا۔
+
+ان تصاویر کو اپنے ^1 پر لانے کیلئے، اپنے ®iPhone آلہ پر Google تصاویر ایپ انسٹال کریں اور بیک اپ اور مطابقت پذیری آن کریں۔ مزید ہدایات کیلئے "<b>g.co/datatransferhelp</b>‎ ملاحظہ کریں۔</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="list_item_add_account">اکاؤنٹ شامل کریں</string>
+    <string name="lockscreen_smartdevice_action_next">اگلا</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">اپنے فون کا سیٹ اپ جاری رکھنے کیلئے غیر مقفل کریں</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">سیکیورٹی وجوہات کی بنا پر سیٹ اپ جاری رکھنے کیلئے آپ کو اپنے اسکرین قفل کی توثیق کرنی ہو گی</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">اپنے اسکرین قفل کی تصدیق کریں</string>
+    <string name="manage_data_label">‏Google اکاؤنٹ</string>
+    <string name="master_clear_title">فیکٹری ڈیٹا ری سیٹ</string>
+    <string name="megabyteShort">MB</string>
+    <string name="netrec_module_display_name">نیٹ ورک تجاویز</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">‏Wi‑Fi کے پیغامات</string>
+    <string name="notification_channel_network_available">نیٹ ورک دستیاب ہے</string>
+    <string name="notification_channel_wakeup_name">‏Wifi کو آن کر دیا گیا</string>
+    <string name="notification_content_text_set_backup_account">بیک اپ اکاؤنٹ سیٹ کرنے کی ضرورت ہے</string>
+    <string name="notification_content_title_set_backup_account">بیک اپ</string>
+    <string name="notification_ticker">رسائی کی درخواست کی گئی</string>
+    <string name="notification_ticker_set_backup_account">بیک اپ اکاؤنٹ کی ضرورت ہے</string>
+    <string name="open_in_web_button">ویب میں کھولیں</string>
+    <string name="open_source_activity_prompt_heading">ایپلیکیشن کھولیں</string>
+    <string name="open_source_activity_prompt_text">"‏تصدیق کا عمل مکمل کرنے کیلئے SourceResponseActivity کو اپنے فون پر کھولیں۔ "</string>
+    <string name="opt_in_account_content_description">اکاؤنٹ منتخب کریں۔ فی الحال منتخب کردہ: %1$s</string>
+    <string name="opt_in_account_null_state">ایک اکاؤنٹ بنائیں</string>
+    <string name="opt_in_agreement">‏جاری کرتے ہوئے، آپ <a href="https://play.google.com/about/play-terms.html">Play سروس کی شرائط</a> کو قبول کرتے ہیں۔<a href="https://support.google.com/googleplay/?p=instant_apps">مزید جانیں</a></string>
+    <string name="opt_in_confirm">ہاں، شامل ہوں</string>
+    <string name="opt_in_description">"‏جب آپ کسی لنک پر تھپتھپا تے ہیں تو Google Play چیک کرتا ہے کہ آیا کوئی فوری ایپ موجود ہے اور اسے بغیر انسٹالیشن کے چلاتا ہے۔ فوری ایپس کو آپ کے آلہ پر عارضی طور پر رکھا جاتا ہے۔
+
+جب آپ انہیں استعمال کرتے ہیں تو فوری ایپس اجازتیں طلب کرتی ہیں۔ ایپ کی تفصیلات بشمول درون ایپ خریداریاں، Google Play اسٹور میں تلاش کی جا سکتی ہیں۔ ایپ ڈیٹا اور ترتیبات ان آلات کے ساتھ مطابقت پذیر ہوتی ہیں جو اس اکاؤنٹ کے ساتھ سائن ان ہیں:"</string>
+    <string name="opt_in_description_m_plus">"‏جب آپ کسی لنک پر تھپتھپا تے ہیں تو Google Play چیک کرتا ہے کہ آیا کوئی فوری ایپ موجود ہے اور اسے بغیر انسٹالیشن کے چلاتا ہے۔ فوری ایپس کو آپ کے آلہ پر عارضی طور پر رکھا جاتا ہے۔
+
+جب آپ انہیں استعمال کرتے ہیں تو فوری ایپس اجازتیں طلب کرتی ہیں۔ ایپ کی تفصیلات بشمول درون ایپ خریداریاں، Google Play اسٹور میں تلاش کی جا سکتی ہیں۔ ایپ ڈیٹا اور ترتیبات ان آلات کے ساتھ مطابقت پذیر ہوتی ہیں جو اس اکاؤنٹ کے ساتھ سائن ان ہیں:"</string>
+    <string name="opt_in_subtitle">بغیر انسٹالیشن کے ایپس استعمال کریں</string>
+    <string name="opt_in_title">فوری ایپس</string>
+    <string name="permgrouplab_calendar">کیلنڈر</string>
+    <string name="permgrouplab_camera">کیمرا</string>
+    <string name="permgrouplab_contacts">رابطے</string>
+    <string name="permgrouplab_location">مقام</string>
+    <string name="permgrouplab_microphone">مائیکروفون</string>
+    <string name="permgrouplab_phone">فون</string>
+    <string name="permgrouplab_sensors">باڈی سینسرز</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">اسٹوریج</string>
+    <string name="permissions_not_granted_text">اجازتیں عطا کرنے کیلئے، دوبارہ لاگ ان ہوں۔</string>
+    <string name="permissions_not_granted_title">اجازتیں عطا نہیں ہوئیں۔</string>
+    <string name="petabyteShort">PB</string>
+    <string name="photo_backup_configure_account_default_summary">فی الحال کوئی بھی اکاؤنٹ بیک اپ لی گئی تصاویر اسٹور نہیں کر رہا ہے</string>
+    <string name="photos_backup_title">تصاویر کا بیک اپ</string>
+    <string name="photos_filtering_option_all">سبھی</string>
+    <string name="photos_filtering_option_none">کوئی بھی نہیں</string>
+    <string name="plus_manage_app_only_you_label">صرف آپ</string>
+    <string name="plus_network_unreliable">سرور سے ایک قابل اعتماد کنکشن قائم نہیں کیا جا سکتا۔</string>
+    <string name="plus_oob_interstitial_loading_text">اس میں چند منٹ لگ سکتے ہیں۔</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">‏کاپی کردہ رابطے آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">‏کاپی کردہ رابطے اور کیلنڈرز آپ کے Google اکاؤنٹ پر محفوظ ہوں گے۔</string>
+    <string name="restore_choice_data_disclaimer_v2">ہو سکتا ہے آپ کا کچھ ڈیٹا ^1 پر کاپی نہ ہو۔ <annotation id="restore_choice_data_disclaimer_learn_more">مزید جانیں</annotation></string>
+    <string name="restore_choice_deselect_some_content">جاری رکھنے کیلئے کچھ مواد کو غیر منتخب کریں</string>
+    <string name="restore_choice_learn_more_android">"‏آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا: 
+
+ ● ڈاؤن لوڈز (جیسے PDF فائلز)
+
+ ● مخفی فولڈرز میں اسٹور کردہ تصاویر، ویڈیوز اور موسیقی
+
+ ● متنی پیغام کے ذریعے موصولہ تصاویر، ویڈیوز اور موسیقی
+
+ ● وہ ایپس جو Google Play اسٹور سے نہیں ہیں
+
+ ● ایپ ڈیٹا (اگر ایپ Android بیک اپ استعمال نہیں کرتی)
+
+ ● آلہ کی بعض ترتیبات
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google کے علاوہ کسی بھی دوسری سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● رنگ ٹونز
+
+ مزید معلومات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے visit g.co/datatransferhelp ملاحظہ کریں۔"</string>
+    <string name="restore_choice_learn_more_ios">"‏آپ کے پرانے فون سے کچھ ڈیٹا خودکار طور پر کاپی نہیں ہو سکتا:
+
+ ● ایپس اور ایپ ڈیٹا
+
+ ● تصاویر جہاں اصل آپ کے فون پر محفوظ نہ ہو (مثال کے طور پر، اگر اسٹوریج بہتر بنائیں کی ترتیب آن ہے؛ اصل تصاویر ®iCloud پر اسٹور کی جاتی ہیں)
+
+ ● ®iCloud میں اسٹور کردہ فائلز اور دستاویزات
+
+ ● آلہ کی ترتیبات (جیسے Wi-Fi پاسورڈز اور وال پیپر)
+
+ ● Digital Rights Management (DRM)‎ تحفظ کے ساتھ تحفظ یافتہ موسیقی (مثال کے طور پر اپریل 2009 سے قبل خریدی گئی iTunes(R)‎ موسیقی یا کسی موسیقی کی سلسلہ بندی والی ایپ میں آف لائن سننے کیلئے ڈاؤن لوڈ کردہ موسیقی)
+
+ ● Google اکاؤنٹس کے علاوہ اکاؤنٹس (اور کوئی بھی وابستہ ڈیٹا)
+
+ ● Google یا ®iCloud کے علاوہ کسی سروس پر مطابقت پذیر رابطے اور کیلنڈرز
+
+ ● ®Safari سے بک مارکس
+
+ ®iMessage منسلکات Google تصاویر > آلہ کے فولڈرز > پیغام کی منسلکات میں دستیاب ہوں گے۔
+
+ مزید تفصیلات اور اس ڈیٹا میں سے کچھ کو کاپی کرنے میں مدد کیلئے g.co/datatransferhelp  ملاحظہ کریں۔"</string>
+    <string name="restore_choice_not_enough_space">کافی جگہ نہيں ہے</string>
+    <string name="restore_choice_total_text">منتقلی کیلئے دستیاب آپ کی %1$s / %2$s</string>
+    <string name="restore_error_message">بحالی کے ساتھ کچھ خرابی پیش آ گئی۔ معذرت۔</string>
+    <string name="restore_instant_apps_notif_text">مطلوبہ %1$s اس آلہ سے ہٹا دیا گیا</string>
+    <string name="restore_instant_apps_notif_title">فوری ایپس بحال کریں</string>
+    <string name="restore_item_appdata">ایپ ڈیٹا</string>
+    <string name="restore_item_calendar">کیلنڈر</string>
+    <string name="restore_item_calendar_ical_description">‏®iOS کیلنڈر، Google کیلنڈر</string>
+    <string name="restore_item_calendar_ical_off_description">‏Google کیلنڈر اب بھی مطابقت پذیر ہو گی</string>
+    <string name="restore_item_calendar_sync_description">‏Google کیلنڈر مطابقت پذیر ہو گی</string>
+    <string name="restore_item_call_logs">کال کی سرگزشت</string>
+    <string name="restore_item_contacts">رابطے</string>
+    <string name="restore_item_device_settings_description">‏Wi-Fi پاسورڈز اور مزید</string>
+    <string name="restore_item_downloads">ڈاؤن لوڈز</string>
+    <string name="restore_item_email">ای میل</string>
+    <string name="restore_item_email_description">‏Gmail مطابقت پذیر ہو گی</string>
+    <string name="restore_item_message_attachments">پیغام منسلکہ جات</string>
+    <string name="restore_item_messages">پیغامات</string>
+    <string name="restore_item_music">موسیقی</string>
+    <string name="restore_item_photos">تصاویر اور ویڈیوز</string>
+    <string name="restore_item_settings">آلہ کی ترتیبات</string>
+    <string name="restore_item_sms">‏SMS پیغامات</string>
+    <string name="restore_item_will_be_synced_text">یہ آپ کے فون سے مطابقت پذیر ہو جائے گا</string>
+    <string name="restore_progress_title">بحال ہو رہا ہے…</string>
+    <string name="restore_supervisor_description">فوری ایپس میں لنکس کھولنے کے لیے، %1$s بحال کریں</string>
+    <string name="restore_supervisor_success">فوری ایپس کامیابی سے بحال ہو گئیں</string>
+    <string name="restore_supervisor_title">فوری ایپس بحال کریں؟</string>
+    <string name="setup_failure_description">فوری اپپس ترتیب نہیں دی جا سکتیں۔ <a href="https://support.google.com/googleplay/?p=instant_apps">مزید جانیں</a></string>
+    <string name="setup_failure_title">سیٹ اپ نہیں ہوسکتا</string>
+    <string name="sharedUserLabel">‏Google سروسز</string>
+    <string name="sid_lsid_grant_detail">‏کافی حد تک پاس ورڈ کی طرح، سیشن کی شناخت (SID) اور مقامی سیشن کی شناخت (LSID) کی کوکیز آپ کی شناخت کو کسی براؤزر کی جانب سے درخواستوں کے سلسلہ کے ساتھ وابستہ کرتی ہیں۔ وہ آپ کے اکاؤنٹ کے سبھی ڈیٹا تک مکمل رسائی کی اجازت دیتی ہیں۔ صرف براؤزرز کے پاس ان کوکیز کا جائز استعمال ہے۔</string>
+    <string name="sid_lsid_grant_label">‏اپنے Google اکاؤنٹ کے سبھی ڈیٹا تک رسائی حاصل کرنے کیلئے SID اور LSID کوکیز استعمال کریں۔</string>
+    <string name="small_time_duration">1 منٹ سے کم</string>
+    <string name="smartdevice_action_copy">کاپی کریں</string>
+    <string name="smartdevice_action_next">اگلا</string>
+    <string name="smartdevice_action_open_app">ایپ کھولیں</string>
+    <string name="smartdevice_action_skip">نظر انداز کریں</string>
+    <string name="smartdevice_action_try_another_way">کوئی اور طریقہ آزمائیں</string>
+    <string name="smartdevice_action_turn_on_location">مقام کو آن کریں</string>
+    <string name="smartdevice_alert_disconnected_message">"آپ کا آلہ غیر منسلک ہو گیا تھا۔
+سیٹ اپ جاری رکھنے کیلئے اسے منسلک کریں اور دوبارہ شروع کریں۔"</string>
+    <string name="smartdevice_alert_disconnected_title">آلہ غیر منسلک ہو گیا</string>
+    <string name="smartdevice_alert_dm_backup_account_message">بدقسمتی سے، آپ یہ فیچر استعمال نہیں کر سکتے کیونکہ آپ کے بیک اکاؤنٹ کا انتظام آپ کے آلہ کے منتظم کی طرف سے کیا جاتا ہے۔</string>
+    <string name="smartdevice_alert_dm_backup_account_title">خاصیت غیر دستیاب ہے</string>
+    <string name="smartdevice_alert_exit_setup_message">کیا آپ واقعی اپنے دوسرے آلے کے سیٹ اپ کو ترک کرنا چاہتے ہیں؟</string>
+    <string name="smartdevice_alert_exit_setup_title">آلے کا سیٹ اپ ترک کریں؟</string>
+    <string name="smartdevice_alert_generic_error_title">معذرت، کچھ غلط ہو گیا ہے</string>
+    <string name="smartdevice_alert_generic_error_toast_text">معذرت، کچھ غلط ہو گیا ہے</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">‏اپنا آلہ سیٹ اپ کرنے کیلئے آپ کو کم از کم ایک Google اکاؤنٹ کی ضرورت ہے۔</string>
+    <string name="smartdevice_alert_no_accounts_text">‏اپنا %s سیٹ اپ کرنے کیلئے آپ کو کم از کم ایک Google اکاؤنٹ کی ضرورت ہے۔</string>
+    <string name="smartdevice_alert_no_accounts_title">کاپی کرنے کیلئے کوئی اکاؤنٹس نہیں ہیں</string>
+    <string name="smartdevice_alert_quit_button">ترک کریں</string>
+    <string name="smartdevice_alert_restart_setup_button">سیٹ اپ دوبارہ شروع کریں</string>
+    <string name="smartdevice_alert_setup_incomplete">سیٹ اپ ابھی مکمل نہیں ہوا تھا</string>
+    <string name="smartdevice_alert_skip_button">نظر انداز کریں</string>
+    <string name="smartdevice_alert_start_over_button">دوبارہ شروع کریں</string>
+    <string name="smartdevice_alert_work_profile_message">‏ابھی دفتری اکاؤنٹس کاپی نہیں ہو سکتے۔ اپنے دیگر Google اکاؤنٹس اور ڈیٹا کو کاپی کرنے کے بعد، اپنا دفتری اکاؤنٹ شامل کرنے کیلئے اپنے نئے آلہ میں ترتیبات پر جائیں۔</string>
+    <string name="smartdevice_alert_work_profile_title">دفتری اکاؤنٹ کاپی نہیں ہو سکتا</string>
+    <string name="smartdevice_application_label">آلہ کا سیٹ اپ</string>
+    <string name="smartdevice_choose_device">اپنا آلہ منتخب کریں</string>
+    <string name="smartdevice_companion_app_ready">%s ایپ اس آلہ پر پہلے سے انسٹال شدہ ہے۔</string>
+    <string name="smartdevice_connect_to_wifi">اپنا آلہ منسلک کریں</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">آپ کے آلہ سے منسلک ہو رہا ہے…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">‏آپ کے Google اکاؤنٹس، دیگر اکاؤنٹس، ایپس اور ڈیٹا کو کاپی کیا جائے گا</string>
+    <string name="smartdevice_d2d_copy_account_text">‏آپ کا Google اکاؤنٹس، ایپس اور ڈیٹا آپ کے دوسرے آلہ میں کاپی کریں؟</string>
+    <string name="smartdevice_d2d_copy_account_title">دوسرے آلہ میں کاپی کریں؟</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">تسلیم شدہ نہیں ہے</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">اس کے بجائے مقفل اسکرین آزمائیں</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">‏سیکورٹی وجوہات کیلئے اپنے فنگر پرنٹس کی توثیق کریں۔ آپ کے Google اکاؤنٹس، ایپس اور ڈیٹا آپ کے %s پر کاپی ہو جائیں گے۔</string>
+    <string name="smartdevice_d2d_lockscreen_description">اپنے آلے کا سیٹ اپ جاری رکھنے کیلئے غیر مقفل کریں</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">سیکیورٹی کے واسطے، سیٹ اپ جاری رکھنے کیلئے اپنے اسکرین لاک کی توثیق کریں۔</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">جاری رکھنے کیلئے توثیق کریں</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">دوسرا آلہ سیٹ اپ نہیں کیا جا سکتا ہے کیونکہ آپ کے آلہ پر بلوٹوتھ دستیاب نہیں ہے۔</string>
+    <string name="smartdevice_d2d_source_disabled_text">سیکیورٹی کیلئے اس خصوصیت کو غیر فعال کر دیا گیا ہے۔ اپنے دوسرے آلہ پر نظر انداز کریں کو ٹچ کریں اور سیٹ اپ جاری رکھیں۔</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">نیا آلہ سیٹ اپ کریں</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">آلہ کا سیٹ اپ</string>
+    <string name="smartdevice_d2d_source_notification_title">^1 سیٹ اپ</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">‏سیٹ اپ دوبارہ شروع کریں اور اس بات کی یقین دہانی کیلئے اپنا ^1 منتخب کریں کہ آپ صحیح آلہ پر اپنے Google اکاؤنٹس، ایپس اور ڈیٹا کاپی کر رہے ہیں۔</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">مطلوبہ کوڈ نظر نہیں آ رہا؟</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">مطلوبہ کوڈ نظر نہیں آ رہا؟</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">اس بات کی توثیق کیلئے کہ آپ نے صحیح کوڈ کا انتخاب کیا ہے اپنے دوسرے آلے پر یہ کوڈ تلاش کریں</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">کوڈ کی توثیق کریں</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">ممنوع صارف پروفائل سے نیا آلہ سیٹ اپ نہیں کیا جا سکتا ہے۔</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">اپنے %s پر سیٹ اپ مکمل کریں</string>
+    <string name="smartdevice_d2d_source_setup_success">تقریباً مکمل!</string>
+    <string name="smartdevice_d2d_target_choice_description">‏اگر آپ کسی اور Android آلہ کا استعمال کرتے ہیں تو آپ فوری طور پر اپنا موجودہ سیٹ اپ اس %s پر کاپی کر سکتے ہیں۔</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">‏اگر آپ کا پرانا آلہ Android ہے تو اس آلہ سے زیادہ سے زیادہ چیزیں واپس حاصل کریں</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">نئے کے طور پر سیٹ اپ کریں</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">‏کسی اور Android آلہ سے کاپی کریں</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">نہیں شکریہ</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">ٹھیک ہے، اس آلہ کو سیٹ اپ کرنے کے لئے اگلے مراحل کی پیروی کریں</string>
+    <string name="smartdevice_d2d_target_choice_title">کوئی اور آلہ ہے؟</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">‏اپنے دوسرے آلہ سے اپنے Google اکاؤنٹس، ایپس اور ڈیٹا کاپی کریں</string>
+    <string name="smartdevice_d2d_target_continue_description">اپنے دوسرے آلہ پر سیٹ اپ جاری رکھیں۔</string>
+    <string name="smartdevice_d2d_target_copying_accounts">اکاؤنٹس کاپی ہو رہے ہیں…</string>
+    <string name="smartdevice_d2d_target_description">‏واپس آپ کے دوسرے آلہ پر:&lt;br/>&lt;br/> ‏1۔ کہیں &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> یا ٹائپ کریں \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" اور تصدیق کرنے کیلئے تھپتھپائیں&lt;br/>&lt;br/> ‏2۔&lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> فہرست پر ٹچ کریں اور اسکرین پر موجود ہدایات کی پیروی کریں</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">اس کی بجائے یہ آزمائیں</string>
+    <string name="smartdevice_d2d_target_google_settings_description">‏آپ کے دوسرے آلہ پر: &lt;b>‏Google ترتیبات&lt;/b> ایپ کھولیں &lt;br/>&lt;br/> ‏2۔ &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> منتخب کریں &lt;br/>&lt;br/> ‏3۔ فہرست پر &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> ٹچ کریں اور اسکرین پر موجود ہدایات کی پیروی کریں</string>
+    <string name="smartdevice_d2d_target_google_settings_link">یہ مراحل مکمل نہیں کر سکتے</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">ترتیبات استعمال کرتے ہیں</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">"‏اپنے دوسرے آلہ پر: &lt;br/>&lt;br/> ‏1۔ تمام ایپس کا آئیکن تھپتھپائیں پھر &lt;b>ترتیبات ایپ&lt;b> کھولیں  &lt;br/>&lt;br/> ‏2۔ &lt;b>Google&lt;/b> پر تھپتھپائیں &lt;br/>&lt;br/> ‏3۔ &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> منتخب کریں &lt;br/>&lt;br/> ‏4۔ فہرست پر &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> کو ٹچ کریں اور اسکرین پر موجود ہدایات کی پیروی کریں"</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">‏کسی دوسرے Android آلہ سے کاپی کریں</string>
+    <string name="smartdevice_d2d_target_help_needed_link">مشکل پیش آ رہی ہے؟</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">اسے تلاش نہیں کیا جا سکتا ہے؟</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">‏اپنے دوسرے آلہ پر Google ایپ کھولیں</string>
+    <string name="smartdevice_d2d_target_instruction_description">‏Google ایپ کھولیں</string>
+    <string name="smartdevice_d2d_target_instruction_title">اپنے دوسرے آلہ پر</string>
+    <string name="smartdevice_d2d_target_nfc_description">"کاپی کرنے کیلئے: 
+
+1۔ یقینی بنائیں کہ آپ کا دوسرا آلہ آن اور غیر مقفل ہے۔ 
+
+2۔ آپ کو ایک ٹون سنائی دینے تک دونوں آلات کو پشت سے پشت ملا کر رکھیں، پھر الگ کر دیں"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">"‏'تھپتھپائیں اور آگے بڑھیں' آپ کے Google اکاؤنٹس، ایپس اور ڈیٹا کو آپ کے دوسرے آلہ سے کاپی کرنے کیلئے NFC کا استعمال کرتا ہے۔ ترتیبات پر جا کر یقینی بنائیں کہ آلہ کا NFC آن ہے۔"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">مشکل پیش آ رہی ہے؟</string>
+    <string name="smartdevice_d2d_target_nfc_title">تھپتھپائیں اور منتقل کریں</string>
+    <string name="smartdevice_d2d_target_other_device_description">‏Google ایپ تمام Android آلات پر پہلے سے انسٹال ہوتی ہے۔ اپنی ہوم اسکرین پر \"تمام ایپس\" بٹن کو ٹچ کریں اور اوپر دکھایا گیا آئیکن تلاش کریں۔</string>
+    <string name="smartdevice_d2d_target_pin_code_description">یہ کوڈ آپ کے دوسرے آلے پر موجود کوڈ سے مماثل ہونا چاہئیے:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">نظر انداز مت کریں</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">سیٹ اپ اس اکاؤنٹ یا بیک اپ کردہ ایپس اور ڈیٹا کو اِس آلہ میں کاپی نہیں کرے گا۔</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">بہرحال سکپ کریں</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">اس اکاؤنٹ کو نظر انداز کریں؟</string>
+    <string name="smartdevice_d2d_target_title">‏Google ایپ میں</string>
+    <string name="smartdevice_default_device_name">آلہ</string>
+    <string name="smartdevice_install_app">ایپ انسٹال کریں</string>
+    <string name="smartdevice_install_app_reason" formatted="false">اس آلہ سے اپنے %s کو کنٹرول اور منظم کرنے کیلئے %s ایپ حاصل کریں</string>
+    <string name="smartdevice_install_on_this_device">انسٹال کریں</string>
+    <string name="smartdevice_search_again">دوبارہ تلاش کریں</string>
+    <string name="smartdevice_searching_for_devices">آلات تلاش کیے جا رہے ہیں</string>
+    <string name="smartdevice_setup_enter_code">اپنے آلہ پر کوڈ درج کریں۔ اسے ایک اسٹیکر پر ظاہر ہونا چاہئے۔</string>
+    <string name="smartdevice_setup_enter_code_hint">اپنا کوڈ درج کریں</string>
+    <string name="smartdevice_setup_enter_pin_4">4 ہندسوں والا کوڈ درج کریں جو آپ کے دوسرے آلہ پر اِس وقت دکھایا جا رہا ہے</string>
+    <string name="smartdevice_setup_info_installing_app">ایپ کو انسٹال کیا جا رہا ہے…</string>
+    <string name="smartdevice_setup_intro_text">‏آپ کے دوسرے آلہ کو سیٹ اپ کرنے کیلئے آپ کے فون کی بلو ٹوتھ اور Wi-Fi ڈیٹا کو استعمال کیا جائے گا۔</string>
+    <string name="smartdevice_setup_intro_text_nfc">آپ کے دوسرے آلے کو سیٹ اپ کرنے کیلئے آپ کے فون کی بلو ٹوتھ کو استعمال کیا جائے گا۔</string>
+    <string name="smartdevice_setup_intro_title">شروع کرنا</string>
+    <string name="smartdevice_setup_password_hint">‏WiFi پاسورڈ درج کریں</string>
+    <string name="smartdevice_setup_show_password">پاس ورڈ دکھائیں</string>
+    <string name="smartdevice_setup_title_verify_code">کوڈ کی توثیق کریں</string>
+    <string name="smartdevice_wifi_cannot_connect_description">‏اس آلے کو سیٹ اپ کرنے کیلئے صرف کھلے نیٹ ورکس اور WPA/WPA2 نیٹ ورکس استعمال کئے جا سکتے ہیں</string>
+    <string name="smartdevice_wifi_cannot_connect_title">‏Wi-Fi نیٹ ورک استعمال نہیں ہو سکتا</string>
+    <string name="smartdevice_wifi_skip_dialog_text">‏Wi-Fi کے بغیر شاید آپ کا آلہ ٹھیک طرح سے کام نہ کرے۔ سیٹ اپ کا عمل جاری رکھنے کیلئے اسے Wi-Fi نیٹ ورک سے منسلک کریں۔</string>
+    <string name="smartdevice_wifi_skip_dialog_title">‏کوئی Wi-Fi نیٹ ورک منتخب کریں</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"‏Wi-Fi تلاش کرنے کیلئے، مقام آن کریں۔
+
+اسے آپ ہمیشہ بعد میں ترتیبات سے تبدیل کر سکتے ہیں۔"</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">‏Wi-Fi نیٹ ورکس کو تلاش نہیں کیا جا سکتا</string>
+    <string name="source_connected_description">تیار ہو رہا ہے…</string>
+    <string name="source_connected_title">آپ کے %1$s سے منسلک ہے</string>
+    <string name="source_copying_description">آپ کا منتخب کردہ ڈیٹا آپ کے نئے فون پر کاپی ہو رہا ہے</string>
+    <string name="source_copying_title">کاپی ہو رہا ہے…</string>
+    <string name="source_default_target_device_name">نیا آلہ</string>
+    <string name="source_notification_device_disconnected">اپنی کیبل دوبارہ منسلک کریں</string>
+    <string name="source_notification_text">فون سے فون پر منتقلی پیشرفت میں ہے</string>
+    <string name="source_notification_title">ڈیٹا کی منتقلی</string>
+    <string name="source_success_description">اپنے %1$s پر سیٹ اپ مکمل کریں۔</string>
+    <string name="source_success_screen_title">سبھی ہوگیا!</string>
+    <string name="source_unplugged_description">اپنے %1$s سے دوبارہ منسلک کریں</string>
+    <string name="source_unplugged_title">کیبل غیر منسلک ہے</string>
+    <string name="source_waiting_title">اپنے %1$s پر سیٹ اپ جاری رکھیں</string>
+    <string name="stop_copying_dialog_continue_button">کالعدم کریں</string>
+    <string name="stop_copying_dialog_message_before_transfer">آپ کا ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_message_during_transfer">آپ کا کچھ ڈیٹا آپ کے نئے فون پر کاپی نہیں ہوا ہے</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">کاپی نہ کریں</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">روکیں</string>
+    <string name="stop_copying_dialog_title_before_transfer">کاپی نہ کریں؟</string>
+    <string name="stop_copying_dialog_title_during_transfer">کاپی کرنا بند کریں؟</string>
+    <string name="storage_management_wear_descriptive_text">ایپس ڈیٹا کو ایک ویئرایبل میں کاپی کرنے کیلئے آپ کے آلہ کا اسٹوریج استعمال کرتی ہیں۔</string>
+    <string name="storage_management_wear_manage_size_label">ویئرایبل اسٹوریج کا نظم کریں</string>
+    <string name="storage_management_wear_size_label">ویئرایبل اسٹوریج</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏Google Play سروسز کے ذریعے استعمال کیا گیا کُل ڈیٹا، بشمول تلاش انجن اور دیگر ڈیٹا۔</string>
+    <string name="storage_managment_clear_all_data">سبھی ڈیٹا صاف کریں</string>
+    <string name="storage_managment_computing_size">حساب کتاب کر رہا ہے…</string>
+    <string name="storage_managment_icing_size_label">تلاش ڈیٹا</string>
+    <string name="storage_managment_manage_icing_button">تلاش ڈیٹا کا نظم کریں</string>
+    <string name="storage_managment_search_index_descriptive_text">ہم آپ کے ایپس کے استعمال کیلئے ایک تلاش انجن فراہم کرکے آپ کے آلے پر تلاش کو تیز کرتے ہیں۔</string>
+    <string name="storage_managment_title">‏Google Play سروسز کا اسٹوریج</string>
+    <string name="storage_managment_total_size_label">کُل اسٹوریج</string>
+    <string name="supervisor_downloading_description">%1$s ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="supervisor_downloading_title">آپکے آلہ کو بحال کرنے تک تھوڑا انتظار کریں</string>
+    <string name="supervisor_installing_description">%1$s انسٹال ہو رہا ہے</string>
+    <string name="supervisor_title">‏فوری ایپس کیلئے Google Play سروسز</string>
+    <string name="suw_back_button_label">پیچھے</string>
+    <string name="suw_more_button_label">مزید</string>
+    <string name="suw_next_button_label">آگے</string>
+    <string name="system_update_ab_update_downloaded_notification_message">مزید جاننے کیلئے تھپتھپائیں</string>
+    <string name="system_update_activity_battery_low_text">اپ ڈیٹ کو انسٹال کرنے کیلئے بیٹری بہت کمزور ہے</string>
+    <string name="system_update_activity_name">سسٹم اپ ڈیٹس</string>
+    <string name="system_update_activity_roaming_text">رومنگ میں ہونے پر سسٹم اپ ڈیٹس کو ڈاؤن لوڈ نہیں کیا جا سکتا ہے۔</string>
+    <string name="system_update_activity_roaming_text_glif">رومنگ کے دوران ڈاؤن لوڈ نہیں ہو سکتی</string>
+    <string name="system_update_android_version_text">‏Android ورژن: ^1</string>
+    <string name="system_update_check_now_button_text">اپ ڈیٹ کیلئے چیک کریں</string>
+    <string name="system_update_checking_status_text">چیک کیا جا رہا ہے</string>
+    <string name="system_update_complete_label">سسٹم اپ ڈیٹ</string>
+    <string name="system_update_countdown_cancel_button">انسٹال منسوخ کریں</string>
+    <string name="system_update_countdown_complete">ابھی ریبوٹ کر رہا ہے…</string>
+    <string name="system_update_download_and_install_button_text">ڈاؤن لوڈ کریں اور انسٹال کریں</string>
+    <string name="system_update_download_button_text">ڈاؤن لوڈ کریں</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">ڈاؤن لوڈ کرنے کیلئے کافی جگہ نہیں ہے</string>
+    <string name="system_update_download_failed_no_space_status_text">ڈاؤن لوڈ کرنے کیلئے ناکافی جگہ دستیاب ہے</string>
+    <string name="system_update_download_failed_status_text">ڈاؤن لوڈ نہیں ہو سکا</string>
+    <string name="system_update_download_manage_storage_button_text">اسٹوریج کا نظم کریں</string>
+    <string name="system_update_download_paused_no_wifi_status_text">‏Wi-Fi کیلئے منتظر ہیں</string>
+    <string name="system_update_download_paused_title_text">ڈاؤن لوڈ موقوف ہو گئی</string>
+    <string name="system_update_download_retry_button_text">دوبارہ ڈاؤن لوڈ کرنے کی کوشش کریں</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">‏‎^1‎ اور ‎^2‎‎ کے درمیان خود بخود اپ ڈیٹ ڈاؤن لوڈ ہونا شروع ہو جائے گا۔</string>
+    <string name="system_update_download_waiting_off_peak_status_text">‏آپ کسی بھی وقت Wi-Fi پر اس اپ ڈیٹ کو ڈاؤن لوڈ کر سکتے ہیں۔ بصورت دیگر، یہ ‎^1‎ اور ‎^2‎‎ کے درمیان خود بخود ڈاؤن لوڈ ہونا شروع ہو جائے گا۔</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">‏اس اپ ڈیٹ کو ڈاؤن لوڈ کرنے کیلئے، پہلے اپنے دوسرے SIM کارڈ پر سوئچ کریں۔</string>
+    <string name="system_update_download_waiting_status_text">ڈاؤن لوڈ کرنے کا منتظر</string>
+    <string name="system_update_downloading_status_text">ڈاؤن لوڈ ہو رہا ہے</string>
+    <string name="system_update_downloading_title_text">سسٹم اپ ڈیٹ ڈاؤن لوڈ ہو رہی ہے…</string>
+    <string name="system_update_downloading_wifi_status2_text">بذریعہ 1^ صرف 2^ تک</string>
+    <string name="system_update_file_browser_ok_button">منتخب کریں</string>
+    <string name="system_update_file_browser_title">اپ ڈیٹ فائل منتخب کریں</string>
+    <string name="system_update_free_up_space_button_text">اسپیس خالی کریں</string>
+    <string name="system_update_from_sd_card_button_and_title">‏SD کارڈ سے اپ ڈیٹ کریں</string>
+    <string name="system_update_from_sd_card_unknown_status">چیک کیا جا رہا ہے…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">توثیق نہیں کر سکے</string>
+    <string name="system_update_from_sd_card_verified_description">اپ ڈیٹ توثیق شدہ اور انسٹال کیے جانے کیلئے تیار ہے۔</string>
+    <string name="system_update_from_sd_card_verifying_status">توثیق ہو رہی ہے…</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">‏غیر میٹر شدہ WiFi نیٹ ورک درکار ہے</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">"‏Wi-Fi  تجویز کردہ ہے"</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"یہ اپ ڈیٹ صرف 1^ کے ذریعے 2^ تک ڈاؤن لوڈ کی جا سکتی ہے۔
+
+ڈاؤن لوڈ جاری رکھنے کیلئے، 3^ سے منسلک کریں۔"</string>
+    <string name="system_update_glif_wifi_needed_title">‏WiFi نیٹ ورک درکار ہے</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">‏ممکنہ ڈیٹا چارجز سے بچنے کیلئے، ایک غیر میٹر شدہ Wi-Fi نیٹ ورک سے منسلک ہوں۔</string>
+    <string name="system_update_install_button_text">دوبارہ سٹارٹ کریں اور انسٹال کریں</string>
+    <string name="system_update_install_failed_button_qualifier_text">انسٹالیشن کی خرابی</string>
+    <string name="system_update_install_failed_title_text">اپ ڈیٹ نہیں ہو سکی</string>
+    <string name="system_update_install_steps_text">مرحلہ ^1 از 2</string>
+    <string name="system_update_installing_title_text">سسٹم اپ ڈیٹ انسٹال ہو رہی ہے…</string>
+    <string name="system_update_last_checkin">‏اپ ڈیٹ کیلئے آخری بار چیک کیا گیا ‎^1۔</string>
+    <string name="system_update_last_checkin_glif">‏اپ ڈیٹ کیلئے آخری بار چیک کیا گیا ^‎1</string>
+    <string name="system_update_managed_by_policy">اس آلہ کا سسٹم سافٹ ویئر اپ ڈیٹ آپ کی تنظیم کے ذریعے کنٹرول کیا جاتا ہے۔</string>
+    <string name="system_update_no_update_content_text">آپ کا سسٹم اپ ٹو ڈیٹ ہے۔</string>
+    <string name="system_update_no_update_content_text_glif">آپ کا سسٹم اپ ٹو ڈیٹ ہے</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">سسٹم اپ ڈیٹ ڈاؤن لوڈ نہیں ہو سکا</string>
+    <string name="system_update_not_owner_text">سسٹم سافٹ ویئر کا ایک اپ ڈیٹ دستیاب ہے، لیکن صرف مالک اسے انسٹال کر سکتا ہے۔</string>
+    <string name="system_update_notification_header_name">‏Android سسٹم اپ ڈیٹ</string>
+    <string name="system_update_pause_button_text">ڈاؤن لوڈ موقوف کریں</string>
+    <string name="system_update_processing_status_text">کارروائی ہو رہی ہے</string>
+    <string name="system_update_requires_restart_status_text">دوبارہ سٹارٹ کرنے کی ضرورت ہے</string>
+    <string name="system_update_restart_to_install_button_text">انسٹال کرنے کیلئے ابھی دوبارہ شروع کریں</string>
+    <string name="system_update_restart_to_update_button_text">اپ ڈیٹ کرنے کیلئے ابھی دوبارہ شروع کریں</string>
+    <string name="system_update_resume_button_text">دوبارہ شروع کریں</string>
+    <string name="system_update_scheduled_status_text">شیڈول کردہ</string>
+    <string name="system_update_security_patch_level_text">سیکیوریٹی پیچ کی سطح: ^1</string>
+    <string name="system_update_security_update_available_title_text">سیکیوریٹی اپ ڈیٹ دستیاب ہے</string>
+    <string name="system_update_security_update_downloading_title_text">سیکیوریٹی اپ ڈیٹ ڈاؤن لوڈ ہو رہی ہے…</string>
+    <string name="system_update_security_update_installing_title_text">سیکیوریٹی اپ ڈیٹ انسٹال ہو رہی ہے…</string>
+    <string name="system_update_size_label">اپ ڈیٹ سائز:</string>
+    <string name="system_update_suw_download_and_install_text">"اس اپ ڈیٹ کو ڈاؤن لوڈ اور انسٹال ہونے میں کئی منٹ لگ سکتے ہیں۔
+
+بعد میں، آپ کا آلہ خودکار طور پر دوبارہ شروع ہو جائے گا۔"</string>
+    <string name="system_update_suw_download_text">"اس اپ ڈیٹ کو ڈاؤن لوڈ ہونے میں کئی منٹ لگ سکتے ہیں۔
+
+بعد میں، آپ کا آلہ خودکار طور پر دوبارہ شروع ہو جائے گا۔"</string>
+    <string name="system_update_suw_download_title">اپ ڈیٹ ڈاؤن لوڈ ہو رہی ہے…</string>
+    <string name="system_update_suw_restart_text">آلہ دوبارہ شروع ہو جائے گا تاکہ آپ کی سسٹم اپ ڈیٹ انسٹال کی جا سکے۔</string>
+    <string name="system_update_suw_restart_title">دوبارہ شروع ہونے والا ہے</string>
+    <string name="system_update_suw_wifi_needed">ڈاؤن لوڈ جاری رکھنے کیلئے، 1^ منتخب کریں۔</string>
+    <string name="system_update_update_available_download_message_wearable">ڈاؤن لوڈ کرنے کیلئے بائیں سوائپ کریں۔</string>
+    <string name="system_update_update_available_notification_message">مزید جاننے اور ڈاؤن لوڈ کرنے کیلئے تھپتھپائیں</string>
+    <string name="system_update_update_available_notification_title">سسٹم اپ ڈیٹ دستیاب ہے</string>
+    <string name="system_update_update_available_tap_to_download">ڈاؤن لوڈ کرنے کیلئے تھپتھپائیں</string>
+    <string name="system_update_update_available_title_text">سسٹم اپ ڈیٹ دستیاب ہے</string>
+    <string name="system_update_update_download_auto_paused_notification_title">ڈاؤن لوڈ موقوف ہو گئی</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">کافی جگہ دستیاب نہیں ہے</string>
+    <string name="system_update_update_downloaded_charge_wearable">براہ کم اپنی بیٹری کو کم از کم %d%% تک چارج کریں</string>
+    <string name="system_update_update_downloaded_install_message_wearable">انسٹال کرنے کیلئے بائیں سوائپ کریں</string>
+    <string name="system_update_update_downloaded_notification_message">مزید جاننے اور انسٹال کرنے کیلئے تھپتھپائیں</string>
+    <string name="system_update_update_downloaded_notification_title">سسٹم اپ ڈیٹ ڈاؤن لوڈ ہو گیا</string>
+    <string name="system_update_update_downloaded_tap_to_install">انسٹال کرنے کیلئے تھپتھپائیں</string>
+    <string name="system_update_verification_failed_text">توثیق ناکام ہو گئی</string>
+    <string name="system_update_verified_status_text">ڈاؤن لوڈ کیا گیا اور توثیق کی گئی</string>
+    <string name="system_update_verify_failed_button_qualifier_text">توثیق میں مسئلہ</string>
+    <string name="system_update_verifying_status_text">توثیق ہو رہی ہے</string>
+    <string name="system_update_wearable_countdown_message">%d میں دوبارہ شروع ہو رہی ہے…</string>
+    <string name="target_default_source_device_model">پرانا آلہ</string>
+    <string name="target_device_not_supported_cant_continue_description">آپ کو ڈیٹا کاپی کرنے کیلئے کوئی اور طریقہ منتخب کرنا پڑے گا</string>
+    <string name="target_device_not_supported_cant_continue_title">دوسرا فون تعاون یافتہ نہیں ہے</string>
+    <string name="target_device_not_supported_try_restarting_description">"‏کیبل کو غیر منسلک کریں اور اپنے فون کو دوبارہ شروع کریں، پھر کیبل کو دوبارہ منسلک کریں اور اپنے Pixel پر ہدایات کی پیروی کریں۔
+
+اگر آپ کو اب بھی یہ خرابی نظر آتی ہے تو آپ کو کسی اور طریقہ سے کاپی کرنے کی ضرورت پڑ سکتی ہے۔"</string>
+    <string name="target_device_not_supported_try_restarting_title">ہوسکتا ہے فون تعاون یافتہ نہ ہو</string>
+    <string name="target_smart_device_timeout_add_account">اکاؤنٹ شامل کریں</string>
+    <string name="target_smart_device_timeout_description">اگر آپ چاہیں تو آپ اپنا اکاؤنٹ دستی طور پر شامل کرنے کی کوشش کر سکتے ہیں</string>
+    <string name="target_smart_device_timeout_dismiss">برخاست کریں</string>
+    <string name="target_smart_device_timeout_title">مشکل پیش آ رہی ہے؟</string>
+    <string name="terabyteShort">TB</string>
+    <string name="toast_phones_connected">فونز منسلک ہیں</string>
+    <string name="toast_reconnect_cable">اپنی کیبل دوبارہ منسلک کریں</string>
+    <string name="transfer_finished_fragment_title">حتمی شکل دی جا رہی ہے…</string>
+    <string name="transfer_summary_copied">ڈیٹا کاپی ہو گیا</string>
+    <string name="transfer_summary_fragment_description">آپ کیبل کو غیر منسلک کر سکتے ہیں۔</string>
+    <string name="transfer_summary_fragment_finish">مکمل کریں</string>
+    <string name="transfer_summary_fragment_title">آپ کا فون تقریباً تیار ہے</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">آپ کی کچھ تصاویر کاپی نہیں ہوئیں۔ <annotation id="transfer_summary_learn_more">مزید جانیں</annotation></string>
+    <string name="transfer_summary_not_copied">ڈیٹا کاپی نہیں ہوا</string>
+    <string name="transfer_summary_partial">%1$s / %2$s کاپی ہو گئے</string>
+    <string name="transfer_summary_will_sync">ڈیٹا سیٹ اپ کے بعد مطابقت پذیر ہو گا</string>
+    <string name="transferring_fragment_calculating_remaining_time">باقی وقت کا تخمینہ لگایا جا رہا ہے…</string>
+    <string name="transferring_fragment_header">کاپی ہو رہا ہے…</string>
+    <string name="transferring_fragment_remaining_time">%1$s باقی ہیں</string>
+    <string name="trust_instructions_description">‏جاری رکھنے کیلئے، اپنا iPhone®‎ آلہ چیک کریں اور کنکشن منظور کریں</string>
+    <string name="trust_instructions_trademark_disclaimer">‏iPhone، iPad، iOS، iMessage، iCloud، Safari، اور iTunes ریاست ہائے متحدہ امریکہ اور دیگر ممالک میں Apple Inc.‎ کے رجسٹرڈ ٹریڈ مارکس ہیں۔</string>
+    <string name="unmetered_wifi_string">‏ایک غیر میٹر شدہ WiFi نیٹ ورک</string>
+    <string name="url_load_unsuccessful_message">"‏آپ کا Android  آلہ ایک موبائل ڈیٹا سروس سے منسلک نہیں ہے۔ ابھی اس معلومات کو دیکھنے کیلئے، ایک ویب براؤزر میں %s ملاحظہ کریں۔"</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"‏آپ کا Android آلہ کسی Wi-Fi نیٹ ورک سے مربوط نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے،  ایک ویب براؤزر سے %s ملاحظہ کریں۔"</string>
+    <string name="use_nearby_device_heading">قریبی آلہ استعمال کریں؟</string>
+    <string name="use_nearby_device_text">اسناد عطا کرنے کیلئے کیا آپ قریبی آلہ استعمال کرنا چاہیں گے؟</string>
+    <string name="waiting_for_account_info_text">اکاؤنٹ کی معلومات کا انتظار ہو رہا ہے…</string>
+    <string name="wifi_available_action_all_networks">سبھی نیٹ ورکس</string>
+    <string name="wifi_available_action_connect">منسلک کریں</string>
+    <string name="wifi_available_content_failed">سبھی نیٹ ورکس دیکھنے کیلئے تھپتھپائيں</string>
+    <string name="wifi_available_title">‏عوامی Wi‑Fi نیٹ ورک سے منسلک ہوں</string>
+    <string name="wifi_available_title_connected">‏عوامی Wi‑Fi نیٹ ورک سے منسلک ہو گيا</string>
+    <string name="wifi_available_title_connecting">‏عوامی Wi‑Fi نیٹ ورک سے منسلک ہو رہا ہے</string>
+    <string name="wifi_available_title_failed">‏Wi-Fi نیٹ ورک سے منسلک نہیں ہو سکا</string>
+    <string name="wifi_string">‏ایک WiFi نیٹ ورک</string>
+    <string name="wifi_wakeup_enabled_notification_context">‏آپ محفوظ نیٹ ورک کے قریب ہیں: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">‏Wi-Fi خود کار طور پر آن ہو گیا</string>
+</resources>

@@ -1,0 +1,1189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_blocked_title">Уліковы запіс заблакiраваны</string>
+    <string name="account_level_title">Уліковы запіс патрабуе ўвагі</string>
+    <string name="account_removed_notification_text">%1$s быў выдалены, паколькі кіраванне прыладай не было завершана</string>
+    <string name="account_removed_notification_title">Уліковы запіс выдалены</string>
+    <string name="android_privacy_policy_title">Дадатковая палітыка прыватнасці</string>
+    <string name="app_has_in_app_purchases">Куплі з праграмы</string>
+    <string name="app_has_permissions">Дазволы: %s</string>
+    <string name="app_has_runtime_permissions">Праграма будзе запытваць дазволы</string>
+    <string name="app_level_title">Запыт на ўваход</string>
+    <string name="app_level_title_secondary">запыт на ўваход ад: %s</string>
+    <string name="app_picker_app_already_installed_toast">Гэта праграма ўжо ўсталявана</string>
+    <string name="app_picker_loading">Ідзе пошук даступных праграм…</string>
+    <string name="app_picker_loading_toast">Даступныя праграмы хутка загрузяцца</string>
+    <string name="app_picker_no_apps">Праграмы не выбраны</string>
+    <string name="app_picker_no_apps_found">Праграмы не знойдзены</string>
+    <string name="apps_in_app_purchases_disclaimer_all">Куплі з праграмы не будуць перанесены на ваш ^1.</string>
+    <string name="apps_in_app_purchases_disclaimer_some">Некаторыя куплі з праграмы могуць не быць перанесены на ваш ^1.</string>
+    <string name="apps_permissions_described_v2">"Толькі для папулярных, бясплатных праграм iOS® можна знайсці адпаведнікі сярод праграм Android. Большасць пакупак з праграм нельга перанесці. Пасля завяршэння наладжвання вы зможаце знайсці іншыя праграмы ў Краме Play.
+
+Вам, магчыма, спатрэбіцца даць некаторым праграмам папярэдні дазвол на доступ да пэўных функцый ці даных на вашай прыладзе. Дазволы арганізуюцца ў групы дазволаў. Выбіраючы ўсталёўку гэтых праграм, вы прымаеце дазволы, якія ўваходзяць у кожную групу. Апісанне кожнай групы дазволаў прыведзена ніжэй.
+
+Для некаторых праграм можа не патрабавацца прыняцце папярэдніх дазволаў. Падчас вашага карыстання адной з такіх праграм вы можаце даваць ці не даваць індывідуальныя дазволы перад тым, як праграма выкарыстае такі тып даных.
+
+^1"</string>
+    <string name="apps_permissions_disclaimer_v2">Усталёўваючы гэту праграму, вы згаджаецеся з яе дазволамі. <annotation id="apps_permissions_learn_more">Даведацца больш</annotation></string>
+    <string name="audience_selection_done">Гатова</string>
+    <string name="auth_account_already_has_gmail">Ва ўліковым запісе ўжо ёсць Gmail.</string>
+    <string name="auth_account_content_provider_label">Даныя ўліковага запісу Google</string>
+    <string name="auth_account_removed_default_description">Кіраванне прыладай не было завершана. Пачніце нанава і ўвайдзіце ў сістэму паўторна.</string>
+    <string name="auth_account_removed_default_title">Наладжванне скасавана</string>
+    <string name="auth_account_removed_dm_bad_result_description">Не атрымалася завяршыць кіраванне прыладай. Пачніце нанава і ўвайдзіце ў сістэму паўторна.</string>
+    <string name="auth_account_removed_dm_not_supported_description">Для вашага дамена патрабуецца кіраванне мабільнай прыладай, але гэта не падтрымліваецца на гэтай прыладзе. Паспрабуйце выкарыстаць іншы ўліковы запіс.</string>
+    <string name="auth_account_removed_dm_not_supported_title">Кіраванне прыладай не падтрым.</string>
+    <string name="auth_account_removed_dm_setup_failed_description">Кіраванне прыладай не было ўсталявана належным чынам. Пачніце нанава і ўвайдзіце ў сістэму паўторна.</string>
+    <string name="auth_account_removed_dm_setup_failed_title">Праблема ўсталёўкі</string>
+    <string name="auth_account_removed_dm_setup_skipped_description">Кіраванне прыладай не было завершана. Пачніце нанава і ўвайдзіце ў сістэму паўторна.</string>
+    <string name="auth_account_removed_dm_setup_skipped_title">Наладжванне скасавана</string>
+    <string name="auth_account_settings_title">Налады ўліковага запісу</string>
+    <string name="auth_account_setup_title">Уліковы запіс Google</string>
+    <string name="auth_account_state_sync_title">Сінхранізацыя стану ўліковага запісу</string>
+    <string name="auth_allow_button_label">Дазволіць</string>
+    <string name="auth_allow_external_site_access">Адкрыць пастаянны доступ да дадзеных на %s</string>
+    <string name="auth_app_permission_ok_footnote">Працягваючы, вы дазволіце гэтай праграме і Google выкарыстоўваць вашу інфармацыю ў адпаведнасці з іх умовамі абслугоўвання і палітыкай канфідэнцыяльнасці.</string>
+    <string name="auth_authenticator_label">Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Дазволіць уваход</string>
+    <string name="auth_authzen_allow_reset_button_text">Дазволіць скід пароля</string>
+    <string name="auth_authzen_google_logo_label">Лагатып Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Уваход у сістэму ўхвалены</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Уваход у сістэму скасаваны</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Дазволіць уваход у сістэму</string>
+    <string name="auth_authzen_login_challenge_desc_text">Уваходзіце ў сістэму з наступнага месца: %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google спыніў спробу ўваходу.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Няправільны нумар</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">"Дакраніцеся да нумара, які адлюстроўваецца на іншым экране. Так вы ўвойдзеце ў сістэму на сваім камп'ютары."</string>
+    <string name="auth_authzen_login_challenge_title_text">Спрабуеце ўвайсці ў сістэму?</string>
+    <string name="auth_authzen_profile_picture_label">Выява профілю</string>
+    <string name="auth_authzen_pull_account_chooser_desc_text">Выберыце ўліковы запіс, праз які вы спрабуеце ўвайсці ў сістэму:</string>
+    <string name="auth_authzen_pull_account_chooser_title_text">Спрабуеце ўвайсці ў сістэму?</string>
+    <string name="auth_authzen_pull_no_pending_transactions_desc_text">Апавяшчэнняў пра ўваход у сістэму не знойдзена.</string>
+    <string name="auth_authzen_pull_offline_error">Унутраная памылка</string>
+    <string name="auth_authzen_pull_offline_instructions_text">"Націсніце \"Ёсць код?\" на вашым камп'ютары, затым увядзіце:"</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Вы толькі што паспрабавалі ўвайсці ў Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Скід пароля ўхвалены</string>
+    <string name="auth_authzen_recovery_canceled_text">Скід пароля скасаваны</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Дазволіць скід пароля з наступнага месца: %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Нам патрабуецца ваша пацвярджэнне</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google спыніў спробу скіду пароля.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Няправільны нумар</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Дакраніцеся да нумара, які адлюстроўваецца на іншым экране. Так вы скінеце свой пароль.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Дазволіць скід пароля</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Хтосьці запытваў скід пароля вашага ўліковага запісу Google. Google спыніў спробу скіду пароля.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Скід пароля прадухілены</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Вы запытвалі скід свайго пароля з наступнага месца: %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Вы спрабавалі скінуць свой пароль?</string>
+    <string name="auth_authzen_secure_account_button_text">Абараніце свой уліковы запіс</string>
+    <string name="auth_authzen_start_pull_for_transactions_desc_text">Пошук апавяшчэнняў пра ўваход у сістэму…</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_cant_add_work_account_message">Гэты тып уліковага запісу знаходзіцца пад кіраваннем вашай арганізацыі.</string>
+    <string name="auth_captcha_instructions">Увядзіце тэкст, які вы бачыце тут:</string>
+    <string name="auth_captcha_title">Неабходна ўвесці CAPTCHA</string>
+    <string name="auth_common_next_button">Наступны</string>
+    <string name="auth_common_skip">Прапусціць</string>
+    <string name="auth_common_switch_accounts">Змяніць улiк. запiс</string>
+    <string name="auth_communicating_message">Ваша прылада звязваецца з Google, каб захаваць інфармацыю ў вашым уліковым запісе. Гэта можа заняць да 5 хвілін.</string>
+    <string name="auth_confirm_creds_sync_title">Стан уліковых даных</string>
+    <string name="auth_d2d_source_alert_title">Дакраніся і дзейнічай</string>
+    <string name="auth_d2d_source_alert_verify_lock_button">Блакіроўка і праверка</string>
+    <string name="auth_d2d_source_copy_notice">Скапіраваць уліковыя запісы і даныя на вашу іншую прыладу?</string>
+    <string name="auth_d2d_source_lock_bt_off_notice">Пасля праверкі будзе ўключаны Bluetooth, каб вашыя прылады маглі ўзаемадзейнічаць.</string>
+    <string name="auth_d2d_source_lock_bt_on_notice">Пасля праверкі вашыя прылады будуць падключаны праз Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Перад тым як працягваць, ваш экран будзе заблакіраваны і вам трэба будзе разблакіраваць яго, каб прайсці праверку.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Функцыя \"Дакраніся і дзейнічай\" недаступна, бо на гэтай прыладзе няма ўліковых запісаў.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Функцыя \"Дакраніся і дзейнічай\" недаступна, бо на гэтай прыладзе недаступны Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_off_notice">Каб вашыя прылады маглі ўзаемадзейнічаць, будзе ўключаны Bluetooth.</string>
+    <string name="auth_d2d_source_no_lock_bt_on_notice">Для гэтага выкарыстоўваецца Bluetooth.</string>
+    <string name="auth_d2d_source_notification_title">Апер. \"Дакр. і дзейн.\" заверш.</string>
+    <string name="auth_d2d_source_restricted_user_toast">Функцыя \"Аднаўленне дотыкам\" недаступна з профілю карыстальніка з абмежаваннямі.</string>
+    <string name="auth_d2d_source_title">Аднаўленне ўліковых запісаў</string>
+    <string name="auth_d2d_source_unknown_device_name">Невядомая прылада</string>
+    <string name="auth_d2d_target_sorry_alert">На жаль, нешта пайшло не так</string>
+    <string name="auth_d2d_target_tap_progress_message">Каб працягнуць, краніце кнопку \"OK\" на сваёй іншай прыладзе</string>
+    <string name="auth_d2d_target_title">Дакраніся і дзейнічай</string>
+    <string name="auth_d2d_target_unlock_progress_message">Праверце сваю іншую прыладу</string>
+    <string name="auth_d2d_target_wait_progress_message">Атрыманне ўліковых запісаў і даных…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_deny_button_label">Адмовіцца</string>
+    <string name="auth_device_management_download_app_icon">Значок праграмы %s</string>
+    <string name="auth_device_management_download_description">Для гэтага ўліковага запісу патрабуецца кіраванне мабільнай прыладай. Усталюйце праграму ^1, каб забяспечыць выкананне палітык бяспекі, неабходных для ўліковага запісу.</string>
+    <string name="auth_device_management_download_description_kids">Каб дадаць уліковы запіс на гэту прыладу, спачатку ўсталюйце <b>^1</b>". 
+
+^1 дапаможа вам наладзіць гэту прыладу для вашага дзіцяці."</string>
+    <string name="auth_device_management_download_failed_message">Вы па-ранейшаму можаце працягнуць наладку без гэтай праграмы</string>
+    <string name="auth_device_management_download_failed_message_nonskippable">Не атрымалася ўсталяваць Кіраванне прыладай. Гэты ўліковы запіс будзе выдалены. Паспрабуйце яшчэ раз пазней.</string>
+    <string name="auth_device_management_download_failed_title">Немагчыма спампаваць праграму</string>
+    <string name="auth_device_management_download_not_updated_message">Вы па-ранейшаму можаце працягнуць наладку з выкарыстаннем бягучай версіі</string>
+    <string name="auth_device_management_download_paused">Прыпынена</string>
+    <string name="auth_device_management_download_progress">Спампоўка…</string>
+    <string name="auth_device_management_download_skip_message">Для гэтага ўліковага запісу патрабуецца кіраванне прыладай. Працягнуць без яго?</string>
+    <string name="auth_device_management_download_skip_message_nonskippable">Каб дадаць гэты ўліковы запіс, патрабуецца кіраванне прыладай. Вы хочаце пачаць нанава з другога ўліковага запісу?</string>
+    <string name="auth_device_management_go_back">Вярнуцца назад</string>
+    <string name="auth_device_management_screenlock_description">Каб атрымаць доступ да вашага працоўнага ўліковага запісу на гэтай прыладзе, вам неабходна наладзіць блакіроўку экрана. Такая палітыка вашай арганізацыі ў дачыненні да мабільных прылад.</string>
+    <string name="auth_device_management_screenlock_skip_message">Для гэтага ўліковага запісу патрабуецца такі тып бяспекі, як блакіроўка экрана. Вы хочаце пачаць нанава з іншага ўліковага запісу?</string>
+    <string name="auth_device_management_start_description">Для гэтага ўліковага запісу патрабуецца кіраванне мабільнай прыладай. Калі вы дакраняцеся да кнопкі \"Далей\", праграма ^1 дапаможа вам забяспечыць выкананне палітык бяспекі, неабходных для ўліковага запісу.</string>
+    <string name="auth_device_management_start_description_kids">Каб дадаць уліковы запіс на гэту прыладу, выкарыстайце <b>^1</b>". 
+
+^1 дапаможа вам наладзіць гэту прыладу для вашага дзіцяці."</string>
+    <string name="auth_device_management_title">Кіраванне прыладай</string>
+    <string name="auth_device_management_update_description">Для гэтага ўліковага запісу патрабуецца кіраванне мабільнай прыладай. У мэтах выканання палітык бяспекі, звязаных з уліковым запісам, вы павінны ўсталяваць больш новую версію праграмы ^1.</string>
+    <string name="auth_device_management_update_description_kids">Каб дадаць уліковы запіс на гэту прыладу, спачатку ўсталюйце апошнюю версію <b>^1</b>". 
+
+^1 дапаможа вам наладзіць гэту прыладу для вашага дзіцяці."</string>
+    <string name="auth_dismiss_button_label">Адхіліць</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не выкарыстоўвае Gmail.</string>
+    <string name="auth_error_account_disabled">"Гэты ўліковы запіс быў адключаны. 
+
+(Каб атрымаць падрабязную інфармацыю, наведайце старонку http://google.com/accounts з вэб-браўзера)."</string>
+    <string name="auth_error_account_not_verified">"Не пацверджаная сапраўднасць гэтага ўліковага запісу. Каб зрабiць гэта, праверце сваю электронную пошту і перайдзіце па спасылцы. 
+
+(Каб аднавіць дадзеныя ўліковага запісу, перайдзіце на http://www.google.com/accounts/recovery на сваiм камп'ютары)."</string>
+    <string name="auth_error_bad_password">Пароль занадта ненадзейны або ўтрымлiвае недапушчальныя сімвалы. Паўтарыце спробу.</string>
+    <string name="auth_error_bad_username">Несапраўднае імя карыстальніка.</string>
+    <string name="auth_error_generic_server_error">"Узнікла праблема сувязі з серверамі Google. 
+
+Паўтарыце спробу пазней."</string>
+    <string name="auth_error_invalid_second_factor">Выкарыстоўвайце асобны пароль для праграмы замест звычайнага пароля ад уліковага запісу.</string>
+    <string name="auth_error_login_failed">"Iмя карыстальніка і пароль не супадаюць. Паспрабуйце яшчэ раз.
+
+Каб аднавіць рэгістрацыйныя дадзеныя, перайдзіце на старонку google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Каб атрымаць доступ да ўліковага запісу, трэба ўвайсці ў сістэму ў інтэрнэце. Краніце кнопку \"Далей\", каб запусціць \"Уваход з браўзера\".</string>
+    <string name="auth_error_no_network">"У вас няма падключэння да сеткі. 
+
+Гэта можа быць часовая праблема. Паспрабуйце яшчэ раз або падключыцеся да іншай сеткі Wi-Fi."</string>
+    <string name="auth_error_not_logged_in">Карыстальнік не ўвайшоў.</string>
+    <string name="auth_error_username_unavailable">Імя карыстальніка недаступна.</string>
+    <string name="auth_existing_account_error_text">На гэтай прыладзе Android ужо ёсць улiковы запiс ^1.</string>
+    <string name="auth_existing_account_error_title">Уліковы запіс ужо існуе</string>
+    <string name="auth_factory_reset_protection_recent_password_change_toast">Немагчыма ўвайсці ў прыладу з-за нядаўняй змены пароля. Паўтарыце спробу ўваходу ў сістэму праз 24 гадзіны пасля змены пароля.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content">Функцыі абароны прылады больш не будуць працаваць.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_content_by_mp">Перамяшчэнне апошняга ўліковага запісу Google з вашага асабістага профілю на прыладзе прывядзе да адключэння функцый абароны ад крадзяжу. Пазней вы можаце дадаць яшчэ адзін уліковы запіс на прыладу, каб уключыць іх зноў.</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title">Вы ўпэўненыя?</string>
+    <string name="auth_factory_reset_protection_remove_account_confirmation_title_by_mp">Перамясціць уліковы запіс у Рабочы профіль?</string>
+    <string name="auth_factory_reset_protection_unknown_error_toast">Немагчыма ўвайсці ў прыладу з-за невядомай памылкі. Паспрабуйце іншы ўліковы запіс або паўтарыце спробу ўваходу ў сістэму праз 24 гадзіны.</string>
+    <string name="auth_factory_reset_protection_wrong_account_toast">Увайдзіце ў сістэму, выкарыстоўваючы адзін з уліковых запісаў уладальніка гэтай прылады</string>
+    <string name="auth_field_cant_be_blank">Поле не можа быць пустым.</string>
+    <string name="auth_frp_add_account_no">Не</string>
+    <string name="auth_frp_add_account_prompt">Дадаць ^1 на вашу прыладу зараз? Калі ў вас ёсць іншы ўліковы запіс, вы можаце дадаць яго пазней.</string>
+    <string name="auth_frp_add_account_yes">Так</string>
+    <string name="auth_get_token_bad_auth_work_service_account_message">Не ўдалося атрымаць доступ да гэтага ўліковага запісу. Пераканайцеся, што ваша прылада адпавядае палажэнням палітыкі бяспекі вашай арганізацыі. Калі гэта памылка не знікне, звярніцеся да адміністратара сваёй арганізацыі.</string>
+    <string name="auth_get_token_bad_auth_work_service_account_title">Памылка ўлік. запісу</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Для вашага дамена патрабуецца кіраванне мабільнай прыладай. Каб забяспечыць выкананне палітык бяспекі для ўліковага запісу карыстальніка  "<b>^1</b> , усталюйце праграму Google Apps Device Policy.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Спампаваць</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" можа ўтрымліваць толькі літары,
+лічбы і кропкі."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не ўтрымлівае ніводнай лiтары.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> утрымлівае менш за 6 або больш за 30 сімвалаў.</string>
+    <string name="auth_gls_is_not_available">Імя карыстальніка <b>^1</b> недаступнае.</string>
+    <string name="auth_gls_name_checking_info_title">Праверка інфармацыі…</string>
+    <string name="auth_gls_sync_item_title">Сінхранізаваць %s</string>
+    <string name="auth_gls_third_party_activity_download_message">" Уліковы запіс  "<b>^1</b> павінны быць дададзены на прыладу або ў рабочы профіль пад кіраваннем вашай арганізацыі. Каб зрабіць гэта, прытрымлівайцеся інструкцый вашага ІТ-адміністратара.</string>
+    <string name="auth_google_title_logo">Лагатып Google</string>
+    <string name="auth_invalid_login_character">Недапушчальны знак. Дазволеныя толькі лічбы 0-9, літары алфавіту (a-z, A-Z) і кропкі.</string>
+    <string name="auth_invalid_password_character">Няправільны сімвал у паролі.</string>
+    <string name="auth_invalid_username">Несапраўднае імя карыстальніка.</string>
+    <string name="auth_kids_setup_wizard_services_agreement">Працягваючы, вы згаджаецеся, што гэта прылада таксама можа аўтаматычна спампоўваць і ўсталёўваць абнаўленні і праграмы ад Google, вашага аператара і вытворцы гэтай прылады, магчыма, з дапамогай сотавай перадачы даных. Некаторыя з гэтых праграм могуць прапаноўваць куплі з праграм. Вы можаце выдаліць гэтыя праграмы ў любы час.</string>
+    <string name="auth_kids_setup_wizard_services_automatic_storage_manager"><b>Вызваліце месца, калі сховішча прылады амаль запоўнена,</b> шляхам выдалення некаторых даных з гэтай прылады, напрыклад фота і відэа, для якіх створаны рэзервовыя копіі.</string>
+    <string name="auth_kids_setup_wizard_services_backup"><b>Аўтаматычна стварайце рэзервовыя копіі даных прылады</b> (такіх як паролі Wi-Fi і гісторыя выклікаў) і даных праграм (напрыклад, налад і файлаў, якія захоўваюцца праграмамі) на Дыску Google вашага дзіцяці.</string>
+    <string name="auth_kids_setup_wizard_services_backup_dialog_text">"Калі вы ўключаеце аўтаматычнае рэзервовае капіраванне, даныя прылады і праграм перыядычна захоўваюцца ў прыватнай папцы на Дыску Google. Даныя праграм могуць азначаць любыя даныя, захаваныя праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыйна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фота.
+
+Даныя рэзервовай копіі не будуць улічвацца ў лік квоты сховішча Дыска вашага дзіцяці. Рэзервовыя копіі вялікіх файлаў або файлаў, якія распрацоўшчыкі вырашылі выключыць з абслугоўвання, стварацца не будуць."</string>
+    <string name="auth_kids_setup_wizard_services_backup_v26"><b>Аўтаматычна стварайце рэзервовыя копіі даных прылады</b> (такіх як паролі Wi-Fi, SMS-паведамленні і гісторыя выклікаў), налад і даных праграм (напрыклад, налад і файлаў, якія захоўваюцца праграмамі) на Дыску Google вашага дзіцяці.</string>
+    <string name="auth_kids_setup_wizard_services_description">Як бацька вы можаце ў любы час уключыць або выключыць гэтыя сэрвісы для ўліковага запісу вашага дзіцяці. Даныя будуць выкарыстоўвацца ў адпаведнасці з <annotation link="google_privacy">палітыкамі</annotation>" Google.
+
+Калі вы хочаце даведацца больш, вы можаце дакрануцца да кожнага сэрвісу."</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing"><b>Выкарыстоўвайце сэрвіс вызначэння месцазнаходжання Google, каб дапамагчы праграмам</b> вызначаць месцазнаходжанне вашага дзіцяці. Ананімныя даныя пра месцазнаходжанне будуць адпраўляцца ў Google пры ўключэнні гэтай прылады.</string>
+    <string name="auth_kids_setup_wizard_services_location_sharing_details">"Сэрвіс вызначэння месцазнаходжання Google выкарыстоўвае такія крыніцы, як Wi‑Fi і сотавыя сеткі, каб дапамагчы разлічыць месцазнаходжанне гэтай прылады больш хутка і дакладна. Сэрвіс актыўны, калі налада гэтай прылады \"Вызначэнне месцазнаходжання\" ўключана і знаходзіцца ў рэжыме, які выкарыстоўвае Wi‑Fi або мабільныя сеткі для разліку месцазнаходжання: напрыклад, \"Высокая дакладнасць\" або \"Эканомія зараду\" (\"Энергазберажэнне\").
+
+Каб выключыць гэты сэрвіс:
+
+"<li>Выключыце галоўную наладу \"Вызначэнне месцазнаходжання\" на гэтай прыладзе.</li>"
+
+"<li>Пакіньце галоўную наладу \"Вызначэнне месцазнаходжання\" ўключанай і выберыце рэжым, які выкарыстоўвае толькі GPS, які часам называюць \"Толькі прылада\".</li></string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting"><b>Дапамажыце палепшыць свой вопыт выкарыстання Android</b> шляхам аўтаматычнай адпраўкі даных пра дыягностыку, выкарыстанне прылады і праграм у Google. Гэта не будзе выкарыстоўвацца, каб ідэнтыфікаваць асобу вашага дзіцяці, і дапаможа павялічыць рэсурс акумулятара, стабільнасць праграм, падключэнне да сеткі і многае іншае.</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_details">"Гэта агульная інфармацыя пра вашу прыладу і тое, як яна выкарыстоўваецца (напрыклад, узровень зараду акумулятара, выкарыстанне праграм і падключэнне да сеткі). Гэтыя даныя будуць выкарыстоўвацца для паляпшэння прадуктаў і сэрвісаў кампаніі Google для ўсіх. Пэўная агрэгаваная інфармацыя таксама дапаможа партнёрам, такім як распрацоўшчыкі Android, паляпшаць свае праграмы і прадукты.
+
+Адключэнне гэтай функцыі не ўплывае на здольнасць гэтай прылады адпраўляць інфармацыю, неабходную для працы асноўных сэрвісаў, такіх як абнаўленне сістэмы і бяспека."</string>
+    <string name="auth_kids_setup_wizard_services_usage_reporting_dialog_text_v23">"Гэта агульная інфармацыя пра вашу прыладу і тое, як, як яна выкарыстоўваецца (напрыклад, узровень зараду акумулятара, выкарыстанне праграм і падключэнне да сеткі). Гэтыя даныя будуць выкарыстоўвацца для паляпшэння прадуктаў і сэрвісаў кампаніі Google для ўсіх мэтавых аўдыторый. Пэўная агрэгаваная інфармацыя таксама дапаможа такім партнёрам, як распрацоўшчыкі Android, паляпшаць свае праграмы і прадукты.
+
+Адключэнне гэтай функцыі не ўплывае на здольнасць гэтай прылады адпраўляць інфармацыю, неабходную для працы асноўных сэрвісаў, такіх як абнаўленні сістэмы і бяспека.
+
+Вы можаце кіраваць гэтай функцыяй ў раздзеле \"Налады > Google\". Выберыце ў меню \"Выкарыстанне і дыягностыка\"."</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Уведзены няправільны пароль, або ваш уліковы запіс быў зменены. Увядзіце пароль паўторна. Калі вы забылі свой пароль і вам трэба аднавіць свой уліковы запіс, націсніце <annotation id="help_url">тут</annotation>.</string>
+    <string name="auth_login_activity_task_title">Уваход…</string>
+    <string name="auth_login_activity_title">Увайсцi</string>
+    <string name="auth_login_task_title">Уваход у сістэму</string>
+    <string name="auth_login_title">Увядзіце адрас электроннай пошты і пароль</string>
+    <string name="auth_minutemaid_ssl_error">Узнікла праблема падчас падключэння да %s.</string>
+    <string name="auth_network_unreliable_help">Гэта можа быць часовая праблема, або вашая прылада Android не падрыхтаваная для службаў перадачы дадзеных. Калі гэта будзе працягвацца, звярніцеся ў службу дапамогі.</string>
+    <string name="auth_next_button_label">Далей</string>
+    <string name="auth_no_network">Няма падключэння да сеткі.</string>
+    <string name="auth_no_network_help">Гэта можа быць часовая праблема, або вашу прыладу Android немагчыма выкарыстоўваць, каб перадаваць дадзеныя. Паспрабуйце яшчэ раз пры падлучэнні да сеткі мабільнага аператара або пры падлучэнні да сеткі Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Гэта можа быць часовая праблема. Паўтарыце спробу або падлучыцеся да іншай сеткі Wi-Fi.</string>
+    <string name="auth_otp_error">Падчас генерацыі кода бяспекі ўзнікла праблема.</string>
+    <string name="auth_otp_explained_paragraph">Калі вы забылі свой пароль ці ў вашым спосабе ўваходу ў сістэму нешта змянілася, Google можа запытаць код бяспекі для абароны вашага ўліковага запісу. Выкарыстайце яго зараз ці вярніцеся, каб атрымаць новы.</string>
+    <string name="auth_otp_header_message">Калі выкарыстоўваць гэты код для ўваходу ў сістэму</string>
+    <string name="auth_otp_help">Даведка і водгукі</string>
+    <string name="auth_otp_no_accounts_available_message">Няма ўліковага запісу, наладжанага на гэтай прыладзе.</string>
+    <string name="auth_otp_progress_dialog_message">Генерацыя кода бяспекі.</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_plus_audience_selection_description_acl">АБАГУЛІЦЬ З</string>
+    <string name="auth_plus_failure_new_account_text">Ваш уліковы запіс Google быў створаны, але запыт на далучэнне да Google+ не прайшоў. Паспрабуйце пазней адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_plus_failure_text">Ваш запыт на далучэнне да Google+ не прайшоў. Паспрабуйце яшчэ раз адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_plus_failure_title">Стварыце профіль Google+ пазней</string>
+    <string name="auth_plus_info_fragment_app_name">%s запытвае:</string>
+    <string name="auth_plus_info_fragment_app_name_with_device" formatted="false">%s з прылады %s запытвае:</string>
+    <string name="auth_plus_scope_fragment_extended_circles_label">Вашы пашыраныя колы</string>
+    <string name="auth_plus_scope_fragment_mixed_label">Выбраныя колы</string>
+    <string name="auth_plus_scope_fragment_only_you_label">Толькі вы</string>
+    <string name="auth_plus_scope_fragment_public_label">Усе ў інтэрнэце</string>
+    <string name="auth_plus_scope_fragment_your_circles_label">Вашы колы</string>
+    <string name="auth_relogin_activity_title">Увядзіце пароль яшчэ раз</string>
+    <string name="auth_remove_account_start_over">Пачаць нанава</string>
+    <string name="auth_scope_more_details">Дадатковая iнфармацыя</string>
+    <string name="auth_server_error">Праблема звароту да сервераў Google.</string>
+    <string name="auth_server_error_help">Паўтарыце спробу пазней.</string>
+    <string name="auth_setup_wizard_account_added_activity_title">Уліковы запіс дададзены</string>
+    <string name="auth_setup_wizard_account_added_description">Ваш уліковы запіс быў дададзены. Цяпер трэба выбраць параметры Службаў Google</string>
+    <string name="auth_setup_wizard_back_button_label">Назад</string>
+    <string name="auth_setup_wizard_next_button_label">Далей</string>
+    <string name="auth_setup_wizard_services_activity_title">Сэрвісы Google</string>
+    <string name="auth_setup_wizard_services_agreement">Працягваючы, вы згаджаецеся, што гэта прылада таксама можа аўтаматычна спампоўваць і ўсталёўваць абнаўленні і праграмы ад Google, вашага аператара і вытворцы прылады, магчыма, з дапамогай сотавай перадачы даных. Некаторыя з гэтых праграм могуць прапаноўваць куплі з праграм. Вы можаце выдаліць гэтыя праграмы ў любы час.</string>
+    <string name="auth_setup_wizard_services_agreement_dialog_text">Для выдалення праграм перайдзіце ў раздзел \"Налады > Праграмы\" або \"Менеджар праграм\". Затым дакраніцеся да праграмы, якую вы хочаце выдаліць (магчыма, трэба будзе правесці направа або налева, каб знайсці праграму). Затым націсніце \"Выдаліць\" або \"Адключыць\".</string>
+    <string name="auth_setup_wizard_services_agreement_korea">Гэтым вы таксама даяце сваю згоду і дазвол на тое, каб праграмы Google атрымлівалі доступ да інфармацыі і функцый вашай прылады. Для атрымання больш падрабязнай інфармацыі пра выкарыстанне гэтых дазволаў наведайце <annotation link="app_permissions">гэту старонку</annotation>.</string>
+    <string name="auth_setup_wizard_services_agreement_title">Усталёўвайце абнаўленні і праграмы</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager">Калі сховішча вашага тэлефона амаль запоўнена, вы можаце вызваліць месца шляхам выдалення некаторых даных, напрыклад фота і відэа, для якіх створаны рэзервовыя копіі.</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_details">Калі вы падключаны, вы ўсё яшчэ можаце атрымаць доступ да гэтых даных. Вы можаце кіраваць гэтай функцыяй, а таксама тым, што выдаляецца, у меню \"Налады > Сховішча > Разумнае сховішча\".</string>
+    <string name="auth_setup_wizard_services_automatic_storage_manager_title">Вызваліць месца</string>
+    <string name="auth_setup_wizard_services_backup">Лёгка аднаўляйце даныя або пераключайцеся паміж тэлефонамі ў любы час. Рэзервовыя копіі ствараюцца для праграм, даных праграм і налад прылад (у тым ліку пароляў Wi‑Fi).</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text">"Даныя праграм могуць азначаць любыя даныя, захаваныя праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыйна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фота.
+
+Даныя рэзервовай копіі не будуць улічвацца ў квоце сховішча на Дыску.
+
+Гэты сэрвіс можна адключыць у Наладах."</string>
+    <string name="auth_setup_wizard_services_backup_dialog_text_with_photos">"Даныя праграм могуць азначаць любыя даныя, захаваныя праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыйна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фота.
+
+Фота і відэа з гэтай прылады сінхранізуюцца з Google Фота, каб вы маглі рэдагаваць, выдаляць ці абагульваць іх з любой прылады. Па змаўчанні фота і відэа спампоўваецца ў поўнай раздзяляльнасці.
+
+Даныя рэзервовага капіравання не будуць улічвацца ў квоце сховішча на Дыску.
+
+Гэты сэрвіс можна адключыць у Наладах."</string>
+    <string name="auth_setup_wizard_services_backup_title">Рэзервовае капіраванне на Дыск Google</string>
+    <string name="auth_setup_wizard_services_backup_v23">Лёгка аднаўляйце даныя або пераключайцеся паміж тэлефонамі ў любы час. Рэзервовыя копіі ствараюцца для праграм, даных праграм, гісторыі выклікаў, кантактаў і налад прылад (у тым ліку пароляў Wi‑Fi і дазволаў).</string>
+    <string name="auth_setup_wizard_services_backup_v26">Лёгка аднаўляйце даныя або пераключайцеся паміж тэлефонамі ў любы час. Рэзервовыя копіі ствараюцца для праграм, даных праграм, гісторыі выклікаў, кантактаў, налад прылад (у тым ліку пароляў Wi‑Fi і дазволаў) і SMS.</string>
+    <string name="auth_setup_wizard_services_backup_v26_with_photos">Лёгка аднаўляйце даныя або пераключайцеся паміж тэлефонамі ў любы час. Рэзервовыя копіі ствараюцца для праграм, даных праграм, гісторыі выклікаў, кантактаў, налад прылад (у тым ліку пароляў Wi‑Fi і дазволаў), фота, відэа і SMS. Фота і відэа сінхранізуюцца з вашым уліковым запісам Google і могуць выкарыстоўвацца ў розных сэрвісах.</string>
+    <string name="auth_setup_wizard_services_description">Краніце, каб даведацца больш пра кожны сэрвіс, напрыклад пра тое, як вы потым зможаце ўключаць ці выключаць яго. Даныя будуць выкарыстоўвацца ў адпаведнасці з <annotation link="google_privacy">Палітыкай прыватнасці</annotation> Google.</string>
+    <string name="auth_setup_wizard_services_instant_apps_learn_more">"Звесткі пра праграму, у тым ліку пра куплі з праграмы, можна знайсці ў Краме Play. Даныя і налады праграм сінхранізуюцца з прыладамі, з якіх быў выкананы ўваход у ваш уліковы запіс Google. 
+
+Выкарыстанне імгненных праграм рэгулюецца "<a href="https://play.google.com/about/play-terms.html">Умовамі абслугоўвання Google Play</a>". 
+"<a href="https://support.google.com/googleplay/?p=instant_apps">Даведацца больш</a>.</string>
+    <string name="auth_setup_wizard_services_instant_apps_summary">Калі вы дакранаецеся да спасылкі, Google Play правярае, ці існуе імгненная праграма, і запускае яе без усталёўкі. Імгненныя праграмы захоўваюцца на вашай прыладзе часова.</string>
+    <string name="auth_setup_wizard_services_instant_apps_title">Выкарыстоўвайце праграмы без усталёўкі</string>
+    <string name="auth_setup_wizard_services_location_sharing">Выкарыстоўвайце сэрвіс вызначэння месцазнаходжання Google, каб дапамагчы праграмам вызначаць ваша месцазнаходжанне. Ананімныя даныя пра месцазнаходжанне будуць адпраўляцца ў Google пры ўключэнні прылады.</string>
+    <string name="auth_setup_wizard_services_location_sharing_details">"Сэрвіс вызначэння месцазнаходжання Google выкарыстоўвае такія крыніцы, як Wi‑Fi і сотавыя сеткі, каб дапамагчы разлічыць месцазнаходжанне гэтай прылады больш хутка і дакладна. Сэрвіс актыўны, калі налада гэтай прылады \"Вызначэнне месцазнаходжання\" ўключана і знаходзіцца ў рэжыме, які выкарыстоўвае Wi‑Fi або мабільныя сеткі для разліку месцазнаходжання: напрыклад, \"Высокая дакладнасць\" або \"Эканомія зараду\" (\"Энергазберажэнне\").
+
+Каб выключыць гэты сэрвіс:
+
+"<li>Выключыце галоўную наладу \"Вызначэнне месцазнаходжання\" на сваёй прыладзе.</li>"
+
+"<li>Пакіньце галоўную наладу \"Вызначэнне месцазнаходжання\" ўключанай і выберыце рэжым, які выкарыстоўвае толькі GPS, які часам называюць \"Толькі прылада\".</li></string>
+    <string name="auth_setup_wizard_services_location_sharing_title">Дапамагаць праграмам вызначаць месцазн.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan">Дазволіць праграмам і сэрвісам шукаць сеткі Wi‑Fi, нават калі Wi-Fi выключаны.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_dialog_text">Вы можаце выключыць гэта ў наладах вызначэння месцазнаходжання.</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_title">Павысіць дакладнасць месцазнаходжання</string>
+    <string name="auth_setup_wizard_services_location_wireless_scan_v23">Дазволіць праграмам і сэрвісам шукаць сеткі Wi‑Fi і Bluetooth, нават калі гэтыя налады выключаны.</string>
+    <string name="auth_setup_wizard_services_play">Трымаць мяне ў курсе навін і прапаноў ад Google Play.</string>
+    <string name="auth_setup_wizard_services_section_backup_and_storage">Рэзервовае капіраванне і захоўванне</string>
+    <string name="auth_setup_wizard_services_section_device_maintenance">Абслугоўванне прылады</string>
+    <string name="auth_setup_wizard_services_section_location">Месцазнаходжанне</string>
+    <string name="auth_setup_wizard_services_tos">Калі вы працягнеце, вы таксама згадзіцеся з <annotation link="tos">Умовамі абслугоўвання Google</annotation>.</string>
+    <string name="auth_setup_wizard_services_tos_germany">Пры выкарыстанні гэтай прылады мы прытрымліваемся нашай <annotation link="google_privacy">Палітыкі прыватнасці</annotation>, ўжываюцца таксама <annotation link="tos">дадатковыя ўмовы</annotation>.</string>
+    <string name="auth_setup_wizard_services_usage_reporting">Дапамажыце палепшыць Android, дазволіўшы аўтаматычна адпраўляць даныя пра дыягностыку, выкарыстанне прылады і праграм у Google. Гэта дапаможа павялічыць рэсурс акумулятара, стабільнасць праграм, падключэнне да сеткі і многае іншае. Калі вы ўключылі дадатковую наладу \"Дзейнасць у інтэрнэце і праграмах\", гэта інфармацыя будзе захоўвацца ў вашым уліковым запісе, каб вы маглі кіраваць ёй у раздзеле \"Мая дзейнасць\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_details">"Гэта агульная інфармацыя пра гэту прыладу і пра тое, як вы яе выкарыстоўваеце. Гэтыя даныя будуць выкарыстоўвацца для паляпшэння прадуктаў і сэрвісаў кампаніі Google для ўсіх. Пэўная агрэгаваная інфармацыя таксама дапаможа партнёрам, такім як распрацоўшчыкі Android, паляпшаць свае праграмы і прадукты.
+
+Адключэнне гэтай функцыі не ўплывае на здольнасць вашай прылады адпраўляць інфармацыю, неабходную для працы асноўных сэрвісаў, такіх як абнаўленне сістэмы і бяспека."</string>
+    <string name="auth_setup_wizard_services_usage_reporting_my_activity_settings">Вы можаце мяняць налады раздзела \"Мая дзейнасць\" тут: myactivity.google.com.</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings">Вы можаце кіраваць гэтай функцыяй у Наладах Google. Выберыце пункт меню \"Выкарыстанне і дыягностыка\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_settings_v23">Вы можаце кіраваць гэтай функцыяй у раздзеле \"Налады > Google\". Выберыце пункт меню \"Выкарыстанне і дыягностыка\".</string>
+    <string name="auth_setup_wizard_services_usage_reporting_title">Адпраўляць даныя пра сістэму</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission">Дазволіць Жывым шпалерам Google адпавядаць вашаму месцазнаходжанню, даючы ім доступ да службы вызначэння месцазнаходжання Google.</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_details">Вы можаце ўключаць і выключаць доступ Жывых шпалераў да службы вызначэння месцазнаходжання Google, пераходзячы ў \"Налады > Праграмы і апавяшчэнні > Звесткі пра праграмы\". У меню з пашырэннем націсніце \"Паказаць сістэмныя даныя > Жывыя шпалеры з данымі\" або \"Жывыя шпалеры: Зямля > Дазволы\".</string>
+    <string name="auth_setup_wizard_services_wallpaper_permission_title">Дазволіць выкарыстоўваць даныя аб месцазнаходжанні для шпалер</string>
+    <string name="auth_setup_wizard_title">Майстар наладкі</string>
+    <string name="auth_show_error_activity_title">Не атрымалася ўвайсцт</string>
+    <string name="auth_show_error_title">Памылка</string>
+    <string name="auth_sign_in_agreement">Уваходзячы, вы згаджаецеся з <annotation id="google_privacy">асноўнай і дадатковай</annotation> палітыкамi прыватнасці <annotation id="android_privacy">Google</annotation>.</string>
+    <string name="auth_sign_in_browser">Уваход з браўзера</string>
+    <string name="auth_sign_in_button_label">Увайсцi</string>
+    <string name="auth_sign_in_with_google_account_short">Увайдзіце ў свой уліковы запіс Google:</string>
+    <string name="auth_skip_button_label">Прапусціць</string>
+    <string name="auth_submission_error_text">Памылка. Паўтарыце спробу.</string>
+    <string name="auth_submission_title">Выбачайце…</string>
+    <string name="auth_try_again_button_label">Паўтарыце спробу</string>
+    <string name="auth_ui_activity_authenticating">Аўтэнтыфікацыя...</string>
+    <string name="auth_ui_activity_title">Уваход у Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Уваход</string>
+    <string name="auth_ui_add_account_title">Наладжванне ўліковага запісу</string>
+    <string name="auth_uncertified_notification_content">Вытворца не сертыфікаваў гэту прыладу</string>
+    <string name="auth_uncertified_notification_description">"Вытворца гэтай прылады выкарыстоўвае праграмы Google, не праходзячы сертыфікацыі гэтай прылады ў Google. 
+
+Несертыфікаваныя прылады могуць быць небяспечнымі і могуць не атрымліваць абнаўленні сістэмы ці праграм. Праграмы і функцыі, напрыклад рэзервовае капіраванне файлаў ці фота, могуць не працаваць належным чынам. 
+
+Для вырашэння гэтай праблемы звяжыцеся з вытворцам вашай прылады. 
+
+Для атрымання дадатковай інфармацыі пра сертыфікаваных партнёраў Google вы можаце наведаць %s."</string>
+    <string name="auth_uncertified_notification_learn_more">Даведацца больш</string>
+    <string name="auth_uncertified_notification_title">Папярэджанне. Несертыфікаваная прылада</string>
+    <string name="auth_username">Электронная пошта</string>
+    <string name="auth_work_authenticator_label">Уліковы запіс пад кіраваннем</string>
+    <string name="authorization_dialog">Дыялог аўтарызацыі</string>
+    <string name="auto_restore_summary">Пры пераўсталёўцы праграмы аднавіць налады і даныя, для якіх створаны рэзервовыя копіі</string>
+    <string name="auto_restore_title">Аўтаматычнае аднаўленне</string>
+    <string name="autofill_dataset_password">Выкарыстоўваць пароль для: <b>^1</b></string>
+    <string name="autofill_datatype_address">Адрасы</string>
+    <string name="autofill_datatype_password">Захаваныя паролі</string>
+    <string name="autofill_datatype_payment">Крэдытныя карткі</string>
+    <string name="autofill_datatype_profile">Асабістая інфармацыя</string>
+    <string name="autofill_label">Аўтазапаўненне з дапамогай Google</string>
+    <string name="autofill_optin_line1"><b>Націсніце, і Google запоўніць гэта за вас</b></string>
+    <string name="autofill_optin_line2">З дапамогай звестак, ужо захаваных у Chrome Autofill</string>
+    <string name="autofill_setup_points">"• Google выкарыстоўвае звесткі пра тое, што ў вас на экране, каб вызначыць, да чаго можна прымяніць аўтазапаўненне. 
+• Вы можаце праглядаць сваю інфармацыю для аўтазапаўнення і кіраваць ёй у Наладах."</string>
+    <string name="autofill_setup_summary">Уводзьце паролі, адрасы, крэдытныя карткі і іншую інфармацыю, захаваную ў вашым уліковым запісе, адным дотыкам.</string>
+    <string name="autofill_setup_summary_single_account">Уводзьце паролі, адрасы, крэдытныя карткі і іншую інфармацыю, захаваную ў вашым уліковым запісе (<b>^1</b>), адным дотыкам.</string>
+    <string name="backup_configure_account_default_summary">Зараз рэзервовыя копіі даных не захоўваюцца ні ў адным уліковым запісе</string>
+    <string name="backup_configure_account_title">Рэзервовы ўліковы запіс</string>
+    <string name="backup_data_summary">Рэзервовае капіраванне даных праграм, пароляў Wi-Fi і іншых налад на Дыск Google</string>
+    <string name="backup_data_summary_full">"Аўтаматычна ствараць рэзервовыя копіі даных прылады (напрыклад, пароляў Wi-Fi і гісторыі выклікаў) і даных праграм (напрыклад, налад і файлаў, якія захоўваюцца праграмамі) аддалена.
+
+Калі аўтаматычнае рэзеравовае капіраванне даных уключана, даныя прылады і праграм перыядычна аддалена захоўваюцца. Даныя праграм – гэта любыя даныя, якія захоўваюцца праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыяльна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фатаграфіі."</string>
+    <string name="backup_data_title">Рэзервовае капіраванне на Дыск Google</string>
+    <string name="backup_erase_dialog_message">Спыніць рэзервовае капіраванне пароляў Wi-Fi, закладак, іншых налад і даных праграм, а таксама сцерці ўсе копіі з Дыска Google?</string>
+    <string name="backup_erase_dialog_message_full">Спыніць рэзервовае капіраванне даных прылады (напрыклад, пароляў Wi-Fi і гісторыі выклікаў) і даных праграм (напрыклад, налад і файлаў, якія захоўваюцца праграмамі), а таксама сцерці ўсе копіі з Дыска Google?</string>
+    <string name="backup_erase_dialog_title" />
+    <string name="backup_launch_photos_settings_error">Падчас адкрыцця налад фота ўзнікла памылка</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text">"Калі вы ўключаеце аўтаматычнае рэзервовае капіраванне:
+
+ ● Налады прылады і даныя праграм перыядычна захоўваюцца ў прыватнай папцы ў Google Drive. Даныя праграм – гэта любыя даныя, якія захоўваюцца праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыяльна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фатаграфіі.
+
+ Рэзервовыя копіі вялікіх файлаў або файлаў, якія распрацоўшчыкі вырашылі выключыць з абслугоўвання, стварацца не будуць.
+
+ ● Фатаграфіі і відэазапісы з гэтай прылады сінхранізуюцца з вашай бібліятэкай Google Фота, таму вы можаце шукаць, рэдагаваць, выдаляць і абагульваць іх з любой вашай прылады.
+
+ Стандартна запампоўваюцца фатаграфіі і відэа ў поўнай раздзяляльнасці. Яны не ўлічваюцца ў квоце сховішча Дыска.
+
+ ● Кантакты і даныя з гэтай прылады, звязаныя з імі, сінхранізуюцца з Кантактамі Google. Вы можаце карыстацца праграмай \"Кантакты Google\" для пошуку, рэдагавання, выдалення і абагульвання кантактаў з любой вашай прылады.
+
+ ● Запісы календара і даныя з гэтай прылады, звязаныя з імі, сінхранізуюцца з Календаром Google. Вы можаце карыстацца праграмай \"Каляндар Google\" для пошуку, рэдагавання, выдалення і абагульвання кантактаў з любой вашай прылады.
+
+ Даныя рэзервовай копіі не будуць улічвацца ў квоце сховішча Дыска."</string>
+    <string name="backup_opt_in_backup_auth_setup_wizard_services_backup_dialog_text_no_photos">"Калі вы ўключаеце аўтаматычнае рэзервовае капіраванне:
+
+ ● Налады прылады і даныя праграм перыядычна захоўваюцца ў прыватнай папцы на Дыску Google. Даныя праграм могуць азначаць любыя даныя, захаваныя праграмай (у залежнасці ад налад распрацоўшчыка), у тым ліку патэнцыяльна канфідэнцыяльныя даныя, такія як кантакты, паведамленні і фота.
+
+ Рэзервовыя копіі вялікіх файлаў або файлаў, якія распрацоўшчыкі вырашылі выключыць з сэрвісу, стварацца не будуць.
+
+ ● Кантакты і звязаныя даныя з гэтай прылады сінхранізуюцца з Кантактамі Google. Вы можаце карыстацца праграмай Кантакты Google, каб шукаць, рэдагаваць, выдаляць і абагульваць кантакты з любой з вашых прылад.
+
+ ● Запісы календара і звязаныя даныя з гэтай прылады сінхранізуюцца з Календаром Google. Вы можаце карыстацца праграмай Каляндар Google, каб шукаць, рэдагаваць, выдаляць і абагульваць кантакты з любой з вашых прылад.
+
+ Даныя рэзервовых копій не будуць улічвацца ў квоце сховішча на Дыску."</string>
+    <string name="backup_opt_in_backup_description_extra">Каляндар, кантакты, фатаграфіі і відэа сінхранізуюцца з вашым уліковым запісам Google і могуць выкарыстоўвацца ва ўсіх сэрвісах.</string>
+    <string name="backup_opt_in_backup_description_v2">Аўтаматычнае рэзервовае капіраванне дазваляе вам лёгка аднаўляць даныя на сваім тэлефоне ці мяняць тэлефоны ў любы час. <annotation id="backup_opt_in_learn_more">Даведацца больш</annotation></string>
+    <string name="backup_opt_in_backup_disable_confirmation_description_v2">"Будзе выключана рэзервовае капіраванне для наступных элементаў:
+
+Праграмы і даныя праграм
+Гісторыя выклікаў
+Налады прылады
+Фатаграфіі і відэа
+SMS
+
+Календары і кантакты будуць па-ранейшаму сінхранізавацца з уліковым запісам Google. Каб змяніць налады сінхранізацыі пасля завяршэння ўсталёўкі, перайдзіце ў меню \""<annotation id="backup_opt_in_settings_instructions">Налады > Уліковыя запісы > Google</annotation>\".</string>
+    <string name="backup_opt_in_backup_disable_confirmation_title">Выключыць рэзервовае капіраванне?</string>
+    <string name="backup_opt_in_backup_list">"Праграмы і даныя праграм
+Каляндар
+Гісторыя выклікаў
+Кантакты
+Налады прылады (у тым ліку паролі Wi-Fi)
+Фатаграфіі і відэа
+SMS"</string>
+    <string name="backup_opt_in_backup_list_header">Рэзервовае капіраванне ўключае ў сябе:</string>
+    <string name="backup_opt_in_backup_title">Рэзервовае капіраванне на Дыск Google</string>
+    <string name="backup_opt_in_disable_backup">Выключыць рэзервовае капіраванне</string>
+    <string name="backup_photos_update">Калі ласка, абнавіце Google Фота</string>
+    <string name="backup_settings_activity_backup_title">Рэзервовае капіраванне</string>
+    <string name="backup_settings_activity_title">Рэзервовае капіраванне і скід</string>
+    <string name="byteShort">Б</string>
+    <string name="cancel_copy_button_text">Не капіраваць</string>
+    <string name="chrome_privacy_title">Паведамленна аб прыватнасці Chrome</string>
+    <string name="chrome_tos_title">Умовы выкарыстання Chrome</string>
+    <string name="chromesync_custom_passphrase_explanation">Вашыя існуючыя паролі для %1$s былі зашыфраваныя з дапамогай кодавай фразы. Калі вы забылі сваю кодавую фразу, спыніцеся і скіньце сінхранізацыю праз &lt;a href=%2$s>Google Dashboard&lt;/a>.</string>
+    <string name="chromesync_custom_passphrase_title">Кодавая фраза ChromeSync</string>
+    <string name="chromesync_enter_passphrase_hint">Увядзіце кодавую фразу</string>
+    <string name="chromesync_entered_wrong_passphrase">Няправільная кодавая фраза</string>
+    <string name="chromesync_no_browser_found">Не знойдзена браўзераў, каб адкрыць гэту спасылку</string>
+    <string name="close_button_label">Закрыць</string>
+    <string name="cloud_restore_app_picker_button">Аднавіць</string>
+    <string name="cloud_restore_app_picker_description_no_apps">У вашай рэзервовай копіі няма праграм</string>
+    <string name="cloud_restore_app_picker_title">Выберыце праграмы для аднаўлення</string>
+    <string name="common_accept">Прыняць</string>
+    <string name="common_account_chip_add_account_button_label">Выкарыстоўваць іншы ўліковы запіс</string>
+    <string name="common_add_account_button_label">Дадаць уліковы запіс</string>
+    <string name="common_add_account_label">Дадаць уліковы запіс</string>
+    <string name="common_ads_settings_title">"Аб'явы"</string>
+    <string name="common_agree">Згаджаюся</string>
+    <string name="common_app_name">Сэрвісы Google Play</string>
+    <string name="common_asm_preferences_settings_title">Параметры ўліковага запісу</string>
+    <string name="common_asm_privacy_settings_title">Асабістыя даныя і прыватнасць</string>
+    <string name="common_asm_security_settings_title">Уваход у сістэму і бяспека</string>
+    <string name="common_audience_edit_button_label">Рэдагаваць</string>
+    <string name="common_cancel">Скасаваць</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts не можа быць запушчана (памылка дазволу).</string>
+    <string name="common_car_permission_desc">Доступ да службы аўтасэрвісу.</string>
+    <string name="common_car_permission_label">Аўтасэрвіс</string>
+    <string name="common_chips_label_empty_circles">Колаў няма</string>
+    <string name="common_chips_label_extended_circles">Пашыраныя колы</string>
+    <string name="common_chips_label_only_you">Толькі вы</string>
+    <string name="common_chips_label_public">Публічная</string>
+    <string name="common_chips_label_your_circles">Вашыя колы</string>
+    <string name="common_choose_account">Выберыце ўліковы запіс</string>
+    <string name="common_choose_account_for_app_label">Выберыце ўліковы запіс для %1$s</string>
+    <string name="common_choose_account_label">Выберыце ўліковы запіс</string>
+    <string name="common_clear_app_data_menu_item">Выдаліць дадзеныя прыкладанняў</string>
+    <string name="common_connected">Падключана</string>
+    <string name="common_connected_apps_settings_title">Падключаныя праграмы</string>
+    <string name="common_connecting">Ідзе падключэнне…</string>
+    <string name="common_continue">Працягнуць</string>
+    <string name="common_disagree">Не згаджаюся</string>
+    <string name="common_disconnect">Адключыць</string>
+    <string name="common_done">Гатова</string>
+    <string name="common_fitness_settings_title">Google Fit</string>
+    <string name="common_from">Ад:</string>
+    <string name="common_games_settings_title">Play Гульні</string>
+    <string name="common_get_started">Пачаць</string>
+    <string name="common_google">Google</string>
+    <string name="common_google_platform_settings">Google</string>
+    <string name="common_google_play_services_enable_button">Уключыць</string>
+    <string name="common_google_play_services_enable_text">%1$s не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Памылка</string>
+    <string name="common_google_play_services_install_button">Усталяваць</string>
+    <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
+    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
+    <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
+    <string name="common_google_play_services_update_button">Абнавіць</string>
+    <string name="common_google_play_services_update_text">%1$s не будзе працаваць, пакуль вы не абновіце службы Google Play.</string>
+    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s не будзе працаваць без службаў Google Play, якія ў цяперашні час абнаўляюцца.</string>
+    <string name="common_google_play_services_updating_title">Службы Google Play абнаўляюцца</string>
+    <string name="common_google_play_services_wear_update_text">Патрабуецца новая версія служб Google Play. Яна абновіцца аўтаматычна ў бліжэйшы час.</string>
+    <string name="common_google_play_services_wrong_architecture_short_text">Усталяваны службы Google Play з няправільнай архітэктурай.</string>
+    <string name="common_google_play_services_wrong_architecture_text">Службы Google Play былі ўсталяваны з архітэктурай (%1$s), якая адрозніваецца ад архітэктуры вашай прылады (%2$s).</string>
+    <string name="common_google_play_services_wrong_architecture_title">Няправільная архітэктура</string>
+    <string name="common_google_settings">Налады Google</string>
+    <string name="common_google_settings_account">Уліковы запіс</string>
+    <string name="common_google_settings_credentials_title">Разумная блакіроўка для пароляў</string>
+    <string name="common_google_settings_developer">Для распрацоўшчыкаў</string>
+    <string name="common_google_settings_services">Сэрвісы</string>
+    <string name="common_got_it">Зразумела</string>
+    <string name="common_install">Усталяваць</string>
+    <string name="common_learn_more">Даведацца больш</string>
+    <string name="common_list_apps_menu_help">Даведка</string>
+    <string name="common_list_apps_menu_help_and_feedback">Даведка і водгукі</string>
+    <string name="common_loading">Загрузка…</string>
+    <string name="common_location_settings_title">Вызначэнне месцазнаходжання</string>
+    <string name="common_magictether_settings_title">Імгненны рэжым мадэма</string>
+    <string name="common_maps_settings_title">Карты і Лакатар</string>
+    <string name="common_mdm_feature_name">Менеджар прылад Android</string>
+    <string name="common_missing_url_viewer">Няма праграмы прагляду, каб паказаць знешні URL.</string>
+    <string name="common_more_options">Дадатковыя параметры</string>
+    <string name="common_networking_settings_title">Сеткі</string>
+    <string name="common_no_browser_for_restricted_url">Абмежаваны доступ. Браўзераў не знойдзена.</string>
+    <string name="common_no_devices_found">Прылад не знойдзена</string>
+    <string name="common_no_network">Недаступна, бо прылада знаходзіцца ў аўтаномным рэжыме</string>
+    <string name="common_no_thanks">Не, дзякуй</string>
+    <string name="common_not_now">Не зараз</string>
+    <string name="common_off">Выключана</string>
+    <string name="common_ok">OК</string>
+    <string name="common_on">Уключана</string>
+    <string name="common_open_on_phone">Адкрыць на тэлефоне</string>
+    <string name="common_open_source_licenses">Ліцэнзіі на ПЗ з адкрытым зыходным кодам</string>
+    <string name="common_people_settings_title">Кантакты</string>
+    <string name="common_permissions_enable_in_settings">Уключыць у наладах</string>
+    <string name="common_permissions_missing_end">Каб працягнуць, адкрыйце Налады, перайдзіце да пункта Дазволы і задайце дазволы для ўсіх пералічаных элементаў.</string>
+    <string name="common_permissions_missing_end_wearable">"
+
+%1$s
+Каб уключыць, перайдзіце ў раздзел\"
+Налады >
+Дазволы >
+Службы Google Play\""</string>
+    <string name="common_permissions_missing_start">Гэта праграма не будзе працаваць належным чынам, пакуль вы не дазволіце службам Google Play запытваць доступ да наступнага:</string>
+    <string name="common_permissions_open_settings">Адкрыць налады</string>
+    <string name="common_phone">Тэлефон</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_privacy_policy">Палітыка прыватнасці</string>
+    <string name="common_restore">Аднавіць</string>
+    <string name="common_restricted_no_accounts">Няма ўліковых запісаў для выбару</string>
+    <string name="common_retry">Паўтарыць спробу</string>
+    <string name="common_search_settings_title">Пошук</string>
+    <string name="common_security_ootp_setting_title">Код бяспекі</string>
+    <string name="common_security_settings_title">Бяспека</string>
+    <string name="common_send">Адправіць</string>
+    <string name="common_sending">Ідзе адпраўка…</string>
+    <string name="common_set_up_nearby_device_settings_title">Наладжванне прылады паблізу</string>
+    <string name="common_settings">Налады</string>
+    <string name="common_signin_button_text">Увайсцi</string>
+    <string name="common_signin_button_text_long">Увайсці праз Google</string>
+    <string name="common_something_went_wrong">Нешта пайшло не так</string>
+    <string name="common_system_info">Інфармацыя аб сістэме</string>
+    <string name="common_take_photo_label">Зрабіць фота</string>
+    <string name="common_terms_of_service">Умовы абслугоўвання</string>
+    <string name="common_try_again">Паўтарыце спробу</string>
+    <string name="common_turn_on_bluetooth">Уключыць Bluetooth</string>
+    <string name="common_ui_confirm_deleting_button">Выдаліць</string>
+    <string name="common_ui_confirm_deleting_checkbox">Я разумею і хачу выдаліць</string>
+    <string name="common_unknown">Невядома</string>
+    <string name="common_update">Абнавіць</string>
+    <string name="common_url_load_unsuccessful_message">Ваша прылада Android не падключана да службы перадачы даных. Каб прагледзець гэту інфармацыю зараз, наведайце %s з вэб-браўзера.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Ваша прылада Android не падключана да сеткі Wi-Fi. Каб прагледзець гэту інфармацыю зараз, наведайце %s з вэб-браўзера.</string>
+    <string name="common_url_login_notice">Увайсці як %1$s</string>
+    <string name="common_usage_and_diagnostics">Выкарыстанне і дыягностыка</string>
+    <string name="common_yesterday">Учора</string>
+    <string name="confirm_copy_button_text">Капіраваць</string>
+    <string name="contacts_number_device_and_icloud">Кантактаў у iCloud®: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_and_icloud_with_google">Кантакты Google, кантактаў у iCloud®: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_and_sim_with_google">Кантакты Google, кантактаў на SIM-карце: %1$d, лакальных кантактаў: %2$d</string>
+    <string name="contacts_number_device_with_google">Кантакты Google, лакальных кантактаў: %1$d</string>
+    <string name="contacts_number_icloud_with_google">Кантакты Google, кантактаў у iCloud®: %1$d</string>
+    <string name="contacts_number_sim_with_google">Кантакты Google, кантактаў на SIM-карце: %1$d</string>
+    <string name="continue_to_login_heading">Увайдзіце ў сістэму.</string>
+    <string name="continue_to_login_text">Уліковыя даныя атрыманы. Увайдзіце ў сістэму на сваёй першай прыладзе.</string>
+    <string name="copy_confirmation_description">Вы будзеце капіраваць даныя, такія як ваш уліковы запіс Google і праграмы, на ваш новы тэлефон</string>
+    <string name="copy_confirmation_title">Скапіраваць на ваш новы тэлефон?</string>
+    <string name="d2d_app_picker_description_no_apps">Мы не змаглі знайсці ніводнай праграмы</string>
+    <string name="d2d_app_picker_title">Праграмы</string>
+    <string name="d2d_migration_canceled_on_source">Капіраванне скасавана</string>
+    <string name="data_copied_fragment_description">Вашы даныя скапіраваны на ваш новы тэлефон. Вы можаце адключыць кабель.</string>
+    <string name="data_copied_fragment_description_cancel">Вы вырашылі спыніць капіраванне, таму толькі некаторыя даныя былі скапіраваны на ваш новы тэлефон.</string>
+    <string name="data_copied_fragment_description_cancel_no_data">Вы вырашылі спыніць капіраванне, таму нічога не было скапіравана на ваш новы тэлефон.</string>
+    <string name="data_copied_fragment_description_error">Нешта пайшло не так, таму мы не змаглі скапіраваць усё.</string>
+    <string name="data_copied_fragment_description_error_no_data">Нешта пайшло не так, таму мы не змаглі скапіраваць вашы даныя.</string>
+    <string name="data_copied_fragment_no_data_title">Не атрымалася скапіраваць</string>
+    <string name="data_copied_fragment_some_data_title">Некаторыя даныя скапіраваны</string>
+    <string name="data_copied_fragment_title">Даныя скапіраваны</string>
+    <string name="device_backup_title">Рэзервовае капіраванне прылады</string>
+    <string name="device_not_supported_fragment_new_device">Вы падключаны да новага тэлефона. Каб працягваць, падключыцеся зноў да папярэдняга.</string>
+    <string name="device_not_supported_fragment_new_device_title">Падключыцеся зноў да папярэдняга тэлефона</string>
+    <string name="device_not_supported_fragment_no_data_cable">Па гэтым кабелі нельга перадаваць даныя. Падключыцеся зноў, выкарыстаўшы іншы кабель, і паўтарыце спробу.</string>
+    <string name="device_not_supported_fragment_no_data_cable_title">Паспрабуйце выкарыстаць іншы кабель</string>
+    <string name="device_not_supported_fragment_retry_description">Пераканайцеся, што ваш стары тэлефон разблакіраваны, а затым адключыце кабель і падключыце яго зноў</string>
+    <string name="device_not_supported_fragment_something_went_wrong_title">Нешта пайшло не так</string>
+    <string name="device_not_supported_ios_supervised_description">Ваша прылада iPhone® знаходзіцца пад наглядам, таму вам прыйдзецца выбраць іншы спосаб капіравання даных</string>
+    <string name="device_picker_description">Рэзервовыя копіі захоўваюцца на Дыску Google</string>
+    <string name="device_picker_empty">Няма ніводнай рэзервовай копіі, звязанай з %1$s.</string>
+    <string name="device_picker_empty_title">Не знойдзена ніводнай рэзервовай копіі</string>
+    <string name="device_picker_item">Рэзервовая копія %1$s</string>
+    <string name="device_picker_last_used">Апошняе выкарыстанне: ^1</string>
+    <string name="device_picker_skip">Не аднаўляць</string>
+    <string name="device_picker_title">Выберыце рэзервовую копію для аднаўлення</string>
+    <string name="disabled_by_admin_summary_text">Кантралюецца адміністратарам</string>
+    <string name="download_msg_error_invalid">Спампоўка была наладжана няправільна.</string>
+    <string name="download_msg_in_progress">Ідзе спампоўка.</string>
+    <string name="download_msg_not_allowed_space">Не хапае месца для спампоўкі.</string>
+    <string name="download_msg_pending">Гэта спампоўка знаходзіцца ў рэжыме чакання.</string>
+    <string name="download_notification_description">Гэта запытаў %1$s.</string>
+    <string name="download_notification_title">Атрымаць больш даных</string>
+    <string name="drive_backup_account">Рэзервовы ўліковы запіс</string>
+    <string name="drive_backup_apps_in_backup">Даныя праграм, для якіх створаны рэзервовыя копіі</string>
+    <string name="drive_backup_apps_last_backup">Апошняе рэзервовае капіраванне</string>
+    <string name="drive_backup_apps_loading">Ідзе загрузка…</string>
+    <string name="drive_backup_apps_screen_title">Даныя праграм</string>
+    <string name="drive_backup_content_apps_title">Даныя праграм</string>
+    <string name="drive_backup_content_calendar_dialog_message">Падзеі, створаныя ў Календары Google, будуць сінхранізавацца на ўсіх прыладах, якія ўвайшлі ў ваш уліковы запіс Google.</string>
+    <string name="drive_backup_content_calendar_title">Каляндар Google</string>
+    <string name="drive_backup_content_callhistory_dialog_message">Рэзервовае капіраванне ўключае капіраванне даных пра дату і атрымальніка адпраўленых і прынятых выклікаў.</string>
+    <string name="drive_backup_content_callhistory_title">Гісторыя выклікаў</string>
+    <string name="drive_backup_content_contacts_dialog_message">Кантакты, створаныя ў Кантактах Google, будуць сінхранізавацца на ўсіх прыладах, якія ўвайшлі ў ваш уліковы запіс Google.</string>
+    <string name="drive_backup_content_contacts_title">Кантакты Google</string>
+    <string name="drive_backup_content_devicesettings_dialog_message">Рэзервовае капіраванне ўключае капіраванне даных канфігурацыі прылады, напрыклад шпалеры, паролі Wi-Fi і стандартныя праграмы.</string>
+    <string name="drive_backup_content_devicesettings_title">Налады прылады</string>
+    <string name="drive_backup_content_header">Змесціва</string>
+    <string name="drive_backup_content_photos_dialog_message">Ваш асноўны ўліковы запіс для рэзервовага капіравання быў зменены. Вы таксама можаце змяніць уліковы запіс для рэзервовага капіравання Google Фота на %s.</string>
+    <string name="drive_backup_content_photos_dialog_no">АДХІЛІЦЬ</string>
+    <string name="drive_backup_content_photos_dialog_title">Таксама змяніць уліковы запіс для фота і відэа?</string>
+    <string name="drive_backup_content_photos_dialog_yes">ЗМЯНІЦЬ</string>
+    <string name="drive_backup_content_photos_title">Фота і відэа</string>
+    <string name="drive_backup_content_sms_dialog_message">Рэзервовае капіраванне ўключае капіраванне адпраўленых і прынятых паведамленняў. Гэта не адносіцца да MMS-медыя.</string>
+    <string name="drive_backup_content_sms_title">SMS</string>
+    <string name="drive_backup_content_status_dolly_action">Зразумела</string>
+    <string name="drive_backup_content_status_error">Падчас атрымання апошняй даты сінхранізацыі адбылася памылка</string>
+    <string name="drive_backup_content_status_lastsaved">Апошняе рэзервовае капіраванне: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_lastsync">Апошняе рэзервовае капіраванне: %1$tb %1$td, %1$tY %1$tI:%1$tM %1$tp</string>
+    <string name="drive_backup_content_status_never">Чакаецца рэзервовае капіраванне</string>
+    <string name="drive_backup_content_status_sync_adapter_action">Налады сінхранізацыі</string>
+    <string name="drive_backup_content_status_sync_off">Сінхранізацыя АДКЛ.</string>
+    <string name="drive_backup_content_status_updating">Ідзе праверка стану…</string>
+    <string name="drive_backup_disabled_backuplist">"Рэзервовае капіраванне ўключае ў сябе наступнае:
+\u0009- Праграмы і даныя праграм
+\u0009- Гісторыя выклікаў
+\u0009- Налады прылады (у тым ліку паролі Wi-Fi)
+\u0009- Каляндар Google
+\u0009- Кантакты Google
+\u0009- Фота і відэа
+\u0009- SMS-паведмаленні"</string>
+    <string name="drive_backup_disabled_backuplist_no_photos">"Рэзервовае капіраванне ўключае ў сябе наступнае:
+\u0009- Праграмы і даныя праграм
+\u0009- Гісторыя выклікаў
+\u0009- Налады прылады (у тым ліку паролі Wi-Fi)
+\u0009- Каляндар Google
+\u0009- Кантакты Google
+\u0009- SMS-паведамленні"</string>
+    <string name="drive_backup_disabled_by_device_owner">Адключана адміністратарам</string>
+    <string name="drive_backup_disabled_detailedinfo">"Каляндар Google, Кантакты Google, фота і відэа сінхранізуюцца з вашым уліковым запісам Google, іх можна выкарыстоўваць ва ўсіх сэрвісах.
+
+Сінхранізацыя можа быць уключана, нават калі рэзервовае капіраванне выключана. Налады сінхранізацыі можна змяніць у меню \"Налады > Уліковыя запісы > Google\"."</string>
+    <string name="drive_backup_disabled_detailedinfo_no_photos">"Каляндар Google і Кантакты Google сінхранізуюцца з вашым уліковым запісам Google, іх можна выкарыстоўваць ва ўсіх сэрвісах.
+
+Сінхранізацыя можа быць уключана, нават калі рэзервовае капіраванне выключана. Налады сінхранізацыі можна змяніць у меню \"Налады > Уліковыя запісы > Google\"."</string>
+    <string name="drive_backup_disabled_introduction">Аўтаматычнае рэзервовае капіраванне дазваляе вам лёгка аднаўляць даныя на сваім тэлефоне ці мяняць тэлефоны ў любы час.</string>
+    <string name="drive_backup_settings_title">Рэзервовае капіраванне</string>
+    <string name="drive_backup_state">Рэзервовае капіраванне на Дыск Google</string>
+    <string name="drive_backup_state_dialog_message">"Даныя рэзервовых копій гэтай прылады, якія захоўваюцца на Дыску Google, будуць выдалены назаўсёды.
+
+Фота і відэа, рэзервовыя копіі якіх ужо былі створаны, будуць па-ранейшаму даступныя на Дыску Google.
+
+Каляндар Google і Кантакты Google будуць па-ранейшаму сінхранізавацца з вашым уліковым запісам Google. Налады сінхранізацыі можна змяніць у пункце меню \"Налады > Уліковыя запісы > Google\"."</string>
+    <string name="drive_backup_state_dialog_message_no_photos">"Даныя рэзервовых копій гэтай прылады, якія захоўваюцца на Дыску Google, будуць выдалены назаўсёды.
+
+Каляндар Google і Кантакты Google будуць па-ранейшаму сінхранізавацца з вашым уліковым запісам Google. Налады сінхранізацыі можна змяніць у пункце меню \"Налады > Уліковыя запісы > Google\"."</string>
+    <string name="drive_backup_state_dialog_okaction">Адключыць і выдаліць</string>
+    <string name="drive_backup_state_dialog_title">Адключыць і выдаліць рэзервовую копію?</string>
+    <string name="durationDayHour">%1$d сут %2$d гадз</string>
+    <string name="durationDayHours">%1$d сут %2$d гадз</string>
+    <string name="durationDays">%1$d сут</string>
+    <string name="durationHourMinute">%1$d гадз %2$d хв</string>
+    <string name="durationHourMinutes">%1$d гадз %2$d хв</string>
+    <string name="durationHours">%1$d гадз</string>
+    <string name="durationMinute">%1$d хвіліна</string>
+    <string name="durationMinuteSecond">%1$d хв %2$d с</string>
+    <string name="durationMinuteSeconds">%1$d хв %2$d с</string>
+    <string name="durationMinutes">%1$d хв</string>
+    <string name="durationSecond">%1$d секунда</string>
+    <string name="durationSeconds">%1$d с</string>
+    <string name="encryption_warning_fragment_description">"На вашай прыладзе iPhone® уключана шыфраванне рэзервовых копій. Калі вы самі не ўключалі гэту функцыю, магчыма, яе ўключыў ваш IT-адміністратар.
+
+Скапіраваць можна толькі фота, музыку і відэа. Для атрымання дадатковай інфармацыі наведайце "<b>g.co/datatransferhelp</b>.</string>
+    <string name="encryption_warning_fragment_title">Шыфраванне рэзервовых копій</string>
+    <string name="fido_begin_button">ПАЧАЦЬ</string>
+    <string name="fido_ble_device_icon_content_description">Выяўлена прылада Bluetooth</string>
+    <string name="fido_ble_dont_see_your_key_dialog_message">Націсніце кнопку на ключы і ўтрымлівайце яе не менш за 5 секунд, каб пераканацца, што ён знаходзіцца ў рэжыме спалучэння</string>
+    <string name="fido_ble_dont_see_your_key_dialog_positive_button">OК</string>
+    <string name="fido_ble_dont_see_your_key_dialog_title">Нешта пайшло не так</string>
+    <string name="fido_ble_dont_see_your_key_hint">Не бачыце свой ключ?</string>
+    <string name="fido_ble_enable_body">Ваш ключ бяспекі працуе толькі тады, калі Bluetooth на прыладзе ўключаны</string>
+    <string name="fido_ble_enable_title">Уключыць Bluetooth</string>
+    <string name="fido_ble_enable_turn_on_button">УКЛЮЧЫЦЬ</string>
+    <string name="fido_ble_instructions_body">Для выкарыстання большасці ключоў проста дакраніцеся да кнопкі</string>
+    <string name="fido_ble_instructions_title">Дазволіць выкарыстанне вашага ключа бяспекі?</string>
+    <string name="fido_ble_locate_pin_body">PIN-код спалучэння – гэта звычайна 4- або 6-значны лік, ён можа быць пазначаны на заднім боку вашага ключа. Працягніце, калі будзеце гатовыя да ўводу PIN-кода.</string>
+    <string name="fido_ble_locate_pin_continue_button">ПРАЦЯГНУЦЬ</string>
+    <string name="fido_ble_locate_pin_title">Знайдзіце PIN-код вашага ключа для спалучэння Bluetooth %1$s</string>
+    <string name="fido_ble_pair_device_pairing">Ідзе спалучэнне вашага ключа бяспекі…</string>
+    <string name="fido_ble_pair_instructions_body">Спалучыце свой ключ з гэтай прыладай, каб мець магчымасць выкарыстоўваць яго з вашым уліковым запісам.</string>
+    <string name="fido_ble_pair_instructions_title">Гатовыя да спалучэння ключа бяспекі?</string>
+    <string name="fido_ble_pairing_failure_dialog_message">Зноў перавядзіце свой ключ у рэжым спалучэння</string>
+    <string name="fido_ble_pairing_failure_dialog_positive_button">ПАЎТАРЫЦЬ СПРОБУ</string>
+    <string name="fido_ble_pairing_failure_dialog_title">Нешта пайшло не так</string>
+    <string name="fido_ble_pairing_mode_body">Націсніце кнопку на ключы бяспекі і ўтрымлівайце яе не менш за 5 секунд</string>
+    <string name="fido_ble_pairing_mode_title">Увайдзіце ў рэжым спалучэння</string>
+    <string name="fido_ble_select_device_body">Са спіса ніжэй выберыце ключ бяспекі, які хочаце спалучыць з вашай прыладай. Імя можа быць надрукавана на заднім боку ключа.</string>
+    <string name="fido_ble_select_device_title">Выберыце свой ключ бяспекі</string>
+    <string name="fido_cancel_button">Скасаваць</string>
+    <string name="fido_nfc_enable_body">Ваш ключ бяспекі працуе толькі тады, калі NFC на прыладзе ўключаны</string>
+    <string name="fido_nfc_enable_title">Уключыць NFC</string>
+    <string name="fido_nfc_enable_turn_on_button">УКЛЮЧЫЦЬ</string>
+    <string name="fido_nfc_instructions_body">Трымайце ключ вельмі блізка да задняга боку вашай прылады да спынення вібрацыі</string>
+    <string name="fido_nfc_instructions_title">Дазволіць выкарыстанне вашага ключа бяспекі?</string>
+    <string name="fido_pair_another_security_key">Спалучыце яшчэ адзін ключ бяспекі</string>
+    <string name="fido_processing">Ідзе спраўджанне вашага ключа бяспекі…</string>
+    <string name="fido_transport_selection_bluetooth">Выкарыстоўваць ключ бяспекі з Bluetooth</string>
+    <string name="fido_transport_selection_body">Ключы бяспекі працуюць з Bluetooth і NFC. Выберыце, якім чынам вы будзеце выкарыстоўваць свой ключ.</string>
+    <string name="fido_transport_selection_nfc">Выкарыстоўваць ключ бяспекі з NFC</string>
+    <string name="fido_transport_selection_title">Выберыце, як выкарыстоўваць ваш ключ бяспекі</string>
+    <string name="fido_use_ble_instead">Выкарыстоўвайце свой ключ бяспекі з Bluetooth</string>
+    <string name="fido_use_nfc_instead">Выкарыстоўвайце свой ключ бяспекі з NFC</string>
+    <string name="fido_welcome_body">Выкарыстоўванне ключа бяспекі з %1$s дапамагае абараніць вашы асабістыя даныя.</string>
+    <string name="fido_welcome_title">Выкарыстоўвайце свой ключ бяспекі з %1$s</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
+    <string name="fragment_usb_cant_find_adapter">Я не магу знайсці адаптар</string>
+    <string name="fragment_usb_connect_adapter_with_cable_description">"Знайдзіце Quick Switch Adapter у каробцы ^1.
+
+Устаўце кабель у адаптар."</string>
+    <string name="fragment_usb_connect_adapter_with_cable_title">Злучыце кабель з адаптарам</string>
+    <string name="fragment_usb_connect_both_phones_description_v2">Разблакіруйце свой стары тэлефон, потым устаўце адаптар у гэты тэлефон.</string>
+    <string name="fragment_usb_connect_both_phones_title">Злучыце абодва тэлефона</string>
+    <string name="fragment_usb_dialog_cancel_description">Калі вы выкарыстаеце кабель, вы атрымаеце большасць змесціва. Калі кабелі, якія пастаўляліся ў камплекце, не падыходзяць, паспрабуйце выкарыстаць кабель для зарадкі і перадачы даных, які працуе з вашым старым тэлефонам.</string>
+    <string name="fragment_usb_dialog_cancel_title">Скапіраваць даныя іншым спосабам?</string>
+    <string name="fragment_usb_dont_have_cable">У мяне няма кабелю</string>
+    <string name="fragment_usb_dont_have_old_phone">У мяне няма майго старога тэлефона</string>
+    <string name="fragment_usb_find_cable_description">Выкарыстоўвайце кабель, які падыдзе да вашага старога тэлефона, напрыклад ваш кабель для перадачы даных і зарадкі.</string>
+    <string name="fragment_usb_find_cable_title">Знайдзіце правільны кабель</string>
+    <string name="fragment_usb_initial_description">Перанясіце даныя з вашага старога тэлефона на гэты ^1.</string>
+    <string name="fragment_usb_initial_title">Давайце скапіруем вашы даныя</string>
+    <string name="fragment_usb_legacy_description">"Гэта самы хуткі спосаб перанесці большасць даных.
+
+Знайдзіце адаптар, які пастаўляўся ў камплекце, і ўстаўце яго ў новы тэлефон. Злучыце тэлефоны з дапамогай кабелю, а затым разблакіруйце свой стары тэлефон."</string>
+    <string name="fragment_usb_other_ways">Скапіраваць без кабелю</string>
+    <string name="fragment_usb_plug_cable">Устаўце кабель у стары тэлефон</string>
+    <string name="fragment_waiting_title">Секунду…</string>
+    <string name="gigabyteShort">ГБ</string>
+    <string name="google_app_permissions_title">Дазволы праграм</string>
+    <string name="google_contacts_static_text">Кантакты Google будуць сінхранізаваны</string>
+    <string name="google_contacts_static_text_off">Кантакты Google усё роўна будуць сінхранізаваны</string>
+    <string name="google_legal_title">Прававая інфармацыя Google</string>
+    <string name="google_play_tos_title">Умовы выкарыстання Google Play</string>
+    <string name="google_plus_privacy_policy_title">Палітыка прыватнасці Google Плюс</string>
+    <string name="google_privacy_policy_title">Палітыка прыватнасці Google</string>
+    <string name="google_terms_of_service_title">Умовы абслугоўвання Google</string>
+    <string name="header_set_backup_account">Усталяваць рэзервовы ўлiковы запiс</string>
+    <string name="i_message_dialog_message">"Каб працягваць атрымліваць SMS-паведамленні ад карыстальнікаў iPhone®, вам трэба выключыць iMessage®.
+
+Наведайце "<b>g.co/iMessageHelp</b> для атрымання інструкцый.</string>
+    <string name="instant_apps_settings_title">Імгненныя праграмы</string>
+    <string name="instructions_fragment_title">Працягвайце на сваім іншым тэлефоне</string>
+    <string name="ios_connected_fragment_description">"На наступным экране вы можаце ўвайсці ў свой уліковы запіс Google або стварыць новы ўліковы запіс.
+
+Калі вы не дадасце свой уліковы запіс Google, падзеі iOS Calendar® не будуць перададзены."</string>
+    <string name="ios_message_attachment_explanation">[Далучэнні да паведамленняў знаходзяцца ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachment_failed_explanation">[Некаторыя далучэнні не атрымалася скапіраваць. Далучэнні, якія былі перададзены, можна знайсці ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachment_placeholder">[Далучэнне захавана ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_message_attachments_placeholder">[Далучэнні захаваны ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\"]</string>
+    <string name="ios_migration_default_calendar_title">Каляндар</string>
+    <string name="ios_migration_other_contact_relation">Іншае</string>
+    <string name="ios_photos_dialog_message">"Фатаграфіі, якія захоўваюцца ў iCloud®, нельга скапіраваць.
+
+Каб перанесці гэтыя фота на ваш ^1, усталюйце праграму Google Фота на сваёй прыладзе iPhone® і ўключыце параметр \"Рэзервовае капіраванне і сінхранізацыя\". Наведайце "<b>g.co/datatransferhelp</b> для атрымання дадатковых інструкцый.</string>
+    <string name="kilobyteShort">КБ</string>
+    <string name="list_item_add_account">Дадаць уліковы запіс</string>
+    <string name="lockscreen_smartdevice_action_next">Далей</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_description">Разблакіруйце, каб працягнуць наладжванне свайго тэлефона</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_text">У мэтах бяспекі выкарыстайце свой сродак блакіроўкі экрана, каб працягнуць наладжванне</string>
+    <string name="lockscreen_smartdevice_d2d_lockscreen_verification_title">Выкарыстайце свой сродак блакіроўкі экрана</string>
+    <string name="manage_data_label">Уліковы запіс Google</string>
+    <string name="master_clear_title">Скід да заводскіх налад</string>
+    <string name="megabyteShort">МБ</string>
+    <string name="netrec_module_display_name">Рэкамендацыі сеткі</string>
+    <string name="network_recommendation_service_label">Google</string>
+    <string name="notification_channel_group_name">Паведамленні Wi‑Fi</string>
+    <string name="notification_channel_network_available">Сетка даступная</string>
+    <string name="notification_channel_wakeup_name">Wi-Fi уключаны</string>
+    <string name="notification_content_text_set_backup_account">Трэба наладзiць рэзервовы ўлiковы запiс</string>
+    <string name="notification_content_title_set_backup_account">Рэзервовая копія</string>
+    <string name="notification_ticker">Доступ запытаны</string>
+    <string name="notification_ticker_set_backup_account">Патрабуецца рэзервовы ўліковы запіс</string>
+    <string name="open_in_web_button">Адкрыць у інтэрнэце</string>
+    <string name="open_source_activity_prompt_heading">Адкрыць праграму</string>
+    <string name="open_source_activity_prompt_text">"Адкрыйце SourceResponseActivity на тэлефоне, каб завяршыць працэс праверкі сапраўднасці. "</string>
+    <string name="opt_in_account_content_description">Выберыце ўліковы запіс. Зараз выбраны: %1$s</string>
+    <string name="opt_in_account_null_state">Стварыць уліковы запіс</string>
+    <string name="opt_in_agreement">Працягваючы, вы прымаеце <a href="https://play.google.com/about/play-terms.html">Ўмовы абслугоўвання Play</a>. <a href="https://support.google.com/googleplay/?p=instant_apps">Даведацца больш</a></string>
+    <string name="opt_in_confirm">Так, я згаджаюся</string>
+    <string name="opt_in_description">"Калі вы дакранаецеся да спасылкі, Google Play правярае, ці існуе імгненная праграма, і запускае яе без усталёўкі. Імгненныя праграмы захоўваюцца на вашай прыладзе часова.
+
+Па меры выкарыстання імгненныя праграмы запытваюць дазволы. Падрабязную інфармацыю пра праграму, у тым ліку пра куплі з праграмы, можна знайсці ў краме Google Play. Даныя і налады праграмы сінхранізуюцца з прыладамі, на якіх быў выкананы ўваход у наступны ўліковы запіс:"</string>
+    <string name="opt_in_description_m_plus">"Калі вы дакранаецеся да спасылкі, Google Play правярае, ці існуе імгненная праграма, і запускае яе без усталёўкі. Імгненныя праграмы захоўваюцца на вашай прыладзе часова.
+
+Падрабязную інфармацыю пра праграму, у тым ліку пра куплі з праграмы, можна знайсці ў краме Google Play. Даныя і налады праграмы сінхранізуюцца з прыладамі, на якіх быў выкананы ўваход у наступны ўліковы запіс:"</string>
+    <string name="opt_in_subtitle">Выкарыстоўвайце праграмы без усталёўкі</string>
+    <string name="opt_in_title">Імгненныя праграмы</string>
+    <string name="permgrouplab_calendar">Каляндар</string>
+    <string name="permgrouplab_camera">Камера</string>
+    <string name="permgrouplab_contacts">Кантакты</string>
+    <string name="permgrouplab_location">Месцазнаходжанне</string>
+    <string name="permgrouplab_microphone">Мікрафон</string>
+    <string name="permgrouplab_phone">Тэлефон</string>
+    <string name="permgrouplab_sensors">Датчыкі цела</string>
+    <string name="permgrouplab_sms">SMS</string>
+    <string name="permgrouplab_storage">Памяць</string>
+    <string name="permissions_not_granted_text">Каб даць дазволы, увайдзіце ў сістэму паўторна.</string>
+    <string name="permissions_not_granted_title">Дазволаў не атрымана.</string>
+    <string name="petabyteShort">ПБ</string>
+    <string name="photo_backup_configure_account_default_summary">Зараз рэзервовыя копіі фота не захоўваюцца ні ў адным уліковым запісе</string>
+    <string name="photos_backup_title">Рэзервовае капіраванне фота</string>
+    <string name="photos_filtering_option_all">Усе</string>
+    <string name="photos_filtering_option_none">Ніякія</string>
+    <string name="plus_manage_app_only_you_label">Толькі вы</string>
+    <string name="plus_network_unreliable">Немагчыма ўсталяваць надзейнае падключэнне да сервера.</string>
+    <string name="plus_oob_interstitial_loading_text">Гэта можа заняць некалькі хвілін.</string>
+    <string name="restore_choice_data_disclaimer_bottom_android">Скапіраваныя кантакты будуць захаваны ў вашым уліковым запісе Google.</string>
+    <string name="restore_choice_data_disclaimer_bottom_ios">Скапіраваныя кантакты і календары будуць захаваны ў вашым уліковым запісе Google.</string>
+    <string name="restore_choice_data_disclaimer_v2">Некаторыя з вашых даных нельга скапіраваць на вашу прыладу ^1. <annotation id="restore_choice_data_disclaimer_learn_more">Даведацца больш</annotation></string>
+    <string name="restore_choice_deselect_some_content">Для працягу скасуйце выбар некаторага змесціва</string>
+    <string name="restore_choice_learn_more_android">"Некаторыя даныя з вашага старога тэлефона нельга скапіраваць аўтаматычна:
+
+ ● Спампоўкі (напрыклад, PDF-файлы)
+
+ ● Фота, відэа і музыка, якія захоўваюцца ў схаваных папках
+
+ ● Фота, відэа і музыка, атрыманыя з дапамогай тэкставых паведамленняў
+
+ ● Праграмы не з Крамы Google Play
+
+ ● Даныя праграм (калі праграма не выкарыстоўвае рэзервовае капіраванне для Android)
+
+ ● Некаторыя налады прылады
+
+ ● Уліковыя запісы, акрамя ўліковых запісаў Google (і любыя звязаныя з імі даныя)
+
+ ● Кантакты і календары, сінхранізаваныя з сэрвісамі не ад Google
+
+ ● Рынгтоны
+
+ Для атрымання больш падрабязнай інфармацыі і дапамогі па капіраванні некаторых з гэтых даных, наведайце g.co/datatransferhelp."</string>
+    <string name="restore_choice_learn_more_ios">"Некаторыя даныя з вашага старога тэлефона нельга скапіраваць аўтаматычна:
+
+ ● Праграмы і даныя праграм
+
+ ● Фота, арыгіналы якіх не захоўваюцца на вашым тэлефоне (напрыклад, калі ўключаны параметр \"Аптымізацыя сховішча\", арыгіналы фатаграфій захоўваюцца ў iCloud®)
+
+ ● Файлы і дакументы, якія захоўваюцца ў iCloud®
+
+ ● Налады прылады (такія як паролі Wi-Fi і шпалеры)
+
+ ● Музыка, абароненая тэхналогіяй Digital Rights Management (DRM) (напрыклад, музыка iTunes®, купленая да красавіка 2009 года, або музыка, спампаваная для пазасеткавага праслухоўвання ў праграме прайгравання музыкі плынню)
+
+ ● Уліковыя запісы, акрамя ўліковых запісаў Google (і любыя звязаныя з імі даныя)
+
+ ● Кантакты і календары, сінхранізаваныя з сэрвісамі не ад Google або iCloud®
+
+ ● Закладкі з Safari®
+
+ Далучэнні iMessage® будуць даступныя ў \"Google Фота > Папкі прылад > Далучэнні да паведамленняў\".
+
+ Для атрымання больш падрабязнай інфармацыі і дапамогі па капіраванні некаторых з гэтых даных, наведайце g.co/datatransferhelp."</string>
+    <string name="restore_choice_not_enough_space">Не хапае месца</string>
+    <string name="restore_choice_total_text">усяго даступна: %1$s / перадача зойме %2$s</string>
+    <string name="restore_error_message">З аднаўленнем нешта пайшло не так. Прабачце.</string>
+    <string name="restore_instant_apps_notif_text">Патрабаваны %1$s быў выдалены з гэтай прылады</string>
+    <string name="restore_instant_apps_notif_title">Аднавіць Імгненныя праграмы</string>
+    <string name="restore_item_appdata">Даныя праграм</string>
+    <string name="restore_item_calendar">Каляндар</string>
+    <string name="restore_item_calendar_ical_description">Каляндар iOS®, Каляндар Google</string>
+    <string name="restore_item_calendar_ical_off_description">Каляндар Google усё роўна будзе сінхранізаваны</string>
+    <string name="restore_item_calendar_sync_description">Каляндар Google будзе сінхранізаваны</string>
+    <string name="restore_item_call_logs">Гісторыя выклікаў</string>
+    <string name="restore_item_contacts">Кантакты</string>
+    <string name="restore_item_device_settings_description">Паролі Wi-Fi і іншае</string>
+    <string name="restore_item_downloads">Спампоўкі</string>
+    <string name="restore_item_email">Электронная пошта</string>
+    <string name="restore_item_email_description">Gmail будзе сінхранізаваны</string>
+    <string name="restore_item_message_attachments">Далучэнні да паведамленняў</string>
+    <string name="restore_item_messages">Паведамленні</string>
+    <string name="restore_item_music">Музыка</string>
+    <string name="restore_item_photos">Фота і відэа</string>
+    <string name="restore_item_settings">Налады прылады</string>
+    <string name="restore_item_sms">SMS-паведамленні</string>
+    <string name="restore_item_will_be_synced_text">Гэта будзе сінхранізавана з вашым тэлефонам</string>
+    <string name="restore_progress_title">Ідзе аднаўленне…</string>
+    <string name="restore_supervisor_description">Каб адкрываць спасылкі ў імгненных праграмах, аднавіце %1$s</string>
+    <string name="restore_supervisor_success">Імгненныя праграмы паспяхова адноўлены</string>
+    <string name="restore_supervisor_title">Аднавіць Імгненныя праграмы?</string>
+    <string name="setup_failure_description">Немагчыма наладзіць Імгненныя праграмы. <a href="https://support.google.com/googleplay/?p=instant_apps">Даведацца больш</a></string>
+    <string name="setup_failure_title">Не ўдаецца наладзіць</string>
+    <string name="sharedUserLabel">Сэрвісы Google</string>
+    <string name="sid_lsid_grant_detail">"Падобна на пароль, файлы cookie, якія з'яўляюцца ідэнтыфікатарамі сесіі (SID) і лакальнымі ідэнтыфікатарамі сесіі (LSID), звязваюць ваш ідэнтыфікатар з серыяй запытаў ад браўзера. Яны забяспечваюць поўны доступ да ўсіх даных вашага ўліковага запісу. Толькі браўзеры маюць законнае права на выкарыстанне гэтых файлаў cookie."</string>
+    <string name="sid_lsid_grant_label">Выкарыстоўвайце файлы cookie SID і LSID, каб атрымаць доступ да ўсіх даных вашага ўліковага запісу Google.</string>
+    <string name="small_time_duration">Менш за 1 хвіліну</string>
+    <string name="smartdevice_action_copy">Капіраваць</string>
+    <string name="smartdevice_action_next">Далей</string>
+    <string name="smartdevice_action_open_app">Адкрыць праграму</string>
+    <string name="smartdevice_action_skip">Прапусціць</string>
+    <string name="smartdevice_action_try_another_way">Паспрабуйце іншы спосаб</string>
+    <string name="smartdevice_action_turn_on_location">Уключыць Вызначэнне месцазнаходжання</string>
+    <string name="smartdevice_alert_disconnected_message">"Ваша прылада была адключана.
+Каб працягнуць наладжванне, падключыце яе і пачніце ўсё нанава."</string>
+    <string name="smartdevice_alert_disconnected_title">Прылада адключана</string>
+    <string name="smartdevice_alert_dm_backup_account_message">На жаль, вы не можаце выкарыстоўваць гэту функцыю, бо ваш рэзервовы ўліковы запіс знаходзіцца пад кіраваннем адміністратара прылады.</string>
+    <string name="smartdevice_alert_dm_backup_account_title">Функцыя недаступная</string>
+    <string name="smartdevice_alert_exit_setup_message">Вы ўпэўненыя, што хочаце спыніць наладжванне сваёй іншай прылады?</string>
+    <string name="smartdevice_alert_exit_setup_title">Спыніць наладжванне прылады?</string>
+    <string name="smartdevice_alert_generic_error_title">На жаль, нешта пайшло не так</string>
+    <string name="smartdevice_alert_generic_error_toast_text">На жаль, нешта пайшло не так</string>
+    <string name="smartdevice_alert_no_accounts_generic_text">Каб наладзіць вашу прыладу, вам спатрэбіцца хаця б адзін уліковы запіс Google.</string>
+    <string name="smartdevice_alert_no_accounts_text">Каб наладзіць вашу прыладу %s, вам спатрэбіцца хаця б адзін уліковы запіс Google.</string>
+    <string name="smartdevice_alert_no_accounts_title">Няма ўліковых запісаў для капіравання</string>
+    <string name="smartdevice_alert_quit_button">Выйсці</string>
+    <string name="smartdevice_alert_restart_setup_button">Пачаць наладжванне нанава</string>
+    <string name="smartdevice_alert_setup_incomplete">Наладжванне не было завершана</string>
+    <string name="smartdevice_alert_skip_button">Прапусціць</string>
+    <string name="smartdevice_alert_start_over_button">Пачаць нанава</string>
+    <string name="smartdevice_alert_work_profile_message">Працоўныя ўліковыя запісы пакуль нельга скапіраваць. Пасля капіравання вашых іншых уліковых запісаў і даных Google перайдзіце ў раздзел \"Налады\" на сваёй новай прыладзе, каб дадаць свой працоўны ўліковы запіс.</string>
+    <string name="smartdevice_alert_work_profile_title">Немагчыма скапіраваць працоўны ўліковы запіс</string>
+    <string name="smartdevice_application_label">Наладжванне прылады</string>
+    <string name="smartdevice_choose_device">Выберыце сваю прыладу</string>
+    <string name="smartdevice_companion_app_ready">Праграма %s ужо ўсталявана на гэтай прыладзе.</string>
+    <string name="smartdevice_connect_to_wifi">Падключыце сваю прыладу</string>
+    <string name="smartdevice_d2d_connecting_to_device_text">Падключэнне да вашай прылады…</string>
+    <string name="smartdevice_d2d_copy_3p_account_text">Вашы ўліковыя запісы Google, іншыя ўліковыя запісы, праграмы і даныя будуць скапіраваны</string>
+    <string name="smartdevice_d2d_copy_account_text">Скапіраваць вашыя ўліковыя запісы, праграмы і даныя Google на іншую прыладу?</string>
+    <string name="smartdevice_d2d_copy_account_title">Скапір. на іншую прыладу?</string>
+    <string name="smartdevice_d2d_fingerprint_not_recognized_text">Не распазнаны</string>
+    <string name="smartdevice_d2d_fingerprint_skip_text">Паспрабуйце сродак разблакіроўкі экрана замест гэтага</string>
+    <string name="smartdevice_d2d_fingerprint_verification_text">У мэтах бяспекі адсканіруйце свой адбітак пальца. Вашы ўліковыя запісы, праграмы і даныя Google будуць скапіраваны на %s.</string>
+    <string name="smartdevice_d2d_lockscreen_description">Разблакіруйце, каб працягнуць наладжванне сваёй прылады</string>
+    <string name="smartdevice_d2d_lockscreen_verification_text">У мэтах бяспекі выкарыстайце свой сродак разблакіроўкі экрана, каб працягнуць наладжванне.</string>
+    <string name="smartdevice_d2d_lockscreen_verification_title">Увядзіце, каб працягнуць</string>
+    <string name="smartdevice_d2d_source_bluetooth_unavailable_text">Немагчыма наладзіць іншую прыладу, бо на вашай прыладзе недаступны Bluetooth.</string>
+    <string name="smartdevice_d2d_source_disabled_text">У мэтах бяспекі гэта функцыя была адключана. Краніце Прапусціць на сваёй іншай прыладзе і працягніце ўсталёўку.</string>
+    <string name="smartdevice_d2d_source_nfc_handler_title">Наладжванне новай прылады</string>
+    <string name="smartdevice_d2d_source_notification_generic_title">Наладжванне прылады</string>
+    <string name="smartdevice_d2d_source_notification_title">Наладжванне прылады ^1</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_message">Пачніце наладжванне нанава і выберыце сваю прыладу ^1, каб пераканацца, што вы скапіравалі свае ўліковыя запісы, праграмы і даныя Google на правільную прыладу.</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_dialog_title">Не бачыце код?</string>
+    <string name="smartdevice_d2d_source_pin_verification_different_code_link">Не бачыце код?</string>
+    <string name="smartdevice_d2d_source_pin_verification_text">Знайдзіце гэты код на сваёй іншай прыладзе, каб пацвердзіць, што вы зрабілі правільны выбар</string>
+    <string name="smartdevice_d2d_source_pin_verification_title">Праверка кода</string>
+    <string name="smartdevice_d2d_source_restricted_user_text">Немагчыма наладзіць новую прыладу з профілю карыстальніка з абмежаваннямі.</string>
+    <string name="smartdevice_d2d_source_setup_continue_on_target">Завяршыце наладжванне на вашай прыладзе %s</string>
+    <string name="smartdevice_d2d_source_setup_success">Амаль гатова!</string>
+    <string name="smartdevice_d2d_target_choice_description">Калі вы выкарыстоўваеце іншую прыладу Android, вы можаце хутка скапіраваць бягучыя налады на гэту прыладу %s.</string>
+    <string name="smartdevice_d2d_target_choice_glif_description">Атрымайце максімум ад сваёй папярэдняй прылады, калі гэта Android</string>
+    <string name="smartdevice_d2d_target_choice_glif_skip">Наладзіць нанава</string>
+    <string name="smartdevice_d2d_target_choice_glif_title">Капіраванне з іншай прылады Android</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh">Не, дзякуй</string>
+    <string name="smartdevice_d2d_target_choice_setup_fresh_detail">OK, выканайце наступныя дзеянні, каб наладзіць гэту прыладу</string>
+    <string name="smartdevice_d2d_target_choice_title">У вас ёсць іншая прылада?</string>
+    <string name="smartdevice_d2d_target_choice_use_old_device">Скапіруйце свае ўліковыя запісы, праграмы і даныя Google з вашай іншай прылады</string>
+    <string name="smartdevice_d2d_target_continue_description">Працягвайце наладжванне на вашай іншай прыладзе.</string>
+    <string name="smartdevice_d2d_target_copying_accounts">Капіраванне ўліковых запісаў…</string>
+    <string name="smartdevice_d2d_target_description">Вярніцеся да сваёй іншай прылады:&lt;br/>&lt;br/> 1. Скажыце &lt;b>\"&lt;xliff:g id=ok_google>^1&lt;/xliff:g>, &lt;xliff:g id=set_up_my_device1>^2&lt;/xliff:g>\"&lt;/b> або ўвядзіце \"&lt;xliff:g id=set_up_my_device2>^2&lt;/xliff:g>\" і краніце, каб пацвердзіць&lt;br/>&lt;br/> 2. Краніце &lt;b>&lt;xliff:g id=device_name>^3&lt;/xliff:g>&lt;/b> у спісы і выканайце інструкцыі, паказаныя на экране</string>
+    <string name="smartdevice_d2d_target_google_settings_backup">Паспрабуйце гэта</string>
+    <string name="smartdevice_d2d_target_google_settings_description">На вашай іншай прыладзе:&lt;br/>&lt;br/> 1. Адкрыйце праграму &lt;b>Налады Google&lt;/b> &lt;br/>&lt;br/> 2. Выберыце &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 3. Дакраніцеся да &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> у спісе і выконвайце інструкцыі на экране</string>
+    <string name="smartdevice_d2d_target_google_settings_link">Немагчыма выканаць гэтыя дзеянні</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc">Выкарыстайце \"Налады\"</string>
+    <string name="smartdevice_d2d_target_google_settings_mnc_description">На вашай іншай прыладзе:&lt;br/>&lt;br/> 1. Дакраніцеся да значка \"Усе праграмы\", затым адкрыйце праграму &lt;b>Налады&lt;/b> &lt;br/>&lt;br/> 2. Дакраніцеся да &lt;b>Google&lt;/b> &lt;br/>&lt;br/> 3. Выберыце &lt;b>&lt;xliff:g id=set_up_nearby_device_setting_title example=Set up nearby device>%1$s&lt;/xliff:g>&lt;/b> &lt;br/>&lt;br/> 4. Дакраніцеся да &lt;b>&lt;xliff:g id=device_name>%2$s&lt;/xliff:g>&lt;/b> у спісе і выконвайце інструкцыі на экране</string>
+    <string name="smartdevice_d2d_target_google_settings_primary">Капіраванне з іншай прылады Android</string>
+    <string name="smartdevice_d2d_target_help_needed_link">Узнікла праблема?</string>
+    <string name="smartdevice_d2d_target_instruction_cant_find_it">Не можаце знайсці яе?</string>
+    <string name="smartdevice_d2d_target_instruction_combined_title">Адкрыйце праграму Google на сваёй іншай прыладзе</string>
+    <string name="smartdevice_d2d_target_instruction_description">Адкрыйце праграму Google</string>
+    <string name="smartdevice_d2d_target_instruction_title">На вашай іншай прыладзе</string>
+    <string name="smartdevice_d2d_target_nfc_description">"Каб скапіраваць: 
+
+1. Пераканайцеся, што ваша іншая прылада ўключана і разблакіравана 
+
+2. Размясціце дзве прылады заднімі часткамі адна да адной і трымайце, пакуль не пачуеце гукавы сігнал, затым раз'яднайце іх"</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_description">Функцыя \"Дакраніся і дзейнічай\" выкарыстоўвае NFC для капіравання вашых Уліковых запісаў Google, праграм і даных з вашай іншай прылады. Перайдзіце ў Налады і пераканайцеся, што функцыя NFC прылады ўключана.</string>
+    <string name="smartdevice_d2d_target_nfc_having_trouble_title">Узнікла праблема?</string>
+    <string name="smartdevice_d2d_target_nfc_title">Дакраніся і дзейнічай</string>
+    <string name="smartdevice_d2d_target_other_device_description">Праграма Google папярэдне ўсталявана на ўсіх прыладах Android. Дакраніцеся да кнопкі \"Усе праграмы\" на галоўным экране і знайдзіце значок, паказаны вышэй.</string>
+    <string name="smartdevice_d2d_target_pin_code_description">Гэты код павінен супадаць з кодам на вашай іншай прыладзе:</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_cancel_button">Не прапускаць</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_message">Падчас наладжвання на гэту прыладу не будуць скапіраваны гэты ўліковы запіс або праграмы і даныя, у якіх ёсць рэзервовыя копіі.</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_skip_button">Усё роўна прапусціць</string>
+    <string name="smartdevice_d2d_target_skip_primary_account_alert_title">Прапусціць гэты ўліковы запіс?</string>
+    <string name="smartdevice_d2d_target_title">У праграме Google</string>
+    <string name="smartdevice_default_device_name">прылада</string>
+    <string name="smartdevice_install_app">Усталяваць праграму</string>
+    <string name="smartdevice_install_app_reason" formatted="false">Няхай праграма %s кантралюе вашу новую прыладу %s і кіруе ёй з гэтай прылады</string>
+    <string name="smartdevice_install_on_this_device">Усталяваць</string>
+    <string name="smartdevice_search_again">Шукаць зноў</string>
+    <string name="smartdevice_searching_for_devices">Пошук прылад</string>
+    <string name="smartdevice_setup_enter_code">Увядзіце код на сваёй прыладзе. Ён павінен знаходзіцца на наклейцы.</string>
+    <string name="smartdevice_setup_enter_code_hint">Увядзіце свой код</string>
+    <string name="smartdevice_setup_enter_pin_4">Увядзіце 4-значны код, які зараз паказваецца на вашай іншай прыладзе.</string>
+    <string name="smartdevice_setup_info_installing_app">Усталёўка праграмы…</string>
+    <string name="smartdevice_setup_intro_text">Для наладжвання вашай іншай прылады будуць выкарыстаны Bluetooth вашага тэлефона і вашыя даныя Wi-Fi.</string>
+    <string name="smartdevice_setup_intro_text_nfc">Для наладжвання вашай іншай прылады будзе выкарыстаны Bluetooth вашага тэлефона.</string>
+    <string name="smartdevice_setup_intro_title">Прыступаючы да працы</string>
+    <string name="smartdevice_setup_password_hint">Увядзіце пароль Wi-Fi</string>
+    <string name="smartdevice_setup_show_password">Паказваць пароль</string>
+    <string name="smartdevice_setup_title_verify_code">Праверка кода</string>
+    <string name="smartdevice_wifi_cannot_connect_description">Для наладжвання гэтай прылады могуць быць выкарыстаны толькі адкрытыя сеткі і сеткі WPA/WPA2</string>
+    <string name="smartdevice_wifi_cannot_connect_title">Немагчыма выкарыстоўваць сетку Wi-Fi</string>
+    <string name="smartdevice_wifi_skip_dialog_text">Без Wi-Fi ваша прылада можа не працаваць належным чынам. Падключыце яе да сеткі Wi-Fi, каб працягнуць наладжванне.</string>
+    <string name="smartdevice_wifi_skip_dialog_title">Выберыце сетку Wi-Fi</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_text">"Для пошуку сетак Wi-Fi уключыце вызначэнне месцазнаходжання.
+
+Вы заўсёды можаце змяніць гэта пазней у Наладах."</string>
+    <string name="smartdevice_wifi_unavailable_due_to_location_title">Немагчыма выканаць пошук сетак Wi-Fi</string>
+    <string name="source_connected_description">Ідзе падрыхтоўка…</string>
+    <string name="source_connected_title">Падключана да вашай прылады %1$s</string>
+    <string name="source_copying_description">Даныя, якія вы выбралі, капіруюцца на ваш новы тэлефон</string>
+    <string name="source_copying_title">Ідзе капіраванне…</string>
+    <string name="source_default_target_device_name">новая прылада</string>
+    <string name="source_notification_device_disconnected">Падключыце кабель паўторна</string>
+    <string name="source_notification_text">Ідзе перадача з тэлефона на тэлефон</string>
+    <string name="source_notification_title">Перадача даных</string>
+    <string name="source_success_description">Завяршыце наладжванне на сваёй прыладзе %1$s.</string>
+    <string name="source_success_screen_title">Усё гатова!</string>
+    <string name="source_unplugged_description">Падключыцеся да вашай прылады %1$s паўторна</string>
+    <string name="source_unplugged_title">Кабель адключаны</string>
+    <string name="source_waiting_title">Працягвайце наладжванне на сваёй прыладзе %1$s</string>
+    <string name="stop_copying_dialog_continue_button">Адхіліць</string>
+    <string name="stop_copying_dialog_message_before_transfer">Вашы даныя не былі скапіраваны на ваш новы тэлефон</string>
+    <string name="stop_copying_dialog_message_during_transfer">Некаторыя вашы даныя не былі скапіраваны на ваш новы тэлефон</string>
+    <string name="stop_copying_dialog_stop_button_before_transfer">Не капіраваць</string>
+    <string name="stop_copying_dialog_stop_button_during_transfer">Спыніць</string>
+    <string name="stop_copying_dialog_title_before_transfer">Не капіраваць?</string>
+    <string name="stop_copying_dialog_title_during_transfer">Спыніць капіраванне?</string>
+    <string name="storage_management_wear_descriptive_text">Праграмы выкарыстоўваюць сховішча вашай прылады для рэплікацыі даных на нацельныя прылады.</string>
+    <string name="storage_management_wear_manage_size_label">Кіраванне памяццю нацельных прылад</string>
+    <string name="storage_management_wear_size_label">Памяць нацельнай прылады</string>
+    <string name="storage_managment_all_storage_descriptive_text">"Агульны аб'ём даных, якія выкарыстоўваюцца службамі Google Play, у тым ліку даныя пошукавай сістэмы і іншыя даныя."</string>
+    <string name="storage_managment_clear_all_data">Выдаліць усе даныя</string>
+    <string name="storage_managment_computing_size">Вылічэнне…</string>
+    <string name="storage_managment_icing_size_label">Даныя пошуку</string>
+    <string name="storage_managment_manage_icing_button">Кіраванне данымі пошуку</string>
+    <string name="storage_managment_search_index_descriptive_text">Мы паскараем пошук на вашай прыладзе, забяспечваючы для вашых праграм пошукавую сістэму.</string>
+    <string name="storage_managment_title">Памяць для служб Google Plaу</string>
+    <string name="storage_managment_total_size_label">"Агульны аб'ём памяці"</string>
+    <string name="supervisor_downloading_description">Ідзе спампоўка %1$s</string>
+    <string name="supervisor_downloading_title">Пачакайце хвілінку, пакуль мы наладзім прыладу</string>
+    <string name="supervisor_installing_description">Ідзе ўсталёўка %1$s</string>
+    <string name="supervisor_title">Сэрвісы Google Play для Імгненных прагр.</string>
+    <string name="suw_back_button_label">Назад</string>
+    <string name="suw_more_button_label">Яшчэ</string>
+    <string name="suw_next_button_label">Далей</string>
+    <string name="system_update_ab_update_downloaded_notification_message">Дакраніцеся, каб даведацца больш</string>
+    <string name="system_update_activity_battery_low_text">Зарад акумулятара занадта нізкі, каб усталёўваць абнаўленне</string>
+    <string name="system_update_activity_name">Абнаўленні сiстэмы</string>
+    <string name="system_update_activity_roaming_text">Абнаўленні сістэмы не могуць быць спампаваныя ў роўмінгу.</string>
+    <string name="system_update_activity_roaming_text_glif">Не ўдаецца спампаваць у роўмінгу</string>
+    <string name="system_update_android_version_text">Версія Android: ^1</string>
+    <string name="system_update_check_now_button_text">Праверыць на наяўнасць абнаўленняў</string>
+    <string name="system_update_checking_status_text">Праверка</string>
+    <string name="system_update_complete_label">Абнаўленні сістэмы</string>
+    <string name="system_update_countdown_cancel_button">Скасаваць усталёўку</string>
+    <string name="system_update_countdown_complete">Перазагрузка…</string>
+    <string name="system_update_download_and_install_button_text">Спампаваць і ўсталяваць</string>
+    <string name="system_update_download_button_text">Спампаваць</string>
+    <string name="system_update_download_failed_no_space_button_qualifier_text">Не хапае месца для спампоўкі</string>
+    <string name="system_update_download_failed_no_space_status_text">Недастаткова месца даступна для спампоўкі</string>
+    <string name="system_update_download_failed_status_text">Не атрымалася спампаваць</string>
+    <string name="system_update_download_manage_storage_button_text">Кіраванне памяццю</string>
+    <string name="system_update_download_paused_no_wifi_status_text">Чаканне сеткі Wi-Fi</string>
+    <string name="system_update_download_paused_title_text">Спампоўка прыпынена</string>
+    <string name="system_update_download_retry_button_text">Паўтарыць спампаванне</string>
+    <string name="system_update_download_waiting_full_off_peak_status_text">Спампоўка абнаўлення пачнецца аўтаматычна паміж ^1 і ^2.</string>
+    <string name="system_update_download_waiting_off_peak_status_text">Вы можаце спампаваць гэта абнаўленне праз Wi-Fi у любы час. У адваротным выпадку спампоўка пачнецца аўтаматычна паміж ^1 і ^2.</string>
+    <string name="system_update_download_waiting_operator_mismatch_text">Каб спампаваць гэта абнаўленне, спачатку пераключыцеся на сваю іншую SIM-карту.</string>
+    <string name="system_update_download_waiting_status_text">Чакаецца спампоўка</string>
+    <string name="system_update_downloading_status_text">Спампоўка</string>
+    <string name="system_update_downloading_title_text">Ідзе спампоўка абнаўлення сістэмы…</string>
+    <string name="system_update_downloading_wifi_status2_text">Праз ^1 толькі да ^2</string>
+    <string name="system_update_file_browser_ok_button">Выбраць</string>
+    <string name="system_update_file_browser_title">Выберыце файл абнаўлення</string>
+    <string name="system_update_free_up_space_button_text">Вызваліць месца</string>
+    <string name="system_update_from_sd_card_button_and_title">Абнаўленне з SD-карты</string>
+    <string name="system_update_from_sd_card_unknown_status">Праверка…</string>
+    <string name="system_update_from_sd_card_verification_failure_status">Не атрымалася праверыць</string>
+    <string name="system_update_from_sd_card_verified_description">Абнаўленне праверана і гатова да ўсталёўкі.</string>
+    <string name="system_update_from_sd_card_verifying_status">Праверка…</string>
+    <string name="system_update_glif_unmetered_wifi_needed_title">Патрабуецца безлімітная сетка WiFi</string>
+    <string name="system_update_glif_unmetered_wifi_recommended_title">Рэкамендуецца Wi-Fi</string>
+    <string name="system_update_glif_wifi_needed_dialog_message">"Гэта абнаўленне можна спампаваць праз ^1 толькі да ^2.
+
+Каб працягнуць спампоўку, падключыцеся да ^3."</string>
+    <string name="system_update_glif_wifi_needed_title">Патрабуецца сетка WiFi</string>
+    <string name="system_update_glif_wifi_recommended_dialog_message">Каб пазбегнуць спагнання платы за трафік, падключыцеся да безлімітнай сеткі Wi-Fi.</string>
+    <string name="system_update_install_button_text">Паразагрузіць і ўсталяваць</string>
+    <string name="system_update_install_failed_button_qualifier_text">Праблема ўсталёўкі</string>
+    <string name="system_update_install_failed_title_text">Не атрымалася абнавіць</string>
+    <string name="system_update_install_steps_text">Крок ^1 з 2</string>
+    <string name="system_update_installing_title_text">Ідзе ўсталёўка абнаўлення сістэмы…</string>
+    <string name="system_update_last_checkin">Апошняя праверка абнаўленняў ^1.</string>
+    <string name="system_update_last_checkin_glif">Апошняя праверка абнаўленняў ^1</string>
+    <string name="system_update_managed_by_policy">Абнаўленне праграмнага забеспячэння сістэмы гэтай прылады знаходзіцца пад кантролем вашай арганізацыі.</string>
+    <string name="system_update_no_update_content_text">Ваша сістэма абноўленая.</string>
+    <string name="system_update_no_update_content_text_glif">Ваша сістэма абноўленая.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Не атрымалася спампаваць абнаўленні сістэмы</string>
+    <string name="system_update_not_owner_text">Даступна абнаўленне праграмнага забеспячэння сістэмы, але толькі ўладальнік можа ўсталяваць яго.</string>
+    <string name="system_update_notification_header_name">Абнаўленне сістэмы Android</string>
+    <string name="system_update_pause_button_text">Прыпыніць спампоўку</string>
+    <string name="system_update_processing_status_text">Апрацоўка</string>
+    <string name="system_update_requires_restart_status_text">Патрабуецца перазагрузка</string>
+    <string name="system_update_restart_to_install_button_text">Каб усталяваць, выканайце перазапуск</string>
+    <string name="system_update_restart_to_update_button_text">Каб абнавіць, выканайце перазапуск</string>
+    <string name="system_update_resume_button_text">Узнавіць</string>
+    <string name="system_update_scheduled_status_text">Запланавана</string>
+    <string name="system_update_security_patch_level_text">Абнаўленне сістэмы бяспекі: ^1</string>
+    <string name="system_update_security_update_available_title_text">Даступнае абнаўленне сістэмы бяспекі</string>
+    <string name="system_update_security_update_downloading_title_text">Ідзе спампоўка абнаўлення сістэмы бяспекі…</string>
+    <string name="system_update_security_update_installing_title_text">Ідзе ўсталёўка абнаўлення сістэмы бяспекі…</string>
+    <string name="system_update_size_label">Памер абнаўлення:</string>
+    <string name="system_update_suw_download_and_install_text">"Спампоўка і ўсталёўка гэтага абнаўлення можа заняць некалькі хвілін.
+
+Пасля гэтага прылада аўтаматычна перазапусціцца."</string>
+    <string name="system_update_suw_download_text">"Спампоўка гэтага абнаўлення можа заняць некалькі хвілін.
+
+Пасля гэтага прылада аўтаматычна перазапусціцца."</string>
+    <string name="system_update_suw_download_title">Ідзе спампоўка абнаўлення…</string>
+    <string name="system_update_suw_restart_text">Прылада перазапусціцца, каб можна было ўсталяваць абнаўленне сістэмы.</string>
+    <string name="system_update_suw_restart_title">Гатова да перазапуску</string>
+    <string name="system_update_suw_wifi_needed">Каб працягнуць спампоўку, выберыце ^1.</string>
+    <string name="system_update_update_available_download_message_wearable">Правядзіце пальцам улева, каб спампаваць.</string>
+    <string name="system_update_update_available_notification_message">Дакраніцеся, каб даведацца больш і спампаваць</string>
+    <string name="system_update_update_available_notification_title">Даступна сістэмнае абнаўленне</string>
+    <string name="system_update_update_available_tap_to_download">Дакранiцеся, каб спампаваць</string>
+    <string name="system_update_update_available_title_text">Даступнае абнаўленне сістэмы</string>
+    <string name="system_update_update_download_auto_paused_notification_title">Спампоўка прыпынена</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Не хапае месца</string>
+    <string name="system_update_update_downloaded_install_message_wearable">Правядзіце пальцам улева, каб усталяваць.</string>
+    <string name="system_update_update_downloaded_notification_message">Дакраніцеся, каб даведацца больш і ўсталяваць</string>
+    <string name="system_update_update_downloaded_notification_title">Сістэмнае абнаўленне спампавана</string>
+    <string name="system_update_update_downloaded_tap_to_install">Дакраніцеся, каб усталяваць</string>
+    <string name="system_update_verification_failed_text">Памылка пацвярджэння</string>
+    <string name="system_update_verified_status_text">Спампавана і праверана</string>
+    <string name="system_update_verify_failed_button_qualifier_text">Праблема спраўджання</string>
+    <string name="system_update_verifying_status_text">Праверка</string>
+    <string name="system_update_wearable_countdown_message">Перазапуск праз %d...</string>
+    <string name="target_default_source_device_model">старая прылада</string>
+    <string name="target_device_not_supported_cant_continue_description">Вам неабходна выбраць іншы спосаб капіравання даных</string>
+    <string name="target_device_not_supported_cant_continue_title">Іншы тэлефон не падтрымліваецца</string>
+    <string name="target_device_not_supported_try_restarting_description">"Адключыце кабель і перазагрузіце ваш стары тэлефон, а затым зноў падключыце кабель і выконвайце інструкцыі на вашым Pixel.
+
+Калі вы будзеце працягваць бачыць гэту памылку, вам, магчыма, трэба будзе паспрабаваць скапіраваць даныя іншым шляхам."</string>
+    <string name="target_device_not_supported_try_restarting_title">Тэлефон можа не падтрымлівацца</string>
+    <string name="target_smart_device_timeout_add_account">ДАДАЦЬ УЛІКОВЫ ЗАПІС</string>
+    <string name="target_smart_device_timeout_description">Калі хочаце, вы можаце паспрабаваць дадаць свой уліковы запіс уручную</string>
+    <string name="target_smart_device_timeout_dismiss">АДХІЛІЦЬ</string>
+    <string name="target_smart_device_timeout_title">Узнікла праблема?</string>
+    <string name="terabyteShort">ТБ</string>
+    <string name="toast_phones_connected">Тэлефоны падключаны</string>
+    <string name="toast_reconnect_cable">Падключыце кабель паўторна</string>
+    <string name="transfer_finished_fragment_title">Дадаюцца апошнія штрыхі...</string>
+    <string name="transfer_summary_copied">Даныя скапіраваны</string>
+    <string name="transfer_summary_fragment_description">Можна адключыць кабель.</string>
+    <string name="transfer_summary_fragment_finish">ЗАВЯРШЫЦЬ</string>
+    <string name="transfer_summary_fragment_title">Ваш тэлефон амаль гатовы</string>
+    <string name="transfer_summary_icloud_photos_warning_v2">Некаторыя з вашых фота не былі скапіраваны. <annotation id="transfer_summary_learn_more">Даведацца больш</annotation></string>
+    <string name="transfer_summary_not_copied">Даныя не скапіраваны</string>
+    <string name="transfer_summary_partial">%1$s / %2$s скапіравана</string>
+    <string name="transfer_summary_will_sync">Даныя будуць сінхранізаваны пасля ўсталёўкі</string>
+    <string name="transferring_fragment_calculating_remaining_time">Разлічваецца час, які застаўся...</string>
+    <string name="transferring_fragment_header">Ідзе капіраванне…</string>
+    <string name="transferring_fragment_remaining_time">Засталося %1$s</string>
+    <string name="trust_instructions_description">Каб працягнуць, праверце сваю прыладу iPhone® і ўхваліце падключэнне</string>
+    <string name="trust_instructions_trademark_disclaimer">"iPhone, iPad, iOS, iMessage, iCloud, Safari і iTunes з'яўляюцца гандлёвымі маркамі кампаніі Apple Inc., зарэгістраванымі ў ЗША і іншых краінах."</string>
+    <string name="unmetered_wifi_string">безлімітная сетка WiFi</string>
+    <string name="url_load_unsuccessful_message">Ваша прылада Android не падключана да службы мабільнай перадачы даных. Каб прагледзець гэту інфармацыю зараз, перайдзіце на старонку %s у вэб-браўзеры.</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Ваша прылада Android не падключана да сеткі Wi-Fi. Каб прагледзець гэту інфармацыю зараз, наведайце %s з вэб-браўзера.</string>
+    <string name="use_nearby_device_heading">Выкарыстаць прыладу паблізу?</string>
+    <string name="use_nearby_device_text">Вы хацелі б выкарыстаць прыладу паблізу, каб даць уліковыя даныя?</string>
+    <string name="waiting_for_account_info_text">Чаканне інфармацыі ўліковага запісу...</string>
+    <string name="wifi_available_action_all_networks">Усе сеткі</string>
+    <string name="wifi_available_action_connect">Падключыцца</string>
+    <string name="wifi_available_content_failed">Дакраніцеся, каб убачыць усе сеткі</string>
+    <string name="wifi_available_title">Падключыцеся да адкрытай сеткі Wi-Fi</string>
+    <string name="wifi_available_title_connected">Выканана падключэнне да адкрытай сеткі Wi‑Fi</string>
+    <string name="wifi_available_title_connecting">Ідзе падключэнне да адкрытай сеткі Wi‑Fi</string>
+    <string name="wifi_available_title_failed">Не атрымалася падключыцца да сеткі Wi-Fi</string>
+    <string name="wifi_string">сетка WiFi</string>
+    <string name="wifi_wakeup_enabled_notification_context">Вы знаходзіцеся побач з захаванай сеткай: %1$s</string>
+    <string name="wifi_wakeup_enabled_notification_title">Wi‑Fi уключыўся аўтаматычна</string>
+</resources>

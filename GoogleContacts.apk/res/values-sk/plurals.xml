@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_duplicates_body">
+        <item quantity="other">%d duplicitných kontaktov</item>
+        <item quantity="one">1 duplicitný kontakt</item>
+        <item quantity="few">%d duplicitné kontakty</item>
+        <item quantity="many">%d duplicate contacts</item>
+    </plurals>
+    <plurals name="assistant_recommendations_item_reason">
+        <item quantity="other">%1$d nedávnych hovorov • Naposledy %2$s</item>
+        <item quantity="one">%1$d nedávny hovor • Naposledy %2$s</item>
+        <item quantity="few">%1$d nedávne hovory • Naposledy %2$s</item>
+        <item quantity="many">%1$d recent calls • Last on %2$s</item>
+    </plurals>
+    <plurals name="contacts_count">
+        <item quantity="other">%d kontaktov</item>
+        <item quantity="one">%d kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d kontaktu</item>
+    </plurals>
+    <plurals name="contacts_count_with_account">
+        <item quantity="other">%1$d kontaktov · %2$s</item>
+        <item quantity="one">%1$d kontakt · %2$s</item>
+        <item quantity="few">%1$d kontakty · %2$s</item>
+        <item quantity="many">%1$d kontaktu · %2$s</item>
+    </plurals>
+    <plurals name="contacts_deleted_toast">
+        <item quantity="other">Kontakty boli odstránené</item>
+        <item quantity="one">Kontakt bol odstránený</item>
+        <item quantity="few">Kontakty boli odstránené</item>
+        <item quantity="many">Kontakty boli odstránené</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_contact_count_fmt">
+        <item quantity="other">%1$d kontaktov</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%1$d kontakty</item>
+        <item quantity="many">%1$d kontaktu</item>
+    </plurals>
+    <plurals name="import_from_sim_secondary_template">
+        <item quantity="other">^1 kontaktov • ^2</item>
+        <item quantity="one">^1 kontakt • ^2</item>
+        <item quantity="few">^1 kontakty • ^2</item>
+        <item quantity="many">^1 kontaktu • ^2</item>
+    </plurals>
+    <plurals name="sim_import_card_header">
+        <item quantity="other">Import zo SIM kariet</item>
+        <item quantity="one">Import zo SIM karty</item>
+        <item quantity="few">Import zo SIM kariet</item>
+        <item quantity="many">Import zo SIM kariet</item>
+    </plurals>
+    <plurals name="sim_import_card_message_fmt">
+        <item quantity="other">%d kontaktov</item>
+        <item quantity="one">1 kontakt</item>
+        <item quantity="few">%d kontakty</item>
+        <item quantity="many">%d contacts</item>
+    </plurals>
+    <plurals name="sim_import_success_toast_fmt">
+        <item quantity="other">Bolo importovaných %d kontaktov zo SIM karty</item>
+        <item quantity="one">Bol importovaný 1 kontakt zo SIM karty</item>
+        <item quantity="few">Boli importované %d kontakty zo SIM karty</item>
+        <item quantity="many">%d SIM contacts imported</item>
+    </plurals>
+    <plurals name="title_share_via">
+        <item quantity="other">Zdieľať kontakty pomocou</item>
+        <item quantity="one">Zdieľať kontakt pomocou</item>
+        <item quantity="few">Zdieľať kontakty pomocou</item>
+        <item quantity="many">Zdieľať kontakty pomocou</item>
+    </plurals>
+</resources>
